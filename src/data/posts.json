@@ -1,7 +1,7 @@
 [
   {
     "title": "Goodbye to Sora",
-    "summary": "525 点 | Hacker News 上有 397 条评论",
+    "summary": "529 points | 401 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
     "date": "2026-03-24",
@@ -9,13 +9,11 @@
       "HN"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "525 points | 397 comments on Hacker News",
     "id": 1
   },
   {
     "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
-    "summary": "18 分 | Hacker News 有 1 条评论",
+    "summary": "18 points | 1 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
     "date": "2026-03-25",
@@ -23,13 +21,11 @@
       "HN"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "18 points | 1 comments on Hacker News",
     "id": 2
   },
   {
     "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-    "summary": "282 点 | Hacker News 上有 49 条评论",
+    "summary": "283 points | 50 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
     "date": "2026-03-24",
@@ -37,13 +33,11 @@
       "HN"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "282 points | 49 comments on Hacker News",
     "id": 3
   },
   {
     "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-    "summary": "235 点 | Hacker News 上有 106 条评论",
+    "summary": "238 points | 107 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
     "date": "2026-03-24",
@@ -51,13 +45,11 @@
       "HN"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "235 points | 106 comments on Hacker News",
     "id": 4
   },
   {
     "title": "Apple Business",
-    "summary": "561 点 | Hacker News 上有 328 条评论",
+    "summary": "561 points | 329 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
     "date": "2026-03-24",
@@ -65,13 +57,11 @@
       "HN"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "561 points | 328 comments on Hacker News",
     "id": 5
   },
   {
     "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-    "summary": "567 点 | Hacker News 上有 395 条评论",
+    "summary": "569 points | 395 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://github.com/BerriAI/litellm/issues/24512",
     "date": "2026-03-24",
@@ -79,13 +69,11 @@
       "HN"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "567 points | 395 comments on Hacker News",
     "id": 6
   },
   {
     "title": "Arm AGI CPU",
-    "summary": "305 点 | Hacker News 上有 235 条评论",
+    "summary": "306 points | 235 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
     "date": "2026-03-24",
@@ -93,13 +81,11 @@
       "HN"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "305 points | 235 comments on Hacker News",
     "id": 7
   },
   {
     "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-    "summary": "245 点 | Hacker News 上有 57 条评论",
+    "summary": "246 points | 57 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://www.emailmd.dev/",
     "date": "2026-03-24",
@@ -107,13 +93,11 @@
       "HN"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "245 points | 57 comments on Hacker News",
     "id": 8
   },
   {
     "title": "Flux",
-    "summary": "Product Hunt新产品发布：Flux",
+    "summary": "New product launch on Product Hunt: Flux",
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/replay-production-api-failures-locally",
     "date": "2026-03-23",
@@ -121,13 +105,11 @@
       "Product Launch"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "New product launch on Product Hunt: Flux",
     "id": 9
   },
   {
     "title": "What The Duck!",
-    "summary": "Product Hunt 新产品发布：What The Duck！",
+    "summary": "New product launch on Product Hunt: What The Duck!",
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/what-the-duck-2",
     "date": "2026-03-23",
@@ -135,13 +117,11 @@
       "Product Launch"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "New product launch on Product Hunt: What The Duck!",
     "id": 10
   },
   {
     "title": "Redbean",
-    "summary": "Product Hunt新品发布会：红豆",
+    "summary": "New product launch on Product Hunt: Redbean",
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/redbean-ai",
     "date": "2026-03-16",
@@ -149,27 +129,11 @@
       "Product Launch"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "New product launch on Product Hunt: Redbean",
     "id": 11
   },
   {
-    "title": "Claude Computer Use",
-    "summary": "Product Hunt新品发布会：Claude电脑用",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/claude",
-    "date": "2026-03-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "title_en": null,
-    "summary_en": "New product launch on Product Hunt: Claude Computer Use",
-    "id": 12
-  },
-  {
     "title": "jared.so",
-    "summary": "Product Hunt上的新产品发布：jared.so",
+    "summary": "New product launch on Product Hunt: jared.so",
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/jared-so",
     "date": "2026-03-24",
@@ -177,27 +141,35 @@
       "Product Launch"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "New product launch on Product Hunt: jared.so",
+    "id": 12
+  },
+  {
+    "title": "Cekura",
+    "summary": "New product launch on Product Hunt: Cekura",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vocera",
+    "date": "2026-03-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
     "id": 13
   },
   {
-    "title": "Maestri",
-    "summary": "Product Hunt新产品发布：Maestri",
+    "title": "Claude Computer Use",
+    "summary": "New product launch on Product Hunt: Claude Computer Use",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/maestri",
+    "url": "https://www.producthunt.com/products/claude",
     "date": "2026-03-23",
     "tags": [
       "Product Launch"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "New product launch on Product Hunt: Maestri",
     "id": 14
   },
   {
     "title": "dontbesilent2025/dbskill - dontbesilent 的商业诊断 Skills for Claude Code",
-    "summary": "1446 stars | Unknown | dontbesilent 的商业诊断 Skills for Claude Code",
+    "summary": "1450 stars | Unknown | dontbesilent 的商业诊断 Skills for Claude Code",
     "source": "GitHub Trending",
     "url": "https://github.com/dontbesilent2025/dbskill",
     "date": "2026-03-20",
@@ -206,12 +178,11 @@
       "Code"
     ],
     "hot": true,
-    "title_en": null,
     "id": 15
   },
   {
     "title": "slavingia/skills - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
-    "summary": "1168 星 | 未知 | Claude 基于 Sahil Lavingia 的《极简主义企业家》的代码技能",
+    "summary": "1171 stars | Unknown | Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
     "source": "GitHub Trending",
     "url": "https://github.com/slavingia/skills",
     "date": "2026-03-23",
@@ -220,13 +191,11 @@
       "Code"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "1168 stars | Unknown | Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
     "id": 16
   },
   {
     "title": "zarazhangrui/codebase-to-course - A Claude Code skill that turns any codebase into a beautiful, interactive single",
-    "summary": "1159 星 | 未知 | Claude 代码技能，可将任何代码库变成适合非技术氛围编码人员的精美、交互式单页 HTML 课程。",
+    "summary": "1161 stars | Unknown | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
     "source": "GitHub Trending",
     "url": "https://github.com/zarazhangrui/codebase-to-course",
     "date": "2026-03-22",
@@ -235,13 +204,11 @@
       "Code"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "1159 stars | Unknown | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
     "id": 17
   },
   {
     "title": "louislva/claude-peers-mcp - Allow all your Claude Codes to message each other ad-hoc!",
-    "summary": "1126 星 | TypeScript | 允许您所有的 Claude 代码互相临时发送消息！",
+    "summary": "1126 stars | TypeScript | Allow all your Claude Codes to message each other ad-hoc!",
     "source": "GitHub Trending",
     "url": "https://github.com/louislva/claude-peers-mcp",
     "date": "2026-03-21",
@@ -250,13 +217,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "1126 stars | TypeScript | Allow all your Claude Codes to message each other ad-hoc!",
     "id": 18
   },
   {
     "title": "math-inc/OpenGauss - No description",
-    "summary": "1080 星 | Python |",
+    "summary": "1080 stars | Python | ",
     "source": "GitHub Trending",
     "url": "https://github.com/math-inc/OpenGauss",
     "date": "2026-03-19",
@@ -265,13 +230,11 @@
       "Python"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "1080 stars | Python | ",
     "id": 19
   },
   {
     "title": "truongduy2611/app-store-preflight-skills - AI agent skill to scan iOS/macOS projects for App Store rejection patterns befor",
-    "summary": "926 星 | 未知 | AI 代理技能可在提交前扫描 iOS/macOS 项目以查找 App Store 拒绝模式",
+    "summary": "926 stars | Unknown | AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
     "source": "GitHub Trending",
     "url": "https://github.com/truongduy2611/app-store-preflight-skills",
     "date": "2026-03-19",
@@ -280,13 +243,11 @@
       "Code"
     ],
     "hot": true,
-    "title_en": null,
-    "summary_en": "926 stars | Unknown | AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
     "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
-    "summary": "Lukas (@_lhermann) 和 Liz Hermann (@lizmhermann) 谈论了作为一名独立黑客的雄心壮志、满足他人的需求、让孩子或配偶帮助经营你的帝国、通过模拟游戏每月赚取 8000 美元",
+    "summary": "Lukas (@_lhermann) and Liz Hermann (@lizmhermann) talk having ambition as an indie hacker, scratching other people's itches, having kids or spouses to help run your empire, making $8k/month from a sim",
     "source": "Indie Hackers Podcast",
     "url": "https://share.transistor.fm/s/f614549b",
     "date": "2023-06-15",
@@ -295,13 +256,11 @@
       "Indie Dev"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "Lukas (@_lhermann) and Liz Hermann (@lizmhermann) talk having ambition as an indie hacker, scratching other people's itches, having kids or spouses to help run your empire, making $8k/month from a sim",
     "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
-    "summary": "Steph Smith (@stephsmithio) 谈论如何通过内容订阅赚取数百万美元、在 a16z 工作、将人工智能精灵放回瓶子里、在 Twitter 上跟男孩讨论、教育与娱乐播客，以及",
+    "summary": "Steph Smith (@stephsmithio) talks making millions in content subscriptions, working at a16z, putting the AI genie back in the bottle, thread boys on Twitter, educational vs entertainment podcasts, and",
     "source": "Indie Hackers Podcast",
     "url": "https://share.transistor.fm/s/da7243d9",
     "date": "2023-06-03",
@@ -310,13 +269,11 @@
       "Indie Dev"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "Steph Smith (@stephsmithio) talks making millions in content subscriptions, working at a16z, putting the AI genie back in the bottle, thread boys on Twitter, educational vs entertainment podcasts, and",
     "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
-    "summary": "Seth Godin (@ThisIsSethsBlog) 谈论独立黑客、寻找新的商业理念、有意义的工作与机械化工作、与互联网巨魔打交道、他提高生产力的秘密、自由职业与引导式工作",
+    "summary": "Seth Godin (@ThisIsSethsBlog) talks indie hacking, finding new business ideas, meaningful jobs vs mechanized jobs, dealing with internet trolls, his secrets to productivity, freelancing vs bootstrappi",
     "source": "Indie Hackers Podcast",
     "url": "https://share.transistor.fm/s/204b7dea",
     "date": "2023-05-25",
@@ -325,13 +282,11 @@
       "Indie Dev"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "Seth Godin (@ThisIsSethsBlog) talks indie hacking, finding new business ideas, meaningful jobs vs mechanized jobs, dealing with internet trolls, his secrets to productivity, freelancing vs bootstrappi",
     "id": 23
   },
   {
     "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
-    "summary": "Cloudflare 的一位工程师在一周内用 AI 代理重写了 Vercel 的 Next.js 的大部分内容。 这看起来像是人工智能将如何颠覆现有护城河和商业模式的迹象。 分析",
+    "summary": "An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis",
     "source": "Pragmatic Engineer",
     "url": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
     "date": "2026-03-05",
@@ -340,13 +295,11 @@
       "Career"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis",
     "id": 24
   },
   {
     "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
-    "summary": "我曾经每年支付 120 美元购买一台 SaaS，它已经四年没有添加新功能，三年也没有修复损坏的计费系统。 使用 LLM，我成功地重写了我使用的所有功能",
+    "summary": "I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I us",
     "source": "Pragmatic Engineer",
     "url": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
     "date": "2026-01-29",
@@ -355,13 +308,11 @@
       "Career"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I us",
     "id": 25
   },
   {
     "title": "The grief when AI writes most of the code",
-    "summary": "当人工智能编写几乎所有代码时，软件工程会发生什么？ 对于我们开发人员来说，这是肯定的。",
+    "summary": "When AI writes almost all code, what happens to software engineering? There is grief involved for us developers, that's for sure.",
     "source": "Pragmatic Engineer",
     "url": "https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/",
     "date": "2026-01-07",
@@ -370,8 +321,6 @@
       "Career"
     ],
     "hot": false,
-    "title_en": null,
-    "summary_en": "When AI writes almost all code, what happens to software engineering? There is grief involved for us developers, that's for sure.",
     "id": 26
   }
 ]

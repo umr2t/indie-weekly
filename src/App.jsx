@@ -47,9 +47,7 @@ function App() {
       const s = search.toLowerCase()
       const matchSearch = !search ||
         p.title.toLowerCase().includes(s) ||
-        p.summary.toLowerCase().includes(s) ||
-        (p.title_en || '').toLowerCase().includes(s) ||
-        (p.summary_en || '').toLowerCase().includes(s)
+        p.summary.toLowerCase().includes(s)
       return matchTag && matchSearch
     })
   }, [activeTag, search])

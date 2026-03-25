@@ -1,5 +1,4 @@
 import RSSParser from 'rss-parser'
-import translate from 'google-translate-api-x'
 import { readFileSync, writeFileSync } from 'fs'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
@@ -31,7 +30,6 @@ async function fetchHackerNews() {
   try {
     const res = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json')
     const ids = await res.json()
-    // Fetch more to filter for money-related content
     const top = ids.slice(0, 30)
 
     const items = await Promise.all(
@@ -65,19 +63,19 @@ async function fetchProductHunt() {
     const feed = await parser.parseURL('https://www.producthunt.com/feed')
     return feed.items.slice(0, 6).map(item => {
       let summary = (item.contentSnippet || item.content || '').replace(/\s+/g, ' ').trim()
-      // PH RSS often has minimal content, provide a better fallback
       if (!summary || summary.length < 20) {
         summary = `New product launch on Product Hunt: ${item.title || 'Check it out'}`
       }
       return {
-      title: item.title || 'Untitled',
-      summary: summary.slice(0, 200),
-      source: 'Product Hunt',
-      url: item.link,
-      date: item.isoDate ? item.isoDate.split('T')[0] : today(),
-      tags: ['Product Launch'],
-      hot: false,
-    }})
+        title: item.title || 'Untitled',
+        summary: summary.slice(0, 200),
+        source: 'Product Hunt',
+        url: item.link,
+        date: item.isoDate ? item.isoDate.split('T')[0] : today(),
+        tags: ['Product Launch'],
+        hot: false,
+      }
+    })
   } catch (e) {
     console.error('Failed to fetch Product Hunt:', e.message)
     return []
@@ -144,7 +142,6 @@ async function fetchDevTo() {
   }
 }
 
-// Money-focused RSS feeds
 async function fetchMoneyRSS() {
   const feeds = [
     { url: 'https://www.starterstory.com/feed', source: 'Starter Story', tags: ['Startup', 'Revenue'] },
@@ -184,69 +181,6 @@ function daysAgo(days) {
   return d.toISOString().split('T')[0]
 }
 
-function isChinese(text) {
-  return /[\u4e00-\u9fff]/.test(text)
-}
-
-// Tech terms that should NOT be translated
-const PRESERVE_TERMS = [
-  'TypeScript', 'JavaScript', 'Python', 'Rust', 'Go', 'Java', 'Kotlin', 'Swift',
-  'Ruby', 'PHP', 'C\\+\\+', 'C#', 'Dart', 'Lua', 'Shell', 'HTML', 'CSS', 'SQL',
-  'React', 'Vue', 'Next\\.js', 'Nuxt', 'Node\\.js', 'Deno', 'Bun',
-  'Docker', 'Kubernetes', 'Redis', 'PostgreSQL', 'MySQL', 'MongoDB',
-  'GitHub', 'GitLab', 'Vercel', 'Netlify', 'Cloudflare', 'AWS', 'Supabase',
-  'SaaS', 'MRR', 'ARR', 'API', 'SDK', 'CLI', 'LLM', 'GPT', 'Claude',
-  'Hacker News', 'Product Hunt', 'Indie Hackers',
-]
-
-async function translateText(text) {
-  if (!text || isChinese(text)) return text
-  try {
-    // Replace tech terms with numbered markers that won't be translated
-    const placeholders = []
-    let processed = text
-    for (const term of PRESERVE_TERMS) {
-      const regex = new RegExp(`\\b${term}\\b`, 'gi')
-      processed = processed.replace(regex, (match) => {
-        const idx = placeholders.length
-        placeholders.push(match)
-        return `ZZKEEP${idx}ZZ`
-      })
-    }
-
-    const res = await translate(processed, { from: 'en', to: 'zh-CN' })
-    let result = res.text
-
-    // Restore tech terms (handle possible spaces/formatting added by translator)
-    placeholders.forEach((term, idx) => {
-      result = result.replace(new RegExp(`ZZKEEP\\s*${idx}\\s*ZZ`, 'gi'), term)
-    })
-
-    return result
-  } catch {
-    return text
-  }
-}
-
-async function translatePosts(posts) {
-  const BATCH = 5
-  for (let i = 0; i < posts.length; i += BATCH) {
-    const batch = posts.slice(i, i + BATCH)
-    await Promise.all(batch.map(async p => {
-      // Only translate the summary/description, keep title as-is (product names, repo names)
-      p.title_en = null
-      if (!isChinese(p.summary) && p.summary) {
-        p.summary_en = p.summary
-        p.summary = await translateText(p.summary)
-      }
-    }))
-    if (i + BATCH < posts.length) {
-      await new Promise(r => setTimeout(r, 500))
-    }
-  }
-  return posts
-}
-
 function deduplicateByURL(posts) {
   const seen = new Set()
   return posts.filter(p => {
@@ -278,12 +212,7 @@ async function main() {
   console.log(`  DEV.to: ${dev.length}`)
   console.log(`  Money RSS: ${money.length}`)
 
-  let allNew = [...hn, ...ph, ...gh, ...ih, ...dev, ...money]
-
-  // Translate new posts to Chinese
-  console.log(`\nTranslating ${allNew.length} posts to Chinese...`)
-  allNew = await translatePosts(allNew)
-  console.log('Translation done.')
+  const allNew = [...hn, ...ph, ...gh, ...ih, ...dev, ...money]
 
   // Load existing posts
   let existing = []
