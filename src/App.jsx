@@ -1,11 +1,45 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useCallback } from 'react'
 import posts from './data/posts.json'
 
+const GITHUB_REPO = 'umr2t/indie-weekly'
 const allTags = [...new Set(posts.flatMap(p => p.tags))]
 
 function App() {
   const [activeTag, setActiveTag] = useState(null)
   const [search, setSearch] = useState('')
+  const [refreshing, setRefreshing] = useState(false)
+  const [refreshMsg, setRefreshMsg] = useState('')
+
+  const triggerRefresh = useCallback(async () => {
+    const token = prompt('Enter your GitHub Personal Access Token to trigger refresh:')
+    if (!token) return
+
+    setRefreshing(true)
+    setRefreshMsg('')
+    try {
+      const res = await fetch(
+        `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/fetch.yml/dispatches`,
+        {
+          method: 'POST',
+          headers: {
+            Authorization: `Bearer ${token}`,
+            Accept: 'application/vnd.github.v3+json',
+          },
+          body: JSON.stringify({ ref: 'main' }),
+        }
+      )
+      if (res.status === 204) {
+        setRefreshMsg('Triggered! Site will update in ~2 minutes.')
+      } else {
+        setRefreshMsg('Failed: ' + res.status)
+      }
+    } catch (e) {
+      setRefreshMsg('Error: ' + e.message)
+    } finally {
+      setRefreshing(false)
+      setTimeout(() => setRefreshMsg(''), 5000)
+    }
+  }, [])
 
   const filtered = useMemo(() => {
     return posts.filter(p => {
@@ -30,14 +64,30 @@ function App() {
               vol.01
             </span>
           </div>
-          <a
-            href="https://github.com/umr2t/indie-weekly"
-            target="_blank"
-            rel="noreferrer"
-            className="text-gray-400 hover:text-white transition-colors text-sm"
-          >
-            GitHub
-          </a>
+          <div className="flex items-center gap-3">
+            {refreshMsg && (
+              <span className="text-xs text-amber-400">{refreshMsg}</span>
+            )}
+            <button
+              onClick={triggerRefresh}
+              disabled={refreshing}
+              className="flex items-center gap-1.5 text-sm text-gray-400 hover:text-amber-400 transition-colors disabled:opacity-50"
+              title="Manually trigger data refresh"
+            >
+              <svg className={`w-4 h-4 ${refreshing ? 'animate-spin' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+              </svg>
+              Refresh
+            </button>
+            <a
+              href="https://github.com/umr2t/indie-weekly"
+              target="_blank"
+              rel="noreferrer"
+              className="text-gray-400 hover:text-white transition-colors text-sm"
+            >
+              GitHub
+            </a>
+          </div>
         </div>
       </header>
 
