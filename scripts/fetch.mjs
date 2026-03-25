@@ -63,15 +63,21 @@ async function fetchHackerNews() {
 async function fetchProductHunt() {
   try {
     const feed = await parser.parseURL('https://www.producthunt.com/feed')
-    return feed.items.slice(0, 6).map(item => ({
+    return feed.items.slice(0, 6).map(item => {
+      let summary = (item.contentSnippet || item.content || '').replace(/\s+/g, ' ').trim()
+      // PH RSS often has minimal content, provide a better fallback
+      if (!summary || summary.length < 20) {
+        summary = `New product launch on Product Hunt: ${item.title || 'Check it out'}`
+      }
+      return {
       title: item.title || 'Untitled',
-      summary: (item.contentSnippet || item.content || '').replace(/\s+/g, ' ').trim().slice(0, 200),
+      summary: summary.slice(0, 200),
       source: 'Product Hunt',
       url: item.link,
       date: item.isoDate ? item.isoDate.split('T')[0] : today(),
       tags: ['Product Launch'],
       hot: false,
-    }))
+    }})
   } catch (e) {
     console.error('Failed to fetch Product Hunt:', e.message)
     return []
@@ -182,11 +188,41 @@ function isChinese(text) {
   return /[\u4e00-\u9fff]/.test(text)
 }
 
+// Tech terms that should NOT be translated
+const PRESERVE_TERMS = [
+  'TypeScript', 'JavaScript', 'Python', 'Rust', 'Go', 'Java', 'Kotlin', 'Swift',
+  'Ruby', 'PHP', 'C\\+\\+', 'C#', 'Dart', 'Lua', 'Shell', 'HTML', 'CSS', 'SQL',
+  'React', 'Vue', 'Next\\.js', 'Nuxt', 'Node\\.js', 'Deno', 'Bun',
+  'Docker', 'Kubernetes', 'Redis', 'PostgreSQL', 'MySQL', 'MongoDB',
+  'GitHub', 'GitLab', 'Vercel', 'Netlify', 'Cloudflare', 'AWS', 'Supabase',
+  'SaaS', 'MRR', 'ARR', 'API', 'SDK', 'CLI', 'LLM', 'GPT', 'Claude',
+  'Hacker News', 'Product Hunt', 'Indie Hackers',
+]
+
 async function translateText(text) {
   if (!text || isChinese(text)) return text
   try {
-    const res = await translate(text, { from: 'en', to: 'zh-CN' })
-    return res.text
+    // Replace tech terms with numbered markers that won't be translated
+    const placeholders = []
+    let processed = text
+    for (const term of PRESERVE_TERMS) {
+      const regex = new RegExp(`\\b${term}\\b`, 'gi')
+      processed = processed.replace(regex, (match) => {
+        const idx = placeholders.length
+        placeholders.push(match)
+        return `ZZKEEP${idx}ZZ`
+      })
+    }
+
+    const res = await translate(processed, { from: 'en', to: 'zh-CN' })
+    let result = res.text
+
+    // Restore tech terms (handle possible spaces/formatting added by translator)
+    placeholders.forEach((term, idx) => {
+      result = result.replace(new RegExp(`ZZKEEP\\s*${idx}\\s*ZZ`, 'gi'), term)
+    })
+
+    return result
   } catch {
     return text
   }
@@ -197,16 +233,13 @@ async function translatePosts(posts) {
   for (let i = 0; i < posts.length; i += BATCH) {
     const batch = posts.slice(i, i + BATCH)
     await Promise.all(batch.map(async p => {
-      if (!isChinese(p.title)) {
-        p.title_en = p.title
-        p.title = await translateText(p.title)
-      }
-      if (!isChinese(p.summary)) {
+      // Only translate the summary/description, keep title as-is (product names, repo names)
+      p.title_en = null
+      if (!isChinese(p.summary) && p.summary) {
         p.summary_en = p.summary
         p.summary = await translateText(p.summary)
       }
     }))
-    // Small delay between batches to avoid rate limiting
     if (i + BATCH < posts.length) {
       await new Promise(r => setTimeout(r, 500))
     }
