@@ -1,4 +1,5 @@
 import RSSParser from 'rss-parser'
+import translate from 'google-translate-api-x'
 import { readFileSync, writeFileSync } from 'fs'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
@@ -177,6 +178,42 @@ function daysAgo(days) {
   return d.toISOString().split('T')[0]
 }
 
+function isChinese(text) {
+  return /[\u4e00-\u9fff]/.test(text)
+}
+
+async function translateText(text) {
+  if (!text || isChinese(text)) return text
+  try {
+    const res = await translate(text, { from: 'en', to: 'zh-CN' })
+    return res.text
+  } catch {
+    return text
+  }
+}
+
+async function translatePosts(posts) {
+  const BATCH = 5
+  for (let i = 0; i < posts.length; i += BATCH) {
+    const batch = posts.slice(i, i + BATCH)
+    await Promise.all(batch.map(async p => {
+      if (!isChinese(p.title)) {
+        p.title_en = p.title
+        p.title = await translateText(p.title)
+      }
+      if (!isChinese(p.summary)) {
+        p.summary_en = p.summary
+        p.summary = await translateText(p.summary)
+      }
+    }))
+    // Small delay between batches to avoid rate limiting
+    if (i + BATCH < posts.length) {
+      await new Promise(r => setTimeout(r, 500))
+    }
+  }
+  return posts
+}
+
 function deduplicateByURL(posts) {
   const seen = new Set()
   return posts.filter(p => {
@@ -208,7 +245,12 @@ async function main() {
   console.log(`  DEV.to: ${dev.length}`)
   console.log(`  Money RSS: ${money.length}`)
 
-  const allNew = [...hn, ...ph, ...gh, ...ih, ...dev, ...money]
+  let allNew = [...hn, ...ph, ...gh, ...ih, ...dev, ...money]
+
+  // Translate new posts to Chinese
+  console.log(`\nTranslating ${allNew.length} posts to Chinese...`)
+  allNew = await translatePosts(allNew)
+  console.log('Translation done.')
 
   // Load existing posts
   let existing = []

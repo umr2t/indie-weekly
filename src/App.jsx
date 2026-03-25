@@ -44,9 +44,12 @@ function App() {
   const filtered = useMemo(() => {
     return posts.filter(p => {
       const matchTag = !activeTag || p.tags.includes(activeTag)
+      const s = search.toLowerCase()
       const matchSearch = !search ||
-        p.title.toLowerCase().includes(search.toLowerCase()) ||
-        p.summary.toLowerCase().includes(search.toLowerCase())
+        p.title.toLowerCase().includes(s) ||
+        p.summary.toLowerCase().includes(s) ||
+        (p.title_en || '').toLowerCase().includes(s) ||
+        (p.summary_en || '').toLowerCase().includes(s)
       return matchTag && matchSearch
     })
   }, [activeTag, search])
@@ -184,9 +187,12 @@ function App() {
                     </svg>
                   </div>
 
-                  <h3 className="text-base font-semibold text-gray-100 mb-2 group-hover:text-violet-300 transition-colors">
+                  <h3 className="text-base font-semibold text-gray-100 mb-1 group-hover:text-violet-300 transition-colors">
                     {post.title}
                   </h3>
+                  {post.title_en && (
+                    <p className="text-xs text-gray-600 mb-2">{post.title_en}</p>
+                  )}
 
                   <p className="text-sm text-gray-400 leading-relaxed mb-3">
                     {post.summary}
