@@ -45,12 +45,12 @@ function App() {
       {/* Hero */}
       <section className="max-w-4xl mx-auto px-4 pt-16 pb-12 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-amber-400 via-orange-400 to-rose-400 bg-clip-text text-transparent leading-tight">
-          Indie Weekly
+          独立开发者搞钱周刊
         </h1>
         <p className="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed">
-          Curated picks for indie developers and makers.
+          精选独立开发、副业变现、SaaS 增长的优质内容。
           <br />
-          Side projects, SaaS revenue stories, tools, and inspiration.
+          附带深度点评，帮你少走弯路、找到下一个赚钱机会。
         </p>
       </section>
 
@@ -63,7 +63,7 @@ function App() {
             </svg>
             <input
               type="text"
-              placeholder="Search projects, tools, articles..."
+              placeholder="搜索项目、工具、文章..."
               value={search}
               onChange={e => setSearch(e.target.value)}
               className="w-full bg-gray-900 border border-gray-800 rounded-lg pl-10 pr-4 py-2.5 text-sm text-gray-200 placeholder-gray-500 focus:outline-none focus:border-violet-500 focus:ring-1 focus:ring-violet-500 transition-colors"
@@ -78,7 +78,7 @@ function App() {
                   : 'bg-gray-900 text-gray-400 border border-gray-800 hover:border-gray-600'
               }`}
             >
-              ALL
+              全部
             </button>
             {allTags.map(tag => (
               <button
@@ -146,7 +146,7 @@ function App() {
                   {post.comment && (
                     <div className="bg-amber-500/5 border border-amber-500/20 rounded-lg px-4 py-3 mb-3">
                       <p className="text-sm text-amber-200/80 leading-relaxed">
-                        <span className="text-amber-400 font-medium">Editor's Take:</span>{' '}
+                        <span className="text-amber-400 font-medium">编辑点评：</span>{' '}
                         {post.comment}
                       </p>
                     </div>
@@ -169,8 +169,8 @@ function App() {
 
           {filtered.length === 0 && (
             <div className="text-center py-20 text-gray-500">
-              <p className="text-lg">No results found</p>
-              <p className="text-sm mt-1">Try different keywords or filters</p>
+              <p className="text-lg">没有找到相关内容</p>
+              <p className="text-sm mt-1">试试其他关键词或标签</p>
             </div>
           )}
         </div>
@@ -178,7 +178,7 @@ function App() {
 
       {/* Footer */}
       <footer className="border-t border-gray-800 py-8 text-center text-sm text-gray-500">
-        <p>Indie Weekly - Curated by hand, not by bots</p>
+        <p>独立开发者搞钱周刊 - 人工精选，拒绝垃圾信息</p>
       </footer>
     </div>
   )
