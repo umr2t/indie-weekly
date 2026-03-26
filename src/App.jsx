@@ -1,45 +1,11 @@
-import { useState, useMemo, useCallback } from 'react'
+import { useState, useMemo } from 'react'
 import posts from './data/posts.json'
 
-const GITHUB_REPO = 'umr2t/indie-weekly'
 const allTags = [...new Set(posts.flatMap(p => p.tags))]
 
 function App() {
   const [activeTag, setActiveTag] = useState(null)
   const [search, setSearch] = useState('')
-  const [refreshing, setRefreshing] = useState(false)
-  const [refreshMsg, setRefreshMsg] = useState('')
-
-  const triggerRefresh = useCallback(async () => {
-    const token = prompt('Enter your GitHub Personal Access Token to trigger refresh:')
-    if (!token) return
-
-    setRefreshing(true)
-    setRefreshMsg('')
-    try {
-      const res = await fetch(
-        `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/fetch.yml/dispatches`,
-        {
-          method: 'POST',
-          headers: {
-            Authorization: `Bearer ${token}`,
-            Accept: 'application/vnd.github.v3+json',
-          },
-          body: JSON.stringify({ ref: 'main' }),
-        }
-      )
-      if (res.status === 204) {
-        setRefreshMsg('Triggered! Site will update in ~2 minutes.')
-      } else {
-        setRefreshMsg('Failed: ' + res.status)
-      }
-    } catch (e) {
-      setRefreshMsg('Error: ' + e.message)
-    } finally {
-      setRefreshing(false)
-      setTimeout(() => setRefreshMsg(''), 5000)
-    }
-  }, [])
 
   const filtered = useMemo(() => {
     return posts.filter(p => {
@@ -62,45 +28,29 @@ function App() {
               Indie Weekly
             </span>
             <span className="text-xs text-gray-500 border border-gray-700 rounded-full px-2 py-0.5">
-              vol.01
+              Vol.01 | 2026-03-24
             </span>
           </div>
-          <div className="flex items-center gap-3">
-            {refreshMsg && (
-              <span className="text-xs text-amber-400">{refreshMsg}</span>
-            )}
-            <button
-              onClick={triggerRefresh}
-              disabled={refreshing}
-              className="flex items-center gap-1.5 text-sm text-gray-400 hover:text-amber-400 transition-colors disabled:opacity-50"
-              title="Manually trigger data refresh"
-            >
-              <svg className={`w-4 h-4 ${refreshing ? 'animate-spin' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-              </svg>
-              Refresh
-            </button>
-            <a
-              href="https://github.com/umr2t/indie-weekly"
-              target="_blank"
-              rel="noreferrer"
-              className="text-gray-400 hover:text-white transition-colors text-sm"
-            >
-              GitHub
-            </a>
-          </div>
+          <a
+            href="https://github.com/umr2t/indie-weekly"
+            target="_blank"
+            rel="noreferrer"
+            className="text-gray-400 hover:text-white transition-colors text-sm"
+          >
+            GitHub
+          </a>
         </div>
       </header>
 
       {/* Hero */}
       <section className="max-w-4xl mx-auto px-4 pt-16 pb-12 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-amber-400 via-orange-400 to-rose-400 bg-clip-text text-transparent leading-tight">
-          独立开发者搞钱周刊
+          Indie Weekly
         </h1>
         <p className="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed">
-          每日自动聚合独立开发、副业变现、SaaS 增长的最新资讯。
+          Curated picks for indie developers and makers.
           <br />
-          发现赚钱灵感，追踪热门产品，助你打造下一个 Side Project。
+          Side projects, SaaS revenue stories, tools, and inspiration.
         </p>
       </section>
 
@@ -113,7 +63,7 @@ function App() {
             </svg>
             <input
               type="text"
-              placeholder="搜索项目、工具、文章..."
+              placeholder="Search projects, tools, articles..."
               value={search}
               onChange={e => setSearch(e.target.value)}
               className="w-full bg-gray-900 border border-gray-800 rounded-lg pl-10 pr-4 py-2.5 text-sm text-gray-200 placeholder-gray-500 focus:outline-none focus:border-violet-500 focus:ring-1 focus:ring-violet-500 transition-colors"
@@ -154,7 +104,7 @@ function App() {
           <div className="absolute left-4 md:left-6 top-0 bottom-0 w-px bg-gradient-to-b from-violet-500/50 via-gray-800 to-transparent" />
 
           <div className="space-y-6">
-            {filtered.map((post, i) => (
+            {filtered.map((post) => (
               <article key={post.id} className="relative pl-12 md:pl-16 group">
                 {/* Timeline dot */}
                 <div className={`absolute left-2.5 md:left-4.5 top-6 w-3 h-3 rounded-full border-2 transition-colors ${
@@ -193,6 +143,15 @@ function App() {
                     {post.summary}
                   </p>
 
+                  {post.comment && (
+                    <div className="bg-amber-500/5 border border-amber-500/20 rounded-lg px-4 py-3 mb-3">
+                      <p className="text-sm text-amber-200/80 leading-relaxed">
+                        <span className="text-amber-400 font-medium">Editor's Take:</span>{' '}
+                        {post.comment}
+                      </p>
+                    </div>
+                  )}
+
                   <div className="flex gap-2">
                     {post.tags.map(tag => (
                       <span
@@ -219,12 +178,7 @@ function App() {
 
       {/* Footer */}
       <footer className="border-t border-gray-800 py-8 text-center text-sm text-gray-500">
-        <p>
-          Indie Weekly - Data auto-updated daily via GitHub Actions
-        </p>
-        <p className="mt-1">
-          Sources: Hacker News, Product Hunt, GitHub Trending, Indie Hackers, DEV.to & more
-        </p>
+        <p>Indie Weekly - Curated by hand, not by bots</p>
       </footer>
     </div>
   )
