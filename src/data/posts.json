@@ -1,167 +1,466 @@
 [
   {
-    "id": 1,
+    "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+    "summary": "70 points | 20 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+    "date": "2026-03-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 1
+  },
+  {
+    "title": "Why so many control rooms were seafoam green (2025)",
+    "summary": "568 points | 112 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+    "date": "2026-03-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 2
+  },
+  {
+    "title": "Moving from GitHub to Codeberg, for lazy people",
+    "summary": "514 points | 254 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://unterwaditzer.net/2025/codeberg.html",
+    "date": "2026-03-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 3
+  },
+  {
+    "title": "Show HN: Veil – Dark mode PDFs without destroying images, runs in the browser",
+    "summary": "35 points | 4 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://veil.simoneamico.com/",
+    "date": "2026-03-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 4
+  },
+  {
+    "title": "Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer",
+    "summary": "31 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/ViciousSquid/Fio",
+    "date": "2026-03-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 5
+  },
+  {
+    "title": "Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3",
+    "summary": "106 points | 24 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/russellromney/turbolite",
+    "date": "2026-03-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 6
+  },
+  {
+    "title": "We haven't seen the worst of what gambling and prediction markets will do",
+    "summary": "539 points | 379 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
+    "date": "2026-03-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 7
+  },
+  {
+    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+    "summary": "856 points | 299 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+    "date": "2026-03-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 8
+  },
+  {
+    "title": "Lyria 3 Pro by Google Deepmind",
+    "summary": "New product launch on Product Hunt: Lyria 3 Pro by Google Deepmind",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/google-3",
+    "date": "2026-03-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 9
+  },
+  {
+    "title": "Nebils",
+    "summary": "New product launch on Product Hunt: Nebils",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nebils",
+    "date": "2026-03-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 10
+  },
+  {
+    "title": "Playcode",
+    "summary": "New product launch on Product Hunt: Playcode",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/playcode-javascript-sandbox-playground",
+    "date": "2026-03-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 11
+  },
+  {
+    "title": "Luzo",
+    "summary": "New product launch on Product Hunt: Luzo",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/luzo",
+    "date": "2026-03-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 12
+  },
+  {
+    "title": "Replay: Life Timeline",
+    "summary": "New product launch on Product Hunt: Replay: Life Timeline",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/replay-ios-app",
+    "date": "2026-03-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
+    "title": "Littlebird",
+    "summary": "New product launch on Product Hunt: Littlebird",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/littlebird",
+    "date": "2025-12-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
+    "title": "slavingia/skills - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
+    "summary": "3623 stars | Unknown | Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
+    "source": "GitHub Trending",
+    "url": "https://github.com/slavingia/skills",
+    "date": "2026-03-23",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
+    "title": "zarazhangrui/codebase-to-course - A Claude Code skill that turns any codebase into a beautiful, interactive single",
+    "summary": "1745 stars | Unknown | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/zarazhangrui/codebase-to-course",
+    "date": "2026-03-22",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 16
+  },
+  {
+    "title": "HKUDS/OpenSpace - \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: ht",
+    "summary": "1278 stars | Python | \"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+    "source": "GitHub Trending",
+    "url": "https://github.com/HKUDS/OpenSpace",
+    "date": "2026-03-24",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "louislva/claude-peers-mcp - Allow all your Claude Codes to message each other ad-hoc!",
+    "summary": "1259 stars | TypeScript | Allow all your Claude Codes to message each other ad-hoc!",
+    "source": "GitHub Trending",
+    "url": "https://github.com/louislva/claude-peers-mcp",
+    "date": "2026-03-21",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "dou-jiang/codex-console - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+    "summary": "1043 stars | Python | codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/dou-jiang/codex-console",
+    "date": "2026-03-21",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "alvinunreal/awesome-opensource-ai - Curated list of the best truly open-source AI projects, models, tools, and infra",
+    "summary": "1019 stars | Unknown | Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "date": "2026-03-24",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 20
+  },
+  {
+    "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
+    "summary": "Lukas (@_lhermann) and Liz Hermann (@lizmhermann) talk having ambition as an indie hacker, scratching other people's itches, having kids or spouses to help run your empire, making $8k/month from a sim",
+    "source": "Indie Hackers Podcast",
+    "url": "https://share.transistor.fm/s/f614549b",
+    "date": "2023-06-15",
+    "tags": [
+      "Podcast",
+      "Indie Dev"
+    ],
+    "hot": false,
+    "id": 21
+  },
+  {
+    "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
+    "summary": "Steph Smith (@stephsmithio) talks making millions in content subscriptions, working at a16z, putting the AI genie back in the bottle, thread boys on Twitter, educational vs entertainment podcasts, and",
+    "source": "Indie Hackers Podcast",
+    "url": "https://share.transistor.fm/s/da7243d9",
+    "date": "2023-06-03",
+    "tags": [
+      "Podcast",
+      "Indie Dev"
+    ],
+    "hot": false,
+    "id": 22
+  },
+  {
+    "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
+    "summary": "Seth Godin (@ThisIsSethsBlog) talks indie hacking, finding new business ideas, meaningful jobs vs mechanized jobs, dealing with internet trolls, his secrets to productivity, freelancing vs bootstrappi",
+    "source": "Indie Hackers Podcast",
+    "url": "https://share.transistor.fm/s/204b7dea",
+    "date": "2023-05-25",
+    "tags": [
+      "Podcast",
+      "Indie Dev"
+    ],
+    "hot": false,
+    "id": 23
+  },
+  {
+    "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
+    "summary": "An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
+    "date": "2026-03-05",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
+    "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
+    "summary": "I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I us",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
+    "date": "2026-01-29",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
+    "id": 25
+  },
+  {
+    "title": "The grief when AI writes most of the code",
+    "summary": "When AI writes almost all code, what happens to software engineering? There is grief involved for us developers, that's for sure.",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/",
+    "date": "2026-01-07",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
+    "id": 26
+  },
+  {
+    "id": 27,
     "title": "我想给害虫防治行业做 SaaS，于是先去当了技术员",
     "summary": "一位开发者辞掉了科技公司的工作，花了 3 个月时间在害虫防治公司当技术员，深入了解这个行业的真实痛点。现在他的 SaaS 产品增长迅速，因为他真正理解客户需要什么。",
     "comment": "这是最被低估的独立开发策略。大多数失败的 SaaS 产品都死在创始人「以为」客户想要什么。花 3 个月去目标行业打工，看似浪费时间，实际上能省掉你好几年做错产品的弯路。最好的垂直 SaaS 创始人，首先是行业内行人，其次才是开发者。",
     "source": "Hacker News",
     "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
     "date": "2026-03-24",
-    "tags": ["SaaS", "独立开发"],
+    "tags": [
+      "SaaS",
+      "独立开发"
+    ],
     "hot": true
   },
   {
-    "id": 2,
-    "title": "我用 AI 花 20 分钟替代了一个年付 $120 的 SaaS",
-    "summary": "Pragmatic Engineer 的作者用 LLM 重写了一个他每年付 $120 订阅的工具。那个 SaaS 已经 4 年没更新功能，账单系统坏了 3 年也没修。",
-    "comment": "给所有独立开发者敲响警钟：你的护城河不再是代码本身。如果你的产品只是一层薄薄的逻辑包装，没有独特的数据或网络效应，AI 会轻松干掉你。新的生存法则：要么深入垂直领域做别人复制不了的工作流，要么建立社区和数据壁垒——不能让人 20 分钟就复刻你的产品。",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
-    "date": "2026-03-22",
-    "tags": ["AI", "SaaS"],
-    "hot": true
-  },
-  {
-    "id": 3,
-    "title": "Cloudflare 用 AI 一周重写了 Next.js —— 开源商业模式正在被颠覆",
-    "summary": "Cloudflare 的一位工程师用 AI 代理在一周内重写了 Vercel 的 Next.js 框架的大部分功能。这预示着一个巨大的转变：AI 正在侵蚀商业开源公司的护城河。",
-    "comment": "这改变了独立开发者选技术栈的思路。如果 Cloudflare 这样的巨头能一周重写你依赖的框架，那当它们决定跟你的产品竞争时怎么办？启示：不要把产品建在「托管公司就是商业模式」的框架上。掌握自己的部署、数据和分发渠道。",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
-    "date": "2026-03-20",
-    "tags": ["AI", "开源"],
-    "hot": true
-  },
-  {
-    "id": 4,
-    "title": "StageTimer.io —— 一个倒计时器月入 $8k",
-    "summary": "Lukas 和 Liz 夫妇做了 StageTimer.io，一个面向活动现场、教堂、会议的倒计时工具。两人团队，月入 $8k，瞄准的是一个价值 1 亿美元/年的市场，但没人关注。",
-    "comment": "「无聊 SaaS」打法的教科书案例。倒计时器听起来太简单了——但活动主办方需要稳定可靠的工具，他们愿意按月付费，而且会口口相传。一个「无聊」工具月入 $8k，比你的 AI 创业项目月入 $0 强多了。选赛道时问自己：这个领域是否无聊到没有 VC 支持的公司会来竞争？",
-    "source": "Indie Hackers Podcast",
-    "url": "https://share.transistor.fm/s/f614549b",
-    "date": "2026-03-18",
-    "tags": ["SaaS", "收入"],
-    "hot": false
-  },
-  {
-    "id": 5,
+    "id": 28,
     "title": "Bolt.new —— 用一句话生成并部署全栈应用",
     "summary": "StackBlitz 推出的 AI 开发工具，用自然语言描述你想要什么，就能得到一个带 Node.js 后端、数据库和一键部署的完整 Web 应用。无需本地环境。",
     "comment": "这个工具让「周末开发、周一上线」真正变成了现实。但对独立开发者来说，它的战略价值不在于构建你的主产品——而是快速试错。一天内搞出 5 个不同的 MVP，扔到 Product Hunt 上看哪个有反响，然后认真重做那个赢家。测试想法的成本已经接近零了。",
     "source": "Product Hunt",
     "url": "https://bolt.new",
     "date": "2026-03-17",
-    "tags": ["AI", "开发工具"],
+    "tags": [
+      "AI",
+      "开发工具"
+    ],
     "hot": true
   },
   {
-    "id": 6,
+    "id": 29,
     "title": "Polar.sh —— 终于有靠谱的开源变现方案了",
     "summary": "Polar 为开源开发者提供订阅、付费下载和 License 管理。已有数百个开源项目用它把 GitHub star 变成了真金白银。",
     "comment": "如果你有一个 500+ star 的开源项目，不试试 Polar 就是在白白丢钱。传统的 Open Core 模式需要你开发企业版功能，Polar 的思路更简单：让你现有的粉丝为他们已经在用的东西付费。哪怕只有 1% 的 star 用户每月付 $10，加起来也很可观。Star 是虚荣指标，收入才是真的。",
     "source": "GitHub Trending",
     "url": "https://polar.sh",
     "date": "2026-03-16",
-    "tags": ["开源", "收入"],
+    "tags": [
+      "开源",
+      "收入"
+    ],
     "hot": false
   },
   {
-    "id": 7,
+    "id": 30,
     "title": "Pieter Levels：零员工，7 个产品，月入 $20 万+",
     "summary": "传奇独立开发者 Pieter Levels（NomadList、RemoteOK、PhotoAI 的创始人）分享他的方法论：极简技术栈（jQuery + PHP）、快速发布、让用户引导路线图、一切自动化。",
     "comment": "Levels 证明了你不需要 React、微服务或团队。他的秘诀不是技术性的，而是运营性的：把每个产品当作一次「下注」，快速淘汰失败的，加倍投入成功的。大多数人忽略的关键：他不做酷炫的东西，而是找到人们已经在为之付费但体验很差的服务，然后做得更好。找到现有消费，做出更好的替代品。",
     "source": "Twitter/X",
     "url": "https://x.com/levelsio",
     "date": "2026-03-15",
-    "tags": ["独立开发", "收入"],
+    "tags": [
+      "独立开发",
+      "收入"
+    ],
     "hot": true
   },
   {
-    "id": 8,
+    "id": 31,
     "title": "Coolify —— 开源自托管的 Vercel 替代方案",
     "summary": "一键将任何应用部署到自己的服务器。支持 Docker、数据库、自动 SSL、CI/CD。GitHub 35k+ star。帮独立开发者逃离那些从 $20/月暴涨到 $200/月的平台账单。",
     "comment": "托管费用是独立项目的隐形杀手。Vercel/Netlify 在流量小的时候很好用，一旦有流量账单就爆炸。$5/月的 VPS + Coolify 给你更大的能力和可预测的成本。花 30 分钟搭建一次，就能避免平台锁定和天价账单。每个认真的独立开发者都应该学会自托管。",
     "source": "GitHub Trending",
     "url": "https://coolify.io",
     "date": "2026-03-14",
-    "tags": ["开源", "开发工具"],
+    "tags": [
+      "开源",
+      "开发工具"
+    ],
     "hot": false
   },
   {
-    "id": 9,
+    "id": 32,
     "title": "Tauri 2.0 —— 跨平台桌面+移动端，体积只有 Electron 的 1/10",
     "summary": "Tauri 2.0 新增了 iOS 和 Android 支持。用 Web 技术加 Rust 后端构建原生应用，打包体积不到 5MB，Electron 要 100MB+，内存占用也大幅降低。",
     "comment": "桌面应用是被低估的独立开发机会。市场竞争比 Web SaaS 少，用户愿意付更高价格（一次性 $29-99 对比每月 $5 订阅），应用商店还能带来自然流量。Tauri 2.0 加上移动端支持让这条路更有吸引力了。想想看：你的下一个副业项目也许应该是桌面应用。",
     "source": "Tauri Blog",
     "url": "https://v2.tauri.app",
     "date": "2026-03-13",
-    "tags": ["开源", "框架"],
+    "tags": [
+      "开源",
+      "框架"
+    ],
     "hot": false
   },
   {
-    "id": 10,
+    "id": 33,
     "title": "Chrome 插件 6 个月做到月入 $5k 的完整打法",
     "summary": "一位独立开发者分享了完整路径：在 Twitter 上发现痛点，周末做出 Chrome 插件 MVP，在 Product Hunt 发布，根据反馈迭代。15k 免费用户，3% 付费转化，$5/月定价。",
     "comment": "Chrome 插件是独立开发最好的秘密武器。开发成本低，Chrome 商店给你免费分发渠道，3% 的转化率完全可以达到。算个账：15,000 免费用户 x 3% x $5/月 = $2,250/月。做到 3 万用户就是 $5k MRR。关键洞察：只完美解决一个具体痛点，不要做瑞士军刀。",
     "source": "Indie Hackers",
     "url": "https://www.indiehackers.com",
     "date": "2026-03-12",
-    "tags": ["独立开发", "收入"],
+    "tags": [
+      "独立开发",
+      "收入"
+    ],
     "hot": false
   },
   {
-    "id": 11,
+    "id": 34,
     "title": "Hono —— 14KB 的框架正在征服边缘计算",
     "summary": "超轻量 Web 框架，可以在 Cloudflare Workers、Deno、Bun、Node.js 上运行。内置 JSX、中间件和类型安全，正在成为边缘优先项目的默认选择。",
     "comment": "如果你 2026 年要开始一个新的 API 或轻量 Web 项目，Hono 值得认真考虑，可以替代 Express。更快、更小、跨运行时。对独立开发者来说，杀手级特性是 Cloudflare Workers 部署：你的 API 跑在全球 300+ 节点上，免费额度慷慨，零冷启动，零运维。",
     "source": "GitHub Trending",
     "url": "https://hono.dev",
     "date": "2026-03-11",
-    "tags": ["框架", "开发工具"],
+    "tags": [
+      "框架",
+      "开发工具"
+    ],
     "hot": false
   },
   {
-    "id": 12,
+    "id": 35,
     "title": "Email.md —— Markdown 转邮件安全 HTML",
     "summary": "用 Markdown 写邮件，自动转成在所有邮件客户端都兼容的响应式 HTML。在 Hacker News 获得 246 分。一个解决真实日常痛点的 Show HN 项目。",
     "comment": "这是一个教科书级的好副业项目：解决一个具体的烦人问题，简单到可以一个周末做完，目标用户群（开发者、营销人员）庞大。注意它没有试图做成邮件平台——只做一件事。最好的副业项目是止痛药，不是维生素。你的「Markdown 转 X」创意是什么？",
     "source": "Hacker News",
     "url": "https://www.emailmd.dev/",
     "date": "2026-03-10",
-    "tags": ["开发工具", "Show HN"],
+    "tags": [
+      "开发工具",
+      "Show HN"
+    ],
     "hot": false
   },
   {
-    "id": 13,
-    "title": "当 AI 写了大部分代码，程序员该何去何从",
-    "summary": "一篇深度思考：当 AI 能写 80%+ 的代码时，软件工程师的价值去了哪里？什么技能才重要？",
-    "comment": "未来能活下来的开发者不是写代码最快的，而是最懂「该做什么」和「为什么做」的人。AI 让实现变得廉价，但放大了判断力的价值。对独立开发者来说这其实是好消息：从「想法」到「可用产品」的距离缩短到几小时。你的竞争优势现在是品味、领域知识和分发渠道——不是技术能力。",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/",
-    "date": "2026-03-09",
-    "tags": ["AI", "职业"],
-    "hot": false
-  },
-  {
-    "id": 14,
-    "title": "Seth Godin 谈独立开发与如何找到意义",
-    "summary": "营销大师 Seth Godin 讨论了如何通过「有用」来发现商业机会，自由职业和创业的区别，以及在 AI 时代如何做出有意义的事情。",
-    "comment": "Godin 给独立开发者的核心信息：别问「我能做什么」，要问「我能服务谁」。最成功的独立产品技术上并不惊艳——而是对特定人群有深刻的共情。为你理解的群体而做，合理收费，把每个客户当回事。营销的本质就是「真正有用」。",
-    "source": "Indie Hackers Podcast",
-    "url": "https://share.transistor.fm/s/204b7dea",
-    "date": "2026-03-08",
-    "tags": ["播客", "独立开发"],
-    "hot": false
-  },
-  {
-    "id": 15,
+    "id": 36,
     "title": "Supabase Edge Functions 现已支持 Python",
     "summary": "现在可以用 Python 在 Supabase 上写 Serverless 后端逻辑了。配合免费的 PostgreSQL 数据库、用户认证和存储，这可能是 2026 年独立开发者最好的免费后端方案。",
     "comment": "2026 年的零成本技术栈：Supabase（数据库 + 认证 + 边缘函数）+ Vercel/Cloudflare（前端托管）+ Resend（邮件）。总费用：$0，直到你真正有了用户。「我需要融资才能做 MVP」这个借口已经不存在了。先发布，后付费。如果在免费栈上都获取不到用户，花钱买基础设施也不会有帮助。",
     "source": "Supabase Blog",
     "url": "https://supabase.com/blog",
     "date": "2026-03-07",
-    "tags": ["后端", "开发工具"],
+    "tags": [
+      "后端",
+      "开发工具"
+    ],
     "hot": false
   }
 ]
