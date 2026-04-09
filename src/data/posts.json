@@ -1,10 +1,10 @@
 [
   {
-    "title": "Show HN: A game where you build a GPU",
-    "summary": "493 points | 129 comments on Hacker News",
+    "title": "I ported Mac OS X to the Nintendo Wii",
+    "summary": "1215 points | 212 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://jaso1024.com/mvidia/",
-    "date": "2026-04-04",
+    "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+    "date": "2026-04-08",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "How many products does Microsoft have named 'Copilot'?",
-    "summary": "394 points | 202 comments on Hacker News",
+    "title": "Git commands I run before reading any code",
+    "summary": "1781 points | 383 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-    "date": "2026-04-04",
+    "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+    "date": "2026-04-08",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Embarrassingly simple self-distillation improves code generation",
-    "summary": "543 points | 165 comments on Hacker News",
+    "title": "They're made out of meat (1991)",
+    "summary": "401 points | 113 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2604.01193",
-    "date": "2026-04-04",
+    "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+    "date": "2026-04-08",
     "tags": [
       "HN"
     ],
@@ -36,47 +36,47 @@
     "id": 3
   },
   {
-    "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-    "summary": "123 points | 62 comments on Hacker News",
+    "title": "ML promises to be profoundly weird",
+    "summary": "362 points | 398 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://sllm.cloud",
-    "date": "2026-04-04",
+    "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+    "date": "2026-04-08",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Show HN: I made open source, zero power PCB hackathon badges",
-    "summary": "44 points | 6 comments on Hacker News",
+    "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+    "summary": "520 points | 533 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/KaiPereira/Overglade-Badges",
-    "date": "2026-04-04",
+    "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+    "date": "2026-04-08",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
-    "summary": "138 points | 6 comments on Hacker News",
+    "title": "Show HN: Is Hormuz open yet?",
+    "summary": "236 points | 103 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/teamchong/turboquant-wasm",
-    "date": "2026-04-04",
+    "url": "https://www.ishormuzopenyet.com/",
+    "date": "2026-04-08",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "The Indie Internet Index – submit your favorite sites",
-    "summary": "99 points | 18 comments on Hacker News",
+    "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
+    "summary": "81 points | 111 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://iii.social",
-    "date": "2026-04-04",
+    "url": "http://oj-hn.com/",
+    "date": "2026-04-08",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-    "summary": "357 points | 158 comments on Hacker News",
+    "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+    "summary": "14 points | 23 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-    "date": "2026-04-04",
+    "url": "https://thales.me/posts/why-i-built-snapstate/",
+    "date": "2026-04-08",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Sleek Analytics",
-    "summary": "New product launch on Product Hunt: Sleek Analytics",
+    "title": "Screenslice",
+    "summary": "New product launch on Product Hunt: Screenslice",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sleek-analytics",
-    "date": "2026-04-03",
+    "url": "https://www.producthunt.com/products/screenslice",
+    "date": "2026-04-04",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Google Vids 2.0",
-    "summary": "New product launch on Product Hunt: Google Vids 2.0",
+    "title": "Hire Roger",
+    "summary": "New product launch on Product Hunt: Hire Roger",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google",
-    "date": "2026-04-02",
+    "url": "https://www.producthunt.com/products/hire-roger",
+    "date": "2026-04-07",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Faahh",
-    "summary": "New product launch on Product Hunt: Faahh",
+    "title": "Brieflee",
+    "summary": "New product launch on Product Hunt: Brieflee",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work",
-    "date": "2026-04-03",
+    "url": "https://www.producthunt.com/products/brieflee",
+    "date": "2024-06-26",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Mercury Edit 2",
-    "summary": "New product launch on Product Hunt: Mercury Edit 2",
+    "title": "Zoho Projects Infinity.ai",
+    "summary": "New product launch on Product Hunt: Zoho Projects Infinity.ai",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mercury-412",
-    "date": "2026-04-03",
+    "url": "https://www.producthunt.com/products/zoho-projects",
+    "date": "2026-04-07",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Surf Social Websites",
-    "summary": "New product launch on Product Hunt: Surf Social Websites",
+    "title": "Keeby",
+    "summary": "New product launch on Product Hunt: Keeby",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/flipboard-surf",
-    "date": "2026-04-01",
+    "url": "https://www.producthunt.com/products/keeby",
+    "date": "2026-04-07",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "OpenRouter Model Fusion",
-    "summary": "New product launch on Product Hunt: OpenRouter Model Fusion",
+    "title": "Flint",
+    "summary": "New product launch on Product Hunt: Flint",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openrouter",
-    "date": "2026-04-03",
+    "url": "https://www.producthunt.com/products/flint-6",
+    "date": "2026-04-06",
     "tags": [
       "Product Launch"
     ],
@@ -168,79 +168,79 @@
     "id": 14
   },
   {
-    "title": "ultraworkers/claw-code - The repo is finally unlocked. enjoy the party! The fastest repo in history to su",
-    "summary": "167213 stars | Rust | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "summary": "27292 stars | Python | The highest-scoring AI memory system ever benchmarked. And it's free.",
     "source": "GitHub Trending",
-    "url": "https://github.com/ultraworkers/claw-code",
-    "date": "2026-03-31",
+    "url": "https://github.com/milla-jovovich/mempalace",
+    "date": "2026-04-05",
     "tags": [
       "GitHub",
-      "Rust"
+      "Python"
     ],
     "hot": true,
     "id": 15
   },
   {
-    "title": "Gitlawb/openclaude - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama",
-    "summary": "14700 stars | TypeScript | Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+    "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,",
+    "summary": "24531 stars | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
     "source": "GitHub Trending",
-    "url": "https://github.com/Gitlawb/openclaude",
-    "date": "2026-04-01",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "claude-code-best/claude-code - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 b",
-    "summary": "13572 stars | TypeScript | 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
-    "source": "GitHub Trending",
-    "url": "https://github.com/claude-code-best/claude-code",
-    "date": "2026-03-31",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
-    "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
-    "summary": "11642 stars | JavaScript | Use Codex from Claude Code to review code or delegate tasks.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "date": "2026-03-30",
+    "url": "https://github.com/santifer/career-ops",
+    "date": "2026-04-04",
     "tags": [
       "GitHub",
       "JavaScript"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid",
+    "summary": "12799 stars | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+    "source": "GitHub Trending",
+    "url": "https://github.com/safishamsi/graphify",
+    "date": "2026-04-03",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% ",
+    "summary": "7504 stars | Python | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "source": "GitHub Trending",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "date": "2026-04-04",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 18
   },
   {
-    "title": "sanbuphy/learn-coding-agent - Research on Coding Agents",
-    "summary": "11261 stars | Unknown | Research on Coding Agents",
+    "title": "alchaincyf/nuwa-skill - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+    "summary": "3840 stars | Python | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
     "source": "GitHub Trending",
-    "url": "https://github.com/sanbuphy/learn-coding-agent",
-    "date": "2026-03-31",
+    "url": "https://github.com/alchaincyf/nuwa-skill",
+    "date": "2026-04-05",
     "tags": [
       "GitHub",
-      "Code"
+      "Python"
     ],
     "hot": true,
     "id": 19
   },
   {
-    "title": "VoltAgent/awesome-design-md - Collection of DESIGN.md files that capture design systems from popular websites.",
-    "summary": "8433 stars | HTML | Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
+    "title": "farzaa/clicky - No description",
+    "summary": "2229 stars | Swift | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/VoltAgent/awesome-design-md",
-    "date": "2026-03-31",
+    "url": "https://github.com/farzaa/clicky",
+    "date": "2026-04-07",
     "tags": [
       "GitHub",
-      "HTML"
+      "Swift"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,252 @@
     "id": 26
   },
   {
+    "title": "Show HN: A game where you build a GPU",
+    "summary": "493 points | 129 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://jaso1024.com/mvidia/",
+    "date": "2026-04-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "How many products does Microsoft have named 'Copilot'?",
+    "summary": "394 points | 202 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+    "date": "2026-04-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Embarrassingly simple self-distillation improves code generation",
+    "summary": "543 points | 165 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2604.01193",
+    "date": "2026-04-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+    "summary": "123 points | 62 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://sllm.cloud",
+    "date": "2026-04-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: I made open source, zero power PCB hackathon badges",
+    "summary": "44 points | 6 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/KaiPereira/Overglade-Badges",
+    "date": "2026-04-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+    "summary": "138 points | 6 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/teamchong/turboquant-wasm",
+    "date": "2026-04-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "The Indie Internet Index – submit your favorite sites",
+    "summary": "99 points | 18 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://iii.social",
+    "date": "2026-04-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+    "summary": "357 points | 158 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+    "date": "2026-04-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Sleek Analytics",
+    "summary": "New product launch on Product Hunt: Sleek Analytics",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/sleek-analytics",
+    "date": "2026-04-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Google Vids 2.0",
+    "summary": "New product launch on Product Hunt: Google Vids 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/google",
+    "date": "2026-04-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Faahh",
+    "summary": "New product launch on Product Hunt: Faahh",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work",
+    "date": "2026-04-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Mercury Edit 2",
+    "summary": "New product launch on Product Hunt: Mercury Edit 2",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mercury-412",
+    "date": "2026-04-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Surf Social Websites",
+    "summary": "New product launch on Product Hunt: Surf Social Websites",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/flipboard-surf",
+    "date": "2026-04-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "OpenRouter Model Fusion",
+    "summary": "New product launch on Product Hunt: OpenRouter Model Fusion",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openrouter",
+    "date": "2026-04-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "ultraworkers/claw-code - The repo is finally unlocked. enjoy the party! The fastest repo in history to su",
+    "summary": "167213 stars | Rust | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "date": "2026-03-31",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "Gitlawb/openclaude - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama",
+    "summary": "14700 stars | TypeScript | Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "date": "2026-04-01",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "claude-code-best/claude-code - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 b",
+    "summary": "13572 stars | TypeScript | 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
+    "source": "GitHub Trending",
+    "url": "https://github.com/claude-code-best/claude-code",
+    "date": "2026-03-31",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
+    "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
+    "summary": "11642 stars | JavaScript | Use Codex from Claude Code to review code or delegate tasks.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "date": "2026-03-30",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 44
+  },
+  {
+    "title": "sanbuphy/learn-coding-agent - Research on Coding Agents",
+    "summary": "11261 stars | Unknown | Research on Coding Agents",
+    "source": "GitHub Trending",
+    "url": "https://github.com/sanbuphy/learn-coding-agent",
+    "date": "2026-03-31",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 45
+  },
+  {
+    "title": "VoltAgent/awesome-design-md - Collection of DESIGN.md files that capture design systems from popular websites.",
+    "summary": "8433 stars | HTML | Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "date": "2026-03-31",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 46
+  },
+  {
     "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
     "summary": "738 points | 313 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +579,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 47
   },
   {
     "title": "OpenAI closes funding round at an $852B valuation",
@@ -345,7 +591,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 48
   },
   {
     "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
@@ -357,7 +603,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 49
   },
   {
     "title": "Open source CAD in the browser (Solvespace)",
@@ -369,7 +615,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 50
   },
   {
     "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
@@ -381,7 +627,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 51
   },
   {
     "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
@@ -393,7 +639,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 52
   },
   {
     "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
@@ -405,7 +651,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 53
   },
   {
     "title": "GitHub's Historic Uptime",
@@ -417,7 +663,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 54
   },
   {
     "title": "MacMonitor",
@@ -429,7 +675,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 55
   },
   {
     "title": "FireAPI",
@@ -441,7 +687,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 56
   },
   {
     "title": "IndieEvent",
@@ -453,7 +699,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 57
   },
   {
     "title": "Relacan",
@@ -465,7 +711,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 58
   },
   {
     "title": "Jupid",
@@ -477,7 +723,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 59
   },
   {
     "title": "UNCHIKUN",
@@ -489,255 +735,6 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
-  },
-  {
-    "title": "instructkr/claw-code - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in ju",
-    "summary": "62311 stars | Rust | The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude",
-    "source": "GitHub Trending",
-    "url": "https://github.com/instructkr/claw-code",
-    "date": "2026-03-31",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 41
-  },
-  {
-    "title": "ChinaSiro/claude-code-sourcemap - No description",
-    "summary": "4773 stars | TypeScript | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ChinaSiro/claude-code-sourcemap",
-    "date": "2026-03-31",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 42
-  },
-  {
-    "title": "sanbuphy/claude-code-source-code - Claude Code v2.1.88 Source Code",
-    "summary": "4579 stars | TypeScript | Claude Code v2.1.88 Source Code",
-    "source": "GitHub Trending",
-    "url": "https://github.com/sanbuphy/claude-code-source-code",
-    "date": "2026-03-31",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "titanwings/colleague-skill - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！",
-    "summary": "3417 stars | Python | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！",
-    "source": "GitHub Trending",
-    "url": "https://github.com/titanwings/colleague-skill",
-    "date": "2026-03-30",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Kuberwastaken/claude-code - Claude Code in Rust & a Breakdown of How it Works",
-    "summary": "3400 stars | Rust | Claude Code in Rust & a Breakdown of How it Works",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Kuberwastaken/claude-code",
-    "date": "2026-03-31",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
-    "summary": "I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I us",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
-    "date": "2026-01-29",
-    "tags": [
-      "Tech",
-      "Career"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Fedware: Government apps that spy harder than the apps they ban",
-    "summary": "396 points | 121 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-    "date": "2026-03-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Do your own writing",
-    "summary": "345 points | 107 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-    "date": "2026-03-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "How to turn anything into a router",
-    "summary": "577 points | 207 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://nbailey.ca/post/router/",
-    "date": "2026-03-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Show HN: Coasts – Containerized Hosts for Agents",
-    "summary": "53 points | 20 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/coast-guard/coasts",
-    "date": "2026-03-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "CodingFont: A game to help you pick a coding font",
-    "summary": "302 points | 174 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.codingfont.com/",
-    "date": "2026-03-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Halo Vision Headphones",
-    "summary": "New product launch on Product Hunt: Halo Vision Headphones",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/halo-headphones",
-    "date": "2026-03-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Goals",
-    "summary": "New product launch on Product Hunt: Goals",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/goals",
-    "date": "2026-03-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "nCompass AI Assistant",
-    "summary": "New product launch on Product Hunt: nCompass AI Assistant",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ncompass-tech",
-    "date": "2026-02-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Ollang DX",
-    "summary": "New product launch on Product Hunt: Ollang DX",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ollang-mcp-skills-sdk-api",
-    "date": "2026-03-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Invoke",
-    "summary": "New product launch on Product Hunt: Invoke",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/invoke-studio",
-    "date": "2026-03-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Latchkey",
-    "summary": "New product launch on Product Hunt: Latchkey",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/imbue-7",
-    "date": "2026-03-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "larksuite/cli - A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agen",
-    "summary": "4658 stars | Go | A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti",
-    "source": "GitHub Trending",
-    "url": "https://github.com/larksuite/cli",
-    "date": "2026-03-25",
-    "tags": [
-      "GitHub",
-      "Go"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "magnum6actual/flipoff - Free split-flap display emulator for any TV. The classic flip-board look, withou",
-    "summary": "2516 stars | JavaScript | Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/magnum6actual/flipoff",
-    "date": "2026-03-26",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "elder-plinius/G0DM0D3 - LIBERATED AI CHAT",
-    "summary": "2253 stars | TypeScript | LIBERATED AI CHAT",
-    "source": "GitHub Trending",
-    "url": "https://github.com/elder-plinius/G0DM0D3",
-    "date": "2026-03-25",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
