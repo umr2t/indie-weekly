@@ -1,34 +1,34 @@
 [
   {
-    "title": "I ported Mac OS X to the Nintendo Wii",
-    "summary": "1215 points | 212 comments on Hacker News",
+    "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+    "summary": "134 points | 32 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-    "date": "2026-04-08",
+    "url": "https://www.unfolder.app/",
+    "date": "2026-04-09",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 1
   },
   {
-    "title": "Git commands I run before reading any code",
-    "summary": "1781 points | 383 comments on Hacker News",
+    "title": "Show HN: I built a Cargo-like build tool for C/C++",
+    "summary": "116 points | 105 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-    "date": "2026-04-08",
+    "url": "https://github.com/randerson112/craft",
+    "date": "2026-04-09",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 2
   },
   {
-    "title": "They're made out of meat (1991)",
-    "summary": "401 points | 113 comments on Hacker News",
+    "title": "EFF is leaving X",
+    "summary": "1087 points | 909 comments on Hacker News",
     "source": "Hacker News",
-    "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-    "date": "2026-04-08",
+    "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+    "date": "2026-04-09",
     "tags": [
       "HN"
     ],
@@ -36,23 +36,23 @@
     "id": 3
   },
   {
-    "title": "ML promises to be profoundly weird",
-    "summary": "362 points | 398 comments on Hacker News",
+    "title": "Show HN: Druids – Build your own software factory",
+    "summary": "20 points | 1 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+    "url": "https://github.com/fulcrumresearch/druids",
     "date": "2026-04-08",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
-    "summary": "520 points | 533 comments on Hacker News",
+    "title": "Help Keep Thunderbird Alive",
+    "summary": "516 points | 348 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
-    "date": "2026-04-08",
+    "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+    "date": "2026-04-09",
     "tags": [
       "HN"
     ],
@@ -60,47 +60,47 @@
     "id": 5
   },
   {
-    "title": "Show HN: Is Hormuz open yet?",
-    "summary": "236 points | 103 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ishormuzopenyet.com/",
+    "title": "Zoneless",
+    "summary": "New product launch on Product Hunt: Zoneless",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/zoneless-2",
     "date": "2026-04-08",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
-    "summary": "81 points | 111 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "http://oj-hn.com/",
+    "title": "Chaterm",
+    "summary": "New product launch on Product Hunt: Chaterm",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/chaterm",
     "date": "2026-04-08",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
-    "summary": "14 points | 23 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://thales.me/posts/why-i-built-snapstate/",
-    "date": "2026-04-08",
+    "title": "Plow",
+    "summary": "New product launch on Product Hunt: Plow",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/plow-easily-install-openclaw-on-a-mac",
+    "date": "2026-04-09",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "Screenslice",
-    "summary": "New product launch on Product Hunt: Screenslice",
+    "title": "Onform.work",
+    "summary": "New product launch on Product Hunt: Onform.work",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/screenslice",
-    "date": "2026-04-04",
+    "url": "https://www.producthunt.com/products/onform-work",
+    "date": "2026-04-08",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Hire Roger",
-    "summary": "New product launch on Product Hunt: Hire Roger",
+    "title": "Brila",
+    "summary": "New product launch on Product Hunt: Brila",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hire-roger",
-    "date": "2026-04-07",
+    "url": "https://www.producthunt.com/products/brila-2",
+    "date": "2026-03-10",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Brieflee",
-    "summary": "New product launch on Product Hunt: Brieflee",
+    "title": "Cred",
+    "summary": "New product launch on Product Hunt: Cred",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/brieflee",
-    "date": "2024-06-26",
+    "url": "https://www.producthunt.com/products/cred-3",
+    "date": "2026-04-09",
     "tags": [
       "Product Launch"
     ],
@@ -132,46 +132,49 @@
     "id": 11
   },
   {
-    "title": "Zoho Projects Infinity.ai",
-    "summary": "New product launch on Product Hunt: Zoho Projects Infinity.ai",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/zoho-projects",
-    "date": "2026-04-07",
+    "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "summary": "35756 stars | Python | The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/milla-jovovich/mempalace",
+    "date": "2026-04-05",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "Python"
     ],
-    "hot": false,
+    "hot": true,
     "id": 12
   },
   {
-    "title": "Keeby",
-    "summary": "New product launch on Product Hunt: Keeby",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/keeby",
-    "date": "2026-04-07",
+    "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,",
+    "summary": "27718 stars | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/santifer/career-ops",
+    "date": "2026-04-04",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "JavaScript"
     ],
-    "hot": false,
+    "hot": true,
     "id": 13
   },
   {
-    "title": "Flint",
-    "summary": "New product launch on Product Hunt: Flint",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/flint-6",
-    "date": "2026-04-06",
+    "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% ",
+    "summary": "8838 stars | Python | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "source": "GitHub Trending",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "date": "2026-04-04",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "Python"
     ],
-    "hot": false,
+    "hot": true,
     "id": 14
   },
   {
-    "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
-    "summary": "27292 stars | Python | The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "title": "alchaincyf/nuwa-skill - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+    "summary": "5503 stars | Python | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
     "source": "GitHub Trending",
-    "url": "https://github.com/milla-jovovich/mempalace",
+    "url": "https://github.com/alchaincyf/nuwa-skill",
     "date": "2026-04-05",
     "tags": [
       "GitHub",
@@ -181,60 +184,8 @@
     "id": 15
   },
   {
-    "title": "santifer/career-ops - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,",
-    "summary": "24531 stars | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/santifer/career-ops",
-    "date": "2026-04-04",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid",
-    "summary": "12799 stars | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-    "source": "GitHub Trending",
-    "url": "https://github.com/safishamsi/graphify",
-    "date": "2026-04-03",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
-    "title": "JuliusBrussee/caveman - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% ",
-    "summary": "7504 stars | Python | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "source": "GitHub Trending",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "date": "2026-04-04",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
-    "title": "alchaincyf/nuwa-skill - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-    "summary": "3840 stars | Python | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/alchaincyf/nuwa-skill",
-    "date": "2026-04-05",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 19
-  },
-  {
     "title": "farzaa/clicky - No description",
-    "summary": "2229 stars | Swift | ",
+    "summary": "3149 stars | Swift | ",
     "source": "GitHub Trending",
     "url": "https://github.com/farzaa/clicky",
     "date": "2026-04-07",
@@ -243,7 +194,20 @@
       "Swift"
     ],
     "hot": true,
-    "id": 20
+    "id": 16
+  },
+  {
+    "title": "alchaincyf/zhangxuefeng-skill - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "summary": "1982 stars | Unknown | 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "date": "2026-04-05",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 17
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +220,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 18
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +233,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 19
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +246,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 20
   },
   {
     "title": "The Pulse: is GitHub still best for AI-native development?",
@@ -295,7 +259,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 21
   },
   {
     "title": "Is the FDE role becoming less desirable?",
@@ -308,7 +272,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 22
   },
   {
     "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
@@ -321,7 +285,188 @@
       "Career"
     ],
     "hot": false,
+    "id": 23
+  },
+  {
+    "title": "I ported Mac OS X to the Nintendo Wii",
+    "summary": "1215 points | 212 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+    "date": "2026-04-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 24
+  },
+  {
+    "title": "Git commands I run before reading any code",
+    "summary": "1781 points | 383 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+    "date": "2026-04-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "They're made out of meat (1991)",
+    "summary": "401 points | 113 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+    "date": "2026-04-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "ML promises to be profoundly weird",
+    "summary": "362 points | 398 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+    "date": "2026-04-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+    "summary": "520 points | 533 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+    "date": "2026-04-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Is Hormuz open yet?",
+    "summary": "236 points | 103 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.ishormuzopenyet.com/",
+    "date": "2026-04-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
+    "summary": "81 points | 111 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "http://oj-hn.com/",
+    "date": "2026-04-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+    "summary": "14 points | 23 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://thales.me/posts/why-i-built-snapstate/",
+    "date": "2026-04-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Screenslice",
+    "summary": "New product launch on Product Hunt: Screenslice",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/screenslice",
+    "date": "2026-04-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Hire Roger",
+    "summary": "New product launch on Product Hunt: Hire Roger",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/hire-roger",
+    "date": "2026-04-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Brieflee",
+    "summary": "New product launch on Product Hunt: Brieflee",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/brieflee",
+    "date": "2024-06-26",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Zoho Projects Infinity.ai",
+    "summary": "New product launch on Product Hunt: Zoho Projects Infinity.ai",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/zoho-projects",
+    "date": "2026-04-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Keeby",
+    "summary": "New product launch on Product Hunt: Keeby",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/keeby",
+    "date": "2026-04-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Flint",
+    "summary": "New product launch on Product Hunt: Flint",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/flint-6",
+    "date": "2026-04-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "safishamsi/graphify - AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid",
+    "summary": "12799 stars | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+    "source": "GitHub Trending",
+    "url": "https://github.com/safishamsi/graphify",
+    "date": "2026-04-03",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 38
   },
   {
     "title": "Show HN: A game where you build a GPU",
@@ -333,7 +478,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 39
   },
   {
     "title": "How many products does Microsoft have named 'Copilot'?",
@@ -345,7 +490,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 40
   },
   {
     "title": "Embarrassingly simple self-distillation improves code generation",
@@ -357,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 41
   },
   {
     "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
@@ -369,7 +514,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 42
   },
   {
     "title": "Show HN: I made open source, zero power PCB hackathon badges",
@@ -381,7 +526,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 43
   },
   {
     "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
@@ -393,7 +538,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 44
   },
   {
     "title": "The Indie Internet Index – submit your favorite sites",
@@ -405,7 +550,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 45
   },
   {
     "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
@@ -417,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 46
   },
   {
     "title": "Sleek Analytics",
@@ -429,7 +574,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 47
   },
   {
     "title": "Google Vids 2.0",
@@ -441,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 48
   },
   {
     "title": "Faahh",
@@ -453,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 49
   },
   {
     "title": "Mercury Edit 2",
@@ -465,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 50
   },
   {
     "title": "Surf Social Websites",
@@ -477,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 51
   },
   {
     "title": "OpenRouter Model Fusion",
@@ -489,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 52
   },
   {
     "title": "ultraworkers/claw-code - The repo is finally unlocked. enjoy the party! The fastest repo in history to su",
@@ -502,7 +647,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 41
+    "id": 53
   },
   {
     "title": "Gitlawb/openclaude - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama",
@@ -515,7 +660,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 42
+    "id": 54
   },
   {
     "title": "claude-code-best/claude-code - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 b",
@@ -528,7 +673,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 43
+    "id": 55
   },
   {
     "title": "openai/codex-plugin-cc - Use Codex from Claude Code to review code or delegate tasks.",
@@ -541,7 +686,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 44
+    "id": 56
   },
   {
     "title": "sanbuphy/learn-coding-agent - Research on Coding Agents",
@@ -554,7 +699,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 45
+    "id": 57
   },
   {
     "title": "VoltAgent/awesome-design-md - Collection of DESIGN.md files that capture design systems from popular websites.",
@@ -567,7 +712,7 @@
       "HTML"
     ],
     "hot": true,
-    "id": 46
+    "id": 58
   },
   {
     "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
@@ -579,7 +724,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 47
+    "id": 59
   },
   {
     "title": "OpenAI closes funding round at an $852B valuation",
@@ -591,150 +736,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-    "summary": "79 points | 35 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://prismml.com/",
-    "date": "2026-03-31",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Open source CAD in the browser (Solvespace)",
-    "summary": "281 points | 92 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://solvespace.com/webver.pl",
-    "date": "2026-03-31",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
-    "summary": "345 points | 79 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
-    "date": "2026-03-31",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
-    "summary": "96 points | 31 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/timescale/pg_textsearch",
-    "date": "2026-03-31",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
-    "summary": "109 points | 27 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/jkool702/forkrun",
-    "date": "2026-03-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "GitHub's Historic Uptime",
-    "summary": "387 points | 101 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://damrnelson.github.io/github-historical-uptime/",
-    "date": "2026-03-31",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "MacMonitor",
-    "summary": "New product launch on Product Hunt: MacMonitor",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/macmonitor",
-    "date": "2026-03-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "FireAPI",
-    "summary": "New product launch on Product Hunt: FireAPI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fireapi",
-    "date": "2026-03-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "IndieEvent",
-    "summary": "New product launch on Product Hunt: IndieEvent",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/indieevent",
-    "date": "2026-03-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Relacan",
-    "summary": "New product launch on Product Hunt: Relacan",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/relacan",
-    "date": "2026-03-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Jupid",
-    "summary": "New product launch on Product Hunt: Jupid",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/jupid",
-    "date": "2026-03-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "UNCHIKUN",
-    "summary": "New product launch on Product Hunt: UNCHIKUN",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/unchikun-poop-tracker",
-    "date": "2026-03-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
