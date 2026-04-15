@@ -1,10 +1,10 @@
 [
   {
-    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-    "summary": "669 points | 185 comments on Hacker News",
+    "title": "Claude Code Routines",
+    "summary": "409 points | 252 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-    "date": "2026-04-13",
+    "url": "https://code.claude.com/docs/en/routines",
+    "date": "2026-04-14",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "GitHub Stacked PRs",
-    "summary": "400 points | 241 comments on Hacker News",
+    "title": "Rare concert recordings are landing on the Internet Archive",
+    "summary": "513 points | 153 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.github.com/gh-stack/",
-    "date": "2026-04-13",
+    "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+    "date": "2026-04-14",
     "tags": [
       "HN"
     ],
@@ -24,47 +24,47 @@
     "id": 2
   },
   {
-    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-    "summary": "352 points | 171 comments on Hacker News",
+    "title": "Picasso's Guernica (Gigapixel)",
+    "summary": "37 points | 9 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-    "date": "2026-04-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 3
-  },
-  {
-    "title": "Servo is now available on crates.io",
-    "summary": "418 points | 137 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-    "date": "2026-04-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 4
-  },
-  {
-    "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
-    "summary": "96 points | 23 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ithihasas.in",
-    "date": "2026-04-13",
+    "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
+    "date": "2026-04-11",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 3
+  },
+  {
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "summary": "97 points | 48 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "date": "2026-04-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 4
+  },
+  {
+    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+    "summary": "478 points | 200 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
+    "date": "2026-04-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 5
   },
   {
-    "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
-    "summary": "77 points | 35 comments on Hacker News",
+    "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
+    "summary": "62 points | 23 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://spectrum.ieee.org/mems-photonics",
-    "date": "2026-04-13",
+    "url": "https://github.com/dropseed/plain",
+    "date": "2026-04-14",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Show HN: Continual Learning with .md",
-    "summary": "18 points | 9 comments on Hacker News",
+    "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
+    "summary": "954 points | 582 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/SunAndClouds/ReadMe",
-    "date": "2026-04-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 7
-  },
-  {
-    "title": "Make tmux pretty and usable (2024)",
-    "summary": "308 points | 199 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-    "date": "2026-04-13",
+    "url": "https://rareese.com/posts/backblaze/",
+    "date": "2026-04-14",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 7
+  },
+  {
+    "title": "Free, fast diagnostic tools for DNS, email authentication, and network security",
+    "summary": "22 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mrdns.com/",
+    "date": "2026-04-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 8
   },
   {
-    "title": "REasy",
-    "summary": "New product launch on Product Hunt: REasy",
+    "title": "Softr AI Co-Builder",
+    "summary": "New product launch on Product Hunt: Softr AI Co-Builder",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/reasy-2",
-    "date": "2026-04-12",
+    "url": "https://www.producthunt.com/products/softr",
+    "date": "2026-04-13",
     "tags": [
       "Product Launch"
     ],
@@ -108,10 +108,10 @@
     "id": 9
   },
   {
-    "title": "Vekta",
-    "summary": "New product launch on Product Hunt: Vekta",
+    "title": "CatDoes v4",
+    "summary": "New product launch on Product Hunt: CatDoes v4",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vekta",
+    "url": "https://www.producthunt.com/products/catdoes-2",
     "date": "2026-04-12",
     "tags": [
       "Product Launch"
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Legitify",
-    "summary": "New product launch on Product Hunt: Legitify",
+    "title": "Anamap",
+    "summary": "New product launch on Product Hunt: Anamap",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/legitify",
-    "date": "2026-04-12",
+    "url": "https://www.producthunt.com/products/anamap",
+    "date": "2026-04-10",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Krisp Accent Converter for YouTube",
-    "summary": "New product launch on Product Hunt: Krisp Accent Converter for YouTube",
+    "title": "FC Tactix",
+    "summary": "New product launch on Product Hunt: FC Tactix",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/krisp",
-    "date": "2026-04-01",
+    "url": "https://www.producthunt.com/products/fc-tactix",
+    "date": "2026-04-13",
     "tags": [
       "Product Launch"
     ],
@@ -144,10 +144,10 @@
     "id": 12
   },
   {
-    "title": "Open Comet",
-    "summary": "New product launch on Product Hunt: Open Comet",
+    "title": "Creativly",
+    "summary": "New product launch on Product Hunt: Creativly",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/open-comet",
+    "url": "https://www.producthunt.com/products/creativly",
     "date": "2026-04-12",
     "tags": [
       "Product Launch"
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "ContextPool",
-    "summary": "New product launch on Product Hunt: ContextPool",
+    "title": "Hapax",
+    "summary": "New product launch on Product Hunt: Hapax",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/contextpool",
-    "date": "2026-04-12",
+    "url": "https://www.producthunt.com/products/hapax",
+    "date": "2026-04-03",
     "tags": [
       "Product Launch"
     ],
@@ -168,21 +168,8 @@
     "id": 14
   },
   {
-    "title": "alchaincyf/hermes-agent-orange-book - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-    "summary": "2288 stars | Unknown | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-    "source": "GitHub Trending",
-    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-    "date": "2026-04-08",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. ",
-    "summary": "2033 stars | Python | Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+    "summary": "2449 stars | Python | Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
     "source": "GitHub Trending",
     "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
     "date": "2026-04-10",
@@ -191,11 +178,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 16
+    "id": 15
   },
   {
     "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-    "summary": "1191 stars | JavaScript | Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
+    "summary": "1370 stars | JavaScript | Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
     "source": "GitHub Trending",
     "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
     "date": "2026-04-09",
@@ -204,14 +191,27 @@
       "JavaScript"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "AgentSeal/codeburn - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code an",
+    "summary": "887 stars | TypeScript | See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/AgentSeal/codeburn",
+    "date": "2026-04-13",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
     "id": 17
   },
   {
-    "title": "nashsu/llm_wiki - LLM Wiki is a cross-platform desktop application that turns your documents into ",
-    "summary": "1135 stars | TypeScript | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve",
+    "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+    "summary": "882 stars | TypeScript | Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
     "source": "GitHub Trending",
-    "url": "https://github.com/nashsu/llm_wiki",
-    "date": "2026-04-08",
+    "url": "https://github.com/joeynyc/hermes-hudui",
+    "date": "2026-04-09",
     "tags": [
       "GitHub",
       "TypeScript"
@@ -220,24 +220,24 @@
     "id": 18
   },
   {
-    "title": "momenbasel/PureMac - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Nat",
-    "summary": "903 stars | Swift | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+    "title": "vyfor/rattles - 🪇 Minimal terminal spinners for Rust",
+    "summary": "852 stars | Rust | 🪇 Minimal terminal spinners for Rust",
     "source": "GitHub Trending",
-    "url": "https://github.com/momenbasel/PureMac",
-    "date": "2026-04-08",
+    "url": "https://github.com/vyfor/rattles",
+    "date": "2026-04-10",
     "tags": [
       "GitHub",
-      "Swift"
+      "Rust"
     ],
     "hot": true,
     "id": 19
   },
   {
-    "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-    "summary": "833 stars | Python | Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+    "title": "OpenMOSS/MOSS-TTS-Nano - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from M",
+    "summary": "744 stars | Python | MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generat",
     "source": "GitHub Trending",
-    "url": "https://github.com/joeynyc/hermes-hudui",
-    "date": "2026-04-09",
+    "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+    "date": "2026-04-10",
     "tags": [
       "GitHub",
       "Python"
@@ -324,6 +324,213 @@
     "id": 26
   },
   {
+    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+    "summary": "669 points | 185 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+    "date": "2026-04-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "GitHub Stacked PRs",
+    "summary": "400 points | 241 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.github.com/gh-stack/",
+    "date": "2026-04-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "summary": "352 points | 171 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "date": "2026-04-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Servo is now available on crates.io",
+    "summary": "418 points | 137 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+    "date": "2026-04-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+    "summary": "96 points | 23 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.ithihasas.in",
+    "date": "2026-04-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+    "summary": "77 points | 35 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/mems-photonics",
+    "date": "2026-04-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Continual Learning with .md",
+    "summary": "18 points | 9 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/SunAndClouds/ReadMe",
+    "date": "2026-04-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Make tmux pretty and usable (2024)",
+    "summary": "308 points | 199 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+    "date": "2026-04-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "REasy",
+    "summary": "New product launch on Product Hunt: REasy",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/reasy-2",
+    "date": "2026-04-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Vekta",
+    "summary": "New product launch on Product Hunt: Vekta",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vekta",
+    "date": "2026-04-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Legitify",
+    "summary": "New product launch on Product Hunt: Legitify",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/legitify",
+    "date": "2026-04-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Krisp Accent Converter for YouTube",
+    "summary": "New product launch on Product Hunt: Krisp Accent Converter for YouTube",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/krisp",
+    "date": "2026-04-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Open Comet",
+    "summary": "New product launch on Product Hunt: Open Comet",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/open-comet",
+    "date": "2026-04-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "ContextPool",
+    "summary": "New product launch on Product Hunt: ContextPool",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/contextpool",
+    "date": "2026-04-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "alchaincyf/hermes-agent-orange-book - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
+    "summary": "2288 stars | Unknown | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
+    "source": "GitHub Trending",
+    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+    "date": "2026-04-08",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "nashsu/llm_wiki - LLM Wiki is a cross-platform desktop application that turns your documents into ",
+    "summary": "1135 stars | TypeScript | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve",
+    "source": "GitHub Trending",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "date": "2026-04-08",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "momenbasel/PureMac - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Nat",
+    "summary": "903 stars | Swift | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/momenbasel/PureMac",
+    "date": "2026-04-08",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
     "title": "Bring Back Idiomatic Design (2023)",
     "summary": "452 points | 230 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 45
   },
   {
     "title": "The peril of laziness lost",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 47
   },
   {
     "title": "Anthropic downgraded cache TTL on March 6th",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Seven countries now generate 100% of their electricity from renewable energy",
@@ -393,7 +600,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Show HN: Claudraband – Claude Code for the Power User",
@@ -405,7 +612,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 50
   },
   {
     "title": "Exploiting the most prominent AI agent benchmarks",
@@ -417,7 +624,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 51
   },
   {
     "title": "R0Y",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Layered",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Interactive Simulations in Gemini",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "Nicelydone MCP",
@@ -465,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "Ray",
@@ -477,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "Edgee Codex Compressor",
@@ -489,7 +696,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "farzaa/clicky - No description",
@@ -502,7 +709,7 @@
       "Swift"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "mattmireles/gemma-tuner-multimodal - Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyT",
@@ -515,7 +722,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "1D Chess",
@@ -525,214 +732,6 @@
     "date": "2026-04-10",
     "tags": [
       "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-    "summary": "392 points | 109 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-    "date": "2026-04-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Watgo – A WebAssembly Toolkit for Go",
-    "summary": "74 points | 5 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
-    "date": "2026-04-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
-    "summary": "50 points | 46 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://twill.ai",
-    "date": "2026-04-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
-    "summary": "104 points | 20 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://fluidcad.io/",
-    "date": "2026-04-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "The Bra-and-Girdle Maker That Fashioned the Impossible for NASA",
-    "summary": "23 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/",
-    "date": "2026-04-09",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "You can't trust macOS Privacy and Security settings",
-    "summary": "425 points | 148 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-    "date": "2026-04-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Show HN: Eve – Managed OpenClaw for work",
-    "summary": "27 points | 21 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://eve.new/login",
-    "date": "2026-04-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Buddi",
-    "summary": "New product launch on Product Hunt: Buddi",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/buddi-living-in-the-notch",
-    "date": "2026-04-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Complexity Indicator",
-    "summary": "New product launch on Product Hunt: Complexity Indicator",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/complexity-indicator",
-    "date": "2026-04-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Inbox Autopilot by Dimension",
-    "summary": "New product launch on Product Hunt: Inbox Autopilot by Dimension",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dimension-2",
-    "date": "2026-04-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Perplexity Finance",
-    "summary": "New product launch on Product Hunt: Perplexity Finance",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/perplexity-ai",
-    "date": "2026-04-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Drift",
-    "summary": "New product launch on Product Hunt: Drift",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/drift-journal-that-lets-go",
-    "date": "2026-04-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Google Finance",
-    "summary": "New product launch on Product Hunt: Google Finance",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google",
-    "date": "2026-04-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "milla-jovovich/mempalace - The highest-scoring AI memory system ever benchmarked. And it's free.",
-    "summary": "40067 stars | Python | The highest-scoring AI memory system ever benchmarked. And it's free.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/milla-jovovich/mempalace",
-    "date": "2026-04-05",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "alchaincyf/nuwa-skill - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-    "summary": "6614 stars | Python | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/alchaincyf/nuwa-skill",
-    "date": "2026-04-05",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "alchaincyf/zhangxuefeng-skill - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-    "summary": "3102 stars | Unknown | 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-    "date": "2026-04-05",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "xixu-me/awesome-persona-distill-skills - 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, r",
-    "summary": "2845 stars | JavaScript | 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-    "source": "GitHub Trending",
-    "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
-    "date": "2026-04-06",
-    "tags": [
-      "GitHub",
-      "JavaScript"
     ],
     "hot": true,
     "id": 60
