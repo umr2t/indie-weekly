@@ -1,10 +1,10 @@
 [
   {
-    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-    "summary": "420 points | 426 comments on Hacker News",
+    "title": "Vercel April 2026 security incident",
+    "summary": "516 points | 311 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://tokens.billchambers.me/leaderboard",
-    "date": "2026-04-18",
+    "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+    "date": "2026-04-19",
     "tags": [
       "HN"
     ],
@@ -12,47 +12,47 @@
     "id": 1
   },
   {
-    "title": "Why Japan has such good railways",
-    "summary": "302 points | 304 comments on Hacker News",
+    "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
+    "summary": "16 points | 0 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-    "date": "2026-04-18",
+    "url": "https://github.com/shivampkumar/trellis-mac",
+    "date": "2026-04-20",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 2
   },
   {
-    "title": "Migrating from DigitalOcean to Hetzner",
-    "summary": "674 points | 348 comments on Hacker News",
+    "title": "Show HN: A working reference implementation of context engineering",
+    "summary": "21 points | 6 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-    "date": "2026-04-18",
+    "url": "https://github.com/outcomeops/context-engineering",
+    "date": "2026-04-17",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "State of Kdenlive",
-    "summary": "333 points | 112 comments on Hacker News",
+    "title": "Show HN: Faceoff – A terminal UI for following NHL games",
+    "summary": "96 points | 33 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://kdenlive.org/news/2026/state-2026/",
-    "date": "2026-04-18",
+    "url": "https://www.vincentgregoire.com/faceoff/",
+    "date": "2026-04-19",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Michael Rabin has died",
-    "summary": "387 points | 80 comments on Hacker News",
+    "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+    "summary": "527 points | 136 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
-    "date": "2026-04-15",
+    "url": "https://archive.org/details/byte-magazine-1975-09",
+    "date": "2026-04-17",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
-    "summary": "91 points | 34 comments on Hacker News",
+    "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+    "summary": "158 points | 67 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/drasimwagan/mdv",
-    "date": "2026-04-18",
+    "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+    "date": "2026-04-19",
     "tags": [
       "HN"
     ],
@@ -72,23 +72,23 @@
     "id": 6
   },
   {
-    "title": "My first impressions on ROCm and Strix Halo",
-    "summary": "10 points | 0 comments on Hacker News",
+    "title": "Notion leaks email addresses of all editors of any public page",
+    "summary": "322 points | 109 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
-    "date": "2026-04-18",
+    "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+    "date": "2026-04-19",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean",
-    "summary": "5 points | 0 comments on Hacker News",
+    "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+    "summary": "87 points | 43 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/mmaaz-git/sostactic",
-    "date": "2026-04-18",
+    "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
+    "date": "2026-04-19",
     "tags": [
       "HN"
     ],
@@ -96,10 +96,10 @@
     "id": 8
   },
   {
-    "title": "Claude Design by Anthropic Labs",
-    "summary": "New product launch on Product Hunt: Claude Design by Anthropic Labs",
+    "title": "Gemini app for Mac",
+    "summary": "New product launch on Product Hunt: Gemini app for Mac",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/claude",
+    "url": "https://www.producthunt.com/products/gemini-6",
     "date": "2026-04-17",
     "tags": [
       "Product Launch"
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "GPT‑Rosalind",
-    "summary": "New product launch on Product Hunt: GPT‑Rosalind",
+    "title": "Avina",
+    "summary": "New product launch on Product Hunt: Avina",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openai",
-    "date": "2026-04-16",
+    "url": "https://www.producthunt.com/products/avina-2",
+    "date": "2026-04-13",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "ChatGPT Shopping",
-    "summary": "New product launch on Product Hunt: ChatGPT Shopping",
+    "title": "Verdent 2.0",
+    "summary": "New product launch on Product Hunt: Verdent 2.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chatgpt-shopping",
-    "date": "2026-03-24",
+    "url": "https://www.producthunt.com/products/verdent-deck",
+    "date": "2026-04-16",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Android CLI",
-    "summary": "New product launch on Product Hunt: Android CLI",
+    "title": "Creator OS",
+    "summary": "New product launch on Product Hunt: Creator OS",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/android-cli",
-    "date": "2026-04-16",
+    "url": "https://www.producthunt.com/products/creator-os-3",
+    "date": "2026-04-18",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Lounge",
-    "summary": "New product launch on Product Hunt: Lounge",
+    "title": "Assemble",
+    "summary": "New product launch on Product Hunt: Assemble",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lounge-2",
-    "date": "2026-04-17",
+    "url": "https://www.producthunt.com/products/assemble-2",
+    "date": "2026-04-12",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "CapyPlan",
-    "summary": "New product launch on Product Hunt: CapyPlan",
+    "title": "Fixa.dev",
+    "summary": "New product launch on Product Hunt: Fixa.dev",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
-    "date": "2026-04-17",
+    "url": "https://www.producthunt.com/products/fixa-dev",
+    "date": "2026-04-19",
     "tags": [
       "Product Launch"
     ],
@@ -168,24 +168,24 @@
     "id": 14
   },
   {
-    "title": "getagentseal/codeburn - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C",
-    "summary": "2717 stars | TypeScript | See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+    "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "summary": "2646 stars | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data",
     "source": "GitHub Trending",
-    "url": "https://github.com/getagentseal/codeburn",
-    "date": "2026-04-13",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "date": "2026-04-15",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "Python"
     ],
     "hot": true,
     "id": 15
   },
   {
-    "title": "Robbyant/lingbot-map - A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-    "summary": "1895 stars | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "title": "browser-use/browser-harness - Self-healing browser harness that enables LLMs to complete any task.",
+    "summary": "2220 stars | Python | Self-healing browser harness that enables LLMs to complete any task.",
     "source": "GitHub Trending",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "date": "2026-04-15",
+    "url": "https://github.com/browser-use/browser-harness",
+    "date": "2026-04-17",
     "tags": [
       "GitHub",
       "Python"
@@ -195,7 +195,7 @@
   },
   {
     "title": "vercel-labs/wterm - A terminal emulator for the web",
-    "summary": "1555 stars | TypeScript | A terminal emulator for the web",
+    "summary": "2078 stars | TypeScript | A terminal emulator for the web",
     "source": "GitHub Trending",
     "url": "https://github.com/vercel-labs/wterm",
     "date": "2026-04-14",
@@ -208,7 +208,7 @@
   },
   {
     "title": "Nightmare-Eclipse/RedSun - The Red Sun vulnerability repository",
-    "summary": "1500 stars | C++ | The Red Sun vulnerability repository",
+    "summary": "1573 stars | C++ | The Red Sun vulnerability repository",
     "source": "GitHub Trending",
     "url": "https://github.com/Nightmare-Eclipse/RedSun",
     "date": "2026-04-15",
@@ -220,21 +220,21 @@
     "id": 18
   },
   {
-    "title": "alchaincyf/darwin-skill - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous",
-    "summary": "1191 stars | HTML | 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
+    "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first",
+    "summary": "1466 stars | Python | A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
     "source": "GitHub Trending",
-    "url": "https://github.com/alchaincyf/darwin-skill",
-    "date": "2026-04-13",
+    "url": "https://github.com/kyegomez/OpenMythos",
+    "date": "2026-04-18",
     "tags": [
       "GitHub",
-      "HTML"
+      "Python"
     ],
     "hot": true,
     "id": 19
   },
   {
     "title": "lewislulu/html-ppt-skill - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for buil",
-    "summary": "1143 stars | HTML | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+    "summary": "1428 stars | HTML | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
     "source": "GitHub Trending",
     "url": "https://github.com/lewislulu/html-ppt-skill",
     "date": "2026-04-15",
@@ -324,6 +324,200 @@
     "id": 26
   },
   {
+    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+    "summary": "420 points | 426 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tokens.billchambers.me/leaderboard",
+    "date": "2026-04-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Why Japan has such good railways",
+    "summary": "302 points | 304 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "date": "2026-04-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Migrating from DigitalOcean to Hetzner",
+    "summary": "674 points | 348 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+    "date": "2026-04-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "State of Kdenlive",
+    "summary": "333 points | 112 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://kdenlive.org/news/2026/state-2026/",
+    "date": "2026-04-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Michael Rabin has died",
+    "summary": "387 points | 80 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+    "date": "2026-04-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+    "summary": "91 points | 34 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/drasimwagan/mdv",
+    "date": "2026-04-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "My first impressions on ROCm and Strix Halo",
+    "summary": "10 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
+    "date": "2026-04-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean",
+    "summary": "5 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/mmaaz-git/sostactic",
+    "date": "2026-04-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Claude Design by Anthropic Labs",
+    "summary": "New product launch on Product Hunt: Claude Design by Anthropic Labs",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/claude",
+    "date": "2026-04-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "GPT‑Rosalind",
+    "summary": "New product launch on Product Hunt: GPT‑Rosalind",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openai",
+    "date": "2026-04-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "ChatGPT Shopping",
+    "summary": "New product launch on Product Hunt: ChatGPT Shopping",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/chatgpt-shopping",
+    "date": "2026-03-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Android CLI",
+    "summary": "New product launch on Product Hunt: Android CLI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/android-cli",
+    "date": "2026-04-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Lounge",
+    "summary": "New product launch on Product Hunt: Lounge",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lounge-2",
+    "date": "2026-04-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "CapyPlan",
+    "summary": "New product launch on Product Hunt: CapyPlan",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
+    "date": "2026-04-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "getagentseal/codeburn - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C",
+    "summary": "2717 stars | TypeScript | See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/getagentseal/codeburn",
+    "date": "2026-04-13",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "alchaincyf/darwin-skill - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous",
+    "summary": "1191 stars | HTML | 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/alchaincyf/darwin-skill",
+    "date": "2026-04-13",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
     "title": "Claude Design",
     "summary": "824 points | 553 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Measuring Claude 4.7's tokenizer costs",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Isaac Asimov: The Last Question (1956)",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 47
   },
   {
     "title": "I built a 3D printing business and ran it for 8 months",
@@ -393,7 +587,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Ban the sale of precise geolocation",
@@ -405,7 +599,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 49
   },
   {
     "title": "Show HN: Stage – Putting humans back in control of code review",
@@ -417,7 +611,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "Arky",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "Visual PR Testing with AI",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "E.Y.E. by Expert Chase",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "Claude Opus 4.7",
@@ -465,7 +659,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Build Check (for Outsiders)",
@@ -477,7 +671,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 55
   },
   {
     "title": "Qwen3.6-35B-A3B",
@@ -489,7 +683,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 56
   },
   {
     "title": "AgentSeal/codeburn - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, C",
@@ -502,7 +696,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "Mouseww/anything-analyzer - 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-",
@@ -515,7 +709,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "browser-use/video-use - No description",
@@ -528,7 +722,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Claude Code Routines",
@@ -538,201 +732,6 @@
     "date": "2026-04-14",
     "tags": [
       "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Rare concert recordings are landing on the Internet Archive",
-    "summary": "513 points | 153 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-    "date": "2026-04-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Picasso's Guernica (Gigapixel)",
-    "summary": "37 points | 9 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
-    "date": "2026-04-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
-    "summary": "97 points | 48 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-    "date": "2026-04-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-    "summary": "478 points | 200 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-    "date": "2026-04-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
-    "summary": "62 points | 23 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/dropseed/plain",
-    "date": "2026-04-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
-    "summary": "954 points | 582 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://rareese.com/posts/backblaze/",
-    "date": "2026-04-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Free, fast diagnostic tools for DNS, email authentication, and network security",
-    "summary": "22 points | 0 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mrdns.com/",
-    "date": "2026-04-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Softr AI Co-Builder",
-    "summary": "New product launch on Product Hunt: Softr AI Co-Builder",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/softr",
-    "date": "2026-04-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "CatDoes v4",
-    "summary": "New product launch on Product Hunt: CatDoes v4",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/catdoes-2",
-    "date": "2026-04-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Anamap",
-    "summary": "New product launch on Product Hunt: Anamap",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/anamap",
-    "date": "2026-04-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "FC Tactix",
-    "summary": "New product launch on Product Hunt: FC Tactix",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fc-tactix",
-    "date": "2026-04-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Creativly",
-    "summary": "New product launch on Product Hunt: Creativly",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/creativly",
-    "date": "2026-04-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Hapax",
-    "summary": "New product launch on Product Hunt: Hapax",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hapax",
-    "date": "2026-04-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "yizhiyanhua-ai/fireworks-tech-graph - Claude Code skill for generating production-quality SVG+PNG technical diagrams. ",
-    "summary": "2449 stars | Python | Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-    "date": "2026-04-10",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "QLHazyCoder/codex-oauth-automation-extension - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-    "summary": "1370 stars | JavaScript | Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-    "source": "GitHub Trending",
-    "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
-    "date": "2026-04-09",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "joeynyc/hermes-hudui - Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-    "summary": "882 stars | TypeScript | Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-    "source": "GitHub Trending",
-    "url": "https://github.com/joeynyc/hermes-hudui",
-    "date": "2026-04-09",
-    "tags": [
-      "GitHub",
-      "TypeScript"
     ],
     "hot": true,
     "id": 60
