@@ -1,10 +1,10 @@
 [
   {
-    "title": "GPT-5.5",
-    "summary": "1066 points | 717 comments on Hacker News",
+    "title": "Google plans to invest up to $40B in Anthropic",
+    "summary": "306 points | 369 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "date": "2026-04-23",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "date": "2026-04-24",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-    "summary": "637 points | 309 comments on Hacker News",
+    "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+    "summary": "351 points | 90 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "date": "2026-04-23",
+    "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+    "date": "2026-04-24",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
-    "summary": "83 points | 28 comments on Hacker News",
+    "title": "Show HN: I've built a nice home server OS",
+    "summary": "52 points | 25 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "date": "2026-04-23",
+    "url": "https://lightwhale.asklandd.dk/",
+    "date": "2026-04-24",
     "tags": [
       "HN"
     ],
@@ -36,23 +36,23 @@
     "id": 3
   },
   {
-    "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
-    "summary": "183 points | 84 comments on Hacker News",
+    "title": "Spinel: Ruby AOT Native Compiler",
+    "summary": "309 points | 82 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
-    "date": "2026-04-23",
+    "url": "https://github.com/matz/spinel",
+    "date": "2026-04-24",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 4
   },
   {
-    "title": "An update on recent Claude Code quality reports",
-    "summary": "561 points | 424 comments on Hacker News",
+    "title": "DeepSeek v4",
+    "summary": "1802 points | 1406 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "date": "2026-04-23",
+    "url": "https://api-docs.deepseek.com/",
+    "date": "2026-04-24",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "I am building a cloud",
-    "summary": "987 points | 487 comments on Hacker News",
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "summary": "768 points | 463 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://crawshaw.io/blog/building-a-cloud",
-    "date": "2026-04-23",
+    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+    "date": "2026-04-24",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-    "summary": "66 points | 21 comments on Hacker News",
+    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+    "summary": "212 points | 116 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/Infisical/agent-vault",
-    "date": "2026-04-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 7
-  },
-  {
-    "title": "Palantir employees are starting to wonder if they're the bad guys",
-    "summary": "715 points | 493 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-    "date": "2026-04-23",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "date": "2026-04-24",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 7
+  },
+  {
+    "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+    "summary": "78 points | 34 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/browser-use/browser-harness",
+    "date": "2026-04-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Speakmac",
-    "summary": "New product launch on Product Hunt: Speakmac",
+    "title": "Ask Product Hunt AI",
+    "summary": "New product launch on Product Hunt: Ask Product Hunt AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/speakmac",
-    "date": "2026-04-22",
+    "url": "https://www.producthunt.com/products/producthunt",
+    "date": "2026-04-21",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Talk to Review",
-    "summary": "New product launch on Product Hunt: Talk to Review",
+    "title": "NotchNest AI",
+    "summary": "New product launch on Product Hunt: NotchNest AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/talk-to-review",
-    "date": "2026-04-22",
+    "url": "https://www.producthunt.com/products/notchnest-quick-access-hub",
+    "date": "2026-04-23",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Monid",
-    "summary": "New product launch on Product Hunt: Monid",
+    "title": "Emotional intelligence AI for live calls",
+    "summary": "New product launch on Product Hunt: Emotional intelligence AI for live calls",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/monid",
-    "date": "2026-04-23",
+    "url": "https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
+    "date": "2026-04-10",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Kollab",
-    "summary": "New product launch on Product Hunt: Kollab",
+    "title": "BAND",
+    "summary": "New product launch on Product Hunt: BAND",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kollab-2",
-    "date": "2026-04-15",
+    "url": "https://www.producthunt.com/products/band",
+    "date": "2026-04-14",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "FocuSee 2.0",
-    "summary": "New product launch on Product Hunt: FocuSee 2.0",
+    "title": "Codex 3.0 by OpenAI",
+    "summary": "New product launch on Product Hunt: Codex 3.0 by OpenAI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/focusee",
-    "date": "2026-04-21",
+    "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
+    "date": "2026-04-23",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Claude Code /ultrareview",
-    "summary": "New product launch on Product Hunt: Claude Code /ultrareview",
+    "title": "Mozart Studio 1.0",
+    "summary": "New product launch on Product Hunt: Mozart Studio 1.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/claude-code",
-    "date": "2026-04-22",
+    "url": "https://www.producthunt.com/products/mozart-ai",
+    "date": "2026-04-23",
     "tags": [
       "Product Launch"
     ],
@@ -168,21 +168,8 @@
     "id": 14
   },
   {
-    "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first",
-    "summary": "9719 stars | Python | A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/kyegomez/OpenMythos",
-    "date": "2026-04-18",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "alchaincyf/huashu-design - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生",
-    "summary": "5455 stars | HTML | Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+    "summary": "6092 stars | HTML | Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
     "source": "GitHub Trending",
     "url": "https://github.com/alchaincyf/huashu-design",
     "date": "2026-04-19",
@@ -191,11 +178,11 @@
       "HTML"
     ],
     "hot": true,
-    "id": 16
+    "id": 15
   },
   {
     "title": "tw93/Kami - 👩‍🚒 Good content deserves good paper.",
-    "summary": "2894 stars | HTML | 👩‍🚒 Good content deserves good paper.",
+    "summary": "3047 stars | HTML | 👩‍🚒 Good content deserves good paper.",
     "source": "GitHub Trending",
     "url": "https://github.com/tw93/Kami",
     "date": "2026-04-20",
@@ -204,14 +191,27 @@
       "HTML"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "op7418/guizang-ppt-skill - A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML",
+    "summary": "1929 stars | HTML | A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/op7418/guizang-ppt-skill",
+    "date": "2026-04-23",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
     "id": 17
   },
   {
-    "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, ",
-    "summary": "2725 stars | Python | Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+    "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
+    "summary": "1071 stars | Python | A kernel library written in tilelang",
     "source": "GitHub Trending",
-    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
-    "date": "2026-04-18",
+    "url": "https://github.com/deepseek-ai/TileKernels",
+    "date": "2026-04-22",
     "tags": [
       "GitHub",
       "Python"
@@ -220,27 +220,27 @@
     "id": 18
   },
   {
-    "title": "OpenCoworkAI/open-codesign - Open-source Claude Design alternative. One-click import your Claude Code / Codex",
-    "summary": "1896 stars | TypeScript | Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Olla",
+    "title": "the-hidden-fish/advisor-ledger - No description",
+    "summary": "1058 stars | Python | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/OpenCoworkAI/open-codesign",
-    "date": "2026-04-18",
+    "url": "https://github.com/the-hidden-fish/advisor-ledger",
+    "date": "2026-04-19",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "Python"
     ],
     "hot": true,
     "id": 19
   },
   {
-    "title": "VoltAgent/awesome-claude-design - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md f",
-    "summary": "1412 stars | Unknown | Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
+    "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script wi",
+    "summary": "1053 stars | Python | Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
     "source": "GitHub Trending",
-    "url": "https://github.com/VoltAgent/awesome-claude-design",
-    "date": "2026-04-18",
+    "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+    "date": "2026-04-20",
     "tags": [
       "GitHub",
-      "Code"
+      "Python"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,226 @@
     "id": 26
   },
   {
+    "title": "GPT-5.5",
+    "summary": "1066 points | 717 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "date": "2026-04-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "summary": "637 points | 309 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+    "date": "2026-04-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+    "summary": "83 points | 28 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "date": "2026-04-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
+    "summary": "183 points | 84 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+    "date": "2026-04-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "An update on recent Claude Code quality reports",
+    "summary": "561 points | 424 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "date": "2026-04-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "I am building a cloud",
+    "summary": "987 points | 487 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://crawshaw.io/blog/building-a-cloud",
+    "date": "2026-04-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+    "summary": "66 points | 21 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/Infisical/agent-vault",
+    "date": "2026-04-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Palantir employees are starting to wonder if they're the bad guys",
+    "summary": "715 points | 493 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+    "date": "2026-04-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Speakmac",
+    "summary": "New product launch on Product Hunt: Speakmac",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/speakmac",
+    "date": "2026-04-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Talk to Review",
+    "summary": "New product launch on Product Hunt: Talk to Review",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/talk-to-review",
+    "date": "2026-04-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Monid",
+    "summary": "New product launch on Product Hunt: Monid",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/monid",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Kollab",
+    "summary": "New product launch on Product Hunt: Kollab",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/kollab-2",
+    "date": "2026-04-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "FocuSee 2.0",
+    "summary": "New product launch on Product Hunt: FocuSee 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/focusee",
+    "date": "2026-04-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Claude Code /ultrareview",
+    "summary": "New product launch on Product Hunt: Claude Code /ultrareview",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/claude-code",
+    "date": "2026-04-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first",
+    "summary": "9719 stars | Python | A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/kyegomez/OpenMythos",
+    "date": "2026-04-18",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, ",
+    "summary": "2725 stars | Python | Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+    "date": "2026-04-18",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "OpenCoworkAI/open-codesign - Open-source Claude Design alternative. One-click import your Claude Code / Codex",
+    "summary": "1896 stars | TypeScript | Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Olla",
+    "source": "GitHub Trending",
+    "url": "https://github.com/OpenCoworkAI/open-codesign",
+    "date": "2026-04-18",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
+    "title": "VoltAgent/awesome-claude-design - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md f",
+    "summary": "1412 stars | Unknown | Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/VoltAgent/awesome-claude-design",
+    "date": "2026-04-18",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 44
+  },
+  {
     "title": "Alberta startup sells no-tech tractors for half price",
     "summary": "1285 points | 454 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +553,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 45
   },
   {
     "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
@@ -345,7 +565,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 46
   },
   {
     "title": "We found a stable Firefox identifier linking all your private Tor identities",
@@ -357,7 +577,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 47
   },
   {
     "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
@@ -369,7 +589,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 48
   },
   {
     "title": "5x5 Pixel font for tiny screens",
@@ -381,7 +601,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 49
   },
   {
     "title": "Our eighth generation TPUs: two chips for the agentic era",
@@ -393,7 +613,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 50
   },
   {
     "title": "Scoring Show HN submissions for AI design patterns",
@@ -405,7 +625,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 51
   },
   {
     "title": "GitHub CLI now collects pseudoanonymous telemetry",
@@ -417,7 +637,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 52
   },
   {
     "title": "Seeknal",
@@ -429,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 53
   },
   {
     "title": "Cavalry Studio",
@@ -441,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 54
   },
   {
     "title": "Portt",
@@ -453,7 +673,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 55
   },
   {
     "title": "Iris Studio",
@@ -465,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 56
   },
   {
     "title": "Wrangle",
@@ -477,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 57
   },
   {
     "title": "Zernio Ads API",
@@ -489,20 +709,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
-  },
-  {
-    "title": "browser-use/browser-harness - Self-healing browser harness that enables LLMs to complete any task.",
-    "summary": "5056 stars | Python | Self-healing browser harness that enables LLMs to complete any task.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/browser-use/browser-harness",
-    "date": "2026-04-17",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
@@ -515,7 +722,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 42
+    "id": 59
   },
   {
     "title": "ChatGPT Images 2.0",
@@ -523,211 +730,6 @@
     "source": "Hacker News",
     "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
     "date": "2026-04-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Laws of Software Engineering",
-    "summary": "813 points | 412 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lawsofsoftwareengineering.com",
-    "date": "2026-04-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Framework Laptop 13 Pro",
-    "summary": "895 points | 502 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://frame.work/laptop13pro",
-    "date": "2026-04-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "summary": "315 points | 275 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "date": "2026-04-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Changes to GitHub Copilot individual plans",
-    "summary": "307 points | 94 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-    "date": "2026-04-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Show HN: GoModel – an open-source AI gateway in Go",
-    "summary": "159 points | 61 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/ENTERPILOT/GOModel/",
-    "date": "2026-04-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-    "summary": "240 points | 80 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://vidstudio.app/video-editor",
-    "date": "2026-04-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Show HN: Backlit Keyboard API for Python",
-    "summary": "18 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/itsmeadarsh2008/backlit-kbd",
-    "date": "2026-04-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Magic Lane",
-    "summary": "New product launch on Product Hunt: Magic Lane",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/magic-lane",
-    "date": "2026-04-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Magic Layers by Canva",
-    "summary": "New product launch on Product Hunt: Magic Layers by Canva",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/magic-layers-by-canva",
-    "date": "2026-04-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Pegkits",
-    "summary": "New product launch on Product Hunt: Pegkits",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pegkits",
-    "date": "2026-04-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "SHIFTLY",
-    "summary": "New product launch on Product Hunt: SHIFTLY",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/shiftly-2",
-    "date": "2026-04-20",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Apple Books MCP",
-    "summary": "New product launch on Product Hunt: Apple Books MCP",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/apple-books-mcp",
-    "date": "2026-04-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Chronicle",
-    "summary": "New product launch on Product Hunt: Chronicle",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openai",
-    "date": "2026-04-20",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "cathrynlavery/diagram-design - Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No ",
-    "summary": "1354 stars | HTML | Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "date": "2026-04-16",
-    "tags": [
-      "GitHub",
-      "HTML"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "John Ternus to become Apple CEO",
-    "summary": "1128 points | 582 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-    "date": "2026-04-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Jujutsu megamerges for fun and profit",
-    "summary": "117 points | 28 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
-    "date": "2026-04-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-    "summary": "525 points | 278 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-    "date": "2026-04-20",
     "tags": [
       "HN"
     ],
