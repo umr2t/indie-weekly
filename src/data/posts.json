@@ -1,10 +1,10 @@
 [
   {
-    "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-    "summary": "522 points | 86 comments on Hacker News",
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "summary": "361 points | 198 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-    "date": "2026-04-22",
+    "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "date": "2026-04-26",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Using coding assistance tools to revive projects you never were going to finish",
-    "summary": "173 points | 104 comments on Hacker News",
+    "title": "Show HN: AI memory with biological decay (52% recall)",
+    "summary": "53 points | 28 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-    "date": "2026-04-25",
+    "url": "https://github.com/sachitrafa/YourMemory",
+    "date": "2026-04-26",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-    "summary": "544 points | 318 comments on Hacker News",
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "summary": "443 points | 609 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-    "date": "2026-04-25",
+    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "date": "2026-04-26",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
-    "summary": "40 points | 35 comments on Hacker News",
+    "title": "Show HN: Startup Equity Adventure Game",
+    "summary": "13 points | 6 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://getkloak.io/",
-    "date": "2026-04-25",
+    "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+    "date": "2026-04-26",
     "tags": [
       "HN"
     ],
@@ -48,35 +48,35 @@
     "id": 4
   },
   {
-    "title": "PromptPaste",
-    "summary": "New product launch on Product Hunt: PromptPaste",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/promptpaste",
-    "date": "2026-04-18",
+    "title": "Show HN: Free textbook on engineering thermodynamics",
+    "summary": "101 points | 29 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://thermodynamicsbook.com/",
+    "date": "2026-04-26",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 5
   },
   {
-    "title": "XChat",
-    "summary": "New product launch on Product Hunt: XChat",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chat-by-x",
-    "date": "2026-04-12",
+    "title": "Show HN: Tiao, A two-player turn-based board game",
+    "summary": "27 points | 7 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://playtiao.com",
+    "date": "2026-04-26",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 6
   },
   {
-    "title": "Inrō AI",
-    "summary": "New product launch on Product Hunt: Inrō AI",
+    "title": "Claude Connectors",
+    "summary": "New product launch on Product Hunt: Claude Connectors",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/inro",
-    "date": "2026-04-21",
+    "url": "https://www.producthunt.com/products/claude-connectors",
+    "date": "2026-04-25",
     "tags": [
       "Product Launch"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "Clawdi",
-    "summary": "New product launch on Product Hunt: Clawdi",
+    "title": "GPT-5.5 by OpenAI",
+    "summary": "New product launch on Product Hunt: GPT-5.5 by OpenAI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clawdi",
-    "date": "2026-04-21",
+    "url": "https://www.producthunt.com/products/openai",
+    "date": "2026-04-25",
     "tags": [
       "Product Launch"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "MiMo-V2.5 Voice",
-    "summary": "New product launch on Product Hunt: MiMo-V2.5 Voice",
+    "title": "Happenstance",
+    "summary": "New product launch on Product Hunt: Happenstance",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mimo-v2-5-voice",
-    "date": "2026-04-23",
+    "url": "https://www.producthunt.com/products/happenstance-2",
+    "date": "2026-04-16",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "ZeroHuman.",
-    "summary": "New product launch on Product Hunt: ZeroHuman.",
+    "title": "Edgee Team",
+    "summary": "New product launch on Product Hunt: Edgee Team",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/zerohuman",
-    "date": "2026-03-10",
+    "url": "https://www.producthunt.com/products/edgee",
+    "date": "2026-04-24",
     "tags": [
       "Product Launch"
     ],
@@ -120,21 +120,32 @@
     "id": 10
   },
   {
-    "title": "tw93/Kami - 👩‍🚒 Good content deserves good paper.",
-    "summary": "3260 stars | HTML | 👩‍🚒 Good content deserves good paper.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/tw93/Kami",
-    "date": "2026-04-20",
+    "title": "QuickCompare by Trismik",
+    "summary": "New product launch on Product Hunt: QuickCompare by Trismik",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/quickcompare-by-trismik",
+    "date": "2026-04-24",
     "tags": [
-      "GitHub",
-      "HTML"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 11
   },
   {
+    "title": "Free chart generator by Embedful",
+    "summary": "New product launch on Product Hunt: Free chart generator by Embedful",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/embedful",
+    "date": "2026-04-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 12
+  },
+  {
     "title": "op7418/guizang-ppt-skill - A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML",
-    "summary": "2698 stars | HTML | A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
+    "summary": "2999 stars | HTML | A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
     "source": "GitHub Trending",
     "url": "https://github.com/op7418/guizang-ppt-skill",
     "date": "2026-04-23",
@@ -143,50 +154,11 @@
       "HTML"
     ],
     "hot": true,
-    "id": 12
-  },
-  {
-    "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script wi",
-    "summary": "1246 stars | Python | Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/masterking32/MasterHttpRelayVPN",
-    "date": "2026-04-20",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
     "id": 13
   },
   {
-    "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrie",
-    "summary": "1238 stars | JavaScript | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ConardLi/garden-skills",
-    "date": "2026-04-21",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 14
-  },
-  {
-    "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
-    "summary": "1160 stars | Python | A kernel library written in tilelang",
-    "source": "GitHub Trending",
-    "url": "https://github.com/deepseek-ai/TileKernels",
-    "date": "2026-04-22",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "Einsia/OpenChronicle - No description",
-    "summary": "1124 stars | Python | ",
+    "summary": "1422 stars | Python | ",
     "source": "GitHub Trending",
     "url": "https://github.com/Einsia/OpenChronicle",
     "date": "2026-04-21",
@@ -195,7 +167,59 @@
       "Python"
     ],
     "hot": true,
+    "id": 14
+  },
+  {
+    "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrie",
+    "summary": "1382 stars | JavaScript | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "date": "2026-04-21",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
+    "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
+    "summary": "1219 stars | Python | A kernel library written in tilelang",
+    "source": "GitHub Trending",
+    "url": "https://github.com/deepseek-ai/TileKernels",
+    "date": "2026-04-22",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 16
+  },
+  {
+    "title": "victorchen96/deepseek_v4_rolepaly_instruct - 对于DeepSeek-V4角色扮演的特殊控制指令的说明",
+    "summary": "1076 stars | Unknown | 对于DeepSeek-V4角色扮演的特殊控制指令的说明",
+    "source": "GitHub Trending",
+    "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
+    "date": "2026-04-24",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It ",
+    "summary": "1005 stars | JavaScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/openclaw/clawsweeper",
+    "date": "2026-04-23",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 18
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -208,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 17
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -221,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 18
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -234,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 21
   },
   {
     "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
@@ -247,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 20
+    "id": 22
   },
   {
     "title": "The Pulse: is GitHub still best for AI-native development?",
@@ -260,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 21
+    "id": 23
   },
   {
     "title": "Is the FDE role becoming less desirable?",
@@ -273,7 +297,153 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 24
+  },
+  {
+    "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+    "summary": "522 points | 86 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+    "date": "2026-04-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Using coding assistance tools to revive projects you never were going to finish",
+    "summary": "173 points | 104 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+    "date": "2026-04-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 26
+  },
+  {
+    "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+    "summary": "544 points | 318 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+    "date": "2026-04-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
+    "summary": "40 points | 35 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://getkloak.io/",
+    "date": "2026-04-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "PromptPaste",
+    "summary": "New product launch on Product Hunt: PromptPaste",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/promptpaste",
+    "date": "2026-04-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "XChat",
+    "summary": "New product launch on Product Hunt: XChat",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/chat-by-x",
+    "date": "2026-04-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Inrō AI",
+    "summary": "New product launch on Product Hunt: Inrō AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/inro",
+    "date": "2026-04-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Clawdi",
+    "summary": "New product launch on Product Hunt: Clawdi",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/clawdi",
+    "date": "2026-04-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "MiMo-V2.5 Voice",
+    "summary": "New product launch on Product Hunt: MiMo-V2.5 Voice",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mimo-v2-5-voice",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "ZeroHuman.",
+    "summary": "New product launch on Product Hunt: ZeroHuman.",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/zerohuman",
+    "date": "2026-03-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "tw93/Kami - 👩‍🚒 Good content deserves good paper.",
+    "summary": "3260 stars | HTML | 👩‍🚒 Good content deserves good paper.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/tw93/Kami",
+    "date": "2026-04-20",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 35
+  },
+  {
+    "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script wi",
+    "summary": "1246 stars | Python | Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+    "date": "2026-04-20",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 36
   },
   {
     "title": "Google plans to invest up to $40B in Anthropic",
@@ -285,7 +455,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 23
+    "id": 37
   },
   {
     "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
@@ -297,7 +467,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 24
+    "id": 38
   },
   {
     "title": "Show HN: I've built a nice home server OS",
@@ -309,7 +479,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 25
+    "id": 39
   },
   {
     "title": "Spinel: Ruby AOT Native Compiler",
@@ -321,7 +491,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 40
   },
   {
     "title": "DeepSeek v4",
@@ -333,7 +503,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 41
   },
   {
     "title": "I cancelled Claude: Token issues, declining quality, and poor support",
@@ -345,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
@@ -357,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 43
   },
   {
     "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
@@ -369,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 44
   },
   {
     "title": "Ask Product Hunt AI",
@@ -381,7 +551,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 45
   },
   {
     "title": "NotchNest AI",
@@ -393,7 +563,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 46
   },
   {
     "title": "Emotional intelligence AI for live calls",
@@ -405,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 47
   },
   {
     "title": "BAND",
@@ -417,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 48
   },
   {
     "title": "Codex 3.0 by OpenAI",
@@ -429,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "Mozart Studio 1.0",
@@ -441,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "alchaincyf/huashu-design - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生",
@@ -454,7 +624,7 @@
       "HTML"
     ],
     "hot": true,
-    "id": 37
+    "id": 51
   },
   {
     "title": "the-hidden-fish/advisor-ledger - No description",
@@ -467,7 +637,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 38
+    "id": 52
   },
   {
     "title": "GPT-5.5",
@@ -479,7 +649,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 53
   },
   {
     "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
@@ -491,7 +661,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 54
   },
   {
     "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
@@ -503,7 +673,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 55
   },
   {
     "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
@@ -515,7 +685,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 42
+    "id": 56
   },
   {
     "title": "An update on recent Claude Code quality reports",
@@ -527,7 +697,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 57
   },
   {
     "title": "I am building a cloud",
@@ -539,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 58
   },
   {
     "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
@@ -551,7 +721,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 45
+    "id": 59
   },
   {
     "title": "Palantir employees are starting to wonder if they're the bad guys",
@@ -559,178 +729,6 @@
     "source": "Hacker News",
     "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
     "date": "2026-04-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Speakmac",
-    "summary": "New product launch on Product Hunt: Speakmac",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/speakmac",
-    "date": "2026-04-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Talk to Review",
-    "summary": "New product launch on Product Hunt: Talk to Review",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/talk-to-review",
-    "date": "2026-04-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Monid",
-    "summary": "New product launch on Product Hunt: Monid",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/monid",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Kollab",
-    "summary": "New product launch on Product Hunt: Kollab",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kollab-2",
-    "date": "2026-04-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "FocuSee 2.0",
-    "summary": "New product launch on Product Hunt: FocuSee 2.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/focusee",
-    "date": "2026-04-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Claude Code /ultrareview",
-    "summary": "New product launch on Product Hunt: Claude Code /ultrareview",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/claude-code",
-    "date": "2026-04-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "kyegomez/OpenMythos - A theoretical reconstruction of the Claude Mythos architecture, built from first",
-    "summary": "9719 stars | Python | A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/kyegomez/OpenMythos",
-    "date": "2026-04-18",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "EvoLinkAI/awesome-gpt-image-2-prompts - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, ",
-    "summary": "2725 stars | Python | Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
-    "date": "2026-04-18",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "OpenCoworkAI/open-codesign - Open-source Claude Design alternative. One-click import your Claude Code / Codex",
-    "summary": "1896 stars | TypeScript | Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Olla",
-    "source": "GitHub Trending",
-    "url": "https://github.com/OpenCoworkAI/open-codesign",
-    "date": "2026-04-18",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "VoltAgent/awesome-claude-design - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md f",
-    "summary": "1412 stars | Unknown | Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/VoltAgent/awesome-claude-design",
-    "date": "2026-04-18",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Alberta startup sells no-tech tractors for half price",
-    "summary": "1285 points | 454 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-    "date": "2026-04-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-    "summary": "335 points | 88 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-    "date": "2026-04-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "We found a stable Firefox identifier linking all your private Tor identities",
-    "summary": "408 points | 115 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-    "date": "2026-04-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-    "summary": "676 points | 338 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-    "date": "2026-04-22",
     "tags": [
       "HN"
     ],
