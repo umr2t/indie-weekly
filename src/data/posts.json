@@ -1,10 +1,10 @@
 [
   {
-    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-    "summary": "361 points | 198 comments on Hacker News",
+    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "summary": "749 points | 660 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-    "date": "2026-04-26",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "date": "2026-04-27",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Show HN: AI memory with biological decay (52% recall)",
-    "summary": "53 points | 28 comments on Hacker News",
+    "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+    "summary": "87 points | 46 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/sachitrafa/YourMemory",
-    "date": "2026-04-26",
+    "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+    "date": "2026-04-27",
     "tags": [
       "HN"
     ],
@@ -24,83 +24,83 @@
     "id": 2
   },
   {
-    "title": "An AI agent deleted our production database. The agent's confession is below",
-    "summary": "443 points | 609 comments on Hacker News",
+    "title": "Easyduino: Open Source PCB Devboards for KiCad",
+    "summary": "173 points | 26 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-    "date": "2026-04-26",
+    "url": "https://github.com/Hanqaqa/Easyduino",
+    "date": "2026-04-27",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 3
+  },
+  {
+    "title": "Is my blue your blue?",
+    "summary": "329 points | 223 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://ismy.blue/",
+    "date": "2026-04-27",
     "tags": [
       "HN"
     ],
     "hot": true,
-    "id": 3
-  },
-  {
-    "title": "Show HN: Startup Equity Adventure Game",
-    "summary": "13 points | 6 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
-    "date": "2026-04-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 4
   },
   {
-    "title": "Show HN: Free textbook on engineering thermodynamics",
-    "summary": "101 points | 29 comments on Hacker News",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "summary": "437 points | 160 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://thermodynamicsbook.com/",
-    "date": "2026-04-26",
+    "url": "https://app.oravys.com/blog/mercor-breach-2026",
+    "date": "2026-04-27",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Show HN: Tiao, A two-player turn-based board game",
-    "summary": "27 points | 7 comments on Hacker News",
+    "title": "Men who stare at walls",
+    "summary": "446 points | 202 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://playtiao.com",
-    "date": "2026-04-26",
+    "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+    "date": "2026-04-27",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Claude Connectors",
-    "summary": "New product launch on Product Hunt: Claude Connectors",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/claude-connectors",
-    "date": "2026-04-25",
+    "title": "Show HN: AgentSwift – open-source iOS builder agent",
+    "summary": "3 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/hpennington/agentswift",
+    "date": "2026-04-28",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "GPT-5.5 by OpenAI",
-    "summary": "New product launch on Product Hunt: GPT-5.5 by OpenAI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openai",
-    "date": "2026-04-25",
+    "title": "Show HN: 49Agents – Infinite canvas IDE for AI agents",
+    "summary": "10 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/49Agents/49Agents",
+    "date": "2026-04-28",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "Happenstance",
-    "summary": "New product launch on Product Hunt: Happenstance",
+    "title": "Brew Finder",
+    "summary": "New product launch on Product Hunt: Brew Finder",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/happenstance-2",
-    "date": "2026-04-16",
+    "url": "https://www.producthunt.com/products/brew-finder",
+    "date": "2026-04-27",
     "tags": [
       "Product Launch"
     ],
@@ -108,10 +108,10 @@
     "id": 9
   },
   {
-    "title": "Edgee Team",
-    "summary": "New product launch on Product Hunt: Edgee Team",
+    "title": " Jet AI Agents",
+    "summary": "New product launch on Product Hunt:  Jet AI Agents",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/edgee",
+    "url": "https://www.producthunt.com/products/jet-admin",
     "date": "2026-04-24",
     "tags": [
       "Product Launch"
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "QuickCompare by Trismik",
-    "summary": "New product launch on Product Hunt: QuickCompare by Trismik",
+    "title": "PlayJoob",
+    "summary": "New product launch on Product Hunt: PlayJoob",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/quickcompare-by-trismik",
-    "date": "2026-04-24",
+    "url": "https://www.producthunt.com/products/playjoob",
+    "date": "2026-03-31",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Free chart generator by Embedful",
-    "summary": "New product launch on Product Hunt: Free chart generator by Embedful",
+    "title": "VIDEO AI ME",
+    "summary": "New product launch on Product Hunt: VIDEO AI ME",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/embedful",
-    "date": "2026-04-14",
+    "url": "https://www.producthunt.com/products/video-ai-me",
+    "date": "2026-04-26",
     "tags": [
       "Product Launch"
     ],
@@ -144,8 +144,32 @@
     "id": 12
   },
   {
+    "title": "GitBar",
+    "summary": "New product launch on Product Hunt: GitBar",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/gitbar-3",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
+    "title": "Logic",
+    "summary": "New product launch on Product Hunt: Logic",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/logic-ship-an-agent",
+    "date": "2026-04-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "op7418/guizang-ppt-skill - A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML",
-    "summary": "2999 stars | HTML | A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
+    "summary": "3450 stars | HTML | A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
     "source": "GitHub Trending",
     "url": "https://github.com/op7418/guizang-ppt-skill",
     "date": "2026-04-23",
@@ -154,50 +178,11 @@
       "HTML"
     ],
     "hot": true,
-    "id": 13
-  },
-  {
-    "title": "Einsia/OpenChronicle - No description",
-    "summary": "1422 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Einsia/OpenChronicle",
-    "date": "2026-04-21",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 14
-  },
-  {
-    "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrie",
-    "summary": "1382 stars | JavaScript | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ConardLi/garden-skills",
-    "date": "2026-04-21",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
     "id": 15
   },
   {
-    "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
-    "summary": "1219 stars | Python | A kernel library written in tilelang",
-    "source": "GitHub Trending",
-    "url": "https://github.com/deepseek-ai/TileKernels",
-    "date": "2026-04-22",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "victorchen96/deepseek_v4_rolepaly_instruct - 对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-    "summary": "1076 stars | Unknown | 对于DeepSeek-V4角色扮演的特殊控制指令的说明",
+    "summary": "1310 stars | Unknown | 对于DeepSeek-V4角色扮演的特殊控制指令的说明",
     "source": "GitHub Trending",
     "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
     "date": "2026-04-24",
@@ -206,11 +191,37 @@
       "Code"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "deepseek-ai/TileKernels - A kernel library written in tilelang",
+    "summary": "1282 stars | Python | A kernel library written in tilelang",
+    "source": "GitHub Trending",
+    "url": "https://github.com/deepseek-ai/TileKernels",
+    "date": "2026-04-22",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 17
   },
   {
+    "title": "freestylefly/awesome-gpt-image-2 - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
+    "summary": "1278 stars | Unknown | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
+    "source": "GitHub Trending",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "date": "2026-04-25",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
     "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It ",
-    "summary": "1005 stars | JavaScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+    "summary": "1199 stars | JavaScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
     "source": "GitHub Trending",
     "url": "https://github.com/openclaw/clawsweeper",
     "date": "2026-04-23",
@@ -219,7 +230,20 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 18
+    "id": 19
+  },
+  {
+    "title": "earthtojake/text-to-cad - An open source harness for generating CAD models",
+    "summary": "954 stars | JavaScript | An open source harness for generating CAD models",
+    "source": "GitHub Trending",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-04-22",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -232,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -245,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -258,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 23
   },
   {
     "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
@@ -271,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 24
   },
   {
     "title": "The Pulse: is GitHub still best for AI-native development?",
@@ -284,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 25
   },
   {
     "title": "Is the FDE role becoming less desirable?",
@@ -297,7 +321,177 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 26
+  },
+  {
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "summary": "361 points | 198 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "date": "2026-04-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: AI memory with biological decay (52% recall)",
+    "summary": "53 points | 28 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/sachitrafa/YourMemory",
+    "date": "2026-04-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "summary": "443 points | 609 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "date": "2026-04-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Startup Equity Adventure Game",
+    "summary": "13 points | 6 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+    "date": "2026-04-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Free textbook on engineering thermodynamics",
+    "summary": "101 points | 29 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://thermodynamicsbook.com/",
+    "date": "2026-04-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Tiao, A two-player turn-based board game",
+    "summary": "27 points | 7 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://playtiao.com",
+    "date": "2026-04-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Claude Connectors",
+    "summary": "New product launch on Product Hunt: Claude Connectors",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/claude-connectors",
+    "date": "2026-04-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "GPT-5.5 by OpenAI",
+    "summary": "New product launch on Product Hunt: GPT-5.5 by OpenAI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openai",
+    "date": "2026-04-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Happenstance",
+    "summary": "New product launch on Product Hunt: Happenstance",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/happenstance-2",
+    "date": "2026-04-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Edgee Team",
+    "summary": "New product launch on Product Hunt: Edgee Team",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/edgee",
+    "date": "2026-04-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "QuickCompare by Trismik",
+    "summary": "New product launch on Product Hunt: QuickCompare by Trismik",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/quickcompare-by-trismik",
+    "date": "2026-04-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Free chart generator by Embedful",
+    "summary": "New product launch on Product Hunt: Free chart generator by Embedful",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/embedful",
+    "date": "2026-04-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Einsia/OpenChronicle - No description",
+    "summary": "1422 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Einsia/OpenChronicle",
+    "date": "2026-04-21",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "ConardLi/garden-skills - ConardLi's open-source Skills collection, featuring web design, knowledge retrie",
+    "summary": "1382 stars | JavaScript | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "date": "2026-04-21",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
@@ -309,7 +503,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 41
   },
   {
     "title": "Using coding assistance tools to revive projects you never were going to finish",
@@ -321,7 +515,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 26
+    "id": 42
   },
   {
     "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 44
   },
   {
     "title": "PromptPaste",
@@ -357,7 +551,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 29
+    "id": 45
   },
   {
     "title": "XChat",
@@ -369,7 +563,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Inrō AI",
@@ -381,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Clawdi",
@@ -393,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 48
   },
   {
     "title": "MiMo-V2.5 Voice",
@@ -405,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "ZeroHuman.",
@@ -417,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "tw93/Kami - 👩‍🚒 Good content deserves good paper.",
@@ -430,7 +624,7 @@
       "HTML"
     ],
     "hot": true,
-    "id": 35
+    "id": 51
   },
   {
     "title": "masterking32/MasterHttpRelayVPN - Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script wi",
@@ -443,7 +637,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Google plans to invest up to $40B in Anthropic",
@@ -455,7 +649,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 37
+    "id": 53
   },
   {
     "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
@@ -467,7 +661,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Show HN: I've built a nice home server OS",
@@ -479,7 +673,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 39
+    "id": 55
   },
   {
     "title": "Spinel: Ruby AOT Native Compiler",
@@ -491,7 +685,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "DeepSeek v4",
@@ -503,7 +697,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "I cancelled Claude: Token issues, declining quality, and poor support",
@@ -515,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
@@ -527,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
@@ -539,200 +733,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Ask Product Hunt AI",
-    "summary": "New product launch on Product Hunt: Ask Product Hunt AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/producthunt",
-    "date": "2026-04-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "NotchNest AI",
-    "summary": "New product launch on Product Hunt: NotchNest AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notchnest-quick-access-hub",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Emotional intelligence AI for live calls",
-    "summary": "New product launch on Product Hunt: Emotional intelligence AI for live calls",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
-    "date": "2026-04-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "BAND",
-    "summary": "New product launch on Product Hunt: BAND",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/band",
-    "date": "2026-04-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Codex 3.0 by OpenAI",
-    "summary": "New product launch on Product Hunt: Codex 3.0 by OpenAI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Mozart Studio 1.0",
-    "summary": "New product launch on Product Hunt: Mozart Studio 1.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mozart-ai",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "alchaincyf/huashu-design - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生",
-    "summary": "6092 stars | HTML | Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
-    "source": "GitHub Trending",
-    "url": "https://github.com/alchaincyf/huashu-design",
-    "date": "2026-04-19",
-    "tags": [
-      "GitHub",
-      "HTML"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "the-hidden-fish/advisor-ledger - No description",
-    "summary": "1058 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/the-hidden-fish/advisor-ledger",
-    "date": "2026-04-19",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "GPT-5.5",
-    "summary": "1066 points | 717 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "date": "2026-04-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-    "summary": "637 points | 309 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "date": "2026-04-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
-    "summary": "83 points | 28 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "date": "2026-04-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
-    "summary": "183 points | 84 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
-    "date": "2026-04-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "An update on recent Claude Code quality reports",
-    "summary": "561 points | 424 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "date": "2026-04-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "I am building a cloud",
-    "summary": "987 points | 487 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://crawshaw.io/blog/building-a-cloud",
-    "date": "2026-04-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-    "summary": "66 points | 21 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/Infisical/agent-vault",
-    "date": "2026-04-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Palantir employees are starting to wonder if they're the bad guys",
-    "summary": "715 points | 493 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-    "date": "2026-04-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
