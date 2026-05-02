@@ -1,34 +1,34 @@
 [
   {
-    "title": "Rivian allows you to disable all internet connectivity",
-    "summary": "493 points | 182 comments on Hacker News",
+    "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+    "summary": "18 points | 3 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-    "date": "2026-04-30",
+    "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+    "date": "2026-05-01",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 1
   },
   {
-    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-    "summary": "429 points | 127 comments on Hacker News",
+    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+    "summary": "68 points | 20 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-    "date": "2026-04-30",
+    "url": "https://github.com/microsoft/lib0xc",
+    "date": "2026-05-01",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 2
   },
   {
-    "title": "CopyFail was not disclosed to distro developers?",
-    "summary": "372 points | 299 comments on Hacker News",
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "summary": "407 points | 128 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "date": "2026-04-30",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "date": "2026-05-01",
     "tags": [
       "HN"
     ],
@@ -36,23 +36,23 @@
     "id": 3
   },
   {
-    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "summary": "325 points | 111 comments on Hacker News",
+    "title": "Show HN: AI CAD Harness",
+    "summary": "63 points | 68 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "date": "2026-04-30",
+    "url": "https://fusion.adam.new/install",
+    "date": "2026-05-01",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "I built a Game Boy emulator in F#",
-    "summary": "215 points | 48 comments on Hacker News",
+    "title": "The gay jailbreak technique",
+    "summary": "374 points | 143 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-    "date": "2026-04-30",
+    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "date": "2026-05-01",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "summary": "958 points | 534 comments on Hacker News",
+    "title": "AI uses less water than the public thinks",
+    "summary": "329 points | 293 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://twitter.com/theo/status/2049645973350363168",
-    "date": "2026-04-30",
+    "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+    "date": "2026-05-01",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "How an oil refinery works",
-    "summary": "325 points | 98 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+    "title": "nudge",
+    "summary": "New product launch on Product Hunt: nudge",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nudge-26",
     "date": "2026-04-30",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "Belgium stops decommissioning nuclear power plants",
-    "summary": "753 points | 698 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+    "title": "Zed 1.0",
+    "summary": "New product launch on Product Hunt: Zed 1.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/zed",
     "date": "2026-04-30",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "MailToDock",
-    "summary": "New product launch on Product Hunt: MailToDock",
+    "title": "Postiz",
+    "summary": "New product launch on Product Hunt: Postiz",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mailtodock",
-    "date": "2026-04-30",
+    "url": "https://www.producthunt.com/products/postiz",
+    "date": "2026-04-26",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "VideoOS by Jupitrr AI",
-    "summary": "New product launch on Product Hunt: VideoOS by Jupitrr AI",
+    "title": "Bitgrain",
+    "summary": "New product launch on Product Hunt: Bitgrain",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/jupitrr",
-    "date": "2026-03-17",
+    "url": "https://www.producthunt.com/products/bitgrain",
+    "date": "2026-04-28",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Mintlify Editor",
-    "summary": "New product launch on Product Hunt: Mintlify Editor",
+    "title": "Marx Finance",
+    "summary": "New product launch on Product Hunt: Marx Finance",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mintlify",
-    "date": "2026-04-28",
+    "url": "https://www.producthunt.com/products/marx-finance",
+    "date": "2026-04-30",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Tinfoil",
-    "summary": "New product launch on Product Hunt: Tinfoil",
+    "title": "Buda",
+    "summary": "New product launch on Product Hunt: Buda",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tinfoil-private-ai-chat",
-    "date": "2026-04-28",
+    "url": "https://www.producthunt.com/products/buda-2",
+    "date": "2026-04-27",
     "tags": [
       "Product Launch"
     ],
@@ -144,32 +144,8 @@
     "id": 12
   },
   {
-    "title": "Rova AI",
-    "summary": "New product launch on Product Hunt: Rova AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rova-ai",
-    "date": "2026-02-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Tabstack",
-    "summary": "New product launch on Product Hunt: Tabstack",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tabstack",
-    "date": "2026-04-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "nexu-io/open-design - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
-    "summary": "8383 stars | TypeScript | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs",
+    "summary": "11897 stars | TypeScript | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · ",
     "source": "GitHub Trending",
     "url": "https://github.com/nexu-io/open-design",
     "date": "2026-04-28",
@@ -178,11 +154,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 15
+    "id": 13
   },
   {
     "title": "cursor/cookbook - No description",
-    "summary": "2636 stars | TypeScript | ",
+    "summary": "2964 stars | TypeScript | ",
     "source": "GitHub Trending",
     "url": "https://github.com/cursor/cookbook",
     "date": "2026-04-27",
@@ -191,24 +167,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "freestylefly/awesome-gpt-image-2 - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-    "summary": "2565 stars | Unknown | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "date": "2026-04-25",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 14
   },
   {
     "title": "theori-io/copy-fail-CVE-2026-31431 - No description",
-    "summary": "1702 stars | Python | ",
+    "summary": "2463 stars | Python | ",
     "source": "GitHub Trending",
     "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
     "date": "2026-04-29",
@@ -217,11 +180,24 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
+    "id": 15
+  },
+  {
+    "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and ",
+    "summary": "1314 stars | Python | A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/denuitt1/mhr-cfw",
+    "date": "2026-04-27",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 16
   },
   {
     "title": "willchen96/mike - OSS AI Legal Platform",
-    "summary": "787 stars | TypeScript | OSS AI Legal Platform",
+    "summary": "1080 stars | TypeScript | OSS AI Legal Platform",
     "source": "GitHub Trending",
     "url": "https://github.com/willchen96/mike",
     "date": "2026-04-29",
@@ -230,11 +206,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 19
+    "id": 17
   },
   {
     "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end pro",
-    "summary": "781 stars | Python | ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and e",
+    "summary": "877 stars | Python | ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and e",
     "source": "GitHub Trending",
     "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
     "date": "2026-04-27",
@@ -243,7 +219,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 20
+    "id": 18
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "The Pulse: token spend breaks budgets – what next?",
@@ -295,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 22
   },
   {
     "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
@@ -308,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 23
   },
   {
     "title": "The Pulse: is GitHub still best for AI-native development?",
@@ -321,7 +297,188 @@
       "Career"
     ],
     "hot": false,
+    "id": 24
+  },
+  {
+    "title": "Rivian allows you to disable all internet connectivity",
+    "summary": "493 points | 182 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "date": "2026-04-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "summary": "429 points | 127 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "date": "2026-04-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "CopyFail was not disclosed to distro developers?",
+    "summary": "372 points | 299 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "date": "2026-04-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "summary": "325 points | 111 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "date": "2026-04-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "I built a Game Boy emulator in F#",
+    "summary": "215 points | 48 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "date": "2026-04-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "summary": "958 points | 534 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://twitter.com/theo/status/2049645973350363168",
+    "date": "2026-04-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "How an oil refinery works",
+    "summary": "325 points | 98 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+    "date": "2026-04-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Belgium stops decommissioning nuclear power plants",
+    "summary": "753 points | 698 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+    "date": "2026-04-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "MailToDock",
+    "summary": "New product launch on Product Hunt: MailToDock",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mailtodock",
+    "date": "2026-04-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "VideoOS by Jupitrr AI",
+    "summary": "New product launch on Product Hunt: VideoOS by Jupitrr AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/jupitrr",
+    "date": "2026-03-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Mintlify Editor",
+    "summary": "New product launch on Product Hunt: Mintlify Editor",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mintlify",
+    "date": "2026-04-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Tinfoil",
+    "summary": "New product launch on Product Hunt: Tinfoil",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/tinfoil-private-ai-chat",
+    "date": "2026-04-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Rova AI",
+    "summary": "New product launch on Product Hunt: Rova AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rova-ai",
+    "date": "2026-02-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Tabstack",
+    "summary": "New product launch on Product Hunt: Tabstack",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/tabstack",
+    "date": "2026-04-27",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "freestylefly/awesome-gpt-image-2 - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
+    "summary": "2565 stars | Unknown | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "date": "2026-04-25",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 39
   },
   {
     "title": "Zed 1.0",
@@ -333,7 +490,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 40
   },
   {
     "title": "Copy Fail – CVE-2026-31431",
@@ -345,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 41
   },
   {
     "title": "Cursor Camp",
@@ -357,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 42
   },
   {
     "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
@@ -369,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 43
   },
   {
     "title": "Claude.ai and API Unavailable",
@@ -381,7 +538,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 44
   },
   {
     "title": "We need a federation of forges",
@@ -393,7 +550,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 45
   },
   {
     "title": "Online age verification is the hill to die on",
@@ -405,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 46
   },
   {
     "title": "Ghostty is leaving GitHub",
@@ -417,7 +574,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 47
   },
   {
     "title": "Open Wearables",
@@ -429,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 48
   },
   {
     "title": "KarmaBox",
@@ -441,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 49
   },
   {
     "title": "UXPin Forge",
@@ -453,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 50
   },
   {
     "title": "Venture Factory AI",
@@ -465,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 51
   },
   {
     "title": "Gro v2",
@@ -477,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 52
   },
   {
     "title": "Redesign by Nodewave",
@@ -489,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 53
   },
   {
     "title": "victorchen96/deepseek_v4_rolepaly_instruct - 对于DeepSeek-V4角色扮演的特殊控制指令的说明",
@@ -502,7 +659,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 41
+    "id": 54
   },
   {
     "title": "epoko77-ai/im-not-ai - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
@@ -515,7 +672,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 42
+    "id": 55
   },
   {
     "title": "alash3al/stash - Stash — persistent memory layer for AI agents. Episodes, facts, and working cont",
@@ -528,7 +685,7 @@
       "Go"
     ],
     "hot": true,
-    "id": 43
+    "id": 56
   },
   {
     "title": "Is the FDE role becoming less desirable?",
@@ -541,7 +698,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 44
+    "id": 57
   },
   {
     "title": "Carrot Disclosure: Forgejo",
@@ -553,7 +710,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 45
+    "id": 58
   },
   {
     "title": "Your phone is about to stop being yours",
@@ -565,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 46
+    "id": 59
   },
   {
     "title": "Localsend: An open-source cross-platform alternative to AirDrop",
@@ -575,165 +732,6 @@
     "date": "2026-04-28",
     "tags": [
       "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "VibeVoice: Open-source frontier voice AI",
-    "summary": "319 points | 168 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "date": "2026-04-28",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "UAE to leave OPEC",
-    "summary": "340 points | 469 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
-    "date": "2026-04-28",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Talkie: a 13B vintage language model from 1930",
-    "summary": "642 points | 262 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://talkie-lm.com/introducing-talkie",
-    "date": "2026-04-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "An update on GitHub availability",
-    "summary": "314 points | 209 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
-    "date": "2026-04-28",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Kinhub",
-    "summary": "New product launch on Product Hunt: Kinhub",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kinhub",
-    "date": "2026-04-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Lovable mobile app",
-    "summary": "New product launch on Product Hunt: Lovable mobile app",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lovable",
-    "date": "2026-04-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Social Fetch",
-    "summary": "New product launch on Product Hunt: Social Fetch",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/social-fetch",
-    "date": "2026-04-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "SureThing.io",
-    "summary": "New product launch on Product Hunt: SureThing.io",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/surething-io",
-    "date": "2026-04-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Curflow",
-    "summary": "New product launch on Product Hunt: Curflow",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/curflow",
-    "date": "2026-04-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Heym",
-    "summary": "New product launch on Product Hunt: Heym",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/heym",
-    "date": "2026-04-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "op7418/guizang-ppt-skill - A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML",
-    "summary": "3839 stars | HTML | A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/op7418/guizang-ppt-skill",
-    "date": "2026-04-23",
-    "tags": [
-      "GitHub",
-      "HTML"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "openclaw/clawsweeper - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It ",
-    "summary": "1277 stars | JavaScript | ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/openclaw/clawsweeper",
-    "date": "2026-04-23",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "0x0funky/agent-sprite-forge - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and",
-    "summary": "1042 stars | Python | Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/0x0funky/agent-sprite-forge",
-    "date": "2026-04-23",
-    "tags": [
-      "GitHub",
-      "Python"
     ],
     "hot": true,
     "id": 60
