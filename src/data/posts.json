@@ -1,22 +1,22 @@
 [
   {
-    "title": "K3sup – bootstrap K3s over SSH in < 60s",
-    "summary": "5 points | 0 comments on Hacker News",
+    "title": "Talking to strangers at the gym",
+    "summary": "1147 points | 537 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/alexellis/k3sup",
-    "date": "2026-05-01",
+    "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+    "date": "2026-05-04",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 1
   },
   {
-    "title": "Mercedes-Benz commits to bringing back physical buttons",
-    "summary": "604 points | 349 comments on Hacker News",
+    "title": "Redis array: short story of a long development process",
+    "summary": "228 points | 80 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-    "date": "2026-05-03",
+    "url": "https://antirez.com/news/164",
+    "date": "2026-05-04",
     "tags": [
       "HN"
     ],
@@ -24,83 +24,83 @@
     "id": 2
   },
   {
-    "title": "I built my own hair electrolysis machine",
-    "summary": "180 points | 46 comments on Hacker News",
+    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+    "summary": "408 points | 146 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
-    "date": "2026-04-29",
+    "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+    "date": "2026-05-04",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 3
   },
   {
-    "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
-    "summary": "159 points | 40 comments on Hacker News",
+    "title": "I am worried about Bun",
+    "summary": "407 points | 279 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/bring-shrubbery/ml-sharp-web",
-    "date": "2026-05-03",
+    "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+    "date": "2026-05-04",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Radar",
-    "summary": "New product launch on Product Hunt: Radar",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/radar-7",
-    "date": "2026-04-23",
+    "title": "GameStop makes $55.5B takeover offer for eBay",
+    "summary": "640 points | 606 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+    "date": "2026-05-04",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Huddle01 VMs",
-    "summary": "New product launch on Product Hunt: Huddle01 VMs",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/huddle01-cloud-2",
-    "date": "2026-04-25",
+    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+    "summary": "417 points | 140 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+    "date": "2026-05-04",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Rosentic",
-    "summary": "New product launch on Product Hunt: Rosentic",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rosentic",
-    "date": "2026-04-09",
+    "title": "Show HN: nfsdiag – A NFS diagnostic application",
+    "summary": "45 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/lsferreira42/nfsdiag",
+    "date": "2026-05-02",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Aximote In-Car App",
-    "summary": "New product launch on Product Hunt: Aximote In-Car App",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/aximote-in-car-app",
-    "date": "2026-04-30",
+    "title": "Show HN: I Built a Museum Exhibit",
+    "summary": "6 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://knhash.in/built-an-exhibit/",
+    "date": "2026-05-02",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "PandaProbe",
-    "summary": "New product launch on Product Hunt: PandaProbe",
+    "title": "Mindra",
+    "summary": "New product launch on Product Hunt: Mindra",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pandaprobe",
-    "date": "2026-04-29",
+    "url": "https://www.producthunt.com/products/mindra",
+    "date": "2026-04-22",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Mockin 2.0",
-    "summary": "New product launch on Product Hunt: Mockin 2.0",
+    "title": "Panels Store",
+    "summary": "New product launch on Product Hunt: Panels Store",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mockin-for-product-designers",
-    "date": "2026-04-23",
+    "url": "https://www.producthunt.com/products/panels-store",
+    "date": "2026-05-01",
     "tags": [
       "Product Launch"
     ],
@@ -120,21 +120,56 @@
     "id": 10
   },
   {
-    "title": "nexu-io/open-design - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
-    "summary": "19588 stars | TypeScript | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/nexu-io/open-design",
-    "date": "2026-04-28",
+    "title": "Codex Pets",
+    "summary": "New product launch on Product Hunt: Codex Pets",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openai",
+    "date": "2026-05-04",
     "tags": [
-      "GitHub",
-      "TypeScript"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 11
   },
   {
-    "title": "theori-io/copy-fail-CVE-2026-31431 - No description",
-    "summary": "3021 stars | Python | ",
+    "title": "Claude Code & Codex Usage Trading Cards by Rudel",
+    "summary": "New product launch on Product Hunt: Claude Code & Codex Usage Trading Cards by Rudel",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rudel",
+    "date": "2026-04-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 12
+  },
+  {
+    "title": "Flowly",
+    "summary": "New product launch on Product Hunt: Flowly",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/flowly-6",
+    "date": "2026-05-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
+    "title": "Regulus by Cumbuca",
+    "summary": "New product launch on Product Hunt: Regulus by Cumbuca",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cumbuca",
+    "date": "2026-04-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
+    "title": "theori-io/copy-fail-CVE-2026-31431 - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint C",
+    "summary": "3171 stars | Python | Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
     "source": "GitHub Trending",
     "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
     "date": "2026-04-29",
@@ -143,11 +178,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 12
+    "id": 15
   },
   {
     "title": "willchen96/mike - OSS AI Legal Platform",
-    "summary": "1691 stars | TypeScript | OSS AI Legal Platform",
+    "summary": "2030 stars | TypeScript | OSS AI Legal Platform",
     "source": "GitHub Trending",
     "url": "https://github.com/willchen96/mike",
     "date": "2026-04-29",
@@ -156,11 +191,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 13
+    "id": 16
   },
   {
     "title": "darrylmorley/whatcable - macOS menu bar app that tells you, in plain English, what each USB-C cable plugg",
-    "summary": "1450 stars | Swift | macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+    "summary": "1729 stars | Swift | macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
     "source": "GitHub Trending",
     "url": "https://github.com/darrylmorley/whatcable",
     "date": "2026-05-01",
@@ -169,24 +204,24 @@
       "Swift"
     ],
     "hot": true,
-    "id": 14
+    "id": 17
   },
   {
-    "title": "b-nnett/codex-plusplus - Codex++ tweak system for the Codex desktop app",
-    "summary": "856 stars | TypeScript | Codex++ tweak system for the Codex desktop app",
+    "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any",
+    "summary": "1040 stars | JavaScript | Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
     "source": "GitHub Trending",
-    "url": "https://github.com/b-nnett/codex-plusplus",
-    "date": "2026-04-28",
+    "url": "https://github.com/aattaran/deepclaude",
+    "date": "2026-05-03",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "JavaScript"
     ],
     "hot": true,
-    "id": 15
+    "id": 18
   },
   {
     "title": "mattpocock/dictionary-of-ai-coding - AI coding jargon, explained in plain English.",
-    "summary": "849 stars | TypeScript | AI coding jargon, explained in plain English.",
+    "summary": "972 stars | TypeScript | AI coding jargon, explained in plain English.",
     "source": "GitHub Trending",
     "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
     "date": "2026-05-01",
@@ -195,46 +230,20 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
-    "summary": "Lukas (@_lhermann) and Liz Hermann (@lizmhermann) talk having ambition as an indie hacker, scratching other people's itches, having kids or spouses to help run your empire, making $8k/month from a sim",
-    "source": "Indie Hackers Podcast",
-    "url": "https://share.transistor.fm/s/f614549b",
-    "date": "2023-06-15",
-    "tags": [
-      "Podcast",
-      "Indie Dev"
-    ],
-    "hot": false,
-    "id": 17
-  },
-  {
-    "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
-    "summary": "Steph Smith (@stephsmithio) talks making millions in content subscriptions, working at a16z, putting the AI genie back in the bottle, thread boys on Twitter, educational vs entertainment podcasts, and",
-    "source": "Indie Hackers Podcast",
-    "url": "https://share.transistor.fm/s/da7243d9",
-    "date": "2023-06-03",
-    "tags": [
-      "Podcast",
-      "Indie Dev"
-    ],
-    "hot": false,
-    "id": 18
-  },
-  {
-    "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
-    "summary": "Seth Godin (@ThisIsSethsBlog) talks indie hacking, finding new business ideas, meaningful jobs vs mechanized jobs, dealing with internet trolls, his secrets to productivity, freelancing vs bootstrappi",
-    "source": "Indie Hackers Podcast",
-    "url": "https://share.transistor.fm/s/204b7dea",
-    "date": "2023-05-25",
-    "tags": [
-      "Podcast",
-      "Indie Dev"
-    ],
-    "hot": false,
     "id": 19
+  },
+  {
+    "title": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735 - No description",
+    "summary": "886 stars | Unknown | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+    "date": "2026-04-30",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 20
   },
   {
     "title": "The Pulse: token spend breaks budgets – what next?",
@@ -247,7 +256,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 20
+    "id": 21
   },
   {
     "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
@@ -260,7 +269,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 21
+    "id": 22
   },
   {
     "title": "The Pulse: is GitHub still best for AI-native development?",
@@ -273,7 +282,192 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 23
+  },
+  {
+    "title": "K3sup – bootstrap K3s over SSH in < 60s",
+    "summary": "5 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/alexellis/k3sup",
+    "date": "2026-05-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
+    "title": "Mercedes-Benz commits to bringing back physical buttons",
+    "summary": "604 points | 349 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+    "date": "2026-05-03",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "I built my own hair electrolysis machine",
+    "summary": "180 points | 46 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+    "date": "2026-04-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 26
+  },
+  {
+    "title": "Show HN: Apple's SHARP running in the browser via ONNX runtime web",
+    "summary": "159 points | 40 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/bring-shrubbery/ml-sharp-web",
+    "date": "2026-05-03",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Radar",
+    "summary": "New product launch on Product Hunt: Radar",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/radar-7",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Huddle01 VMs",
+    "summary": "New product launch on Product Hunt: Huddle01 VMs",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/huddle01-cloud-2",
+    "date": "2026-04-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Rosentic",
+    "summary": "New product launch on Product Hunt: Rosentic",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rosentic",
+    "date": "2026-04-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Aximote In-Car App",
+    "summary": "New product launch on Product Hunt: Aximote In-Car App",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/aximote-in-car-app",
+    "date": "2026-04-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "PandaProbe",
+    "summary": "New product launch on Product Hunt: PandaProbe",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pandaprobe",
+    "date": "2026-04-29",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Mockin 2.0",
+    "summary": "New product launch on Product Hunt: Mockin 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mockin-for-product-designers",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "nexu-io/open-design - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skill",
+    "summary": "19588 stars | TypeScript | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/nexu-io/open-design",
+    "date": "2026-04-28",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "b-nnett/codex-plusplus - Codex++ tweak system for the Codex desktop app",
+    "summary": "856 stars | TypeScript | Codex++ tweak system for the Codex desktop app",
+    "source": "GitHub Trending",
+    "url": "https://github.com/b-nnett/codex-plusplus",
+    "date": "2026-04-28",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 35
+  },
+  {
+    "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
+    "summary": "Lukas (@_lhermann) and Liz Hermann (@lizmhermann) talk having ambition as an indie hacker, scratching other people's itches, having kids or spouses to help run your empire, making $8k/month from a sim",
+    "source": "Indie Hackers Podcast",
+    "url": "https://share.transistor.fm/s/f614549b",
+    "date": "2023-06-15",
+    "tags": [
+      "Podcast",
+      "Indie Dev"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
+    "summary": "Steph Smith (@stephsmithio) talks making millions in content subscriptions, working at a16z, putting the AI genie back in the bottle, thread boys on Twitter, educational vs entertainment podcasts, and",
+    "source": "Indie Hackers Podcast",
+    "url": "https://share.transistor.fm/s/da7243d9",
+    "date": "2023-06-03",
+    "tags": [
+      "Podcast",
+      "Indie Dev"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
+    "summary": "Seth Godin (@ThisIsSethsBlog) talks indie hacking, finding new business ideas, meaningful jobs vs mechanized jobs, dealing with internet trolls, his secrets to productivity, freelancing vs bootstrappi",
+    "source": "Indie Hackers Podcast",
+    "url": "https://share.transistor.fm/s/204b7dea",
+    "date": "2023-05-25",
+    "tags": [
+      "Podcast",
+      "Indie Dev"
+    ],
+    "hot": false,
+    "id": 38
   },
   {
     "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
@@ -285,7 +479,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 23
+    "id": 39
   },
   {
     "title": "Dav2d",
@@ -297,7 +491,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 24
+    "id": 40
   },
   {
     "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
@@ -309,7 +503,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 25
+    "id": 41
   },
   {
     "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
@@ -321,7 +515,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 26
+    "id": 42
   },
   {
     "title": "NetHack 5.0.0",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Cloud Computer by Manus",
@@ -345,7 +539,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Ara",
@@ -357,7 +551,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 29
+    "id": 45
   },
   {
     "title": "YouTube TV Custom Multiview",
@@ -369,7 +563,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Microsoft Copilot Health",
@@ -381,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Feather",
@@ -393,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Filect ",
@@ -405,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "cursor/cookbook - No description",
@@ -418,7 +612,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 34
+    "id": 50
   },
   {
     "title": "denuitt1/mhr-cfw - A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and ",
@@ -431,7 +625,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 35
+    "id": 51
   },
   {
     "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
@@ -443,7 +637,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
@@ -455,7 +649,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "Show HN: AI CAD Harness",
@@ -467,7 +661,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "The gay jailbreak technique",
@@ -479,7 +673,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "AI uses less water than the public thinks",
@@ -491,7 +685,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "nudge",
@@ -503,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 41
+    "id": 57
   },
   {
     "title": "Zed 1.0",
@@ -515,7 +709,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 42
+    "id": 58
   },
   {
     "title": "Postiz",
@@ -527,7 +721,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Bitgrain",
@@ -535,199 +729,6 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/bitgrain",
     "date": "2026-04-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Marx Finance",
-    "summary": "New product launch on Product Hunt: Marx Finance",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/marx-finance",
-    "date": "2026-04-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Buda",
-    "summary": "New product launch on Product Hunt: Buda",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/buda-2",
-    "date": "2026-04-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "DanOps-1/Gpt-Agreement-Payment - ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end pro",
-    "summary": "877 stars | Python | ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and e",
-    "source": "GitHub Trending",
-    "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
-    "date": "2026-04-27",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Rivian allows you to disable all internet connectivity",
-    "summary": "493 points | 182 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-    "date": "2026-04-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-    "summary": "429 points | 127 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-    "date": "2026-04-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "CopyFail was not disclosed to distro developers?",
-    "summary": "372 points | 299 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "date": "2026-04-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "summary": "325 points | 111 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "date": "2026-04-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "I built a Game Boy emulator in F#",
-    "summary": "215 points | 48 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-    "date": "2026-04-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "summary": "958 points | 534 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://twitter.com/theo/status/2049645973350363168",
-    "date": "2026-04-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "How an oil refinery works",
-    "summary": "325 points | 98 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-    "date": "2026-04-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Belgium stops decommissioning nuclear power plants",
-    "summary": "753 points | 698 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-    "date": "2026-04-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "MailToDock",
-    "summary": "New product launch on Product Hunt: MailToDock",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mailtodock",
-    "date": "2026-04-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "VideoOS by Jupitrr AI",
-    "summary": "New product launch on Product Hunt: VideoOS by Jupitrr AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/jupitrr",
-    "date": "2026-03-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Mintlify Editor",
-    "summary": "New product launch on Product Hunt: Mintlify Editor",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mintlify",
-    "date": "2026-04-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Tinfoil",
-    "summary": "New product launch on Product Hunt: Tinfoil",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tinfoil-private-ai-chat",
-    "date": "2026-04-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Rova AI",
-    "summary": "New product launch on Product Hunt: Rova AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rova-ai",
-    "date": "2026-02-21",
     "tags": [
       "Product Launch"
     ],
