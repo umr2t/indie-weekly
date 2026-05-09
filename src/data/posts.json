@@ -1,10 +1,10 @@
 [
   {
-    "title": "Dirtyfrag: Universal Linux LPE",
-    "summary": "406 points | 187 comments on Hacker News",
+    "title": "Google broke reCAPTCHA for de-googled Android users",
+    "summary": "619 points | 220 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-    "date": "2026-05-07",
+    "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+    "date": "2026-05-08",
     "tags": [
       "HN"
     ],
@@ -12,23 +12,23 @@
     "id": 1
   },
   {
-    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-    "summary": "51 points | 18 comments on Hacker News",
+    "title": "David Attenborough's 100th Birthday",
+    "summary": "443 points | 89 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-    "date": "2026-05-07",
+    "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+    "date": "2026-05-08",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 2
   },
   {
-    "title": "The Burning Man MOOP Map",
-    "summary": "536 points | 282 comments on Hacker News",
+    "title": "An Introduction to Meshtastic",
+    "summary": "370 points | 149 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.not-ship.com/burning-man-moop/",
-    "date": "2026-05-07",
+    "url": "https://meshtastic.org/docs/introduction/",
+    "date": "2026-05-08",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Agents need control flow, not more prompts",
-    "summary": "326 points | 181 comments on Hacker News",
+    "title": "Poland is now among the 20 largest economies",
+    "summary": "894 points | 737 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "date": "2026-05-07",
+    "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+    "date": "2026-05-08",
     "tags": [
       "HN"
     ],
@@ -48,59 +48,59 @@
     "id": 4
   },
   {
-    "title": "AI slop is killing online communities",
-    "summary": "448 points | 431 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "title": "Sendly",
+    "summary": "New product launch on Product Hunt: Sendly",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/sendly-2",
     "date": "2026-05-07",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-    "summary": "466 points | 172 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "date": "2026-05-07",
+    "title": "ElevenCreative Flows",
+    "summary": "New product launch on Product Hunt: ElevenCreative Flows",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/elevencreative-flows",
+    "date": "2026-05-01",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "Tools in the Grass: Raising the next generation of crafts person",
-    "summary": "27 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
-    "date": "2026-05-05",
+    "title": "KodHau",
+    "summary": "New product launch on Product Hunt: KodHau",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents",
+    "date": "2026-05-08",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "The Self-Cancelling Subscription",
-    "summary": "147 points | 63 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-    "date": "2026-05-07",
+    "title": "Photobomb",
+    "summary": "New product launch on Product Hunt: Photobomb",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/photobomb",
+    "date": "2026-05-06",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "MESA",
-    "summary": "New product launch on Product Hunt: MESA",
+    "title": "GitHired",
+    "summary": "New product launch on Product Hunt: GitHired",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mesa",
-    "date": "2026-04-22",
+    "url": "https://www.producthunt.com/products/githired-2",
+    "date": "2026-04-19",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Saydi",
-    "summary": "New product launch on Product Hunt: Saydi",
+    "title": "Minions",
+    "summary": "New product launch on Product Hunt: Minions",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/saydi",
-    "date": "2026-05-06",
+    "url": "https://www.producthunt.com/products/minions",
+    "date": "2026-05-08",
     "tags": [
       "Product Launch"
     ],
@@ -120,56 +120,34 @@
     "id": 10
   },
   {
-    "title": "Claude Agents for Financial Services",
-    "summary": "New product launch on Product Hunt: Claude Agents for Financial Services",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/claude-code",
-    "date": "2026-05-05",
+    "title": "V4bel/dirtyfrag - No description",
+    "summary": "2895 stars | C | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/V4bel/dirtyfrag",
+    "date": "2026-05-07",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "C"
     ],
-    "hot": false,
+    "hot": true,
     "id": 11
   },
   {
-    "title": "Basedash MCP server",
-    "summary": "New product launch on Product Hunt: Basedash MCP server",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basedash",
+    "title": "antirez/ds4 - DeepSeek 4 Flash local inference engine for Metal",
+    "summary": "2479 stars | C | DeepSeek 4 Flash local inference engine for Metal",
+    "source": "GitHub Trending",
+    "url": "https://github.com/antirez/ds4",
     "date": "2026-05-06",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "C"
     ],
-    "hot": false,
+    "hot": true,
     "id": 12
   },
   {
-    "title": "Google Pomelli Catalog ",
-    "summary": "New product launch on Product Hunt: Google Pomelli Catalog ",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google",
-    "date": "2026-05-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Lingo.dev v1",
-    "summary": "New product launch on Product Hunt: Lingo.dev v1",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lingodotdev",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any",
-    "summary": "1596 stars | JavaScript | Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+    "summary": "1642 stars | JavaScript | Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
     "source": "GitHub Trending",
     "url": "https://github.com/aattaran/deepclaude",
     "date": "2026-05-03",
@@ -178,37 +156,11 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 15
-  },
-  {
-    "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-    "summary": "1134 stars | Python | Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-    "source": "GitHub Trending",
-    "url": "https://github.com/yaojingang/yao-open-prompts",
-    "date": "2026-05-06",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "XBuilderLAB/cheat-on-content - Content is already a cheat-code race—whoever cracks the patterns first wins the ",
-    "summary": "1031 stars | Python | Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claud",
-    "source": "GitHub Trending",
-    "url": "https://github.com/XBuilderLAB/cheat-on-content",
-    "date": "2026-05-05",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 13
   },
   {
     "title": "strukto-ai/mirage - A Unified Virtual Filesystem For AI Agents",
-    "summary": "1007 stars | TypeScript | A Unified Virtual Filesystem For AI Agents",
+    "summary": "1449 stars | TypeScript | A Unified Virtual Filesystem For AI Agents",
     "source": "GitHub Trending",
     "url": "https://github.com/strukto-ai/mirage",
     "date": "2026-05-06",
@@ -217,33 +169,33 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 18
+    "id": 14
   },
   {
-    "title": "crafter-station/petdex - Public gallery of animated Codex pets",
-    "summary": "962 stars | TypeScript | Public gallery of animated Codex pets",
+    "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+    "summary": "1376 stars | Python | Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "source": "GitHub Trending",
-    "url": "https://github.com/crafter-station/petdex",
-    "date": "2026-05-02",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 19
-  },
-  {
-    "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recove",
-    "summary": "874 stars | Python | A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/vibeforge1111/keep-codex-fast",
-    "date": "2026-05-02",
+    "url": "https://github.com/yaojingang/yao-open-prompts",
+    "date": "2026-05-06",
     "tags": [
       "GitHub",
       "Python"
     ],
     "hot": true,
-    "id": 20
+    "id": 15
+  },
+  {
+    "title": "XBuilderLAB/cheat-on-content - You're reading this. The skill predicted it. A workflow that turns every post in",
+    "summary": "1218 stars | Shell | You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, i",
+    "source": "GitHub Trending",
+    "url": "https://github.com/XBuilderLAB/cheat-on-content",
+    "date": "2026-05-05",
+    "tags": [
+      "GitHub",
+      "Shell"
+    ],
+    "hot": true,
+    "id": 16
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +208,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 17
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +221,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 18
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +234,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 19
   },
   {
     "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
@@ -295,7 +247,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 20
   },
   {
     "title": "The Pulse: token spend breaks budgets – what next?",
@@ -308,7 +260,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 21
   },
   {
     "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
@@ -321,7 +273,201 @@
       "Career"
     ],
     "hot": false,
+    "id": 22
+  },
+  {
+    "title": "Dirtyfrag: Universal Linux LPE",
+    "summary": "406 points | 187 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "date": "2026-05-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 23
+  },
+  {
+    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+    "summary": "51 points | 18 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+    "date": "2026-05-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
+    "title": "The Burning Man MOOP Map",
+    "summary": "536 points | 282 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.not-ship.com/burning-man-moop/",
+    "date": "2026-05-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Agents need control flow, not more prompts",
+    "summary": "326 points | 181 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "date": "2026-05-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "AI slop is killing online communities",
+    "summary": "448 points | 431 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "date": "2026-05-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "summary": "466 points | 172 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+    "date": "2026-05-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Tools in the Grass: Raising the next generation of crafts person",
+    "summary": "27 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
+    "date": "2026-05-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "The Self-Cancelling Subscription",
+    "summary": "147 points | 63 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+    "date": "2026-05-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "MESA",
+    "summary": "New product launch on Product Hunt: MESA",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mesa",
+    "date": "2026-04-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Saydi",
+    "summary": "New product launch on Product Hunt: Saydi",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/saydi",
+    "date": "2026-05-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Claude Agents for Financial Services",
+    "summary": "New product launch on Product Hunt: Claude Agents for Financial Services",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/claude-code",
+    "date": "2026-05-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Basedash MCP server",
+    "summary": "New product launch on Product Hunt: Basedash MCP server",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/basedash",
+    "date": "2026-05-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Google Pomelli Catalog ",
+    "summary": "New product launch on Product Hunt: Google Pomelli Catalog ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/google",
+    "date": "2026-05-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Lingo.dev v1",
+    "summary": "New product launch on Product Hunt: Lingo.dev v1",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lingodotdev",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "crafter-station/petdex - Public gallery of animated Codex pets",
+    "summary": "962 stars | TypeScript | Public gallery of animated Codex pets",
+    "source": "GitHub Trending",
+    "url": "https://github.com/crafter-station/petdex",
+    "date": "2026-05-02",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 37
+  },
+  {
+    "title": "vibeforge1111/keep-codex-fast - A backup-first Codex skill for keeping local Codex state fast, clean, and recove",
+    "summary": "874 stars | Python | A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/vibeforge1111/keep-codex-fast",
+    "date": "2026-05-02",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 38
   },
   {
     "title": "Valve releases Steam Controller CAD files under Creative Commons license",
@@ -333,7 +479,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 39
   },
   {
     "title": "Appearing productive in the workplace",
@@ -345,7 +491,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 40
   },
   {
     "title": "How I made $350K from an open-source JavaScript library using dual licensing",
@@ -357,7 +503,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 41
   },
   {
     "title": "Vibe coding and agentic engineering are getting closer than I'd like",
@@ -369,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 42
   },
   {
     "title": "The bottleneck was never the code",
@@ -381,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 43
   },
   {
     "title": "Show HN: Hallucinopedia",
@@ -393,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 44
   },
   {
     "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
@@ -405,7 +551,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 45
   },
   {
     "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
@@ -417,7 +563,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 46
   },
   {
     "title": "Gas City 1.0",
@@ -429,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 47
   },
   {
     "title": "Shadow 2.0",
@@ -441,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 48
   },
   {
     "title": "Spotit",
@@ -453,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 49
   },
   {
     "title": "Magic Studio by Once UI",
@@ -465,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 50
   },
   {
     "title": "Alumni Founder",
@@ -477,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 51
   },
   {
     "title": "Open Finance MCP",
@@ -489,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 52
   },
   {
     "title": "darrylmorley/whatcable - macOS menu bar app that tells you, in plain English, what each USB-C cable plugg",
@@ -502,7 +648,7 @@
       "Swift"
     ],
     "hot": true,
-    "id": 41
+    "id": 53
   },
   {
     "title": "mattpocock/dictionary-of-ai-coding - AI coding jargon, explained in plain English.",
@@ -515,7 +661,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 42
+    "id": 54
   },
   {
     "title": "jherrodthomas/automotive-skills-suite - 100+ installable Claude skills covering Engineering areas such as, ISO 26262 fun",
@@ -528,7 +674,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 43
+    "id": 55
   },
   {
     "title": "The Pulse: is GitHub still best for AI-native development?",
@@ -541,7 +687,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 44
+    "id": 56
   },
   {
     "title": "Talking to strangers at the gym",
@@ -553,7 +699,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 57
   },
   {
     "title": "Redis array: short story of a long development process",
@@ -565,7 +711,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 46
+    "id": 58
   },
   {
     "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
@@ -577,7 +723,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 47
+    "id": 59
   },
   {
     "title": "I am worried about Bun",
@@ -587,152 +733,6 @@
     "date": "2026-05-04",
     "tags": [
       "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "GameStop makes $55.5B takeover offer for eBay",
-    "summary": "640 points | 606 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-    "date": "2026-05-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-    "summary": "417 points | 140 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-    "date": "2026-05-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Show HN: nfsdiag – A NFS diagnostic application",
-    "summary": "45 points | 3 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/lsferreira42/nfsdiag",
-    "date": "2026-05-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Show HN: I Built a Museum Exhibit",
-    "summary": "6 points | 0 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://knhash.in/built-an-exhibit/",
-    "date": "2026-05-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Mindra",
-    "summary": "New product launch on Product Hunt: Mindra",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mindra",
-    "date": "2026-04-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Panels Store",
-    "summary": "New product launch on Product Hunt: Panels Store",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/panels-store",
-    "date": "2026-05-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Codex Pets",
-    "summary": "New product launch on Product Hunt: Codex Pets",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openai",
-    "date": "2026-05-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Claude Code & Codex Usage Trading Cards by Rudel",
-    "summary": "New product launch on Product Hunt: Claude Code & Codex Usage Trading Cards by Rudel",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rudel",
-    "date": "2026-04-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Flowly",
-    "summary": "New product launch on Product Hunt: Flowly",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/flowly-6",
-    "date": "2026-05-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Regulus by Cumbuca",
-    "summary": "New product launch on Product Hunt: Regulus by Cumbuca",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cumbuca",
-    "date": "2026-04-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "theori-io/copy-fail-CVE-2026-31431 - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint C",
-    "summary": "3171 stars | Python | Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
-    "source": "GitHub Trending",
-    "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
-    "date": "2026-04-29",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "willchen96/mike - OSS AI Legal Platform",
-    "summary": "2030 stars | TypeScript | OSS AI Legal Platform",
-    "source": "GitHub Trending",
-    "url": "https://github.com/willchen96/mike",
-    "date": "2026-04-29",
-    "tags": [
-      "GitHub",
-      "TypeScript"
     ],
     "hot": true,
     "id": 60
