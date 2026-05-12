@@ -1,10 +1,10 @@
 [
   {
-    "title": "Hardware Attestation as Monopoly Enabler",
-    "summary": "887 points | 327 comments on Hacker News",
+    "title": "Postmortem: TanStack npm supply-chain compromise",
+    "summary": "523 points | 188 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-    "date": "2026-05-10",
+    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "date": "2026-05-11",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Local AI needs to be the norm",
-    "summary": "581 points | 273 comments on Hacker News",
+    "title": "GitLab announces workforce reduction and end of their CREDIT values",
+    "summary": "317 points | 311 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "date": "2026-05-10",
+    "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+    "date": "2026-05-11",
     "tags": [
       "HN"
     ],
@@ -24,23 +24,23 @@
     "id": 2
   },
   {
-    "title": "Incident Report: CVE-2024-YIKES",
-    "summary": "392 points | 94 comments on Hacker News",
+    "title": "I let AI build a tool to help me figure out what was waking me up at night",
+    "summary": "67 points | 68 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-    "date": "2026-05-10",
+    "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+    "date": "2026-05-11",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "I returned to AWS and was reminded why I left",
-    "summary": "659 points | 480 comments on Hacker News",
+    "title": "Ratty – A terminal emulator with inline 3D graphics",
+    "summary": "611 points | 198 comments on Hacker News",
     "source": "Hacker News",
-    "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-    "date": "2026-05-09",
+    "url": "https://ratty-term.org/",
+    "date": "2026-05-11",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-    "summary": "475 points | 255 comments on Hacker News",
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "summary": "562 points | 412 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-    "date": "2026-05-10",
+    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+    "date": "2026-05-11",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Show HN: An index of indie web/blog indexes",
-    "summary": "94 points | 35 comments on Hacker News",
+    "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+    "summary": "47 points | 17 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://theindex.fyi",
-    "date": "2026-05-10",
+    "url": "https://github.com/ab-613/opengravity",
+    "date": "2026-05-11",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Tailgrids 3.0",
-    "summary": "New product launch on Product Hunt: Tailgrids 3.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tailgrids",
-    "date": "2026-05-02",
+    "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+    "summary": "5 points | 1 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/tsirysndr/rockbox-zig",
+    "date": "2026-05-09",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Keel",
-    "summary": "New product launch on Product Hunt: Keel",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/keel-3",
-    "date": "2026-04-30",
+    "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+    "summary": "362 points | 105 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+    "date": "2026-05-11",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "InvestorFinder",
-    "summary": "New product launch on Product Hunt: InvestorFinder",
+    "title": "Genpire",
+    "summary": "New product launch on Product Hunt: Genpire",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/investorfinder",
-    "date": "2026-05-08",
+    "url": "https://www.producthunt.com/products/genpire-ai",
+    "date": "2025-12-15",
     "tags": [
       "Product Launch"
     ],
@@ -108,10 +108,10 @@
     "id": 9
   },
   {
-    "title": "Adject 2.0",
-    "summary": "New product launch on Product Hunt: Adject 2.0",
+    "title": "Kofe Flow",
+    "summary": "New product launch on Product Hunt: Kofe Flow",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/adject",
+    "url": "https://www.producthunt.com/products/kofe-flow-pomodoro-timer",
     "date": "2026-05-08",
     "tags": [
       "Product Launch"
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "deepsec",
-    "summary": "New product launch on Product Hunt: deepsec",
+    "title": "MiroMiro v2",
+    "summary": "New product launch on Product Hunt: MiroMiro v2",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vercel",
-    "date": "2026-05-05",
+    "url": "https://www.producthunt.com/products/miromiro",
+    "date": "2026-05-06",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "LumiChats Offline(free)",
-    "summary": "New product launch on Product Hunt: LumiChats Offline(free)",
+    "title": "Weavable",
+    "summary": "New product launch on Product Hunt: Weavable",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lumichats-offline",
-    "date": "2026-05-06",
+    "url": "https://www.producthunt.com/products/weavable",
+    "date": "2026-04-23",
     "tags": [
       "Product Launch"
     ],
@@ -144,8 +144,32 @@
     "id": 12
   },
   {
+    "title": "Known Agents",
+    "summary": "New product launch on Product Hunt: Known Agents",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/known-agents",
+    "date": "2026-04-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
+    "title": "Suprbox",
+    "summary": "New product launch on Product Hunt: Suprbox",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/suprbox",
+    "date": "2026-05-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "antirez/ds4 - DeepSeek 4 Flash local inference engine for Metal",
-    "summary": "6259 stars | C | DeepSeek 4 Flash local inference engine for Metal",
+    "summary": "7417 stars | C | DeepSeek 4 Flash local inference engine for Metal",
     "source": "GitHub Trending",
     "url": "https://github.com/antirez/ds4",
     "date": "2026-05-06",
@@ -154,11 +178,11 @@
       "C"
     ],
     "hot": true,
-    "id": 13
+    "id": 15
   },
   {
     "title": "V4bel/dirtyfrag - No description",
-    "summary": "4026 stars | C | ",
+    "summary": "4203 stars | C | ",
     "source": "GitHub Trending",
     "url": "https://github.com/V4bel/dirtyfrag",
     "date": "2026-05-07",
@@ -167,11 +191,11 @@
       "C"
     ],
     "hot": true,
-    "id": 14
+    "id": 16
   },
   {
     "title": "vercel-labs/zero-native - Build desktop + mobile apps with Zig and web UI",
-    "summary": "2314 stars | Zig | Build desktop + mobile apps with Zig and web UI",
+    "summary": "2655 stars | Zig | Build desktop + mobile apps with Zig and web UI",
     "source": "GitHub Trending",
     "url": "https://github.com/vercel-labs/zero-native",
     "date": "2026-05-08",
@@ -180,11 +204,11 @@
       "Zig"
     ],
     "hot": true,
-    "id": 15
+    "id": 17
   },
   {
     "title": "strukto-ai/mirage - A Unified Virtual Filesystem For AI Agents",
-    "summary": "1796 stars | TypeScript | A Unified Virtual Filesystem For AI Agents",
+    "summary": "1946 stars | TypeScript | A Unified Virtual Filesystem For AI Agents",
     "source": "GitHub Trending",
     "url": "https://github.com/strukto-ai/mirage",
     "date": "2026-05-06",
@@ -193,11 +217,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 16
+    "id": 18
   },
   {
     "title": "yaojingang/yao-open-prompts - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-    "summary": "1559 stars | Python | Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+    "summary": "1629 stars | Python | Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
     "source": "GitHub Trending",
     "url": "https://github.com/yaojingang/yao-open-prompts",
     "date": "2026-05-06",
@@ -206,20 +230,20 @@
       "Python"
     ],
     "hot": true,
-    "id": 17
+    "id": 19
   },
   {
-    "title": "XBuilderLAB/cheat-on-content - You're reading this. The skill predicted it. A workflow that turns every post in",
-    "summary": "1559 stars | Shell | You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, i",
+    "title": "huangserva/3DCellForge - AI-powered interactive 3D cell generation and exploration studio.",
+    "summary": "1412 stars | JavaScript | AI-powered interactive 3D cell generation and exploration studio.",
     "source": "GitHub Trending",
-    "url": "https://github.com/XBuilderLAB/cheat-on-content",
-    "date": "2026-05-05",
+    "url": "https://github.com/huangserva/3DCellForge",
+    "date": "2026-05-10",
     "tags": [
       "GitHub",
-      "Shell"
+      "JavaScript"
     ],
     "hot": true,
-    "id": 18
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -232,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -245,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -258,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 23
   },
   {
     "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
@@ -271,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 24
   },
   {
     "title": "The Pulse: token spend breaks budgets – what next?",
@@ -284,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 25
   },
   {
     "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
@@ -297,7 +321,164 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 26
+  },
+  {
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "summary": "887 points | 327 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "date": "2026-05-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Local AI needs to be the norm",
+    "summary": "581 points | 273 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "date": "2026-05-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Incident Report: CVE-2024-YIKES",
+    "summary": "392 points | 94 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "date": "2026-05-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "I returned to AWS and was reminded why I left",
+    "summary": "659 points | 480 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+    "date": "2026-05-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+    "summary": "475 points | 255 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+    "date": "2026-05-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: An index of indie web/blog indexes",
+    "summary": "94 points | 35 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://theindex.fyi",
+    "date": "2026-05-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Tailgrids 3.0",
+    "summary": "New product launch on Product Hunt: Tailgrids 3.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/tailgrids",
+    "date": "2026-05-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Keel",
+    "summary": "New product launch on Product Hunt: Keel",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/keel-3",
+    "date": "2026-04-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "InvestorFinder",
+    "summary": "New product launch on Product Hunt: InvestorFinder",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/investorfinder",
+    "date": "2026-05-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Adject 2.0",
+    "summary": "New product launch on Product Hunt: Adject 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/adject",
+    "date": "2026-05-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "deepsec",
+    "summary": "New product launch on Product Hunt: deepsec",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vercel",
+    "date": "2026-05-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "LumiChats Offline(free)",
+    "summary": "New product launch on Product Hunt: LumiChats Offline(free)",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lumichats-offline",
+    "date": "2026-05-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "XBuilderLAB/cheat-on-content - You're reading this. The skill predicted it. A workflow that turns every post in",
+    "summary": "1559 stars | Shell | You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, i",
+    "source": "GitHub Trending",
+    "url": "https://github.com/XBuilderLAB/cheat-on-content",
+    "date": "2026-05-05",
+    "tags": [
+      "GitHub",
+      "Shell"
+    ],
+    "hot": true,
+    "id": 39
   },
   {
     "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
@@ -309,7 +490,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 40
   },
   {
     "title": "Internet Archive Switzerland",
@@ -321,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 41
   },
   {
     "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
@@ -333,7 +514,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 42
   },
   {
     "title": "LLMs corrupt your documents when you delegate",
@@ -345,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "A recent experience with ChatGPT 5.5 Pro",
@@ -357,7 +538,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 44
   },
   {
     "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
@@ -369,7 +550,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Using Claude Code: The unreasonable effectiveness of HTML",
@@ -381,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Getting arrested in Japan",
@@ -393,7 +574,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 47
   },
   {
     "title": "MolmoAct 2",
@@ -405,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Prism",
@@ -417,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Zappy by ZapDigits",
@@ -429,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "Codex in Chrome",
@@ -441,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "nocal 4",
@@ -453,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "Omi A11Y ",
@@ -465,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "Google broke reCAPTCHA for de-googled Android users",
@@ -477,7 +658,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 54
   },
   {
     "title": "David Attenborough's 100th Birthday",
@@ -489,7 +670,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 55
   },
   {
     "title": "An Introduction to Meshtastic",
@@ -501,7 +682,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "Poland is now among the 20 largest economies",
@@ -513,7 +694,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "Sendly",
@@ -525,7 +706,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 43
+    "id": 58
   },
   {
     "title": "ElevenCreative Flows",
@@ -537,7 +718,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 44
+    "id": 59
   },
   {
     "title": "KodHau",
@@ -545,187 +726,6 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents",
     "date": "2026-05-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Photobomb",
-    "summary": "New product launch on Product Hunt: Photobomb",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/photobomb",
-    "date": "2026-05-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "GitHired",
-    "summary": "New product launch on Product Hunt: GitHired",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/githired-2",
-    "date": "2026-04-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Minions",
-    "summary": "New product launch on Product Hunt: Minions",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/minions",
-    "date": "2026-05-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "aattaran/deepclaude - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any",
-    "summary": "1642 stars | JavaScript | Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/aattaran/deepclaude",
-    "date": "2026-05-03",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Dirtyfrag: Universal Linux LPE",
-    "summary": "406 points | 187 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-    "date": "2026-05-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-    "summary": "51 points | 18 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-    "date": "2026-05-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "The Burning Man MOOP Map",
-    "summary": "536 points | 282 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.not-ship.com/burning-man-moop/",
-    "date": "2026-05-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Agents need control flow, not more prompts",
-    "summary": "326 points | 181 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "date": "2026-05-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "AI slop is killing online communities",
-    "summary": "448 points | 431 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "date": "2026-05-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-    "summary": "466 points | 172 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "date": "2026-05-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Tools in the Grass: Raising the next generation of crafts person",
-    "summary": "27 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
-    "date": "2026-05-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "The Self-Cancelling Subscription",
-    "summary": "147 points | 63 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-    "date": "2026-05-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "MESA",
-    "summary": "New product launch on Product Hunt: MESA",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mesa",
-    "date": "2026-04-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Saydi",
-    "summary": "New product launch on Product Hunt: Saydi",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/saydi",
-    "date": "2026-05-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Claude Agents for Financial Services",
-    "summary": "New product launch on Product Hunt: Claude Agents for Financial Services",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/claude-code",
-    "date": "2026-05-05",
     "tags": [
       "Product Launch"
     ],
