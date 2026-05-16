@@ -1,10 +1,10 @@
 [
   {
-    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-    "summary": "617 points | 364 comments on Hacker News",
+    "title": "Project Gutenberg – keeps getting better",
+    "summary": "717 points | 175 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-    "date": "2026-05-14",
+    "url": "https://www.gutenberg.org/",
+    "date": "2026-05-15",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-    "summary": "491 points | 134 comments on Hacker News",
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "summary": "804 points | 349 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "date": "2026-05-14",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "date": "2026-05-15",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Show HN: Race to the Bottom",
-    "summary": "30 points | 14 comments on Hacker News",
+    "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+    "summary": "14 points | 3 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://race-to-the-bottom.onrender.com",
-    "date": "2026-05-14",
+    "url": "https://ljtn.github.io/epiq/",
+    "date": "2026-05-16",
     "tags": [
       "HN"
     ],
@@ -36,71 +36,71 @@
     "id": 3
   },
   {
-    "title": "Porting 3D Movie Maker to Linux",
-    "summary": "80 points | 13 comments on Hacker News",
+    "title": "A 0-click exploit chain for the Pixel 10",
+    "summary": "339 points | 157 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
-    "date": "2026-05-11",
+    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "date": "2026-05-15",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 4
   },
   {
-    "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
-    "summary": "39 points | 5 comments on Hacker News",
+    "title": "California bill would require patches or refunds when online games shut down",
+    "summary": "318 points | 193 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.openvehicles.com/home",
-    "date": "2026-05-14",
+    "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+    "date": "2026-05-15",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Show HN: GridTravel- A community based travel app for users to share routes",
-    "summary": "20 points | 4 comments on Hacker News",
+    "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "summary": "362 points | 240 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.gridtravel.app",
+    "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+    "date": "2026-05-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 6
+  },
+  {
+    "title": "Show HN: Watch a neural net learn to play Snake",
+    "summary": "119 points | 30 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://ppo.gradexp.xyz/",
     "date": "2026-05-14",
     "tags": [
       "HN"
     ],
     "hot": false,
-    "id": 6
-  },
-  {
-    "title": "Rewrite Bun in Rust has been merged",
-    "summary": "489 points | 587 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/oven-sh/bun/pull/30412",
-    "date": "2026-05-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 7
   },
   {
-    "title": "A message from President Kornbluth about funding and the talent pipeline",
-    "summary": "575 points | 640 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-    "date": "2026-05-14",
+    "title": "Wowable",
+    "summary": "New product launch on Product Hunt: Wowable",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/wowable",
+    "date": "2026-04-24",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Templates in ElevenCreative",
-    "summary": "New product launch on Product Hunt: Templates in ElevenCreative",
+    "title": "OpenHuman",
+    "summary": "New product launch on Product Hunt: OpenHuman",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/templates-in-elevencreative",
-    "date": "2026-05-13",
+    "url": "https://www.producthunt.com/products/openhuman",
+    "date": "2026-05-01",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Openclaw OS",
-    "summary": "New product launch on Product Hunt: Openclaw OS",
+    "title": "PHBench",
+    "summary": "New product launch on Product Hunt: PHBench",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/thesys",
-    "date": "2026-05-13",
+    "url": "https://www.producthunt.com/products/vela-terminal",
+    "date": "2026-05-11",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Indigo",
-    "summary": "New product launch on Product Hunt: Indigo",
+    "title": "Lensmor",
+    "summary": "New product launch on Product Hunt: Lensmor",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/indigo-2",
-    "date": "2026-05-14",
+    "url": "https://www.producthunt.com/products/lensmor-2",
+    "date": "2026-05-09",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Online 3D Editor",
-    "summary": "New product launch on Product Hunt: Online 3D Editor",
+    "title": "Basedash MCP Connectors",
+    "summary": "New product launch on Product Hunt: Basedash MCP Connectors",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/online-3d-editor",
-    "date": "2026-05-13",
+    "url": "https://www.producthunt.com/products/basedash",
+    "date": "2026-05-14",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "YM.dat",
-    "summary": "New product launch on Product Hunt: YM.dat",
+    "title": "Riffly",
+    "summary": "New product launch on Product Hunt: Riffly",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ym-dat",
-    "date": "2026-05-14",
+    "url": "https://www.producthunt.com/products/riffly",
+    "date": "2026-05-07",
     "tags": [
       "Product Launch"
     ],
@@ -156,20 +156,8 @@
     "id": 13
   },
   {
-    "title": "Slop Goggles",
-    "summary": "New product launch on Product Hunt: Slop Goggles",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/slop-goggles",
-    "date": "2026-05-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "FULU-Foundation/OrcaSlicer-bambulab - No description",
-    "summary": "4073 stars | C++ | ",
+    "summary": "4671 stars | C++ | ",
     "source": "GitHub Trending",
     "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
     "date": "2026-05-11",
@@ -178,11 +166,24 @@
       "C++"
     ],
     "hot": true,
+    "id": 14
+  },
+  {
+    "title": "Nightmare-Eclipse/YellowKey - YellowKey Bitlocker Bypass Vulnerability",
+    "summary": "2441 stars | Unknown | YellowKey Bitlocker Bypass Vulnerability",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Nightmare-Eclipse/YellowKey",
+    "date": "2026-05-12",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
     "id": 15
   },
   {
     "title": "huangserva/3DCellForge - AI-powered interactive 3D model generation, inspection, and presentation studio.",
-    "summary": "2012 stars | JavaScript | AI-powered interactive 3D model generation, inspection, and presentation studio.",
+    "summary": "2059 stars | JavaScript | AI-powered interactive 3D model generation, inspection, and presentation studio.",
     "source": "GitHub Trending",
     "url": "https://github.com/huangserva/3DCellForge",
     "date": "2026-05-10",
@@ -194,21 +195,8 @@
     "id": 16
   },
   {
-    "title": "Nightmare-Eclipse/YellowKey - YellowKey Bitlocker Bypass Vulnerability",
-    "summary": "1759 stars | Unknown | YellowKey Bitlocker Bypass Vulnerability",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Nightmare-Eclipse/YellowKey",
-    "date": "2026-05-12",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "nexu-io/html-anything - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀",
-    "summary": "974 stars | HTML | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperfram",
+    "summary": "1995 stars | HTML | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperfra",
     "source": "GitHub Trending",
     "url": "https://github.com/nexu-io/html-anything",
     "date": "2026-05-11",
@@ -217,11 +205,24 @@
       "HTML"
     ],
     "hot": true,
+    "id": 17
+  },
+  {
+    "title": "yetone/native-feel-skill - An Agent Skill for designing cross-platform desktop apps that feel native — dist",
+    "summary": "1071 stars | Unknown | An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectur",
+    "source": "GitHub Trending",
+    "url": "https://github.com/yetone/native-feel-skill",
+    "date": "2026-05-14",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
     "id": 18
   },
   {
     "title": "HermannBjorgvin/Clawdmeter - ESP32 desk dashboard that shows Claude Code usage",
-    "summary": "869 stars | C | ESP32 desk dashboard that shows Claude Code usage",
+    "summary": "1005 stars | C | ESP32 desk dashboard that shows Claude Code usage",
     "source": "GitHub Trending",
     "url": "https://github.com/HermannBjorgvin/Clawdmeter",
     "date": "2026-05-11",
@@ -231,19 +232,6 @@
     ],
     "hot": true,
     "id": 19
-  },
-  {
-    "title": "ywnd1144/Gopay_plus_automatic - No description",
-    "summary": "793 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
-    "date": "2026-05-12",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +244,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 20
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +257,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 21
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +270,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 22
   },
   {
     "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
@@ -295,7 +283,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 23
   },
   {
     "title": "TechPays has been acquired by Levels.fyi",
@@ -308,7 +296,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 24
   },
   {
     "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
@@ -321,7 +309,188 @@
       "Career"
     ],
     "hot": false,
+    "id": 25
+  },
+  {
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "summary": "617 points | 364 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+    "date": "2026-05-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "summary": "491 points | 134 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "date": "2026-05-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Race to the Bottom",
+    "summary": "30 points | 14 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://race-to-the-bottom.onrender.com",
+    "date": "2026-05-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Porting 3D Movie Maker to Linux",
+    "summary": "80 points | 13 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
+    "date": "2026-05-11",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+    "summary": "39 points | 5 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.openvehicles.com/home",
+    "date": "2026-05-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: GridTravel- A community based travel app for users to share routes",
+    "summary": "20 points | 4 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.gridtravel.app",
+    "date": "2026-05-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Rewrite Bun in Rust has been merged",
+    "summary": "489 points | 587 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/oven-sh/bun/pull/30412",
+    "date": "2026-05-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "A message from President Kornbluth about funding and the talent pipeline",
+    "summary": "575 points | 640 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+    "date": "2026-05-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Templates in ElevenCreative",
+    "summary": "New product launch on Product Hunt: Templates in ElevenCreative",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/templates-in-elevencreative",
+    "date": "2026-05-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Openclaw OS",
+    "summary": "New product launch on Product Hunt: Openclaw OS",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/thesys",
+    "date": "2026-05-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Indigo",
+    "summary": "New product launch on Product Hunt: Indigo",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/indigo-2",
+    "date": "2026-05-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Online 3D Editor",
+    "summary": "New product launch on Product Hunt: Online 3D Editor",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/online-3d-editor",
+    "date": "2026-05-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "YM.dat",
+    "summary": "New product launch on Product Hunt: YM.dat",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ym-dat",
+    "date": "2026-05-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Slop Goggles",
+    "summary": "New product launch on Product Hunt: Slop Goggles",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/slop-goggles",
+    "date": "2026-05-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "ywnd1144/Gopay_plus_automatic - No description",
+    "summary": "793 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+    "date": "2026-05-12",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
@@ -333,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 41
   },
   {
     "title": "Setting up a free *.city.state.us locality domain (2025)",
@@ -345,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "Twin brothers wipe 96 government databases minutes after being fired",
@@ -357,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 43
   },
   {
     "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
@@ -369,7 +538,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 44
   },
   {
     "title": "A sentimental tour of late 1990s and early 2000s hacking tools",
@@ -381,7 +550,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 45
   },
   {
     "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
@@ -393,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 46
   },
   {
     "title": "Leaving GitHub for Forgejo",
@@ -405,7 +574,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 47
   },
   {
     "title": "I moved my digital stack to Europe",
@@ -417,7 +586,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 48
   },
   {
     "title": "Plate",
@@ -429,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "Glosso",
@@ -441,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "BossHogg",
@@ -453,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 51
   },
   {
     "title": "Skyty Wall",
@@ -465,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 52
   },
   {
     "title": "LayerProof Matte 2.0",
@@ -477,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 53
   },
   {
     "title": "tapcut",
@@ -489,7 +658,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 54
   },
   {
     "title": "vercel-labs/zero-native - Build desktop + mobile apps with Zig and web UI",
@@ -502,7 +671,7 @@
       "Zig"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "The Pulse: token spend breaks budgets – what next?",
@@ -515,7 +684,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 42
+    "id": 56
   },
   {
     "title": "Googlebook",
@@ -527,7 +696,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 57
   },
   {
     "title": "Why senior developers fail to communicate their expertise",
@@ -539,7 +708,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 58
   },
   {
     "title": "Rendering the Sky, Sunsets, and Planets",
@@ -551,7 +720,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 59
   },
   {
     "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
@@ -563,177 +732,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 46
-  },
-  {
-    "title": "The Future of Obsidian Plugins",
-    "summary": "306 points | 123 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://obsidian.md/blog/future-of-plugins/",
-    "date": "2026-05-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Show HN: Agentic interface for mainframes and COBOL",
-    "summary": "55 points | 33 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.hypercubic.ai/hopper",
-    "date": "2026-05-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Bambu Lab is abusing the open source social contract",
-    "summary": "1095 points | 364 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-    "date": "2026-05-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Seer Platform",
-    "summary": "New product launch on Product Hunt: Seer Platform",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/seer-platform",
-    "date": "2026-04-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Synci",
-    "summary": "New product launch on Product Hunt: Synci",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/synci",
-    "date": "2026-03-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Long Horizon",
-    "summary": "New product launch on Product Hunt: Long Horizon",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/long-horizon",
-    "date": "2026-05-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "knooth",
-    "summary": "New product launch on Product Hunt: knooth",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/knooth",
-    "date": "2026-05-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Hopper",
-    "summary": "New product launch on Product Hunt: Hopper",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hopper-4",
-    "date": "2026-05-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Vexilo",
-    "summary": "New product launch on Product Hunt: Vexilo",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vexilo-a-field-guide-to-claude-code",
-    "date": "2026-05-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "V4bel/dirtyfrag - No description",
-    "summary": "4331 stars | C | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/V4bel/dirtyfrag",
-    "date": "2026-05-07",
-    "tags": [
-      "GitHub",
-      "C"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "haydenbleasel/files-sdk - A unified storage SDK for object and blob backends. One small, honest API. Web-s",
-    "summary": "569 stars | TypeScript | A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/haydenbleasel/files-sdk",
-    "date": "2026-05-08",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "thakur-works/DarkGPT - Darkgpt mod free #chatgpt",
-    "summary": "532 stars | Unknown | Darkgpt mod free #chatgpt",
-    "source": "GitHub Trending",
-    "url": "https://github.com/thakur-works/DarkGPT",
-    "date": "2026-05-10",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Postmortem: TanStack npm supply-chain compromise",
-    "summary": "523 points | 188 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "date": "2026-05-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "GitLab announces workforce reduction and end of their CREDIT values",
-    "summary": "317 points | 311 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-    "date": "2026-05-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
