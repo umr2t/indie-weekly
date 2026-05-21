@@ -1,10 +1,10 @@
 [
   {
-    "title": "Gemini 3.5 Flash",
-    "summary": "584 points | 440 comments on Hacker News",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "summary": "746 points | 543 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "date": "2026-05-19",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "date": "2026-05-20",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-    "summary": "600 points | 146 comments on Hacker News",
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "summary": "545 points | 195 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://virtualosmuseum.org/",
-    "date": "2026-05-19",
+    "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+    "date": "2026-05-20",
     "tags": [
       "HN"
     ],
@@ -24,35 +24,35 @@
     "id": 2
   },
   {
-    "title": "Google changes its search box",
-    "summary": "377 points | 547 comments on Hacker News",
+    "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+    "summary": "121 points | 32 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-    "date": "2026-05-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 3
-  },
-  {
-    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-    "summary": "199 points | 102 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/advancing-content-provenance/",
-    "date": "2026-05-19",
+    "url": "https://legiscan.com/CO/bill/SB051/2026",
+    "date": "2026-05-20",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 3
+  },
+  {
+    "title": "How fast is N tokens per second really?",
+    "summary": "306 points | 73 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mikeveerman.github.io/tokenspeed/",
+    "date": "2026-05-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-    "summary": "275 points | 98 comments on Hacker News",
+    "title": "Qwen3.7-Max: The Agent Frontier",
+    "summary": "609 points | 246 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/antoinezambelli/forge",
-    "date": "2026-05-19",
+    "url": "https://qwen.ai/blog?id=qwen3.7",
+    "date": "2026-05-20",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Apple unveils new accessibility features",
-    "summary": "595 points | 309 comments on Hacker News",
+    "title": "Saying goodbye to asm.js",
+    "summary": "313 points | 135 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-    "date": "2026-05-19",
+    "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+    "date": "2026-05-20",
     "tags": [
       "HN"
     ],
@@ -72,11 +72,11 @@
     "id": 6
   },
   {
-    "title": "Minnesota becomes first state to ban prediction markets",
-    "summary": "457 points | 144 comments on Hacker News",
+    "title": "Map of Metal",
+    "summary": "400 points | 146 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-    "date": "2026-05-19",
+    "url": "https://mapofmetal.com/",
+    "date": "2026-05-20",
     "tags": [
       "HN"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "Dumb ways for an open source project to die",
-    "summary": "152 points | 83 comments on Hacker News",
+    "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
+    "summary": "29 points | 12 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-    "date": "2026-05-19",
+    "url": "https://github.com/kouhxp/yapsnap",
+    "date": "2026-05-20",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Monocle 3.5 for macOS",
-    "summary": "New product launch on Product Hunt: Monocle 3.5 for macOS",
+    "title": "Retina",
+    "summary": "New product launch on Product Hunt: Retina",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
-    "date": "2026-05-19",
+    "url": "https://www.producthunt.com/products/retina-2",
+    "date": "2026-05-16",
     "tags": [
       "Product Launch"
     ],
@@ -108,10 +108,10 @@
     "id": 9
   },
   {
-    "title": "VWFNDR™ + MBL",
-    "summary": "New product launch on Product Hunt: VWFNDR™ + MBL",
+    "title": "Owlish",
+    "summary": "New product launch on Product Hunt: Owlish",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vwfndr-mbl",
+    "url": "https://www.producthunt.com/products/owlish",
     "date": "2026-05-19",
     "tags": [
       "Product Launch"
@@ -120,10 +120,10 @@
     "id": 10
   },
   {
-    "title": "CLI Market",
-    "summary": "New product launch on Product Hunt: CLI Market",
+    "title": "GhostSnap",
+    "summary": "New product launch on Product Hunt: GhostSnap",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cli-market",
+    "url": "https://www.producthunt.com/products/ghostsnap",
     "date": "2026-05-19",
     "tags": [
       "Product Launch"
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Agora-1 by Odyssey",
-    "summary": "New product launch on Product Hunt: Agora-1 by Odyssey",
+    "title": "Contextberg",
+    "summary": "New product launch on Product Hunt: Contextberg",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/odyssey-5",
-    "date": "2026-05-19",
+    "url": "https://www.producthunt.com/products/contextberg",
+    "date": "2026-05-09",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "AutoShelf",
-    "summary": "New product launch on Product Hunt: AutoShelf",
+    "title": "LayerProof Kraft ",
+    "summary": "New product launch on Product Hunt: LayerProof Kraft ",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/autoshelf",
-    "date": "2026-05-18",
+    "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+    "date": "2026-05-20",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Drizz",
-    "summary": "New product launch on Product Hunt: Drizz",
+    "title": "Glia",
+    "summary": "New product launch on Product Hunt: Glia",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/drizz-2",
-    "date": "2026-05-14",
+    "url": "https://www.producthunt.com/products/glia-2",
+    "date": "2026-05-19",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "vercel-labs/zerolang - The programming language for agents",
-    "summary": "3264 stars | C | The programming language for agents",
+    "summary": "3984 stars | C | The programming language for agents",
     "source": "GitHub Trending",
     "url": "https://github.com/vercel-labs/zerolang",
     "date": "2026-05-15",
@@ -181,34 +181,21 @@
     "id": 15
   },
   {
-    "title": "yetone/native-feel-skill - An Agent Skill for designing cross-platform desktop apps that feel native — dist",
-    "summary": "1335 stars | Unknown | An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectur",
+    "title": "FoundZiGu/GuJumpgate - No description",
+    "summary": "967 stars | JavaScript | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/yetone/native-feel-skill",
-    "date": "2026-05-14",
+    "url": "https://github.com/FoundZiGu/GuJumpgate",
+    "date": "2026-05-19",
     "tags": [
       "GitHub",
-      "Code"
+      "JavaScript"
     ],
     "hot": true,
     "id": 16
   },
   {
-    "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
-    "summary": "1224 stars | Python | [CVPR 2026 Oral] VGGT Omega",
-    "source": "GitHub Trending",
-    "url": "https://github.com/facebookresearch/vggt-omega",
-    "date": "2026-05-14",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "DenisSergeevitch/agents-best-practices - Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "summary": "853 stars | Unknown | Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+    "summary": "902 stars | Unknown | Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
     "source": "GitHub Trending",
     "url": "https://github.com/DenisSergeevitch/agents-best-practices",
     "date": "2026-05-15",
@@ -217,30 +204,43 @@
       "Code"
     ],
     "hot": true,
+    "id": 17
+  },
+  {
+    "title": "thananon/9arm-skills - No description",
+    "summary": "902 stars | Shell | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/thananon/9arm-skills",
+    "date": "2026-05-20",
+    "tags": [
+      "GitHub",
+      "Shell"
+    ],
+    "hot": true,
     "id": 18
   },
   {
+    "title": "Doorman11991/smallcode - AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+    "summary": "842 stars | JavaScript | AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Doorman11991/smallcode",
+    "date": "2026-05-18",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
     "title": "Kappaemme-git/codex-complexity-optimizer - Codex skill for safe codebase complexity analysis and performance optimization r",
-    "summary": "788 stars | Python | Codex skill for safe codebase complexity analysis and performance optimization reports",
+    "summary": "805 stars | Python | Codex skill for safe codebase complexity analysis and performance optimization reports",
     "source": "GitHub Trending",
     "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
     "date": "2026-05-15",
     "tags": [
       "GitHub",
       "Python"
-    ],
-    "hot": true,
-    "id": 19
-  },
-  {
-    "title": "DuskMosquito/Lossless-Scaling-Desktop-2026 - ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen",
-    "summary": "778 stars | C | ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Per",
-    "source": "GitHub Trending",
-    "url": "https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026",
-    "date": "2026-05-18",
-    "tags": [
-      "GitHub",
-      "C"
     ],
     "hot": true,
     "id": 20
@@ -285,6 +285,19 @@
     "id": 23
   },
   {
+    "title": "Google Cloud deletes Australian trading fund’s infra",
+    "summary": "A $124B fund in Australia would have lost all data stored with Google Cloud, had they not relied on a third-party backup. A rare blunder from GCP, where regional replication did not stop the deletion ",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/",
+    "date": "2026-05-20",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
     "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
     "summary": "For the past few weeks, Anthropic has continually upset devs with its “dumber” model, and by removing Claude Code access from some paid accounts. After securing lots of compute from SpaceX, could the ",
     "source": "Pragmatic Engineer",
@@ -295,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
   },
   {
     "title": "TechPays has been acquired by Levels.fyi",
@@ -308,7 +321,214 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 26
+  },
+  {
+    "title": "Gemini 3.5 Flash",
+    "summary": "584 points | 440 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "date": "2026-05-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+    "summary": "600 points | 146 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://virtualosmuseum.org/",
+    "date": "2026-05-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Google changes its search box",
+    "summary": "377 points | 547 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "date": "2026-05-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+    "summary": "199 points | 102 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/advancing-content-provenance/",
+    "date": "2026-05-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "summary": "275 points | 98 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/antoinezambelli/forge",
+    "date": "2026-05-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Apple unveils new accessibility features",
+    "summary": "595 points | 309 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+    "date": "2026-05-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Minnesota becomes first state to ban prediction markets",
+    "summary": "457 points | 144 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+    "date": "2026-05-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Dumb ways for an open source project to die",
+    "summary": "152 points | 83 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+    "date": "2026-05-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Monocle 3.5 for macOS",
+    "summary": "New product launch on Product Hunt: Monocle 3.5 for macOS",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "VWFNDR™ + MBL",
+    "summary": "New product launch on Product Hunt: VWFNDR™ + MBL",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vwfndr-mbl",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "CLI Market",
+    "summary": "New product launch on Product Hunt: CLI Market",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cli-market",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Agora-1 by Odyssey",
+    "summary": "New product launch on Product Hunt: Agora-1 by Odyssey",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/odyssey-5",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "AutoShelf",
+    "summary": "New product launch on Product Hunt: AutoShelf",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/autoshelf",
+    "date": "2026-05-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Drizz",
+    "summary": "New product launch on Product Hunt: Drizz",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/drizz-2",
+    "date": "2026-05-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "yetone/native-feel-skill - An Agent Skill for designing cross-platform desktop apps that feel native — dist",
+    "summary": "1335 stars | Unknown | An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectur",
+    "source": "GitHub Trending",
+    "url": "https://github.com/yetone/native-feel-skill",
+    "date": "2026-05-14",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "facebookresearch/vggt-omega - [CVPR 2026 Oral] VGGT Omega",
+    "summary": "1224 stars | Python | [CVPR 2026 Oral] VGGT Omega",
+    "source": "GitHub Trending",
+    "url": "https://github.com/facebookresearch/vggt-omega",
+    "date": "2026-05-14",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "DuskMosquito/Lossless-Scaling-Desktop-2026 - ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen",
+    "summary": "778 stars | C | ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Per",
+    "source": "GitHub Trending",
+    "url": "https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026",
+    "date": "2026-05-18",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 43
   },
   {
     "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
@@ -321,7 +541,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 26
+    "id": 44
   },
   {
     "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
@@ -333,7 +553,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 45
   },
   {
     "title": "Anthropic acquires Stainless",
@@ -345,7 +565,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 46
   },
   {
     "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
@@ -357,7 +577,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 47
   },
   {
     "title": "The Quiet Renovation at Bitwarden",
@@ -369,7 +589,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 48
   },
   {
     "title": "Show HN: Files.md – Open-source alternative to Obsidian",
@@ -381,7 +601,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 49
   },
   {
     "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
@@ -393,7 +613,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 50
   },
   {
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
@@ -405,7 +625,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 51
   },
   {
     "title": "Show HN: InsForge – Open-source Heroku for coding agents",
@@ -417,7 +637,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 52
   },
   {
     "title": "Shadow",
@@ -429,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 53
   },
   {
     "title": "LobeHub",
@@ -441,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 54
   },
   {
     "title": "SocLeads 3.0",
@@ -453,7 +673,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 55
   },
   {
     "title": "pixserp",
@@ -465,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 56
   },
   {
     "title": "Draft",
@@ -477,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 57
   },
   {
     "title": "Polarity",
@@ -489,7 +709,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 58
   },
   {
     "title": "vercel-labs/zero - The programming language for agents",
@@ -502,7 +722,7 @@
       "C"
     ],
     "hot": true,
-    "id": 41
+    "id": 59
   },
   {
     "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
@@ -510,225 +730,6 @@
     "source": "Hacker News",
     "url": "https://github.com/MinishLab/semble",
     "date": "2026-05-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 42
-  },
-  {
-    "title": "I don't think AI will make your processes go faster",
-    "summary": "497 points | 352 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "date": "2026-05-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-    "summary": "646 points | 271 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-    "date": "2026-05-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "A nicer voltmeter clock",
-    "summary": "311 points | 42 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-    "date": "2026-05-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Native all the way, until you need text",
-    "summary": "390 points | 258 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-    "date": "2026-05-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "AI is a technology not a product",
-    "summary": "331 points | 135 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-    "date": "2026-05-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "SUN-to-Spotify ",
-    "summary": "New product launch on Product Hunt: SUN-to-Spotify ",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sun-ai",
-    "date": "2025-03-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Vivago Video Agent",
-    "summary": "New product launch on Product Hunt: Vivago Video Agent",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/viva",
-    "date": "2026-05-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Fere AI",
-    "summary": "New product launch on Product Hunt: Fere AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fere-ai",
-    "date": "2026-04-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Files SDK",
-    "summary": "New product launch on Product Hunt: Files SDK",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/files-sdk",
-    "date": "2026-05-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Kirki",
-    "summary": "New product launch on Product Hunt: Kirki",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kirki",
-    "date": "2026-05-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Loova Agents",
-    "summary": "New product launch on Product Hunt: Loova Agents",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/loova-agents",
-    "date": "2026-05-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Nightmare-Eclipse/YellowKey - YellowKey Bitlocker Bypass Vulnerability",
-    "summary": "3162 stars | Unknown | YellowKey Bitlocker Bypass Vulnerability",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Nightmare-Eclipse/YellowKey",
-    "date": "2026-05-12",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "ywnd1144/Gopay_plus_automatic - No description",
-    "summary": "921 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
-    "date": "2026-05-12",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "DepthFirstDisclosures/Nginx-Rift - exploit for CVE-2026-42945",
-    "summary": "673 stars | Python | exploit for CVE-2026-42945",
-    "source": "GitHub Trending",
-    "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-    "date": "2026-05-12",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Moving away from Tailwind, and learning to structure my CSS",
-    "summary": "435 points | 280 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-    "date": "2026-05-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
-    "summary": "42 points | 7 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
-    "date": "2026-05-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Frontier AI has broken the open CTF format",
-    "summary": "339 points | 331 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "date": "2026-05-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Stochastic Parrots: Frequently Unasked Questions",
-    "summary": "23 points | 9 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11",
-    "date": "2026-05-13",
     "tags": [
       "HN"
     ],
