@@ -1,22 +1,22 @@
 [
   {
-    "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
-    "summary": "20 points | 10 comments on Hacker News",
+    "title": "YouTube to automatically label AI-generated videos",
+    "summary": "537 points | 323 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "date": "2026-05-27",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 1
   },
   {
-    "title": "Big tech's anti-labor playbook has come for Wikipedia",
-    "summary": "302 points | 152 comments on Hacker News",
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "summary": "649 points | 797 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-    "date": "2026-05-26",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "date": "2026-05-27",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "C array types are weird",
-    "summary": "55 points | 28 comments on Hacker News",
+    "title": "A New Typst Template for Pandoc",
+    "summary": "32 points | 2 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-    "date": "2026-05-25",
+    "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+    "date": "2026-05-26",
     "tags": [
       "HN"
     ],
@@ -36,59 +36,59 @@
     "id": 3
   },
   {
-    "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-    "summary": "128 points | 32 comments on Hacker News",
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "summary": "671 points | 334 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/logannye/rosalind",
-    "date": "2026-05-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 4
-  },
-  {
-    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-    "summary": "781 points | 358 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-    "date": "2026-05-26",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "date": "2026-05-27",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 4
+  },
+  {
+    "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+    "summary": "75 points | 32 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+    "date": "2026-05-27",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
-    "summary": "14 points | 3 comments on Hacker News",
+    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+    "summary": "260 points | 193 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
-    "date": "2026-05-26",
+    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+    "date": "2026-05-27",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-    "summary": "71 points | 47 comments on Hacker News",
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "summary": "374 points | 228 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.minicor.com/",
-    "date": "2026-05-26",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "date": "2026-05-27",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Netherlands blocks US takeover of vital digital supplier",
-    "summary": "532 points | 209 comments on Hacker News",
+    "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+    "summary": "411 points | 301 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-    "date": "2026-05-26",
+    "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+    "date": "2026-05-27",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "LikePulse",
-    "summary": "New product launch on Product Hunt: LikePulse",
+    "title": "Octolane",
+    "summary": "New product launch on Product Hunt: Octolane",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/likepulse",
-    "date": "2026-05-24",
+    "url": "https://www.producthunt.com/products/octolane",
+    "date": "2026-05-26",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "AVTR-1 Real-Time Open Weights Model",
-    "summary": "New product launch on Product Hunt: AVTR-1 Real-Time Open Weights Model",
+    "title": "Pawse.ai",
+    "summary": "New product launch on Product Hunt: Pawse.ai",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/avaturn-live-2",
-    "date": "2026-05-19",
+    "url": "https://www.producthunt.com/products/pawse-ai",
+    "date": "2026-05-26",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Parrot Speech-to-text API",
-    "summary": "New product launch on Product Hunt: Parrot Speech-to-text API",
+    "title": "Powabase",
+    "summary": "New product launch on Product Hunt: Powabase",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/parrot-speech-to-text-api",
-    "date": "2026-05-25",
+    "url": "https://www.producthunt.com/products/powabase",
+    "date": "2026-05-15",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Brew ",
-    "summary": "New product launch on Product Hunt: Brew ",
+    "title": "Coworker AI",
+    "summary": "New product launch on Product Hunt: Coworker AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/brew-5",
-    "date": "2026-05-18",
+    "url": "https://www.producthunt.com/products/coworker-ai",
+    "date": "2026-05-14",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Willow Scribe",
-    "summary": "New product launch on Product Hunt: Willow Scribe",
+    "title": "Oasis Browser for Mac",
+    "summary": "New product launch on Product Hunt: Oasis Browser for Mac",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/willow-voice",
-    "date": "2026-05-23",
+    "url": "https://www.producthunt.com/products/kahana",
+    "date": "2026-05-13",
     "tags": [
       "Product Launch"
     ],
@@ -156,10 +156,10 @@
     "id": 13
   },
   {
-    "title": "ReplylessAI Sequences",
-    "summary": "New product launch on Product Hunt: ReplylessAI Sequences",
+    "title": "Aviquill",
+    "summary": "New product launch on Product Hunt: Aviquill",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/replylessai",
+    "url": "https://www.producthunt.com/products/aviquill",
     "date": "2026-05-25",
     "tags": [
       "Product Launch"
@@ -168,21 +168,8 @@
     "id": 14
   },
   {
-    "title": "Tong89/smartNode - No description",
-    "summary": "1140 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Tong89/smartNode",
-    "date": "2026-05-21",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "open-gsd/get-shit-done-redux - Getting Shit Done, the Aftermath",
-    "summary": "1106 stars | JavaScript | Getting Shit Done, the Aftermath",
+    "summary": "1346 stars | JavaScript | Getting Shit Done, the Aftermath",
     "source": "GitHub Trending",
     "url": "https://github.com/open-gsd/get-shit-done-redux",
     "date": "2026-05-22",
@@ -191,24 +178,11 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
-    "summary": "809 stars | JavaScript | 微信账单分析工具 - 基于Electron的可视化账单分析应用",
-    "source": "GitHub Trending",
-    "url": "https://github.com/run-liyi/wechatpay",
-    "date": "2026-05-21",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 15
   },
   {
     "title": "MoonshotAI/kimi-code - The Starting Point for Next-Gen Agents",
-    "summary": "730 stars | TypeScript | The Starting Point for Next-Gen Agents",
+    "summary": "889 stars | TypeScript | The Starting Point for Next-Gen Agents",
     "source": "GitHub Trending",
     "url": "https://github.com/MoonshotAI/kimi-code",
     "date": "2026-05-22",
@@ -217,13 +191,39 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 18
+    "id": 16
   },
   {
     "title": "0xSero/codex-shim - Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT ",
-    "summary": "636 stars | Python | Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+    "summary": "660 stars | Python | Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
     "source": "GitHub Trending",
     "url": "https://github.com/0xSero/codex-shim",
+    "date": "2026-05-22",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "study8677/awesome-architecture - 🗺️ Think like a software architect, not just a coder — 21 architecture maps (in",
+    "summary": "572 stars | Vue | 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutoria",
+    "source": "GitHub Trending",
+    "url": "https://github.com/study8677/awesome-architecture",
+    "date": "2026-05-23",
+    "tags": [
+      "GitHub",
+      "Vue"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "zhaoyue4810/pianke - No description",
+    "summary": "502 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/zhaoyue4810/pianke",
     "date": "2026-05-22",
     "tags": [
       "GitHub",
@@ -233,14 +233,14 @@
     "id": 19
   },
   {
-    "title": "zhaoyue4810/pianke - No description",
-    "summary": "438 stars | Python | ",
+    "title": "UditAkhourii/adhd - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Cla",
+    "summary": "356 stars | TypeScript | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, p",
     "source": "GitHub Trending",
-    "url": "https://github.com/zhaoyue4810/pianke",
-    "date": "2026-05-22",
+    "url": "https://github.com/UditAkhourii/adhd",
+    "date": "2026-05-25",
     "tags": [
       "GitHub",
-      "Python"
+      "TypeScript"
     ],
     "hot": false,
     "id": 20
@@ -324,6 +324,200 @@
     "id": 26
   },
   {
+    "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+    "summary": "20 points | 10 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+    "date": "2026-05-27",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Big tech's anti-labor playbook has come for Wikipedia",
+    "summary": "302 points | 152 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+    "date": "2026-05-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "C array types are weird",
+    "summary": "55 points | 28 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+    "date": "2026-05-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+    "summary": "128 points | 32 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/logannye/rosalind",
+    "date": "2026-05-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+    "summary": "781 points | 358 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+    "date": "2026-05-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+    "summary": "14 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+    "date": "2026-05-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+    "summary": "71 points | 47 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.minicor.com/",
+    "date": "2026-05-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Netherlands blocks US takeover of vital digital supplier",
+    "summary": "532 points | 209 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+    "date": "2026-05-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "LikePulse",
+    "summary": "New product launch on Product Hunt: LikePulse",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/likepulse",
+    "date": "2026-05-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "AVTR-1 Real-Time Open Weights Model",
+    "summary": "New product launch on Product Hunt: AVTR-1 Real-Time Open Weights Model",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/avaturn-live-2",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Parrot Speech-to-text API",
+    "summary": "New product launch on Product Hunt: Parrot Speech-to-text API",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/parrot-speech-to-text-api",
+    "date": "2026-05-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Brew ",
+    "summary": "New product launch on Product Hunt: Brew ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/brew-5",
+    "date": "2026-05-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Willow Scribe",
+    "summary": "New product launch on Product Hunt: Willow Scribe",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/willow-voice",
+    "date": "2026-05-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "ReplylessAI Sequences",
+    "summary": "New product launch on Product Hunt: ReplylessAI Sequences",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/replylessai",
+    "date": "2026-05-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "Tong89/smartNode - No description",
+    "summary": "1140 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Tong89/smartNode",
+    "date": "2026-05-21",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "run-liyi/wechatpay - 微信账单分析工具 - 基于Electron的可视化账单分析应用",
+    "summary": "809 stars | JavaScript | 微信账单分析工具 - 基于Electron的可视化账单分析应用",
+    "source": "GitHub Trending",
+    "url": "https://github.com/run-liyi/wechatpay",
+    "date": "2026-05-21",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
     "title": "California moves to exempt Linux from its age-verification law after backlash",
     "summary": "653 points | 285 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Show HN: Write your BPF programs in Go, not C",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Magnifica Humanitas",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Unabyss",
@@ -393,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 48
   },
   {
     "title": "MashuPack",
@@ -405,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "Orchestria",
@@ -417,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "Pi Coding Agent",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "Yansu",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "own.page",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "perplexityai/bumblebee - Read-only developer endpoint scanner for on-disk package, extension, and develop",
@@ -466,7 +660,7 @@
       "Go"
     ],
     "hot": true,
-    "id": 38
+    "id": 54
   },
   {
     "title": "thananon/9arm-skills - No description",
@@ -479,7 +673,7 @@
       "Shell"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "kageroumado/phosphene - A video wallpaper engine for macOS Tahoe",
@@ -492,7 +686,7 @@
       "Swift"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
@@ -504,7 +698,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 57
   },
   {
     "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
@@ -516,7 +710,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "I spent 50 hours drawing a line graph",
@@ -528,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
@@ -540,199 +734,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-    "summary": "302 points | 182 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-    "date": "2026-05-24",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "DeepSeek makes the V4 Pro price discount permanent",
-    "summary": "534 points | 480 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://api-docs.deepseek.com/quick_start/pricing",
-    "date": "2026-05-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Time to talk about my writerdeck",
-    "summary": "454 points | 277 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://veronicaexplains.net/my-first-writerdeck/",
-    "date": "2026-05-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "WhatCable",
-    "summary": "New product launch on Product Hunt: WhatCable",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/whatcable",
-    "date": "2026-05-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Stitch 3.0 by Google",
-    "summary": "New product launch on Product Hunt: Stitch 3.0 by Google",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/stitch-by-google",
-    "date": "2026-05-20",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "DockFlow",
-    "summary": "New product launch on Product Hunt: DockFlow",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dockflow",
-    "date": "2026-05-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "DynamicNotch",
-    "summary": "New product launch on Product Hunt: DynamicNotch",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dynamicnotch",
-    "date": "2026-05-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Freu AI",
-    "summary": "New product launch on Product Hunt: Freu AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/freu-cli",
-    "date": "2026-05-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "ModelHub",
-    "summary": "New product launch on Product Hunt: ModelHub",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/modelhub",
-    "date": "2026-05-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "FoundZiGu/GuJumpgate - No description",
-    "summary": "2343 stars | JavaScript | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/FoundZiGu/GuJumpgate",
-    "date": "2026-05-19",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "On The <dl> (2021)",
-    "summary": "350 points | 107 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://benmyers.dev/blog/on-the-dl/",
-    "date": "2026-05-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-    "summary": "566 points | 979 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-    "date": "2026-05-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Anyone interested in a tool helps to explore C++ ASTs",
-    "summary": "16 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://uvic-aurora.github.io/acav-manual/index.html",
-    "date": "2026-05-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "SpaceX launches Starship v3 rocket",
-    "summary": "364 points | 234 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
-    "date": "2026-05-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "note.md",
-    "summary": "New product launch on Product Hunt: note.md",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/note-md",
-    "date": "2026-05-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Coca 2.0",
-    "summary": "New product launch on Product Hunt: Coca 2.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/coca-2-0",
-    "date": "2026-05-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
