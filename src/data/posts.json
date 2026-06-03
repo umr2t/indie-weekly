@@ -1,10 +1,10 @@
 [
   {
-    "title": "The newest Instagram “exploit” is the goofiest I've seen",
-    "summary": "1370 points | 332 comments on Hacker News",
+    "title": "MAI-Code-1-Flash",
+    "summary": "396 points | 178 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "date": "2026-06-01",
+    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "date": "2026-06-02",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "AI Agent Guidelines for CS336 at Stanford",
-    "summary": "331 points | 118 comments on Hacker News",
+    "title": "Gmail thinks I'm stupid, so I left",
+    "summary": "645 points | 400 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-    "date": "2026-06-01",
+    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "date": "2026-06-02",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "CS336: Language Modeling from Scratch",
-    "summary": "368 points | 43 comments on Hacker News",
+    "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+    "summary": "378 points | 251 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://cs336.stanford.edu/",
-    "date": "2026-06-01",
+    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+    "date": "2026-06-02",
     "tags": [
       "HN"
     ],
@@ -36,35 +36,35 @@
     "id": 3
   },
   {
-    "title": "Nvidia RTX Spark",
-    "summary": "338 points | 333 comments on Hacker News",
+    "title": "Roku LT Operating System open source distribution",
+    "summary": "6 points | 3 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
-    "date": "2026-06-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 4
-  },
-  {
-    "title": "I made my phone slow on purpose",
-    "summary": "169 points | 158 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-    "date": "2026-05-28",
+    "url": "https://blog.roku.com/developer/roku-lt-os",
+    "date": "2026-06-03",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 4
+  },
+  {
+    "title": "Love systemd timers",
+    "summary": "354 points | 228 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "date": "2026-06-02",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-    "summary": "110 points | 114 comments on Hacker News",
+    "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+    "summary": "150 points | 63 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-    "date": "2026-06-01",
+    "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+    "date": "2026-06-02",
     "tags": [
       "HN"
     ],
@@ -72,23 +72,23 @@
     "id": 6
   },
   {
-    "title": "Anthropic confidentially submits draft S-1 to the SEC",
-    "summary": "455 points | 375 comments on Hacker News",
+    "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
+    "summary": "25 points | 13 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-    "date": "2026-06-01",
+    "url": "https://github.com/getpaseo/paseo",
+    "date": "2026-06-02",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "SocialEcho 2.0",
-    "summary": "New product launch on Product Hunt: SocialEcho 2.0",
+    "title": "GlowPulse",
+    "summary": "New product launch on Product Hunt: GlowPulse",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/socialecho",
-    "date": "2026-05-27",
+    "url": "https://www.producthunt.com/products/glowpulse",
+    "date": "2026-05-31",
     "tags": [
       "Product Launch"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Mina Meeting Assistant",
-    "summary": "New product launch on Product Hunt: Mina Meeting Assistant",
+    "title": "Gigacatalyst",
+    "summary": "New product launch on Product Hunt: Gigacatalyst",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mina-meeting-assistant",
-    "date": "2026-05-26",
+    "url": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas",
+    "date": "2026-05-30",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Joanium",
-    "summary": "New product launch on Product Hunt: Joanium",
+    "title": "Enshittifier",
+    "summary": "New product launch on Product Hunt: Enshittifier",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/joanium-2",
-    "date": "2026-05-21",
+    "url": "https://www.producthunt.com/products/enshittifier",
+    "date": "2026-05-30",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Trippple Club",
-    "summary": "New product launch on Product Hunt: Trippple Club",
+    "title": "Mirowl",
+    "summary": "New product launch on Product Hunt: Mirowl",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/trippple-club",
-    "date": "2026-05-26",
+    "url": "https://www.producthunt.com/products/mirowl",
+    "date": "2026-05-28",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "folk",
-    "summary": "New product launch on Product Hunt: folk",
+    "title": "Knock agent for Slack",
+    "summary": "New product launch on Product Hunt: Knock agent for Slack",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/folk-3",
-    "date": "2026-05-25",
+    "url": "https://www.producthunt.com/products/knock-6",
+    "date": "2026-05-28",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Mistral Vibe",
-    "summary": "New product launch on Product Hunt: Mistral Vibe",
+    "title": "choclift",
+    "summary": "New product launch on Product Hunt: choclift",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mistral-7b",
-    "date": "2026-06-01",
+    "url": "https://www.producthunt.com/products/choclift-workflow-sweetener",
+    "date": "2026-05-31",
     "tags": [
       "Product Launch"
     ],
@@ -157,7 +157,7 @@
   },
   {
     "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
-    "summary": "21477 stars | JavaScript | Self-hosted AI workspace. ",
+    "summary": "33817 stars | JavaScript | Self-hosted AI workspace. ",
     "source": "GitHub Trending",
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
     "date": "2026-05-31",
@@ -169,47 +169,21 @@
     "id": 14
   },
   {
-    "title": "op7418/guizang-social-card-skill - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 ",
-    "summary": "2434 stars | HTML | 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 ",
+    "title": "Gloridust/WechatOnCloud - 云微WOC，云微信，自由连接",
+    "summary": "1508 stars | TypeScript | 云微WOC，云微信，自由连接",
     "source": "GitHub Trending",
-    "url": "https://github.com/op7418/guizang-social-card-skill",
-    "date": "2026-05-27",
+    "url": "https://github.com/Gloridust/WechatOnCloud",
+    "date": "2026-05-29",
     "tags": [
       "GitHub",
-      "HTML"
+      "TypeScript"
     ],
     "hot": true,
     "id": 15
   },
   {
-    "title": "helloianneo/ian-xiaohei-illustrations - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-    "summary": "1632 stars | Unknown | 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-    "source": "GitHub Trending",
-    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-    "date": "2026-05-27",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "GordenSun/GordenPPTSkill - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des",
-    "summary": "1435 stars | Python | AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a r",
-    "source": "GitHub Trending",
-    "url": "https://github.com/GordenSun/GordenPPTSkill",
-    "date": "2026-05-27",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform,",
-    "summary": "1075 stars | Python | Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+    "summary": "1264 stars | Python | Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
     "source": "GitHub Trending",
     "url": "https://github.com/Sophomoresty/gemini-web2api",
     "date": "2026-05-28",
@@ -218,17 +192,43 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
+    "id": 16
+  },
+  {
+    "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "summary": "1073 stars | Python | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "source": "GitHub Trending",
+    "url": "https://github.com/asz798838958/aBaiAutoplus",
+    "date": "2026-05-31",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 17
   },
   {
     "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
-    "summary": "857 stars | Go | A light-weight scanner for Cloudflare IPs, written in Golang",
+    "summary": "905 stars | Go | A light-weight scanner for Cloudflare IPs, written in Golang",
     "source": "GitHub Trending",
     "url": "https://github.com/MatinSenPai/SenPaiScanner",
     "date": "2026-05-28",
     "tags": [
       "GitHub",
       "Go"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "b-nnett/goose - Goose Swift proof-of-concept README",
+    "summary": "767 stars | Rust | Goose Swift proof-of-concept README",
+    "source": "GitHub Trending",
+    "url": "https://github.com/b-nnett/goose",
+    "date": "2026-06-02",
+    "tags": [
+      "GitHub",
+      "Rust"
     ],
     "hot": true,
     "id": 19
@@ -312,6 +312,201 @@
     "id": 25
   },
   {
+    "title": "The newest Instagram “exploit” is the goofiest I've seen",
+    "summary": "1370 points | 332 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "date": "2026-06-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 26
+  },
+  {
+    "title": "AI Agent Guidelines for CS336 at Stanford",
+    "summary": "331 points | 118 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "date": "2026-06-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "CS336: Language Modeling from Scratch",
+    "summary": "368 points | 43 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://cs336.stanford.edu/",
+    "date": "2026-06-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Nvidia RTX Spark",
+    "summary": "338 points | 333 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+    "date": "2026-06-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "I made my phone slow on purpose",
+    "summary": "169 points | 158 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+    "date": "2026-05-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+    "summary": "110 points | 114 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "date": "2026-06-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Anthropic confidentially submits draft S-1 to the SEC",
+    "summary": "455 points | 375 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "date": "2026-06-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "SocialEcho 2.0",
+    "summary": "New product launch on Product Hunt: SocialEcho 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/socialecho",
+    "date": "2026-05-27",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Mina Meeting Assistant",
+    "summary": "New product launch on Product Hunt: Mina Meeting Assistant",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mina-meeting-assistant",
+    "date": "2026-05-26",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Joanium",
+    "summary": "New product launch on Product Hunt: Joanium",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/joanium-2",
+    "date": "2026-05-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Trippple Club",
+    "summary": "New product launch on Product Hunt: Trippple Club",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/trippple-club",
+    "date": "2026-05-26",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "folk",
+    "summary": "New product launch on Product Hunt: folk",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/folk-3",
+    "date": "2026-05-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Mistral Vibe",
+    "summary": "New product launch on Product Hunt: Mistral Vibe",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mistral-7b",
+    "date": "2026-06-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "op7418/guizang-social-card-skill - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 ",
+    "summary": "2434 stars | HTML | 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/op7418/guizang-social-card-skill",
+    "date": "2026-05-27",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "helloianneo/ian-xiaohei-illustrations - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+    "summary": "1632 stars | Unknown | 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+    "source": "GitHub Trending",
+    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "date": "2026-05-27",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "GordenSun/GordenPPTSkill - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des",
+    "summary": "1435 stars | Python | AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a r",
+    "source": "GitHub Trending",
+    "url": "https://github.com/GordenSun/GordenPPTSkill",
+    "date": "2026-05-27",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
     "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
     "summary": "529 points | 296 comments on Hacker News",
     "source": "Hacker News",
@@ -321,7 +516,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 42
   },
   {
     "title": "Creatine raises brain energy levels and slows cognitive decline: study",
@@ -333,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Dav2d",
@@ -345,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
@@ -357,7 +552,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Codex just found a \"workaround\" of not having sudo on my PC",
@@ -369,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
@@ -381,7 +576,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 47
   },
   {
     "title": "The Website Specification",
@@ -393,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Web Clipper for NotebookLM",
@@ -405,7 +600,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "Marqly 5.0",
@@ -417,7 +612,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "Oura Ring 5",
@@ -429,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "Clipto",
@@ -441,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Second Brain for AI",
@@ -453,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "TabTasker",
@@ -465,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Microsoft degrades functionality of perpetually-licensed offline products",
@@ -477,7 +672,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "OpenRouter raises $113M Series B",
@@ -489,7 +684,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
@@ -501,7 +696,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
@@ -513,7 +708,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 42
+    "id": 58
   },
   {
     "title": "Pandoc Templates",
@@ -525,7 +720,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Zig: Build System Reworked",
@@ -533,201 +728,6 @@
     "source": "Hacker News",
     "url": "https://ziglang.org/devlog/2026/#2026-05-26",
     "date": "2026-05-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-    "summary": "27 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openenvelope.org/docs/schema/",
-    "date": "2026-05-28",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Step 3.7 Flash",
-    "summary": "New product launch on Product Hunt: Step 3.7 Flash",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/step-3-5-flash",
-    "date": "2026-05-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Wandesk",
-    "summary": "New product launch on Product Hunt: Wandesk",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/wandesk-ai",
-    "date": "2025-12-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Wingbits AI",
-    "summary": "New product launch on Product Hunt: Wingbits AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/wingbits-ai",
-    "date": "2026-05-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Exstats",
-    "summary": "New product launch on Product Hunt: Exstats",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/exstats",
-    "date": "2026-05-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Openstatus MCP Health Checker   ",
-    "summary": "New product launch on Product Hunt: Openstatus MCP Health Checker   ",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openstatus-2",
-    "date": "2026-05-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Agent A by Ahrefs",
-    "summary": "New product launch on Product Hunt: Agent A by Ahrefs",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ahrefs",
-    "date": "2026-05-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "UditAkhourii/adhd - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Cla",
-    "summary": "603 stars | TypeScript | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, s",
-    "source": "GitHub Trending",
-    "url": "https://github.com/UditAkhourii/adhd",
-    "date": "2026-05-25",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "withkynam/vibecode-pro-max-kit - Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, prod",
-    "summary": "595 stars | JavaScript | Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills",
-    "source": "GitHub Trending",
-    "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-    "date": "2026-05-27",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Michaelliv/pi-dynamic-workflows - No description",
-    "summary": "577 stars | TypeScript | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Michaelliv/pi-dynamic-workflows",
-    "date": "2026-05-28",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "SQLite is all you need for durable workflows",
-    "summary": "354 points | 202 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-    "date": "2026-05-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "The dead economy theory",
-    "summary": "697 points | 877 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-    "date": "2026-05-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Notes from the Mistral AI Now Summit",
-    "summary": "310 points | 110 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-    "date": "2026-05-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-    "summary": "84 points | 7 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/jmaczan/tiny-vllm",
-    "date": "2026-05-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-    "summary": "471 points | 669 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-    "date": "2026-05-28",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "GTA 6 Developers Unionize",
-    "summary": "568 points | 393 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-    "date": "2026-05-29",
     "tags": [
       "HN"
     ],
