@@ -1,22 +1,22 @@
 [
   {
-    "title": "Open Code Review – An AI-powered code review CLI tool",
-    "summary": "38 points | 6 comments on Hacker News",
+    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "summary": "359 points | 232 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/alibaba/open-code-review",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
     "date": "2026-06-05",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 1
   },
   {
-    "title": "VoidZero Is Joining Cloudflare",
-    "summary": "577 points | 258 comments on Hacker News",
+    "title": "pg_durable: Microsoft open sources in-database durable execution",
+    "summary": "326 points | 77 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-    "date": "2026-06-04",
+    "url": "https://github.com/microsoft/pg_durable",
+    "date": "2026-06-05",
     "tags": [
       "HN"
     ],
@@ -24,35 +24,35 @@
     "id": 2
   },
   {
-    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-    "summary": "335 points | 442 comments on Hacker News",
+    "title": "Show HN: ABC Classic 100 Rankings visualised",
+    "summary": "8 points | 2 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "date": "2026-06-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 3
-  },
-  {
-    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-    "summary": "93 points | 14 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tiki.li/blog/blqsort",
-    "date": "2026-06-02",
+    "url": "https://classic100.gotski.workers.dev/",
+    "date": "2026-06-06",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 3
+  },
+  {
+    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+    "summary": "454 points | 190 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mouseless.click",
+    "date": "2026-06-03",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Ian's Secure Shoelace Knot",
-    "summary": "509 points | 195 comments on Hacker News",
+    "title": "Did Claude increase bugs in rsync?",
+    "summary": "307 points | 310 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "date": "2026-06-04",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "date": "2026-06-05",
     "tags": [
       "HN"
     ],
@@ -60,23 +60,23 @@
     "id": 5
   },
   {
-    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
-    "summary": "27 points | 7 comments on Hacker News",
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+    "summary": "355 points | 125 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.mercek.dev/",
-    "date": "2026-06-04",
+    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "date": "2026-06-05",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-    "summary": "206 points | 194 comments on Hacker News",
+    "title": "Tracing a powerful GNSS interference source over Europe",
+    "summary": "363 points | 197 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://uruky.com/?il=en",
-    "date": "2026-06-04",
+    "url": "https://arxiv.org/abs/2606.03673",
+    "date": "2026-06-05",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Split Ninja",
-    "summary": "New product launch on Product Hunt: Split Ninja",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/split-ninja",
-    "date": "2026-06-03",
+    "title": "C++: The Documentary",
+    "summary": "376 points | 271 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "date": "2026-06-05",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "Smart Runner",
-    "summary": "New product launch on Product Hunt: Smart Runner",
+    "title": "Ideogram 4.0",
+    "summary": "New product launch on Product Hunt: Ideogram 4.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/smart-runner",
-    "date": "2026-06-03",
+    "url": "https://www.producthunt.com/products/ideogram-4-0",
+    "date": "2026-06-04",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Build Club Campus ",
-    "summary": "New product launch on Product Hunt: Build Club Campus ",
+    "title": "Leni",
+    "summary": "New product launch on Product Hunt: Leni",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/build-club",
-    "date": "2026-06-01",
+    "url": "https://www.producthunt.com/products/leni",
+    "date": "2026-06-04",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Astra Autonomous Pentest",
-    "summary": "New product launch on Product Hunt: Astra Autonomous Pentest",
+    "title": "Recursi",
+    "summary": "New product launch on Product Hunt: Recursi",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/astra-security",
-    "date": "2026-06-01",
+    "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
+    "date": "2026-06-04",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Extella.AI",
-    "summary": "New product launch on Product Hunt: Extella.AI",
+    "title": "Veltrix AI",
+    "summary": "New product launch on Product Hunt: Veltrix AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/extella-ai",
-    "date": "2026-04-07",
+    "url": "https://www.producthunt.com/products/veltrix-ai",
+    "date": "2026-05-21",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "TimeTuna.com",
-    "summary": "New product launch on Product Hunt: TimeTuna.com",
+    "title": "Nemotron 3 Ultra by NVIDIA",
+    "summary": "New product launch on Product Hunt: Nemotron 3 Ultra by NVIDIA",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/bookva-ai",
-    "date": "2026-06-03",
+    "url": "https://www.producthunt.com/products/nvidia",
+    "date": "2026-06-04",
     "tags": [
       "Product Launch"
     ],
@@ -156,8 +156,20 @@
     "id": 13
   },
   {
+    "title": "Moodloom",
+    "summary": "New product launch on Product Hunt: Moodloom",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/moodloom",
+    "date": "2026-03-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
-    "summary": "51437 stars | Python | Self-hosted AI workspace. ",
+    "summary": "55817 stars | Python | Self-hosted AI workspace. ",
     "source": "GitHub Trending",
     "url": "https://github.com/pewdiepie-archdaemon/odysseus",
     "date": "2026-05-31",
@@ -166,24 +178,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 14
-  },
-  {
-    "title": "zgwl/chinese-buy-us-stock-guide - 美股指南",
-    "summary": "2771 stars | Unknown | 美股指南",
-    "source": "GitHub Trending",
-    "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
-    "date": "2026-05-30",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
     "id": 15
   },
   {
     "title": "b-nnett/goose - Goose Swift proof-of-concept README",
-    "summary": "1873 stars | Rust | Goose Swift proof-of-concept README",
+    "summary": "2120 stars | Rust | Goose Swift proof-of-concept README",
     "source": "GitHub Trending",
     "url": "https://github.com/b-nnett/goose",
     "date": "2026-06-02",
@@ -195,21 +194,8 @@
     "id": 16
   },
   {
-    "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "summary": "1485 stars | Python | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "source": "GitHub Trending",
-    "url": "https://github.com/asz798838958/aBaiAutoplus",
-    "date": "2026-05-31",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "cpaczek/skylight - Project the aircraft passing overhead onto your ceiling in real time, from an RT",
-    "summary": "1225 stars | TypeScript | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+    "summary": "1689 stars | TypeScript | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
     "source": "GitHub Trending",
     "url": "https://github.com/cpaczek/skylight",
     "date": "2026-06-02",
@@ -218,11 +204,24 @@
       "TypeScript"
     ],
     "hot": true,
+    "id": 17
+  },
+  {
+    "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "summary": "1533 stars | Python | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "source": "GitHub Trending",
+    "url": "https://github.com/asz798838958/aBaiAutoplus",
+    "date": "2026-05-31",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 18
   },
   {
     "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdra",
-    "summary": "829 stars | Python | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locall",
+    "summary": "882 stars | Python | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locall",
     "source": "GitHub Trending",
     "url": "https://github.com/ClaudioDrews/memory-os",
     "date": "2026-05-31",
@@ -232,6 +231,19 @@
     ],
     "hot": true,
     "id": 19
+  },
+  {
+    "title": "qiuqiubuchongle-cloud/chokepoint-atlas - No description",
+    "summary": "583 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+    "date": "2026-06-01",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -244,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -257,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -270,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 23
   },
   {
     "title": "The Pulse: Forward deployed engineering heats up again",
@@ -283,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 24
   },
   {
     "title": "Google Cloud deletes Australian trading fund’s infra",
@@ -296,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
   },
   {
     "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
@@ -309,7 +321,176 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 26
+  },
+  {
+    "title": "Open Code Review – An AI-powered code review CLI tool",
+    "summary": "38 points | 6 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/alibaba/open-code-review",
+    "date": "2026-06-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "VoidZero Is Joining Cloudflare",
+    "summary": "577 points | 258 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+    "date": "2026-06-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "summary": "335 points | 442 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "date": "2026-06-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+    "summary": "93 points | 14 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tiki.li/blog/blqsort",
+    "date": "2026-06-02",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Ian's Secure Shoelace Knot",
+    "summary": "509 points | 195 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "date": "2026-06-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+    "summary": "27 points | 7 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.mercek.dev/",
+    "date": "2026-06-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+    "summary": "206 points | 194 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://uruky.com/?il=en",
+    "date": "2026-06-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Split Ninja",
+    "summary": "New product launch on Product Hunt: Split Ninja",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/split-ninja",
+    "date": "2026-06-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Smart Runner",
+    "summary": "New product launch on Product Hunt: Smart Runner",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/smart-runner",
+    "date": "2026-06-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Build Club Campus ",
+    "summary": "New product launch on Product Hunt: Build Club Campus ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/build-club",
+    "date": "2026-06-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Astra Autonomous Pentest",
+    "summary": "New product launch on Product Hunt: Astra Autonomous Pentest",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/astra-security",
+    "date": "2026-06-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Extella.AI",
+    "summary": "New product launch on Product Hunt: Extella.AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/extella-ai",
+    "date": "2026-04-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "TimeTuna.com",
+    "summary": "New product launch on Product Hunt: TimeTuna.com",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/bookva-ai",
+    "date": "2026-06-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "zgwl/chinese-buy-us-stock-guide - 美股指南",
+    "summary": "2771 stars | Unknown | 美股指南",
+    "source": "GitHub Trending",
+    "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+    "date": "2026-05-30",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "Elixir v1.20: Now a gradually typed language",
@@ -321,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 41
   },
   {
     "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
@@ -333,7 +514,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 42
   },
   {
     "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
@@ -345,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
@@ -357,7 +538,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 44
   },
   {
     "title": "DaVinci Resolve 21",
@@ -369,7 +550,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
@@ -381,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Mathematicians issue warning as AI rapidly gains ground",
@@ -393,7 +574,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 47
   },
   {
     "title": "Meta workers can opt out of being tracked at work up to 30 min",
@@ -405,7 +586,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Replicas",
@@ -417,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Elentaria",
@@ -429,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "Composer",
@@ -441,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Forward",
@@ -453,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "Carbone Skill for AI",
@@ -465,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "Uselink",
@@ -477,7 +658,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 54
   },
   {
     "title": "Gloridust/WechatOnCloud - 云微WOC，云微信，自由连接",
@@ -490,7 +671,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 40
+    "id": 55
   },
   {
     "title": "MAI-Code-1-Flash",
@@ -502,7 +683,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "Gmail thinks I'm stupid, so I left",
@@ -514,7 +695,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
@@ -526,7 +707,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 58
   },
   {
     "title": "Roku LT Operating System open source distribution",
@@ -538,7 +719,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
+    "id": 59
   },
   {
     "title": "Love systemd timers",
@@ -550,188 +731,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-    "summary": "150 points | 63 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-    "date": "2026-06-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
-    "summary": "25 points | 13 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/getpaseo/paseo",
-    "date": "2026-06-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "GlowPulse",
-    "summary": "New product launch on Product Hunt: GlowPulse",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/glowpulse",
-    "date": "2026-05-31",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Gigacatalyst",
-    "summary": "New product launch on Product Hunt: Gigacatalyst",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas",
-    "date": "2026-05-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Enshittifier",
-    "summary": "New product launch on Product Hunt: Enshittifier",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/enshittifier",
-    "date": "2026-05-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Mirowl",
-    "summary": "New product launch on Product Hunt: Mirowl",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mirowl",
-    "date": "2026-05-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Knock agent for Slack",
-    "summary": "New product launch on Product Hunt: Knock agent for Slack",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/knock-6",
-    "date": "2026-05-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "choclift",
-    "summary": "New product launch on Product Hunt: choclift",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/choclift-workflow-sweetener",
-    "date": "2026-05-31",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Sophomoresty/gemini-web2api - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform,",
-    "summary": "1264 stars | Python | Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Sophomoresty/gemini-web2api",
-    "date": "2026-05-28",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "MatinSenPai/SenPaiScanner - A light-weight scanner for Cloudflare IPs, written in Golang",
-    "summary": "905 stars | Go | A light-weight scanner for Cloudflare IPs, written in Golang",
-    "source": "GitHub Trending",
-    "url": "https://github.com/MatinSenPai/SenPaiScanner",
-    "date": "2026-05-28",
-    "tags": [
-      "GitHub",
-      "Go"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "The newest Instagram “exploit” is the goofiest I've seen",
-    "summary": "1370 points | 332 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "date": "2026-06-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "AI Agent Guidelines for CS336 at Stanford",
-    "summary": "331 points | 118 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-    "date": "2026-06-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "CS336: Language Modeling from Scratch",
-    "summary": "368 points | 43 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://cs336.stanford.edu/",
-    "date": "2026-06-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Nvidia RTX Spark",
-    "summary": "338 points | 333 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
-    "date": "2026-06-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "I made my phone slow on purpose",
-    "summary": "169 points | 158 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-    "date": "2026-05-28",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
