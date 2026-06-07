@@ -1,10 +1,10 @@
 [
   {
-    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-    "summary": "359 points | 232 comments on Hacker News",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "summary": "440 points | 157 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "date": "2026-06-05",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "date": "2026-06-06",
     "tags": [
       "HN"
     ],
@@ -12,23 +12,23 @@
     "id": 1
   },
   {
-    "title": "pg_durable: Microsoft open sources in-database durable execution",
-    "summary": "326 points | 77 comments on Hacker News",
+    "title": "Unicode Fonts and Tools for X11",
+    "summary": "17 points | 4 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/microsoft/pg_durable",
+    "url": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html",
     "date": "2026-06-05",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 2
   },
   {
-    "title": "Show HN: ABC Classic 100 Rankings visualised",
-    "summary": "8 points | 2 comments on Hacker News",
+    "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
+    "summary": "9 points | 5 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://classic100.gotski.workers.dev/",
-    "date": "2026-06-06",
+    "url": "https://domaintasker.com/",
+    "date": "2026-06-07",
     "tags": [
       "HN"
     ],
@@ -36,35 +36,35 @@
     "id": 3
   },
   {
-    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-    "summary": "454 points | 190 comments on Hacker News",
+    "title": "Show HN: Keybench – Scriptable, extensible performance tool for key value stores",
+    "summary": "8 points | 0 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://mouseless.click",
-    "date": "2026-06-03",
+    "url": "https://github.com/guycipher/keybench",
+    "date": "2026-06-06",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Did Claude increase bugs in rsync?",
-    "summary": "307 points | 310 comments on Hacker News",
+    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+    "summary": "125 points | 23 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "date": "2026-06-05",
+    "url": "https://uonr.github.io/poincake/",
+    "date": "2026-06-02",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-    "summary": "355 points | 125 comments on Hacker News",
+    "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+    "summary": "417 points | 314 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "date": "2026-06-05",
+    "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+    "date": "2026-06-06",
     "tags": [
       "HN"
     ],
@@ -72,34 +72,34 @@
     "id": 6
   },
   {
-    "title": "Tracing a powerful GNSS interference source over Europe",
-    "summary": "363 points | 197 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2606.03673",
+    "title": "Navi+ Menu Builder",
+    "summary": "New product launch on Product Hunt: Navi+ Menu Builder",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/navi-menu-builder",
     "date": "2026-06-05",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "C++: The Documentary",
-    "summary": "376 points | 271 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "date": "2026-06-05",
+    "title": "Fox Issue Tracker 4",
+    "summary": "New product launch on Product Hunt: Fox Issue Tracker 4",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/fox-issue-tracker-4",
+    "date": "2026-05-29",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Ideogram 4.0",
-    "summary": "New product launch on Product Hunt: Ideogram 4.0",
+    "title": "Google Search Profiles",
+    "summary": "New product launch on Product Hunt: Google Search Profiles",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ideogram-4-0",
+    "url": "https://www.producthunt.com/products/google",
     "date": "2026-06-04",
     "tags": [
       "Product Launch"
@@ -108,10 +108,10 @@
     "id": 9
   },
   {
-    "title": "Leni",
-    "summary": "New product launch on Product Hunt: Leni",
+    "title": "Gaming services by IFTTT",
+    "summary": "New product launch on Product Hunt: Gaming services by IFTTT",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/leni",
+    "url": "https://www.producthunt.com/products/ifttt",
     "date": "2026-06-04",
     "tags": [
       "Product Launch"
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Recursi",
-    "summary": "New product launch on Product Hunt: Recursi",
+    "title": "QWERTYS",
+    "summary": "New product launch on Product Hunt: QWERTYS",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
-    "date": "2026-06-04",
+    "url": "https://www.producthunt.com/products/qwertys",
+    "date": "2026-06-05",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Veltrix AI",
-    "summary": "New product launch on Product Hunt: Veltrix AI",
+    "title": "MAI-Image-2.5",
+    "summary": "New product launch on Product Hunt: MAI-Image-2.5",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/veltrix-ai",
-    "date": "2026-05-21",
+    "url": "https://www.producthunt.com/products/mai-image-2-5",
+    "date": "2026-06-04",
     "tags": [
       "Product Launch"
     ],
@@ -144,45 +144,8 @@
     "id": 12
   },
   {
-    "title": "Nemotron 3 Ultra by NVIDIA",
-    "summary": "New product launch on Product Hunt: Nemotron 3 Ultra by NVIDIA",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nvidia",
-    "date": "2026-06-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Moodloom",
-    "summary": "New product launch on Product Hunt: Moodloom",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/moodloom",
-    "date": "2026-03-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
-    "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
-    "summary": "55817 stars | Python | Self-hosted AI workspace. ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "date": "2026-05-31",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "b-nnett/goose - Goose Swift proof-of-concept README",
-    "summary": "2120 stars | Rust | Goose Swift proof-of-concept README",
+    "summary": "2168 stars | Rust | Goose Swift proof-of-concept README",
     "source": "GitHub Trending",
     "url": "https://github.com/b-nnett/goose",
     "date": "2026-06-02",
@@ -191,11 +154,11 @@
       "Rust"
     ],
     "hot": true,
-    "id": 16
+    "id": 13
   },
   {
     "title": "cpaczek/skylight - Project the aircraft passing overhead onto your ceiling in real time, from an RT",
-    "summary": "1689 stars | TypeScript | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+    "summary": "2085 stars | TypeScript | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
     "source": "GitHub Trending",
     "url": "https://github.com/cpaczek/skylight",
     "date": "2026-06-02",
@@ -204,37 +167,24 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 17
+    "id": 14
   },
   {
-    "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "summary": "1533 stars | Python | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+    "summary": "716 stars | Python | JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
     "source": "GitHub Trending",
-    "url": "https://github.com/asz798838958/aBaiAutoplus",
-    "date": "2026-05-31",
+    "url": "https://github.com/jd-opensource/JoyAI-Echo",
+    "date": "2026-06-02",
     "tags": [
       "GitHub",
       "Python"
     ],
     "hot": true,
-    "id": 18
-  },
-  {
-    "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdra",
-    "summary": "882 stars | Python | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locall",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ClaudioDrews/memory-os",
-    "date": "2026-05-31",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 19
+    "id": 15
   },
   {
     "title": "qiuqiubuchongle-cloud/chokepoint-atlas - No description",
-    "summary": "583 stars | Python | ",
+    "summary": "590 stars | Python | ",
     "source": "GitHub Trending",
     "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
     "date": "2026-06-01",
@@ -243,7 +193,33 @@
       "Python"
     ],
     "hot": true,
-    "id": 20
+    "id": 16
+  },
+  {
+    "title": "VAST-AI-Research/TripoSplat - TripoSplat converts a single 2D image into high-quality and variable number of 3",
+    "summary": "494 stars | Python | TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/VAST-AI-Research/TripoSplat",
+    "date": "2026-06-01",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": false,
+    "id": 17
+  },
+  {
+    "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect",
+    "summary": "471 stars | Go | Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "source": "GitHub Trending",
+    "url": "https://github.com/tastyeffectco/sandboxes",
+    "date": "2026-06-03",
+    "tags": [
+      "GitHub",
+      "Go"
+    ],
+    "hot": false,
+    "id": 18
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "The Pulse: Forward deployed engineering heats up again",
@@ -295,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 22
   },
   {
     "title": "Google Cloud deletes Australian trading fund’s infra",
@@ -308,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 23
   },
   {
     "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
@@ -321,7 +297,214 @@
       "Career"
     ],
     "hot": false,
+    "id": 24
+  },
+  {
+    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "summary": "359 points | 232 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "date": "2026-06-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "pg_durable: Microsoft open sources in-database durable execution",
+    "summary": "326 points | 77 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/microsoft/pg_durable",
+    "date": "2026-06-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Show HN: ABC Classic 100 Rankings visualised",
+    "summary": "8 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://classic100.gotski.workers.dev/",
+    "date": "2026-06-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+    "summary": "454 points | 190 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mouseless.click",
+    "date": "2026-06-03",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Did Claude increase bugs in rsync?",
+    "summary": "307 points | 310 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "date": "2026-06-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+    "summary": "355 points | 125 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "date": "2026-06-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Tracing a powerful GNSS interference source over Europe",
+    "summary": "363 points | 197 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2606.03673",
+    "date": "2026-06-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "C++: The Documentary",
+    "summary": "376 points | 271 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "date": "2026-06-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Ideogram 4.0",
+    "summary": "New product launch on Product Hunt: Ideogram 4.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ideogram-4-0",
+    "date": "2026-06-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Leni",
+    "summary": "New product launch on Product Hunt: Leni",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/leni",
+    "date": "2026-06-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Recursi",
+    "summary": "New product launch on Product Hunt: Recursi",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
+    "date": "2026-06-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Veltrix AI",
+    "summary": "New product launch on Product Hunt: Veltrix AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/veltrix-ai",
+    "date": "2026-05-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Nemotron 3 Ultra by NVIDIA",
+    "summary": "New product launch on Product Hunt: Nemotron 3 Ultra by NVIDIA",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nvidia",
+    "date": "2026-06-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Moodloom",
+    "summary": "New product launch on Product Hunt: Moodloom",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/moodloom",
+    "date": "2026-03-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
+    "summary": "55817 stars | Python | Self-hosted AI workspace. ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "date": "2026-05-31",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "summary": "1533 stars | Python | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "source": "GitHub Trending",
+    "url": "https://github.com/asz798838958/aBaiAutoplus",
+    "date": "2026-05-31",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdra",
+    "summary": "882 stars | Python | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locall",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ClaudioDrews/memory-os",
+    "date": "2026-05-31",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
   },
   {
     "title": "Open Code Review – An AI-powered code review CLI tool",
@@ -333,7 +516,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 42
   },
   {
     "title": "VoidZero Is Joining Cloudflare",
@@ -345,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
@@ -357,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 44
   },
   {
     "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
@@ -369,7 +552,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Ian's Secure Shoelace Knot",
@@ -381,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
@@ -393,7 +576,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 47
   },
   {
     "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
@@ -405,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Split Ninja",
@@ -417,7 +600,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Smart Runner",
@@ -429,7 +612,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "Build Club Campus ",
@@ -441,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Astra Autonomous Pentest",
@@ -453,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "Extella.AI",
@@ -465,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "TimeTuna.com",
@@ -477,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 54
   },
   {
     "title": "zgwl/chinese-buy-us-stock-guide - 美股指南",
@@ -490,7 +673,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 40
+    "id": 55
   },
   {
     "title": "Elixir v1.20: Now a gradually typed language",
@@ -502,7 +685,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
@@ -514,7 +697,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 42
+    "id": 57
   },
   {
     "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
@@ -526,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 58
   },
   {
     "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
@@ -538,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 59
   },
   {
     "title": "DaVinci Resolve 21",
@@ -546,187 +729,6 @@
     "source": "Hacker News",
     "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
     "date": "2026-06-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-    "summary": "372 points | 483 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "date": "2026-06-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Mathematicians issue warning as AI rapidly gains ground",
-    "summary": "177 points | 228 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-    "date": "2026-06-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Meta workers can opt out of being tracked at work up to 30 min",
-    "summary": "694 points | 664 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-    "date": "2026-06-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Replicas",
-    "summary": "New product launch on Product Hunt: Replicas",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/replicas",
-    "date": "2026-06-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Elentaria",
-    "summary": "New product launch on Product Hunt: Elentaria",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/elentaria",
-    "date": "2026-05-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Composer",
-    "summary": "New product launch on Product Hunt: Composer",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/composer-3",
-    "date": "2026-06-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Forward",
-    "summary": "New product launch on Product Hunt: Forward",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/forward-10",
-    "date": "2026-06-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Carbone Skill for AI",
-    "summary": "New product launch on Product Hunt: Carbone Skill for AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/carbone",
-    "date": "2026-06-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Uselink",
-    "summary": "New product launch on Product Hunt: Uselink",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/uselink",
-    "date": "2026-06-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Gloridust/WechatOnCloud - 云微WOC，云微信，自由连接",
-    "summary": "1949 stars | TypeScript | 云微WOC，云微信，自由连接",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Gloridust/WechatOnCloud",
-    "date": "2026-05-29",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "MAI-Code-1-Flash",
-    "summary": "396 points | 178 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "date": "2026-06-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Gmail thinks I'm stupid, so I left",
-    "summary": "645 points | 400 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "date": "2026-06-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
-    "summary": "378 points | 251 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-    "date": "2026-06-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Roku LT Operating System open source distribution",
-    "summary": "6 points | 3 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.roku.com/developer/roku-lt-os",
-    "date": "2026-06-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Love systemd timers",
-    "summary": "354 points | 228 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "date": "2026-06-02",
     "tags": [
       "HN"
     ],
