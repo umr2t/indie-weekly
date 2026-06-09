@@ -1,10 +1,10 @@
 [
   {
-    "title": "Building from zero after addiction, prison, and a felony",
-    "summary": "431 points | 194 comments on Hacker News",
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "summary": "331 points | 315 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-    "date": "2026-06-07",
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "date": "2026-06-08",
     "tags": [
       "HN"
     ],
@@ -12,23 +12,23 @@
     "id": 1
   },
   {
-    "title": "Show HN: I Derived a Pancake",
-    "summary": "130 points | 41 comments on Hacker News",
+    "title": "Siri AI",
+    "summary": "411 points | 357 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-    "date": "2026-06-05",
+    "url": "https://www.apple.com/apple-intelligence/",
+    "date": "2026-06-08",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 2
   },
   {
-    "title": "How's Linear so fast? A technical breakdown",
-    "summary": "308 points | 158 comments on Hacker News",
+    "title": "Show HN: Performative-UI – A react component library of design tropes",
+    "summary": "787 points | 154 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "date": "2026-06-07",
+    "url": "https://vorpus.github.io/performativeUI/",
+    "date": "2026-06-08",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-    "summary": "367 points | 88 comments on Hacker News",
+    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+    "summary": "498 points | 345 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.ioccc.org/2025/",
-    "date": "2026-06-07",
+    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "date": "2026-06-08",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-    "summary": "249 points | 47 comments on Hacker News",
+    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+    "summary": "552 points | 411 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/devenjarvis/lathe",
-    "date": "2026-06-07",
+    "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+    "date": "2026-06-08",
     "tags": [
       "HN"
     ],
@@ -60,35 +60,35 @@
     "id": 5
   },
   {
-    "title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "summary": "819 points | 808 comments on Hacker News",
+    "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+    "summary": "151 points | 123 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "date": "2026-06-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 6
-  },
-  {
-    "title": "Proliferate (YC S25) is hiring to building open source Codex",
-    "summary": "1 points | 0 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-    "date": "2026-06-07",
+    "url": "https://gitdot.io/",
+    "date": "2026-06-08",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 6
+  },
+  {
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+    "summary": "400 points | 312 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "date": "2026-06-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Anthropic, please ship an official Claude Desktop for Linux",
-    "summary": "464 points | 269 comments on Hacker News",
+    "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+    "summary": "424 points | 139 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/anthropics/claude-code/issues/65697",
-    "date": "2026-06-07",
+    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+    "date": "2026-06-08",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Smmall Cloud for iOS",
-    "summary": "New product launch on Product Hunt: Smmall Cloud for iOS",
+    "title": "Tamadoggo",
+    "summary": "New product launch on Product Hunt: Tamadoggo",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/smmall-cloud",
-    "date": "2026-06-04",
+    "url": "https://www.producthunt.com/products/tamadoggo",
+    "date": "2026-06-07",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Job Postings API",
-    "summary": "New product launch on Product Hunt: Job Postings API",
+    "title": "Vaani",
+    "summary": "New product launch on Product Hunt: Vaani",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/free-job-postings-api",
-    "date": "2026-06-06",
+    "url": "https://www.producthunt.com/products/vaani-2",
+    "date": "2026-06-07",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Wave",
-    "summary": "New product launch on Product Hunt: Wave",
+    "title": "Honen",
+    "summary": "New product launch on Product Hunt: Honen",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/wave-16",
-    "date": "2026-04-19",
+    "url": "https://www.producthunt.com/products/honen",
+    "date": "2026-05-29",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "CabinLink",
-    "summary": "New product launch on Product Hunt: CabinLink",
+    "title": "Browse.sh",
+    "summary": "New product launch on Product Hunt: Browse.sh",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cabinlink",
-    "date": "2026-06-04",
+    "url": "https://www.producthunt.com/products/browserbase",
+    "date": "2026-05-21",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Dreambeans by Google Labs",
-    "summary": "New product launch on Product Hunt: Dreambeans by Google Labs",
+    "title": "Supaste",
+    "summary": "New product launch on Product Hunt: Supaste",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google-labs",
-    "date": "2026-06-03",
+    "url": "https://www.producthunt.com/products/supaste",
+    "date": "2026-06-02",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Navi+ Menu Builder",
-    "summary": "New product launch on Product Hunt: Navi+ Menu Builder",
+    "title": "NTSC-RS",
+    "summary": "New product launch on Product Hunt: NTSC-RS",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/navi-menu-builder",
-    "date": "2026-06-05",
+    "url": "https://www.producthunt.com/products/ntsc-rs",
+    "date": "2026-06-08",
     "tags": [
       "Product Launch"
     ],
@@ -168,47 +168,47 @@
     "id": 14
   },
   {
-    "title": "cpaczek/skylight - Project the aircraft passing overhead onto your ceiling in real time, from an RT",
-    "summary": "2269 stars | TypeScript | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+    "title": "NoopApp/noop - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your ",
+    "summary": "534 stars | Swift | Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
     "source": "GitHub Trending",
-    "url": "https://github.com/cpaczek/skylight",
-    "date": "2026-06-02",
+    "url": "https://github.com/NoopApp/noop",
+    "date": "2026-06-07",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "Swift"
     ],
     "hot": true,
     "id": 15
   },
   {
-    "title": "b-nnett/goose - Goose Swift proof-of-concept README",
-    "summary": "2257 stars | Rust | Goose Swift proof-of-concept README",
+    "title": "diffusionstudio/lottie - Open-source skill and harness for generating production ready Lottie animations ",
+    "summary": "528 stars | TypeScript | Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
     "source": "GitHub Trending",
-    "url": "https://github.com/b-nnett/goose",
-    "date": "2026-06-02",
+    "url": "https://github.com/diffusionstudio/lottie",
+    "date": "2026-06-04",
     "tags": [
       "GitHub",
-      "Rust"
+      "TypeScript"
     ],
     "hot": true,
     "id": 16
   },
   {
-    "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-    "summary": "862 stars | Python | JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+    "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produc",
+    "summary": "525 stars | JavaScript | Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai",
     "source": "GitHub Trending",
-    "url": "https://github.com/jd-opensource/JoyAI-Echo",
-    "date": "2026-06-02",
+    "url": "https://github.com/JimLiu/baoyu-design",
+    "date": "2026-06-07",
     "tags": [
       "GitHub",
-      "Python"
+      "JavaScript"
     ],
     "hot": true,
     "id": 17
   },
   {
     "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect",
-    "summary": "497 stars | Go | Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "summary": "514 stars | Go | Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
     "source": "GitHub Trending",
     "url": "https://github.com/tastyeffectco/sandboxd",
     "date": "2026-06-03",
@@ -216,12 +216,12 @@
       "GitHub",
       "Go"
     ],
-    "hot": false,
+    "hot": true,
     "id": 18
   },
   {
     "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local",
-    "summary": "468 stars | JavaScript | One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+    "summary": "482 stars | JavaScript | One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
     "source": "GitHub Trending",
     "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
     "date": "2026-06-04",
@@ -233,14 +233,14 @@
     "id": 19
   },
   {
-    "title": "zenhosta/9drive - 9Drive is a storage gateway web app for connecting multiple Google Drive account",
-    "summary": "405 stars | TypeScript | 9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upl",
+    "title": "amElnagdy/guard-skills - Guard skills for coding agents, quality gates that catch AI-generated failure mo",
+    "summary": "470 stars | Unknown | Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
     "source": "GitHub Trending",
-    "url": "https://github.com/zenhosta/9drive",
-    "date": "2026-06-04",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "date": "2026-06-06",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "Code"
     ],
     "hot": false,
     "id": 20
@@ -337,6 +337,226 @@
     "id": 27
   },
   {
+    "title": "Building from zero after addiction, prison, and a felony",
+    "summary": "431 points | 194 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+    "date": "2026-06-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: I Derived a Pancake",
+    "summary": "130 points | 41 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+    "date": "2026-06-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "How's Linear so fast? A technical breakdown",
+    "summary": "308 points | 158 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "date": "2026-06-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "summary": "367 points | 88 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.ioccc.org/2025/",
+    "date": "2026-06-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "summary": "249 points | 47 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/devenjarvis/lathe",
+    "date": "2026-06-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "summary": "819 points | 808 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "date": "2026-06-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Proliferate (YC S25) is hiring to building open source Codex",
+    "summary": "1 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+    "date": "2026-06-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "summary": "464 points | 269 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/65697",
+    "date": "2026-06-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 35
+  },
+  {
+    "title": "Smmall Cloud for iOS",
+    "summary": "New product launch on Product Hunt: Smmall Cloud for iOS",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/smmall-cloud",
+    "date": "2026-06-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Job Postings API",
+    "summary": "New product launch on Product Hunt: Job Postings API",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/free-job-postings-api",
+    "date": "2026-06-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Wave",
+    "summary": "New product launch on Product Hunt: Wave",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/wave-16",
+    "date": "2026-04-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "CabinLink",
+    "summary": "New product launch on Product Hunt: CabinLink",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cabinlink",
+    "date": "2026-06-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Dreambeans by Google Labs",
+    "summary": "New product launch on Product Hunt: Dreambeans by Google Labs",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/google-labs",
+    "date": "2026-06-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "Navi+ Menu Builder",
+    "summary": "New product launch on Product Hunt: Navi+ Menu Builder",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/navi-menu-builder",
+    "date": "2026-06-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 41
+  },
+  {
+    "title": "cpaczek/skylight - Project the aircraft passing overhead onto your ceiling in real time, from an RT",
+    "summary": "2269 stars | TypeScript | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/cpaczek/skylight",
+    "date": "2026-06-02",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "b-nnett/goose - Goose Swift proof-of-concept README",
+    "summary": "2257 stars | Rust | Goose Swift proof-of-concept README",
+    "source": "GitHub Trending",
+    "url": "https://github.com/b-nnett/goose",
+    "date": "2026-06-02",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
+    "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+    "summary": "862 stars | Python | JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+    "source": "GitHub Trending",
+    "url": "https://github.com/jd-opensource/JoyAI-Echo",
+    "date": "2026-06-02",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 44
+  },
+  {
+    "title": "zenhosta/9drive - 9Drive is a storage gateway web app for connecting multiple Google Drive account",
+    "summary": "405 stars | TypeScript | 9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upl",
+    "source": "GitHub Trending",
+    "url": "https://github.com/zenhosta/9drive",
+    "date": "2026-06-04",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": false,
+    "id": 45
+  },
+  {
     "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
     "summary": "440 points | 157 comments on Hacker News",
     "source": "Hacker News",
@@ -346,7 +566,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 46
   },
   {
     "title": "Unicode Fonts and Tools for X11",
@@ -358,7 +578,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 47
   },
   {
     "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
@@ -370,7 +590,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 48
   },
   {
     "title": "Show HN: Keybench – Scriptable, extensible performance tool for key value stores",
@@ -382,7 +602,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 49
   },
   {
     "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
@@ -394,7 +614,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 50
   },
   {
     "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
@@ -406,7 +626,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 51
   },
   {
     "title": "Fox Issue Tracker 4",
@@ -418,7 +638,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 52
   },
   {
     "title": "Google Search Profiles",
@@ -430,7 +650,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 53
   },
   {
     "title": "Gaming services by IFTTT",
@@ -442,7 +662,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 54
   },
   {
     "title": "QWERTYS",
@@ -454,7 +674,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 55
   },
   {
     "title": "MAI-Image-2.5",
@@ -466,7 +686,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 56
   },
   {
     "title": "qiuqiubuchongle-cloud/chokepoint-atlas - No description",
@@ -479,7 +699,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 39
+    "id": 57
   },
   {
     "title": "VAST-AI-Research/TripoSplat - TripoSplat converts a single 2D image into high-quality and variable number of 3",
@@ -492,7 +712,7 @@
       "Python"
     ],
     "hot": false,
-    "id": 40
+    "id": 58
   },
   {
     "title": "tastyeffectco/sandboxes - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect",
@@ -505,7 +725,7 @@
       "Go"
     ],
     "hot": false,
-    "id": 41
+    "id": 59
   },
   {
     "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
@@ -513,225 +733,6 @@
     "source": "Hacker News",
     "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
     "date": "2026-06-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 42
-  },
-  {
-    "title": "pg_durable: Microsoft open sources in-database durable execution",
-    "summary": "326 points | 77 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/microsoft/pg_durable",
-    "date": "2026-06-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Show HN: ABC Classic 100 Rankings visualised",
-    "summary": "8 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://classic100.gotski.workers.dev/",
-    "date": "2026-06-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-    "summary": "454 points | 190 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mouseless.click",
-    "date": "2026-06-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Did Claude increase bugs in rsync?",
-    "summary": "307 points | 310 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "date": "2026-06-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-    "summary": "355 points | 125 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "date": "2026-06-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Tracing a powerful GNSS interference source over Europe",
-    "summary": "363 points | 197 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2606.03673",
-    "date": "2026-06-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "C++: The Documentary",
-    "summary": "376 points | 271 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "date": "2026-06-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Ideogram 4.0",
-    "summary": "New product launch on Product Hunt: Ideogram 4.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ideogram-4-0",
-    "date": "2026-06-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Leni",
-    "summary": "New product launch on Product Hunt: Leni",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/leni",
-    "date": "2026-06-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Recursi",
-    "summary": "New product launch on Product Hunt: Recursi",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
-    "date": "2026-06-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Veltrix AI",
-    "summary": "New product launch on Product Hunt: Veltrix AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/veltrix-ai",
-    "date": "2026-05-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Nemotron 3 Ultra by NVIDIA",
-    "summary": "New product launch on Product Hunt: Nemotron 3 Ultra by NVIDIA",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nvidia",
-    "date": "2026-06-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Moodloom",
-    "summary": "New product launch on Product Hunt: Moodloom",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/moodloom",
-    "date": "2026-03-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "pewdiepie-archdaemon/odysseus - Self-hosted AI workspace. ",
-    "summary": "55817 stars | Python | Self-hosted AI workspace. ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "date": "2026-05-31",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "asz798838958/aBaiAutoplus - 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "summary": "1533 stars | Python | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "source": "GitHub Trending",
-    "url": "https://github.com/asz798838958/aBaiAutoplus",
-    "date": "2026-05-31",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "ClaudioDrews/memory-os - A 7-layer memory operating system for Hermes Agent — persistent memory with Qdra",
-    "summary": "882 stars | Python | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locall",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ClaudioDrews/memory-os",
-    "date": "2026-05-31",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Open Code Review – An AI-powered code review CLI tool",
-    "summary": "38 points | 6 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/alibaba/open-code-review",
-    "date": "2026-06-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "VoidZero Is Joining Cloudflare",
-    "summary": "577 points | 258 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-    "date": "2026-06-04",
     "tags": [
       "HN"
     ],
