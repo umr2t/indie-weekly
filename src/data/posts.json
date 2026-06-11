@@ -1,10 +1,10 @@
 [
   {
-    "title": "Claude Fable 5",
-    "summary": "1806 points | 1414 comments on Hacker News",
+    "title": "πFS",
+    "summary": "535 points | 137 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "date": "2026-06-09",
+    "url": "https://github.com/philipl/pifs",
+    "date": "2026-06-10",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Making Graphics Like it's 1993",
-    "summary": "769 points | 131 comments on Hacker News",
+    "title": "PgDog is funded and coming to a database near you",
+    "summary": "393 points | 199 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-    "date": "2026-06-09",
+    "url": "https://pgdog.dev/blog/our-funding-announcement",
+    "date": "2026-06-10",
     "tags": [
       "HN"
     ],
@@ -24,47 +24,47 @@
     "id": 2
   },
   {
-    "title": "If Claude Fable stops helping you, you'll never know",
-    "summary": "503 points | 242 comments on Hacker News",
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "summary": "158 points | 40 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "date": "2026-06-09",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 3
-  },
-  {
-    "title": "CEOs who think AI replaces their employees are just bad CEOs",
-    "summary": "433 points | 176 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-    "date": "2026-06-09",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 4
-  },
-  {
-    "title": "Test-case reducers are underappreciated debugging tools",
-    "summary": "88 points | 11 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
-    "date": "2026-06-09",
+    "url": "https://www.extend.ai/ui",
+    "date": "2026-06-10",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 3
+  },
+  {
+    "title": "World Capitals Voronoi",
+    "summary": "41 points | 19 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
+    "date": "2026-06-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 4
+  },
+  {
+    "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+    "summary": "429 points | 223 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+    "date": "2026-06-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 5
   },
   {
-    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-    "summary": "699 points | 122 comments on Hacker News",
+    "title": "Building an HTML-first site doubled our users overnight",
+    "summary": "1005 points | 459 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://opencv.org/opencv-5/",
-    "date": "2026-06-06",
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "date": "2026-06-10",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
-    "summary": "334 points | 279 comments on Hacker News",
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "summary": "94 points | 31 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
-    "date": "2026-06-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 7
-  },
-  {
-    "title": "Show HN: Resonate – Low-latency, high-resolution spectral analysis",
-    "summary": "21 points | 9 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://alexandrefrancois.org/Resonate/",
-    "date": "2026-06-06",
+    "url": "https://github.com/HelixDB/helix-db/tree/main",
+    "date": "2026-06-10",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 7
+  },
+  {
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+    "summary": "351 points | 245 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "date": "2026-06-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 8
   },
   {
-    "title": "agentcad",
-    "summary": "New product launch on Product Hunt: agentcad",
+    "title": "Hero Studio Photos",
+    "summary": "New product launch on Product Hunt: Hero Studio Photos",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/agentcad",
-    "date": "2026-06-07",
+    "url": "https://www.producthunt.com/products/hero-9",
+    "date": "2026-06-10",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Uiverse Design",
-    "summary": "New product launch on Product Hunt: Uiverse Design",
+    "title": "AGNT.Hub",
+    "summary": "New product launch on Product Hunt: AGNT.Hub",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/uiverse-io",
-    "date": "2026-06-08",
+    "url": "https://www.producthunt.com/products/agnt-hub",
+    "date": "2026-06-09",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Krisp Voice Translation API",
-    "summary": "New product launch on Product Hunt: Krisp Voice Translation API",
+    "title": "TypingMind",
+    "summary": "New product launch on Product Hunt: TypingMind",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/krisp",
-    "date": "2026-06-05",
+    "url": "https://www.producthunt.com/products/typing-mind",
+    "date": "2026-06-06",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "ZeroGPU",
-    "summary": "New product launch on Product Hunt: ZeroGPU",
+    "title": "Axol",
+    "summary": "New product launch on Product Hunt: Axol",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/zerogpu",
-    "date": "2026-06-05",
+    "url": "https://www.producthunt.com/products/axol",
+    "date": "2026-06-09",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Fluido",
-    "summary": "New product launch on Product Hunt: Fluido",
+    "title": "OLO Robotics",
+    "summary": "New product launch on Product Hunt: OLO Robotics",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fluido",
-    "date": "2026-06-09",
+    "url": "https://www.producthunt.com/products/olo-robotics",
+    "date": "2026-06-08",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "VC Boom",
-    "summary": "New product launch on Product Hunt: VC Boom",
+    "title": "Spotlight by Backplanes",
+    "summary": "New product launch on Product Hunt: Spotlight by Backplanes",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vcboom",
-    "date": "2026-06-04",
+    "url": "https://www.producthunt.com/products/backplanes",
+    "date": "2026-06-02",
     "tags": [
       "Product Launch"
     ],
@@ -168,21 +168,8 @@
     "id": 14
   },
   {
-    "title": "diffusionstudio/lottie - Open-source skill and harness for generating production ready Lottie animations ",
-    "summary": "1515 stars | TypeScript | Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
-    "source": "GitHub Trending",
-    "url": "https://github.com/diffusionstudio/lottie",
-    "date": "2026-06-04",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "NoopApp/noop - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your ",
-    "summary": "1037 stars | Swift | Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+    "summary": "1395 stars | Swift | Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
     "source": "GitHub Trending",
     "url": "https://github.com/NoopApp/noop",
     "date": "2026-06-07",
@@ -191,24 +178,50 @@
       "Swift"
     ],
     "hot": true,
+    "id": 15
+  },
+  {
+    "title": "XiaomiMiMo/MiMo-Code - No description",
+    "summary": "933 stars | TypeScript | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "date": "2026-06-10",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
     "id": 16
   },
   {
-    "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produc",
-    "summary": "640 stars | JavaScript | Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai",
+    "title": "MSNightmare/RoguePlanet - RoguePlanet Windows Defender Vulnerability",
+    "summary": "924 stars | C++ | RoguePlanet Windows Defender Vulnerability",
     "source": "GitHub Trending",
-    "url": "https://github.com/JimLiu/baoyu-design",
-    "date": "2026-06-07",
+    "url": "https://github.com/MSNightmare/RoguePlanet",
+    "date": "2026-06-09",
     "tags": [
       "GitHub",
-      "JavaScript"
+      "C++"
     ],
     "hot": true,
     "id": 17
   },
   {
+    "title": "shadcn/improve - Use your most capable model to audit your codebase and write plans for cheaper m",
+    "summary": "903 stars | Unknown | Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/shadcn/improve",
+    "date": "2026-06-10",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
     "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-    "summary": "617 stars | Python | AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+    "summary": "732 stars | Python | AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
     "source": "GitHub Trending",
     "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
     "date": "2026-06-07",
@@ -217,30 +230,17 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
-  },
-  {
-    "title": "vorpus/performativeUI - No description",
-    "summary": "522 stars | TypeScript | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/vorpus/performativeUI",
-    "date": "2026-06-07",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
     "id": 19
   },
   {
-    "title": "amElnagdy/guard-skills - Guard skills for coding agents, quality gates that catch AI-generated failure mo",
-    "summary": "517 stars | Unknown | Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+    "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produc",
+    "summary": "695 stars | JavaScript | Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai",
     "source": "GitHub Trending",
-    "url": "https://github.com/amElnagdy/guard-skills",
-    "date": "2026-06-06",
+    "url": "https://github.com/JimLiu/baoyu-design",
+    "date": "2026-06-07",
     "tags": [
       "GitHub",
-      "Code"
+      "JavaScript"
     ],
     "hot": true,
     "id": 20
@@ -337,6 +337,213 @@
     "id": 27
   },
   {
+    "title": "Claude Fable 5",
+    "summary": "1806 points | 1414 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "date": "2026-06-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Making Graphics Like it's 1993",
+    "summary": "769 points | 131 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+    "date": "2026-06-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "summary": "503 points | 242 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "date": "2026-06-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "CEOs who think AI replaces their employees are just bad CEOs",
+    "summary": "433 points | 176 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "date": "2026-06-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Test-case reducers are underappreciated debugging tools",
+    "summary": "88 points | 11 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+    "date": "2026-06-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "summary": "699 points | 122 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://opencv.org/opencv-5/",
+    "date": "2026-06-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+    "summary": "334 points | 279 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+    "date": "2026-06-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Show HN: Resonate – Low-latency, high-resolution spectral analysis",
+    "summary": "21 points | 9 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://alexandrefrancois.org/Resonate/",
+    "date": "2026-06-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "agentcad",
+    "summary": "New product launch on Product Hunt: agentcad",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/agentcad",
+    "date": "2026-06-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Uiverse Design",
+    "summary": "New product launch on Product Hunt: Uiverse Design",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/uiverse-io",
+    "date": "2026-06-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Krisp Voice Translation API",
+    "summary": "New product launch on Product Hunt: Krisp Voice Translation API",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/krisp",
+    "date": "2026-06-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "ZeroGPU",
+    "summary": "New product launch on Product Hunt: ZeroGPU",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/zerogpu",
+    "date": "2026-06-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Fluido",
+    "summary": "New product launch on Product Hunt: Fluido",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/fluido",
+    "date": "2026-06-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "VC Boom",
+    "summary": "New product launch on Product Hunt: VC Boom",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vcboom",
+    "date": "2026-06-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 41
+  },
+  {
+    "title": "diffusionstudio/lottie - Open-source skill and harness for generating production ready Lottie animations ",
+    "summary": "1515 stars | TypeScript | Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
+    "source": "GitHub Trending",
+    "url": "https://github.com/diffusionstudio/lottie",
+    "date": "2026-06-04",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "vorpus/performativeUI - No description",
+    "summary": "522 stars | TypeScript | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/vorpus/performativeUI",
+    "date": "2026-06-07",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
+    "title": "amElnagdy/guard-skills - Guard skills for coding agents, quality gates that catch AI-generated failure mo",
+    "summary": "517 stars | Unknown | Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+    "source": "GitHub Trending",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "date": "2026-06-06",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 44
+  },
+  {
     "title": "Apple reveals new AI architecture built around Google Gemini models",
     "summary": "331 points | 315 comments on Hacker News",
     "source": "Hacker News",
@@ -346,7 +553,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Siri AI",
@@ -358,7 +565,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Show HN: Performative-UI – A react component library of design tropes",
@@ -370,7 +577,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 47
   },
   {
     "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
@@ -382,7 +589,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
@@ -394,7 +601,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
@@ -406,7 +613,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 50
   },
   {
     "title": "xAI is looking more like a datacentre REIT than a frontier lab",
@@ -418,7 +625,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 51
   },
   {
     "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
@@ -430,7 +637,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Tamadoggo",
@@ -442,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Vaani",
@@ -454,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "Honen",
@@ -466,7 +673,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "Browse.sh",
@@ -478,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "Supaste",
@@ -490,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "NTSC-RS",
@@ -502,7 +709,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 41
+    "id": 58
   },
   {
     "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect",
@@ -515,7 +722,7 @@
       "Go"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local",
@@ -528,213 +735,6 @@
       "JavaScript"
     ],
     "hot": false,
-    "id": 43
-  },
-  {
-    "title": "Building from zero after addiction, prison, and a felony",
-    "summary": "431 points | 194 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-    "date": "2026-06-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Show HN: I Derived a Pancake",
-    "summary": "130 points | 41 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-    "date": "2026-06-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "How's Linear so fast? A technical breakdown",
-    "summary": "308 points | 158 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "date": "2026-06-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-    "summary": "367 points | 88 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ioccc.org/2025/",
-    "date": "2026-06-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-    "summary": "249 points | 47 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/devenjarvis/lathe",
-    "date": "2026-06-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "summary": "819 points | 808 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "date": "2026-06-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Proliferate (YC S25) is hiring to building open source Codex",
-    "summary": "1 points | 0 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-    "date": "2026-06-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Anthropic, please ship an official Claude Desktop for Linux",
-    "summary": "464 points | 269 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/anthropics/claude-code/issues/65697",
-    "date": "2026-06-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Smmall Cloud for iOS",
-    "summary": "New product launch on Product Hunt: Smmall Cloud for iOS",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/smmall-cloud",
-    "date": "2026-06-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Job Postings API",
-    "summary": "New product launch on Product Hunt: Job Postings API",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/free-job-postings-api",
-    "date": "2026-06-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Wave",
-    "summary": "New product launch on Product Hunt: Wave",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/wave-16",
-    "date": "2026-04-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "CabinLink",
-    "summary": "New product launch on Product Hunt: CabinLink",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cabinlink",
-    "date": "2026-06-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Dreambeans by Google Labs",
-    "summary": "New product launch on Product Hunt: Dreambeans by Google Labs",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google-labs",
-    "date": "2026-06-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Navi+ Menu Builder",
-    "summary": "New product launch on Product Hunt: Navi+ Menu Builder",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/navi-menu-builder",
-    "date": "2026-06-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "cpaczek/skylight - Project the aircraft passing overhead onto your ceiling in real time, from an RT",
-    "summary": "2269 stars | TypeScript | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/cpaczek/skylight",
-    "date": "2026-06-02",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "b-nnett/goose - Goose Swift proof-of-concept README",
-    "summary": "2257 stars | Rust | Goose Swift proof-of-concept README",
-    "source": "GitHub Trending",
-    "url": "https://github.com/b-nnett/goose",
-    "date": "2026-06-02",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "jd-opensource/JoyAI-Echo - JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-    "summary": "862 stars | Python | JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-    "source": "GitHub Trending",
-    "url": "https://github.com/jd-opensource/JoyAI-Echo",
-    "date": "2026-06-02",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
