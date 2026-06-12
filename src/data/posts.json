@@ -1,10 +1,10 @@
 [
   {
-    "title": "πFS",
-    "summary": "535 points | 137 comments on Hacker News",
+    "title": "Show HN: Homebrew 6.0.0",
+    "summary": "995 points | 237 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/philipl/pifs",
-    "date": "2026-06-10",
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "date": "2026-06-11",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "PgDog is funded and coming to a database near you",
-    "summary": "393 points | 199 comments on Hacker News",
+    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+    "summary": "255 points | 150 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://pgdog.dev/blog/our-funding-announcement",
-    "date": "2026-06-10",
+    "url": "https://fablepool.com",
+    "date": "2026-06-11",
     "tags": [
       "HN"
     ],
@@ -24,35 +24,35 @@
     "id": 2
   },
   {
-    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-    "summary": "158 points | 40 comments on Hacker News",
+    "title": "MiMo Code is now released and open-source",
+    "summary": "427 points | 243 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.extend.ai/ui",
-    "date": "2026-06-10",
+    "url": "https://mimo.xiaomi.com/mimocode",
+    "date": "2026-06-11",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 3
   },
   {
-    "title": "World Capitals Voronoi",
-    "summary": "41 points | 19 comments on Hacker News",
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "summary": "321 points | 311 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
-    "date": "2026-06-08",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "date": "2026-06-11",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Farmer donates land for a park, city sells it for $10M as data center land",
-    "summary": "429 points | 223 comments on Hacker News",
+    "title": "Petition to Withdraw Canada's Bill C-22",
+    "summary": "363 points | 126 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
-    "date": "2026-06-10",
+    "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+    "date": "2026-06-11",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Building an HTML-first site doubled our users overnight",
-    "summary": "1005 points | 459 comments on Hacker News",
+    "title": "Lines of code got a better publicist",
+    "summary": "360 points | 248 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "date": "2026-06-10",
+    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "date": "2026-06-11",
     "tags": [
       "HN"
     ],
@@ -72,11 +72,11 @@
     "id": 6
   },
   {
-    "title": "Show HN: HelixDB – A graph database built on object storage",
-    "summary": "94 points | 31 comments on Hacker News",
+    "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
+    "summary": "50 points | 19 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/HelixDB/helix-db/tree/main",
-    "date": "2026-06-10",
+    "url": "https://github.com/coder/boo",
+    "date": "2026-06-11",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-    "summary": "351 points | 245 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/anthropics/claude-code/issues/29045",
-    "date": "2026-06-10",
+    "title": "Asmi AI",
+    "summary": "New product launch on Product Hunt: Asmi AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/asmi-ai",
+    "date": "2026-06-09",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Hero Studio Photos",
-    "summary": "New product launch on Product Hunt: Hero Studio Photos",
+    "title": "Lium AI",
+    "summary": "New product launch on Product Hunt: Lium AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hero-9",
-    "date": "2026-06-10",
+    "url": "https://www.producthunt.com/products/lium",
+    "date": "2026-06-07",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "AGNT.Hub",
-    "summary": "New product launch on Product Hunt: AGNT.Hub",
+    "title": "heyly.io",
+    "summary": "New product launch on Product Hunt: heyly.io",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/agnt-hub",
-    "date": "2026-06-09",
+    "url": "https://www.producthunt.com/products/heyly-io-video-greeting-for-your-site",
+    "date": "2026-06-10",
     "tags": [
       "Product Launch"
     ],
@@ -120,10 +120,10 @@
     "id": 10
   },
   {
-    "title": "TypingMind",
-    "summary": "New product launch on Product Hunt: TypingMind",
+    "title": "Respan Gateway",
+    "summary": "New product launch on Product Hunt: Respan Gateway",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/typing-mind",
+    "url": "https://www.producthunt.com/products/keywords-ai",
     "date": "2026-06-06",
     "tags": [
       "Product Launch"
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Axol",
-    "summary": "New product launch on Product Hunt: Axol",
+    "title": "Patchrooms",
+    "summary": "New product launch on Product Hunt: Patchrooms",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/axol",
-    "date": "2026-06-09",
+    "url": "https://www.producthunt.com/products/patchrooms",
+    "date": "2026-06-10",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "OLO Robotics",
-    "summary": "New product launch on Product Hunt: OLO Robotics",
+    "title": "INVO Ride",
+    "summary": "New product launch on Product Hunt: INVO Ride",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/olo-robotics",
-    "date": "2026-06-08",
+    "url": "https://www.producthunt.com/products/invo-ride",
+    "date": "2026-06-10",
     "tags": [
       "Product Launch"
     ],
@@ -156,33 +156,8 @@
     "id": 13
   },
   {
-    "title": "Spotlight by Backplanes",
-    "summary": "New product launch on Product Hunt: Spotlight by Backplanes",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backplanes",
-    "date": "2026-06-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
-    "title": "NoopApp/noop - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your ",
-    "summary": "1395 stars | Swift | Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/NoopApp/noop",
-    "date": "2026-06-07",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "XiaomiMiMo/MiMo-Code - No description",
-    "summary": "933 stars | TypeScript | ",
+    "summary": "4805 stars | TypeScript | ",
     "source": "GitHub Trending",
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
     "date": "2026-06-10",
@@ -191,11 +166,37 @@
       "TypeScript"
     ],
     "hot": true,
+    "id": 14
+  },
+  {
+    "title": "shadcn/improve - Use your most capable model to audit your codebase and write plans for cheaper m",
+    "summary": "1862 stars | Unknown | Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/shadcn/improve",
+    "date": "2026-06-10",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
+    "title": "NoopApp/noop - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your ",
+    "summary": "1484 stars | Swift | Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/NoopApp/noop",
+    "date": "2026-06-07",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
     "id": 16
   },
   {
     "title": "MSNightmare/RoguePlanet - RoguePlanet Windows Defender Vulnerability",
-    "summary": "924 stars | C++ | RoguePlanet Windows Defender Vulnerability",
+    "summary": "1120 stars | C++ | RoguePlanet Windows Defender Vulnerability",
     "source": "GitHub Trending",
     "url": "https://github.com/MSNightmare/RoguePlanet",
     "date": "2026-06-09",
@@ -207,21 +208,8 @@
     "id": 17
   },
   {
-    "title": "shadcn/improve - Use your most capable model to audit your codebase and write plans for cheaper m",
-    "summary": "903 stars | Unknown | Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/shadcn/improve",
-    "date": "2026-06-10",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
     "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-    "summary": "732 stars | Python | AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+    "summary": "790 stars | Python | AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
     "source": "GitHub Trending",
     "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
     "date": "2026-06-07",
@@ -230,11 +218,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 19
+    "id": 18
   },
   {
     "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produc",
-    "summary": "695 stars | JavaScript | Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai",
+    "summary": "777 stars | JavaScript | Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai",
     "source": "GitHub Trending",
     "url": "https://github.com/JimLiu/baoyu-design",
     "date": "2026-06-07",
@@ -243,7 +231,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 20
+    "id": 19
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +244,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 20
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +257,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 21
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +270,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 22
   },
   {
     "title": "5 AI-Entertainment Hacks That Hit 100+ Upvotes — and What I Learned From Each",
@@ -295,7 +283,33 @@
       "llm"
     ],
     "hot": false,
+    "id": 23
+  },
+  {
+    "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
+    "summary": "Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/",
+    "date": "2026-06-11",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
     "id": 24
+  },
+  {
+    "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
+    "summary": "Feedback about the redesigned IDE is overwhelmingly negative due to bugs, poor UX & model support, and eating through Gemini token quotas. Also: a clue that Antigravity’s own devs use other tools for ",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/",
+    "date": "2026-06-11",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
+    "id": 25
   },
   {
     "title": "The Pulse: Forward deployed engineering heats up again",
@@ -308,7 +322,175 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 26
+  },
+  {
+    "title": "πFS",
+    "summary": "535 points | 137 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/philipl/pifs",
+    "date": "2026-06-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "PgDog is funded and coming to a database near you",
+    "summary": "393 points | 199 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://pgdog.dev/blog/our-funding-announcement",
+    "date": "2026-06-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "summary": "158 points | 40 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.extend.ai/ui",
+    "date": "2026-06-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "World Capitals Voronoi",
+    "summary": "41 points | 19 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
+    "date": "2026-06-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+    "summary": "429 points | 223 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+    "date": "2026-06-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Building an HTML-first site doubled our users overnight",
+    "summary": "1005 points | 459 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "date": "2026-06-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "summary": "94 points | 31 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/HelixDB/helix-db/tree/main",
+    "date": "2026-06-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+    "summary": "351 points | 245 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "date": "2026-06-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Hero Studio Photos",
+    "summary": "New product launch on Product Hunt: Hero Studio Photos",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/hero-9",
+    "date": "2026-06-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "AGNT.Hub",
+    "summary": "New product launch on Product Hunt: AGNT.Hub",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/agnt-hub",
+    "date": "2026-06-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "TypingMind",
+    "summary": "New product launch on Product Hunt: TypingMind",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/typing-mind",
+    "date": "2026-06-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Axol",
+    "summary": "New product launch on Product Hunt: Axol",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/axol",
+    "date": "2026-06-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "OLO Robotics",
+    "summary": "New product launch on Product Hunt: OLO Robotics",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/olo-robotics",
+    "date": "2026-06-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Spotlight by Backplanes",
+    "summary": "New product launch on Product Hunt: Spotlight by Backplanes",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/backplanes",
+    "date": "2026-06-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
   },
   {
     "title": "Google Cloud deletes Australian trading fund’s infra",
@@ -321,7 +503,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 26
+    "id": 41
   },
   {
     "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
@@ -334,7 +516,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 27
+    "id": 42
   },
   {
     "title": "Claude Fable 5",
@@ -346,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "Making Graphics Like it's 1993",
@@ -358,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 44
   },
   {
     "title": "If Claude Fable stops helping you, you'll never know",
@@ -370,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 45
   },
   {
     "title": "CEOs who think AI replaces their employees are just bad CEOs",
@@ -382,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Test-case reducers are underappreciated debugging tools",
@@ -394,7 +576,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 47
   },
   {
     "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
@@ -406,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
@@ -418,7 +600,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Show HN: Resonate – Low-latency, high-resolution spectral analysis",
@@ -430,7 +612,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "agentcad",
@@ -442,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Uiverse Design",
@@ -454,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "Krisp Voice Translation API",
@@ -466,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "ZeroGPU",
@@ -478,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 54
   },
   {
     "title": "Fluido",
@@ -490,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 55
   },
   {
     "title": "VC Boom",
@@ -502,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 41
+    "id": 56
   },
   {
     "title": "diffusionstudio/lottie - Open-source skill and harness for generating production ready Lottie animations ",
@@ -515,7 +697,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "vorpus/performativeUI - No description",
@@ -528,7 +710,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 43
+    "id": 58
   },
   {
     "title": "amElnagdy/guard-skills - Guard skills for coding agents, quality gates that catch AI-generated failure mo",
@@ -541,7 +723,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 44
+    "id": 59
   },
   {
     "title": "Apple reveals new AI architecture built around Google Gemini models",
@@ -553,188 +735,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Siri AI",
-    "summary": "411 points | 357 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.apple.com/apple-intelligence/",
-    "date": "2026-06-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Performative-UI – A react component library of design tropes",
-    "summary": "787 points | 154 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://vorpus.github.io/performativeUI/",
-    "date": "2026-06-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-    "summary": "498 points | 345 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-    "date": "2026-06-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-    "summary": "552 points | 411 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-    "date": "2026-06-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
-    "summary": "151 points | 123 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://gitdot.io/",
-    "date": "2026-06-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-    "summary": "400 points | 312 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-    "date": "2026-06-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-    "summary": "424 points | 139 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-    "date": "2026-06-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Tamadoggo",
-    "summary": "New product launch on Product Hunt: Tamadoggo",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tamadoggo",
-    "date": "2026-06-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Vaani",
-    "summary": "New product launch on Product Hunt: Vaani",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vaani-2",
-    "date": "2026-06-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Honen",
-    "summary": "New product launch on Product Hunt: Honen",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/honen",
-    "date": "2026-05-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Browse.sh",
-    "summary": "New product launch on Product Hunt: Browse.sh",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/browserbase",
-    "date": "2026-05-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Supaste",
-    "summary": "New product launch on Product Hunt: Supaste",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/supaste",
-    "date": "2026-06-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "NTSC-RS",
-    "summary": "New product launch on Product Hunt: NTSC-RS",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ntsc-rs",
-    "date": "2026-06-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "tastyeffectco/sandboxd - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect",
-    "summary": "514 stars | Go | Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-    "source": "GitHub Trending",
-    "url": "https://github.com/tastyeffectco/sandboxd",
-    "date": "2026-06-03",
-    "tags": [
-      "GitHub",
-      "Go"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Jane-xiaoer/xiaoer-videolab - One click on the toolbar grabs the current page's video into ~/Downloads — local",
-    "summary": "482 stars | JavaScript | One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-    "date": "2026-06-04",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
