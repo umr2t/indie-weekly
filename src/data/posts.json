@@ -1,10 +1,10 @@
 [
   {
-    "title": "Noise infusion banned from statistical products published by Census Bureau",
-    "summary": "742 points | 469 comments on Hacker News",
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "summary": "411 points | 91 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "date": "2026-06-13",
+    "url": "https://github.com/tamnd/kage",
+    "date": "2026-06-14",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "GLM 5.2 Is Out",
-    "summary": "372 points | 210 comments on Hacker News",
+    "title": "Firewood Splitting Simulator",
+    "summary": "656 points | 215 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://twitter.com/jietang/status/2065784751345287314",
-    "date": "2026-06-13",
+    "url": "https://screen.toys/firewood/",
+    "date": "2026-06-10",
     "tags": [
       "HN"
     ],
@@ -24,35 +24,35 @@
     "id": 2
   },
   {
-    "title": "Every Frame Perfect",
-    "summary": "579 points | 190 comments on Hacker News",
+    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+    "summary": "104 points | 43 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "url": "https://traceapp.info",
     "date": "2026-06-13",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-    "summary": "306 points | 108 comments on Hacker News",
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
+    "summary": "58 points | 18 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-    "date": "2026-06-13",
+    "url": "https://www.orangecrumbs.com/",
+    "date": "2026-06-14",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-    "summary": "553 points | 405 comments on Hacker News",
+    "title": "How to earn a billion dollars",
+    "summary": "466 points | 1418 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-    "date": "2026-06-13",
+    "url": "https://paulgraham.com/earn.html",
+    "date": "2026-06-14",
     "tags": [
       "HN"
     ],
@@ -60,46 +60,46 @@
     "id": 5
   },
   {
-    "title": "Codex for open source",
-    "summary": "176 points | 51 comments on Hacker News",
+    "title": "Not everyone is using AI for everything",
+    "summary": "431 points | 466 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://openai.com/form/codex-for-oss/",
-    "date": "2026-06-11",
+    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "date": "2026-06-14",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-    "summary": "244 points | 159 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/tensorzero/tensorzero",
-    "date": "2026-06-13",
+    "title": "Athenic 2.0",
+    "summary": "New product launch on Product Hunt: Athenic 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/athenic-ai",
+    "date": "2026-06-03",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-    "summary": "574 points | 332 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
-    "date": "2026-06-13",
+    "title": "Momentra",
+    "summary": "New product launch on Product Hunt: Momentra",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/momentra-aesthetic-camera",
+    "date": "2026-06-14",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "NomNak",
-    "summary": "New product launch on Product Hunt: NomNak",
+    "title": "Tinfoil Pigeons",
+    "summary": "New product launch on Product Hunt: Tinfoil Pigeons",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nomnak",
+    "url": "https://www.producthunt.com/products/tinfoil-pigeons",
     "date": "2026-06-12",
     "tags": [
       "Product Launch"
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "CakewordAI",
-    "summary": "New product launch on Product Hunt: CakewordAI",
+    "title": "Cloudback for Linear",
+    "summary": "New product launch on Product Hunt: Cloudback for Linear",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
-    "date": "2026-06-12",
+    "url": "https://www.producthunt.com/products/cloudback",
+    "date": "2026-06-13",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Vercel Drop",
-    "summary": "New product launch on Product Hunt: Vercel Drop",
+    "title": "Memoriq",
+    "summary": "New product launch on Product Hunt: Memoriq",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vercel",
-    "date": "2026-06-12",
+    "url": "https://www.producthunt.com/products/memoriq",
+    "date": "2026-06-13",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Kimi K2.7 Code",
-    "summary": "New product launch on Product Hunt: Kimi K2.7 Code",
+    "title": "Permute 4.0",
+    "summary": "New product launch on Product Hunt: Permute 4.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-    "date": "2026-06-12",
+    "url": "https://www.producthunt.com/products/permute",
+    "date": "2026-06-10",
     "tags": [
       "Product Launch"
     ],
@@ -144,32 +144,8 @@
     "id": 12
   },
   {
-    "title": "Prometheus by Firecrawl",
-    "summary": "New product launch on Product Hunt: Prometheus by Firecrawl",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-    "date": "2026-06-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Avatars in ElevenCreative ",
-    "summary": "New product launch on Product Hunt: Avatars in ElevenCreative ",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/avatars-in-elevencreative",
-    "date": "2026-06-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "XiaomiMiMo/MiMo-Code - No description",
-    "summary": "7969 stars | TypeScript | ",
+    "summary": "8490 stars | TypeScript | ",
     "source": "GitHub Trending",
     "url": "https://github.com/XiaomiMiMo/MiMo-Code",
     "date": "2026-06-10",
@@ -178,24 +154,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 15
-  },
-  {
-    "title": "shadcn/improve - Use your most capable model to audit your codebase and write plans for cheaper m",
-    "summary": "3449 stars | Unknown | Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/shadcn/improve",
-    "date": "2026-06-10",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 16
+    "id": 13
   },
   {
     "title": "DietrichGebert/ponytail - Makes your AI agent think like the laziest senior dev in the room. The best code",
-    "summary": "1562 stars | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "summary": "8439 stars | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "source": "GitHub Trending",
     "url": "https://github.com/DietrichGebert/ponytail",
     "date": "2026-06-12",
@@ -204,11 +167,24 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 17
+    "id": 14
+  },
+  {
+    "title": "shadcn/improve - Use your most capable model to audit your codebase and write plans for cheaper m",
+    "summary": "4381 stars | Unknown | Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/shadcn/improve",
+    "date": "2026-06-10",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 15
   },
   {
     "title": "MSNightmare/RoguePlanet - RoguePlanet Windows Defender Vulnerability",
-    "summary": "1254 stars | C++ | RoguePlanet Windows Defender Vulnerability",
+    "summary": "1275 stars | C++ | RoguePlanet Windows Defender Vulnerability",
     "source": "GitHub Trending",
     "url": "https://github.com/MSNightmare/RoguePlanet",
     "date": "2026-06-09",
@@ -217,11 +193,24 @@
       "C++"
     ],
     "hot": true,
-    "id": 18
+    "id": 16
+  },
+  {
+    "title": "omnigent-ai/omnigent - A meta-harness for all your AI agents.  Omnigent provides a common layer over Cl",
+    "summary": "1244 stars | Python | A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriti",
+    "source": "GitHub Trending",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "date": "2026-06-11",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 17
   },
   {
     "title": "SkyBlue997/enableMacosAI - 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-    "summary": "1005 stars | Shell | 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+    "summary": "1196 stars | Shell | 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
     "source": "GitHub Trending",
     "url": "https://github.com/SkyBlue997/enableMacosAI",
     "date": "2026-06-10",
@@ -230,20 +219,7 @@
       "Shell"
     ],
     "hot": true,
-    "id": 19
-  },
-  {
-    "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-devi",
-    "summary": "874 stars | Swift | Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-    "source": "GitHub Trending",
-    "url": "https://github.com/apple/coreai-models",
-    "date": "2026-06-08",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 20
+    "id": 18
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
@@ -295,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 22
   },
   {
     "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
@@ -308,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 23
   },
   {
     "title": "The Pulse: Forward deployed engineering heats up again",
@@ -321,7 +297,188 @@
       "Career"
     ],
     "hot": false,
+    "id": 24
+  },
+  {
+    "title": "Noise infusion banned from statistical products published by Census Bureau",
+    "summary": "742 points | 469 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "date": "2026-06-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "GLM 5.2 Is Out",
+    "summary": "372 points | 210 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://twitter.com/jietang/status/2065784751345287314",
+    "date": "2026-06-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Every Frame Perfect",
+    "summary": "579 points | 190 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "date": "2026-06-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+    "summary": "306 points | 108 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+    "date": "2026-06-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+    "summary": "553 points | 405 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "date": "2026-06-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Codex for open source",
+    "summary": "176 points | 51 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openai.com/form/codex-for-oss/",
+    "date": "2026-06-11",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+    "summary": "244 points | 159 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/tensorzero/tensorzero",
+    "date": "2026-06-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+    "summary": "574 points | 332 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+    "date": "2026-06-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "NomNak",
+    "summary": "New product launch on Product Hunt: NomNak",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nomnak",
+    "date": "2026-06-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "CakewordAI",
+    "summary": "New product launch on Product Hunt: CakewordAI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
+    "date": "2026-06-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Vercel Drop",
+    "summary": "New product launch on Product Hunt: Vercel Drop",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vercel",
+    "date": "2026-06-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Kimi K2.7 Code",
+    "summary": "New product launch on Product Hunt: Kimi K2.7 Code",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+    "date": "2026-06-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Prometheus by Firecrawl",
+    "summary": "New product launch on Product Hunt: Prometheus by Firecrawl",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+    "date": "2026-06-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Avatars in ElevenCreative ",
+    "summary": "New product launch on Product Hunt: Avatars in ElevenCreative ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/avatars-in-elevencreative",
+    "date": "2026-06-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "apple/coreai-models - Model export recipes, Python primitives, and Swift runtime utilities for on-devi",
+    "summary": "874 stars | Swift | Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+    "source": "GitHub Trending",
+    "url": "https://github.com/apple/coreai-models",
+    "date": "2026-06-08",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 39
   },
   {
     "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
@@ -333,7 +490,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 40
   },
   {
     "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
@@ -345,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 41
   },
   {
     "title": "Malware developers added nuclear and biological weapons text to to their spyware",
@@ -357,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 42
   },
   {
     "title": "Show HN: Putt.day a daily mini golf game",
@@ -369,7 +526,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 43
   },
   {
     "title": "\"Don't You Just Upload It to ChatGPT?\"",
@@ -381,7 +538,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 44
   },
   {
     "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
@@ -393,7 +550,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 45
   },
   {
     "title": "If you are asking for human attention, demonstrate human effort",
@@ -405,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 46
   },
   {
     "title": "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape",
@@ -417,7 +574,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 47
   },
   {
     "title": "Tide",
@@ -429,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 48
   },
   {
     "title": "ShellMate",
@@ -441,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 49
   },
   {
     "title": "Firma.dev",
@@ -453,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 50
   },
   {
     "title": "Bob's CLI",
@@ -465,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 51
   },
   {
     "title": "Pond",
@@ -477,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 52
   },
   {
     "title": "KOSH Money",
@@ -489,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 53
   },
   {
     "title": "NoopApp/noop - Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your ",
@@ -502,7 +659,7 @@
       "Swift"
     ],
     "hot": true,
-    "id": 41
+    "id": 54
   },
   {
     "title": "GordenSun/GordenSuperPPTSkills - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
@@ -515,7 +672,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 42
+    "id": 55
   },
   {
     "title": "5 AI-Entertainment Hacks That Hit 100+ Upvotes — and What I Learned From Each",
@@ -528,7 +685,7 @@
       "llm"
     ],
     "hot": false,
-    "id": 43
+    "id": 56
   },
   {
     "title": "Show HN: Homebrew 6.0.0",
@@ -540,7 +697,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 57
   },
   {
     "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
@@ -552,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 58
   },
   {
     "title": "MiMo Code is now released and open-source",
@@ -564,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 46
+    "id": 59
   },
   {
     "title": "Anthropic apologizes for invisible Claude Fable guardrails",
@@ -576,163 +733,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Petition to Withdraw Canada's Bill C-22",
-    "summary": "363 points | 126 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-    "date": "2026-06-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Lines of code got a better publicist",
-    "summary": "360 points | 248 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "date": "2026-06-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
-    "summary": "50 points | 19 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/coder/boo",
-    "date": "2026-06-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Asmi AI",
-    "summary": "New product launch on Product Hunt: Asmi AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/asmi-ai",
-    "date": "2026-06-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Lium AI",
-    "summary": "New product launch on Product Hunt: Lium AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lium",
-    "date": "2026-06-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "heyly.io",
-    "summary": "New product launch on Product Hunt: heyly.io",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/heyly-io-video-greeting-for-your-site",
-    "date": "2026-06-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Respan Gateway",
-    "summary": "New product launch on Product Hunt: Respan Gateway",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/keywords-ai",
-    "date": "2026-06-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Patchrooms",
-    "summary": "New product launch on Product Hunt: Patchrooms",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/patchrooms",
-    "date": "2026-06-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "INVO Ride",
-    "summary": "New product launch on Product Hunt: INVO Ride",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/invo-ride",
-    "date": "2026-06-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "JimLiu/baoyu-design - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produc",
-    "summary": "777 stars | JavaScript | Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai",
-    "source": "GitHub Trending",
-    "url": "https://github.com/JimLiu/baoyu-design",
-    "date": "2026-06-07",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "πFS",
-    "summary": "535 points | 137 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/philipl/pifs",
-    "date": "2026-06-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "PgDog is funded and coming to a database near you",
-    "summary": "393 points | 199 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://pgdog.dev/blog/our-funding-announcement",
-    "date": "2026-06-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-    "summary": "158 points | 40 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.extend.ai/ui",
-    "date": "2026-06-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
