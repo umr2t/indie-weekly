@@ -1,22 +1,22 @@
 [
   {
-    "title": "Show HN: TownSquare, a tiny presence layer for websites",
-    "summary": "74 points | 24 comments on Hacker News",
+    "title": "Identity verification on Claude",
+    "summary": "592 points | 521 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://townsquare.cauenapier.com/",
-    "date": "2026-06-20",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "date": "2026-06-21",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 1
   },
   {
-    "title": "CSSQuake",
-    "summary": "466 points | 101 comments on Hacker News",
+    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "summary": "439 points | 260 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://cssquake.com/",
-    "date": "2026-06-20",
+    "url": "https://www.beyondallreason.info",
+    "date": "2026-06-21",
     "tags": [
       "HN"
     ],
@@ -24,23 +24,23 @@
     "id": 2
   },
   {
-    "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
-    "summary": "160 points | 54 comments on Hacker News",
+    "title": "Prefer duplication over the wrong abstraction (2016)",
+    "summary": "429 points | 295 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://startupwiki.tech/",
-    "date": "2026-06-20",
+    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "date": "2026-06-21",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 3
   },
   {
-    "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
-    "summary": "98 points | 74 comments on Hacker News",
+    "title": "Show HN: Recall – fully-local project memory for Claude Code",
+    "summary": "77 points | 58 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-    "date": "2026-06-20",
+    "url": "https://github.com/raiyanyahya/recall",
+    "date": "2026-06-21",
     "tags": [
       "HN"
     ],
@@ -48,10 +48,10 @@
     "id": 4
   },
   {
-    "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
-    "summary": "92 points | 47 comments on Hacker News",
+    "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
+    "summary": "51 points | 13 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/overflowy/make-look-scanned",
+    "url": "https://the-criterion-closet.vercel.app",
     "date": "2026-06-20",
     "tags": [
       "HN"
@@ -60,35 +60,35 @@
     "id": 5
   },
   {
-    "title": "The Wholesale Plagiarism of Obscure Sorrows",
-    "summary": "323 points | 136 comments on Hacker News",
+    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+    "summary": "13 points | 9 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "url": "https://minipcs.zip",
     "date": "2026-06-20",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "Slackbot’s MCP Client",
-    "summary": "New product launch on Product Hunt: Slackbot’s MCP Client",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/slack",
-    "date": "2026-06-18",
+    "title": "Show HN: Teach your kids perfect pitch",
+    "summary": "66 points | 38 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/paytonjjones/bsharp",
+    "date": "2026-06-21",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "WorkClaw",
-    "summary": "New product launch on Product Hunt: WorkClaw",
+    "title": "Grok by SpaceXAI for Word",
+    "summary": "New product launch on Product Hunt: Grok by SpaceXAI for Word",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/workclaw",
-    "date": "2026-05-28",
+    "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
+    "date": "2026-06-18",
     "tags": [
       "Product Launch"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Mellum by JetBrains",
-    "summary": "New product launch on Product Hunt: Mellum by JetBrains",
+    "title": "Backgrind",
+    "summary": "New product launch on Product Hunt: Backgrind",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/jetbrains",
-    "date": "2026-06-11",
+    "url": "https://www.producthunt.com/products/backgrind",
+    "date": "2026-06-16",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Are you in the Weights?",
-    "summary": "New product launch on Product Hunt: Are you in the Weights?",
+    "title": "Plansera AI",
+    "summary": "New product launch on Product Hunt: Plansera AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/are-you-in-the-weights",
-    "date": "2026-06-20",
+    "url": "https://www.producthunt.com/products/plansera-ai",
+    "date": "2026-06-19",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Foyer",
-    "summary": "New product launch on Product Hunt: Foyer",
+    "title": "Agent 37 Cloud",
+    "summary": "New product launch on Product Hunt: Agent 37 Cloud",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/foyer-4",
-    "date": "2026-06-12",
+    "url": "https://www.producthunt.com/products/agent-37-38",
+    "date": "2026-06-20",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Pixlie",
-    "summary": "New product launch on Product Hunt: Pixlie",
+    "title": "Cloudback MCP Server",
+    "summary": "New product launch on Product Hunt: Cloudback MCP Server",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pixlie",
-    "date": "2026-06-19",
+    "url": "https://www.producthunt.com/products/cloudback",
+    "date": "2026-06-20",
     "tags": [
       "Product Launch"
     ],
@@ -144,8 +144,20 @@
     "id": 12
   },
   {
+    "title": "Atomic Mail Agentic",
+    "summary": "New product launch on Product Hunt: Atomic Mail Agentic",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/atomic-mail-agentic",
+    "date": "2026-06-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
     "title": "vercel/eve - The Framework for Building Agents",
-    "summary": "1871 stars | TypeScript | The Framework for Building Agents",
+    "summary": "2091 stars | TypeScript | The Framework for Building Agents",
     "source": "GitHub Trending",
     "url": "https://github.com/vercel/eve",
     "date": "2026-06-16",
@@ -154,27 +166,14 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 13
-  },
-  {
-    "title": "alchaincyf/loop-engineering-orange-book - 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 ",
-    "summary": "716 stars | Unknown | 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-    "date": "2026-06-15",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
     "id": 14
   },
   {
-    "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-    "summary": "545 stars | JavaScript | Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "title": "zhongerxin/Cowart - No description",
+    "summary": "1283 stars | JavaScript | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/rebel0789/codexpro",
-    "date": "2026-06-16",
+    "url": "https://github.com/zhongerxin/Cowart",
+    "date": "2026-06-18",
     "tags": [
       "GitHub",
       "JavaScript"
@@ -183,8 +182,21 @@
     "id": 15
   },
   {
+    "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "summary": "628 stars | JavaScript | Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/rebel0789/codexpro",
+    "date": "2026-06-16",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 16
+  },
+  {
     "title": "Forsy-AI/agent-apprenticeship - The living ecosystem where AI agents learn from real-world work through iterativ",
-    "summary": "533 stars | Unknown | The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+    "summary": "609 stars | Unknown | The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
     "source": "GitHub Trending",
     "url": "https://github.com/Forsy-AI/agent-apprenticeship",
     "date": "2026-06-19",
@@ -193,11 +205,11 @@
       "Code"
     ],
     "hot": true,
-    "id": 16
+    "id": 17
   },
   {
     "title": "Plaer1/junction - VS Code chat sidebar for local AI coding agents",
-    "summary": "516 stars | TypeScript | VS Code chat sidebar for local AI coding agents",
+    "summary": "518 stars | TypeScript | VS Code chat sidebar for local AI coding agents",
     "source": "GitHub Trending",
     "url": "https://github.com/Plaer1/junction",
     "date": "2026-06-17",
@@ -206,20 +218,20 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 17
+    "id": 18
   },
   {
-    "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "summary": "397 stars | Python | 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "title": "ngrok/webernetes - Kubernetes in the browser.",
+    "summary": "483 stars | TypeScript | Kubernetes in the browser.",
     "source": "GitHub Trending",
-    "url": "https://github.com/dongshuyan/compass-skills",
-    "date": "2026-06-15",
+    "url": "https://github.com/ngrok/webernetes",
+    "date": "2026-06-16",
     "tags": [
       "GitHub",
-      "Python"
+      "TypeScript"
     ],
     "hot": false,
-    "id": 18
+    "id": 19
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -232,7 +244,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 20
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -245,7 +257,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 21
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -258,7 +270,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 22
   },
   {
     "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
@@ -271,7 +283,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 23
   },
   {
     "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
@@ -284,7 +296,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 24
   },
   {
     "title": "The Pulse: Forward deployed engineering heats up again",
@@ -297,7 +309,177 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
+  },
+  {
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "summary": "74 points | 24 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://townsquare.cauenapier.com/",
+    "date": "2026-06-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 26
+  },
+  {
+    "title": "CSSQuake",
+    "summary": "466 points | 101 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://cssquake.com/",
+    "date": "2026-06-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+    "summary": "160 points | 54 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://startupwiki.tech/",
+    "date": "2026-06-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+    "summary": "98 points | 74 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+    "date": "2026-06-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+    "summary": "92 points | 47 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/overflowy/make-look-scanned",
+    "date": "2026-06-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "The Wholesale Plagiarism of Obscure Sorrows",
+    "summary": "323 points | 136 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "date": "2026-06-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Slackbot’s MCP Client",
+    "summary": "New product launch on Product Hunt: Slackbot’s MCP Client",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/slack",
+    "date": "2026-06-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "WorkClaw",
+    "summary": "New product launch on Product Hunt: WorkClaw",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/workclaw",
+    "date": "2026-05-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Mellum by JetBrains",
+    "summary": "New product launch on Product Hunt: Mellum by JetBrains",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/jetbrains",
+    "date": "2026-06-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Are you in the Weights?",
+    "summary": "New product launch on Product Hunt: Are you in the Weights?",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/are-you-in-the-weights",
+    "date": "2026-06-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Foyer",
+    "summary": "New product launch on Product Hunt: Foyer",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/foyer-4",
+    "date": "2026-06-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Pixlie",
+    "summary": "New product launch on Product Hunt: Pixlie",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pixlie",
+    "date": "2026-06-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "alchaincyf/loop-engineering-orange-book - 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 ",
+    "summary": "716 stars | Unknown | 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+    "date": "2026-06-15",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 38
+  },
+  {
+    "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "summary": "397 stars | Python | 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "source": "GitHub Trending",
+    "url": "https://github.com/dongshuyan/compass-skills",
+    "date": "2026-06-15",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": false,
+    "id": 39
   },
   {
     "title": "There are no instances in ATProto",
@@ -309,7 +491,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 40
   },
   {
     "title": "Norway imposes near ban on AI in elementary school",
@@ -321,7 +503,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 41
   },
   {
     "title": "Hyundai buys Boston Dynamics",
@@ -333,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 42
   },
   {
     "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
@@ -345,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "DuckDB Internals Part 1",
@@ -357,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 44
   },
   {
     "title": "Google workspace threatening to block Firefox access",
@@ -369,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
@@ -381,7 +563,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Ten years of ClickHouse in open source",
@@ -393,7 +575,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 47
   },
   {
     "title": "Snap Deck HQ",
@@ -405,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Foglamp",
@@ -417,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Darkmoon",
@@ -429,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "Screen Ruler",
@@ -441,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Midjourney Scanner",
@@ -453,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "just f***ing send it",
@@ -465,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
@@ -478,7 +660,7 @@
       "Go"
     ],
     "hot": true,
-    "id": 39
+    "id": 54
   },
   {
     "title": "Waishnav/devspace - Turn ChatGPT into Codex",
@@ -491,7 +673,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 40
+    "id": 55
   },
   {
     "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, a",
@@ -504,7 +686,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "I found 10k GitHub repositories distributing Trojan malware",
@@ -516,7 +698,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
@@ -528,7 +710,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 58
   },
   {
     "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
@@ -540,7 +722,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
+    "id": 59
   },
   {
     "title": "Swiss parliament lifts ban on new nuclear power plants",
@@ -552,187 +734,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Show HN: Are You in the Weights?",
-    "summary": "197 points | 127 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.intheweights.com/",
-    "date": "2026-06-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
-    "summary": "15 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/cajal-technologies/talos",
-    "date": "2026-06-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-    "summary": "142 points | 64 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://gerrymandle.cc/",
-    "date": "2026-06-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Splice",
-    "summary": "New product launch on Product Hunt: Splice",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/splice-3",
-    "date": "2026-06-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Refuse",
-    "summary": "New product launch on Product Hunt: Refuse",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/refuse",
-    "date": "2026-06-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Ploy.ai",
-    "summary": "New product launch on Product Hunt: Ploy.ai",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ploy-ai",
-    "date": "2026-06-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Tine",
-    "summary": "New product launch on Product Hunt: Tine",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tine-2",
-    "date": "2026-06-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Cliptop",
-    "summary": "New product launch on Product Hunt: Cliptop",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cliptop",
-    "date": "2026-06-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Elvin",
-    "summary": "New product launch on Product Hunt: Elvin",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/elvin",
-    "date": "2026-06-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "EEliberto/IPA-Download - 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-    "summary": "1072 stars | Swift | 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/EEliberto/IPA-Download",
-    "date": "2026-06-13",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Lore – Open source version control system designed for scalability",
-    "summary": "995 points | 540 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lore.org/",
-    "date": "2026-06-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-    "summary": "369 points | 398 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-    "date": "2026-06-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-    "summary": "328 points | 245 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-    "date": "2026-06-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "U.S. science is in chaos",
-    "summary": "693 points | 816 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-    "date": "2026-06-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Loreline – Tools for writing interactive fiction",
-    "summary": "75 points | 9 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://loreline.app/en/",
-    "date": "2026-06-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
