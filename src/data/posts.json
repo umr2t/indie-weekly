@@ -1,10 +1,10 @@
 [
   {
-    "title": "Identity verification on Claude",
-    "summary": "592 points | 521 comments on Hacker News",
+    "title": "Steam Machine launches today",
+    "summary": "1218 points | 1100 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "date": "2026-06-21",
+    "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "date": "2026-06-22",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-    "summary": "439 points | 260 comments on Hacker News",
+    "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+    "summary": "301 points | 156 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.beyondallreason.info",
-    "date": "2026-06-21",
+    "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+    "date": "2026-06-22",
     "tags": [
       "HN"
     ],
@@ -24,59 +24,59 @@
     "id": 2
   },
   {
-    "title": "Prefer duplication over the wrong abstraction (2016)",
-    "summary": "429 points | 295 comments on Hacker News",
+    "title": "Show HN: Oak – Git alternative designed for agents",
+    "summary": "148 points | 143 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "date": "2026-06-21",
+    "url": "https://oak.space/oak/oak",
+    "date": "2026-06-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 3
+  },
+  {
+    "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+    "summary": "362 points | 136 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://ipvm.com/reports/police-chiefs-track",
+    "date": "2026-06-22",
     "tags": [
       "HN"
     ],
     "hot": true,
-    "id": 3
-  },
-  {
-    "title": "Show HN: Recall – fully-local project memory for Claude Code",
-    "summary": "77 points | 58 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/raiyanyahya/recall",
-    "date": "2026-06-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 4
   },
   {
-    "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
-    "summary": "51 points | 13 comments on Hacker News",
+    "title": "Help I accidentally a wigglegram",
+    "summary": "493 points | 120 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://the-criterion-closet.vercel.app",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
     "date": "2026-06-20",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
-    "summary": "13 points | 9 comments on Hacker News",
+    "title": "Pledging another $400k to the Zig software foundation",
+    "summary": "730 points | 245 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://minipcs.zip",
-    "date": "2026-06-20",
+    "url": "https://mitchellh.com/writing/zig-donation-2026",
+    "date": "2026-06-22",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Show HN: Teach your kids perfect pitch",
-    "summary": "66 points | 38 comments on Hacker News",
+    "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+    "summary": "144 points | 99 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/paytonjjones/bsharp",
-    "date": "2026-06-21",
+    "url": "https://puzzlelair.com/",
+    "date": "2026-06-22",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Grok by SpaceXAI for Word",
-    "summary": "New product launch on Product Hunt: Grok by SpaceXAI for Word",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
-    "date": "2026-06-18",
+    "title": "Deno Desktop",
+    "summary": "1026 points | 371 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "date": "2026-06-22",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "Backgrind",
-    "summary": "New product launch on Product Hunt: Backgrind",
+    "title": "AlgoFly AI",
+    "summary": "New product launch on Product Hunt: AlgoFly AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backgrind",
-    "date": "2026-06-16",
+    "url": "https://www.producthunt.com/products/algofly-ai",
+    "date": "2026-06-21",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Plansera AI",
-    "summary": "New product launch on Product Hunt: Plansera AI",
+    "title": "AgentX",
+    "summary": "New product launch on Product Hunt: AgentX",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/plansera-ai",
-    "date": "2026-06-19",
+    "url": "https://www.producthunt.com/products/agentx",
+    "date": "2026-06-21",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Agent 37 Cloud",
-    "summary": "New product launch on Product Hunt: Agent 37 Cloud",
+    "title": "HAQQ Legal AI on Mobile",
+    "summary": "New product launch on Product Hunt: HAQQ Legal AI on Mobile",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/agent-37-38",
-    "date": "2026-06-20",
+    "url": "https://www.producthunt.com/products/haqq-mobile-app",
+    "date": "2026-02-26",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Cloudback MCP Server",
-    "summary": "New product launch on Product Hunt: Cloudback MCP Server",
+    "title": "Cloudflare Temporary Accounts",
+    "summary": "New product launch on Product Hunt: Cloudflare Temporary Accounts",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cloudback",
-    "date": "2026-06-20",
+    "url": "https://www.producthunt.com/products/cloudflare",
+    "date": "2026-06-22",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Atomic Mail Agentic",
-    "summary": "New product launch on Product Hunt: Atomic Mail Agentic",
+    "title": "Photoroom API",
+    "summary": "New product launch on Product Hunt: Photoroom API",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/atomic-mail-agentic",
-    "date": "2026-06-18",
+    "url": "https://www.producthunt.com/products/bg-app",
+    "date": "2026-06-19",
     "tags": [
       "Product Launch"
     ],
@@ -156,21 +156,20 @@
     "id": 13
   },
   {
-    "title": "vercel/eve - The Framework for Building Agents",
-    "summary": "2091 stars | TypeScript | The Framework for Building Agents",
-    "source": "GitHub Trending",
-    "url": "https://github.com/vercel/eve",
-    "date": "2026-06-16",
+    "title": "MD+HTML Reader",
+    "summary": "New product launch on Product Hunt: MD+HTML Reader",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/md-html-reader",
+    "date": "2026-06-22",
     "tags": [
-      "GitHub",
-      "TypeScript"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 14
   },
   {
     "title": "zhongerxin/Cowart - No description",
-    "summary": "1283 stars | JavaScript | ",
+    "summary": "2005 stars | JavaScript | ",
     "source": "GitHub Trending",
     "url": "https://github.com/zhongerxin/Cowart",
     "date": "2026-06-18",
@@ -182,21 +181,8 @@
     "id": 15
   },
   {
-    "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-    "summary": "628 stars | JavaScript | Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/rebel0789/codexpro",
-    "date": "2026-06-16",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "Forsy-AI/agent-apprenticeship - The living ecosystem where AI agents learn from real-world work through iterativ",
-    "summary": "609 stars | Unknown | The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+    "summary": "682 stars | Unknown | The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
     "source": "GitHub Trending",
     "url": "https://github.com/Forsy-AI/agent-apprenticeship",
     "date": "2026-06-19",
@@ -205,14 +191,27 @@
       "Code"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基",
+    "summary": "677 stars | Python | 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+    "source": "GitHub Trending",
+    "url": "https://github.com/lyra81604/zhengxi-views",
+    "date": "2026-06-20",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 17
   },
   {
-    "title": "Plaer1/junction - VS Code chat sidebar for local AI coding agents",
-    "summary": "518 stars | TypeScript | VS Code chat sidebar for local AI coding agents",
+    "title": "aidenybai/cnfast - Fast drop in replacement for `cn`",
+    "summary": "666 stars | TypeScript | Fast drop in replacement for `cn`",
     "source": "GitHub Trending",
-    "url": "https://github.com/Plaer1/junction",
-    "date": "2026-06-17",
+    "url": "https://github.com/aidenybai/cnfast",
+    "date": "2026-06-19",
     "tags": [
       "GitHub",
       "TypeScript"
@@ -221,17 +220,30 @@
     "id": 18
   },
   {
-    "title": "ngrok/webernetes - Kubernetes in the browser.",
-    "summary": "483 stars | TypeScript | Kubernetes in the browser.",
+    "title": "kanavtwtgg/birds.cafe - No description",
+    "summary": "550 stars | JavaScript | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/ngrok/webernetes",
-    "date": "2026-06-16",
+    "url": "https://github.com/kanavtwtgg/birds.cafe",
+    "date": "2026-06-21",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "Plaer1/junction - VS Code chat sidebar for local AI coding agents",
+    "summary": "526 stars | TypeScript | VS Code chat sidebar for local AI coding agents",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Plaer1/junction",
+    "date": "2026-06-17",
     "tags": [
       "GitHub",
       "TypeScript"
     ],
-    "hot": false,
-    "id": 19
+    "hot": true,
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -244,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -257,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -270,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 23
   },
   {
     "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
@@ -283,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 24
   },
   {
     "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
@@ -296,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
   },
   {
     "title": "The Pulse: Forward deployed engineering heats up again",
@@ -309,7 +321,202 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 26
+  },
+  {
+    "title": "Identity verification on Claude",
+    "summary": "592 points | 521 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "date": "2026-06-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "summary": "439 points | 260 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.beyondallreason.info",
+    "date": "2026-06-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Prefer duplication over the wrong abstraction (2016)",
+    "summary": "429 points | 295 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "date": "2026-06-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Recall – fully-local project memory for Claude Code",
+    "summary": "77 points | 58 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/raiyanyahya/recall",
+    "date": "2026-06-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
+    "summary": "51 points | 13 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://the-criterion-closet.vercel.app",
+    "date": "2026-06-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+    "summary": "13 points | 9 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://minipcs.zip",
+    "date": "2026-06-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Teach your kids perfect pitch",
+    "summary": "66 points | 38 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/paytonjjones/bsharp",
+    "date": "2026-06-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Grok by SpaceXAI for Word",
+    "summary": "New product launch on Product Hunt: Grok by SpaceXAI for Word",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
+    "date": "2026-06-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Backgrind",
+    "summary": "New product launch on Product Hunt: Backgrind",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/backgrind",
+    "date": "2026-06-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Plansera AI",
+    "summary": "New product launch on Product Hunt: Plansera AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/plansera-ai",
+    "date": "2026-06-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Agent 37 Cloud",
+    "summary": "New product launch on Product Hunt: Agent 37 Cloud",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/agent-37-38",
+    "date": "2026-06-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Cloudback MCP Server",
+    "summary": "New product launch on Product Hunt: Cloudback MCP Server",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cloudback",
+    "date": "2026-06-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Atomic Mail Agentic",
+    "summary": "New product launch on Product Hunt: Atomic Mail Agentic",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/atomic-mail-agentic",
+    "date": "2026-06-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "vercel/eve - The Framework for Building Agents",
+    "summary": "2091 stars | TypeScript | The Framework for Building Agents",
+    "source": "GitHub Trending",
+    "url": "https://github.com/vercel/eve",
+    "date": "2026-06-16",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "summary": "628 stars | JavaScript | Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/rebel0789/codexpro",
+    "date": "2026-06-16",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "ngrok/webernetes - Kubernetes in the browser.",
+    "summary": "483 stars | TypeScript | Kubernetes in the browser.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ngrok/webernetes",
+    "date": "2026-06-16",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": false,
+    "id": 42
   },
   {
     "title": "Show HN: TownSquare, a tiny presence layer for websites",
@@ -321,7 +528,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 26
+    "id": 43
   },
   {
     "title": "CSSQuake",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 47
   },
   {
     "title": "The Wholesale Plagiarism of Obscure Sorrows",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Slackbot’s MCP Client",
@@ -393,7 +600,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 49
   },
   {
     "title": "WorkClaw",
@@ -405,7 +612,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 50
   },
   {
     "title": "Mellum by JetBrains",
@@ -417,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 51
   },
   {
     "title": "Are you in the Weights?",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Foyer",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Pixlie",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "alchaincyf/loop-engineering-orange-book - 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 ",
@@ -466,7 +673,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 38
+    "id": 55
   },
   {
     "title": "dongshuyan/compass-skills - 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
@@ -479,7 +686,7 @@
       "Python"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "There are no instances in ATProto",
@@ -491,7 +698,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 57
   },
   {
     "title": "Norway imposes near ban on AI in elementary school",
@@ -503,7 +710,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "Hyundai buys Boston Dynamics",
@@ -515,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
@@ -523,213 +730,6 @@
     "source": "Hacker News",
     "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
     "date": "2026-06-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "DuckDB Internals Part 1",
-    "summary": "434 points | 128 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-    "date": "2026-06-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Google workspace threatening to block Firefox access",
-    "summary": "434 points | 144 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-    "date": "2026-06-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-    "summary": "92 points | 28 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://metiq.space",
-    "date": "2026-06-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Ten years of ClickHouse in open source",
-    "summary": "279 points | 70 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://clickhouse.com/blog/open-source-10",
-    "date": "2026-06-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Snap Deck HQ",
-    "summary": "New product launch on Product Hunt: Snap Deck HQ",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/snap-deck-hq",
-    "date": "2026-06-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Foglamp",
-    "summary": "New product launch on Product Hunt: Foglamp",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/foglamp",
-    "date": "2026-06-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Darkmoon",
-    "summary": "New product launch on Product Hunt: Darkmoon",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/darkmoon",
-    "date": "2026-06-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Screen Ruler",
-    "summary": "New product launch on Product Hunt: Screen Ruler",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/screen-ruler",
-    "date": "2026-06-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Midjourney Scanner",
-    "summary": "New product launch on Product Hunt: Midjourney Scanner",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/midjourney",
-    "date": "2026-06-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "just f***ing send it",
-    "summary": "New product launch on Product Hunt: just f***ing send it",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/just-f-ing-send-it",
-    "date": "2026-06-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "tamnd/kage - Shadow any website for offline viewing, with the JavaScript stripped out",
-    "summary": "2098 stars | Go | Shadow any website for offline viewing, with the JavaScript stripped out",
-    "source": "GitHub Trending",
-    "url": "https://github.com/tamnd/kage",
-    "date": "2026-06-14",
-    "tags": [
-      "GitHub",
-      "Go"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Waishnav/devspace - Turn ChatGPT into Codex",
-    "summary": "1413 stars | TypeScript | Turn ChatGPT into Codex",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Waishnav/devspace",
-    "date": "2026-06-14",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "fivetaku/fablize - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, a",
-    "summary": "505 stars | Python | A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferab",
-    "source": "GitHub Trending",
-    "url": "https://github.com/fivetaku/fablize",
-    "date": "2026-06-14",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "I found 10k GitHub repositories distributing Trojan malware",
-    "summary": "676 points | 153 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-    "date": "2026-06-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-    "summary": "317 points | 46 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-    "date": "2026-06-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-    "summary": "106 points | 45 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tester.army",
-    "date": "2026-06-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Swiss parliament lifts ban on new nuclear power plants",
-    "summary": "705 points | 586 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-    "date": "2026-06-18",
     "tags": [
       "HN"
     ],
