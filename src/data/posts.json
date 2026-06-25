@@ -1,10 +1,10 @@
 [
   {
-    "title": "Jerry's Map",
-    "summary": "334 points | 48 comments on Hacker News",
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "summary": "536 points | 333 comments on Hacker News",
     "source": "Hacker News",
-    "url": "http://www.jerrysmap.com/the-map",
-    "date": "2026-06-23",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "date": "2026-06-24",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-    "summary": "330 points | 62 comments on Hacker News",
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "summary": "347 points | 55 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://tikz.dev/editor/",
-    "date": "2026-06-23",
+    "url": "https://rubyllm.com/",
+    "date": "2026-06-24",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
-    "summary": "14 points | 10 comments on Hacker News",
+    "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+    "summary": "67 points | 25 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/y-times-y/y",
-    "date": "2026-06-24",
+    "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
+    "date": "2026-06-21",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "The Coming Loop",
-    "summary": "326 points | 231 comments on Hacker News",
+    "title": "There are a few things that I look back on as my mistakes in the early days",
+    "summary": "494 points | 243 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "date": "2026-06-23",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+    "date": "2026-06-24",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Unlimited OCR: One-shot long-horizon parsing",
-    "summary": "441 points | 101 comments on Hacker News",
+    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+    "summary": "201 points | 57 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/baidu/Unlimited-OCR",
-    "date": "2026-06-23",
+    "url": "https://github.com/nubjs/nub",
+    "date": "2026-06-24",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Dirty Little Zine – a tool for making an 8 page printable Zine",
-    "summary": "61 points | 3 comments on Hacker News",
+    "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
+    "summary": "8 points | 10 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://dirtylittlezine.com/",
-    "date": "2026-06-20",
+    "url": "https://victorribeiro.com/wordit/",
+    "date": "2026-06-23",
     "tags": [
       "HN"
     ],
@@ -72,34 +72,34 @@
     "id": 6
   },
   {
-    "title": "Show HN: FastUbu – An Ultrafast Video Archive",
-    "summary": "12 points | 0 comments on Hacker News",
+    "title": "Krea 2: SOTA open-weights 12B image model",
+    "summary": "340 points | 36 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://fastubu.com/",
-    "date": "2026-06-22",
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "date": "2026-06-23",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "BestDefense.io",
-    "summary": "New product launch on Product Hunt: BestDefense.io",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/bestdefense-io",
-    "date": "2026-06-19",
+    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+    "summary": "50 points | 12 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://lookaway.com",
+    "date": "2026-06-24",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "Sakana Fugu",
-    "summary": "New product launch on Product Hunt: Sakana Fugu",
+    "title": "Crewdle AI",
+    "summary": "New product launch on Product Hunt: Crewdle AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sakana-fugu",
+    "url": "https://www.producthunt.com/products/crewdle",
     "date": "2026-06-22",
     "tags": [
       "Product Launch"
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Bluerails Discovery ",
-    "summary": "New product launch on Product Hunt: Bluerails Discovery ",
+    "title": "Tencent EdgeOne Makers",
+    "summary": "New product launch on Product Hunt: Tencent EdgeOne Makers",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/bluerails-discovery",
-    "date": "2026-06-22",
+    "url": "https://www.producthunt.com/products/tencent-edgeone-2",
+    "date": "2026-06-16",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Rosply",
-    "summary": "New product launch on Product Hunt: Rosply",
+    "title": "Propane ",
+    "summary": "New product launch on Product Hunt: Propane ",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rosply",
-    "date": "2026-06-22",
+    "url": "https://www.producthunt.com/products/propane",
+    "date": "2026-06-17",
     "tags": [
       "Product Launch"
     ],
@@ -132,10 +132,10 @@
     "id": 11
   },
   {
-    "title": "Deckwise",
-    "summary": "New product launch on Product Hunt: Deckwise",
+    "title": "Stripe.Directory",
+    "summary": "New product launch on Product Hunt: Stripe.Directory",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/deckwise",
+    "url": "https://www.producthunt.com/products/stripe",
     "date": "2026-06-22",
     "tags": [
       "Product Launch"
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Hush",
-    "summary": "New product launch on Product Hunt: Hush",
+    "title": "Prospector by Synter",
+    "summary": "New product launch on Product Hunt: Prospector by Synter",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee",
-    "date": "2026-06-09",
+    "url": "https://www.producthunt.com/products/synter-media-ai",
+    "date": "2026-06-19",
     "tags": [
       "Product Launch"
     ],
@@ -156,21 +156,33 @@
     "id": 13
   },
   {
-    "title": "zhongerxin/Cowart - No description",
-    "summary": "2382 stars | JavaScript | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/zhongerxin/Cowart",
-    "date": "2026-06-18",
+    "title": "Swimio",
+    "summary": "New product launch on Product Hunt: Swimio",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/swimio",
+    "date": "2026-06-24",
     "tags": [
-      "GitHub",
-      "JavaScript"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 14
   },
   {
+    "title": "bozhouDev/codex-orange-book - Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+    "summary": "1471 stars | HTML | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+    "source": "GitHub Trending",
+    "url": "https://github.com/bozhouDev/codex-orange-book",
+    "date": "2026-06-23",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
     "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基",
-    "summary": "922 stars | Python | 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+    "summary": "990 stars | Python | 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
     "source": "GitHub Trending",
     "url": "https://github.com/lyra81604/zhengxi-views",
     "date": "2026-06-20",
@@ -179,11 +191,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 15
+    "id": 16
   },
   {
     "title": "Forsy-AI/agent-apprenticeship - The living ecosystem where AI agents learn from real-world work through iterativ",
-    "summary": "860 stars | Unknown | The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+    "summary": "910 stars | Unknown | The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
     "source": "GitHub Trending",
     "url": "https://github.com/Forsy-AI/agent-apprenticeship",
     "date": "2026-06-19",
@@ -192,11 +204,11 @@
       "Code"
     ],
     "hot": true,
-    "id": 16
+    "id": 17
   },
   {
     "title": "aidenybai/cnfast - Fast drop in replacement for `cn`",
-    "summary": "792 stars | TypeScript | Fast drop in replacement for `cn`",
+    "summary": "881 stars | TypeScript | Fast drop in replacement for `cn`",
     "source": "GitHub Trending",
     "url": "https://github.com/aidenybai/cnfast",
     "date": "2026-06-19",
@@ -205,11 +217,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 17
+    "id": 18
   },
   {
     "title": "kanavtwtgg/birds.cafe - No description",
-    "summary": "717 stars | JavaScript | ",
+    "summary": "767 stars | JavaScript | ",
     "source": "GitHub Trending",
     "url": "https://github.com/kanavtwtgg/birds.cafe",
     "date": "2026-06-21",
@@ -218,7 +230,20 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 18
+    "id": 19
+  },
+  {
+    "title": "sums001/Windows-Copilot-API - Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a",
+    "summary": "664 stars | Python | Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/sums001/Windows-Copilot-API",
+    "date": "2026-06-19",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -231,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -244,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -257,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 23
   },
   {
     "title": "Reliability fail: No automated zone failover for Coinbase’s global trading service",
@@ -270,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 24
   },
   {
     "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
@@ -283,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 25
   },
   {
     "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
@@ -296,7 +321,176 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 26
+  },
+  {
+    "title": "Jerry's Map",
+    "summary": "334 points | 48 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "http://www.jerrysmap.com/the-map",
+    "date": "2026-06-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+    "summary": "330 points | 62 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tikz.dev/editor/",
+    "date": "2026-06-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+    "summary": "14 points | 10 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/y-times-y/y",
+    "date": "2026-06-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "The Coming Loop",
+    "summary": "326 points | 231 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "date": "2026-06-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Unlimited OCR: One-shot long-horizon parsing",
+    "summary": "441 points | 101 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "date": "2026-06-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Dirty Little Zine – a tool for making an 8 page printable Zine",
+    "summary": "61 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://dirtylittlezine.com/",
+    "date": "2026-06-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: FastUbu – An Ultrafast Video Archive",
+    "summary": "12 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://fastubu.com/",
+    "date": "2026-06-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "BestDefense.io",
+    "summary": "New product launch on Product Hunt: BestDefense.io",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/bestdefense-io",
+    "date": "2026-06-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Sakana Fugu",
+    "summary": "New product launch on Product Hunt: Sakana Fugu",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/sakana-fugu",
+    "date": "2026-06-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Bluerails Discovery ",
+    "summary": "New product launch on Product Hunt: Bluerails Discovery ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/bluerails-discovery",
+    "date": "2026-06-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Rosply",
+    "summary": "New product launch on Product Hunt: Rosply",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rosply",
+    "date": "2026-06-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Deckwise",
+    "summary": "New product launch on Product Hunt: Deckwise",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/deckwise",
+    "date": "2026-06-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Hush",
+    "summary": "New product launch on Product Hunt: Hush",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee",
+    "date": "2026-06-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "zhongerxin/Cowart - No description",
+    "summary": "2382 stars | JavaScript | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/zhongerxin/Cowart",
+    "date": "2026-06-18",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "Steam Machine launches today",
@@ -308,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 41
   },
   {
     "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
@@ -320,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 42
   },
   {
     "title": "Show HN: Oak – Git alternative designed for agents",
@@ -332,7 +526,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
@@ -344,7 +538,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Help I accidentally a wigglegram",
@@ -356,7 +550,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Pledging another $400k to the Zig software foundation",
@@ -368,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
@@ -380,7 +574,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Deno Desktop",
@@ -392,7 +586,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 48
   },
   {
     "title": "AlgoFly AI",
@@ -404,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "AgentX",
@@ -416,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "HAQQ Legal AI on Mobile",
@@ -428,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "Cloudflare Temporary Accounts",
@@ -440,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Photoroom API",
@@ -452,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "MD+HTML Reader",
@@ -464,7 +658,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Plaer1/junction - VS Code chat sidebar for local AI coding agents",
@@ -477,7 +671,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "The Pulse: Forward deployed engineering heats up again",
@@ -490,7 +684,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Identity verification on Claude",
@@ -502,7 +696,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
@@ -514,7 +708,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "Prefer duplication over the wrong abstraction (2016)",
@@ -526,7 +720,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Show HN: Recall – fully-local project memory for Claude Code",
@@ -534,201 +728,6 @@
     "source": "Hacker News",
     "url": "https://github.com/raiyanyahya/recall",
     "date": "2026-06-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf",
-    "summary": "51 points | 13 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://the-criterion-closet.vercel.app",
-    "date": "2026-06-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
-    "summary": "13 points | 9 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://minipcs.zip",
-    "date": "2026-06-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Teach your kids perfect pitch",
-    "summary": "66 points | 38 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/paytonjjones/bsharp",
-    "date": "2026-06-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Grok by SpaceXAI for Word",
-    "summary": "New product launch on Product Hunt: Grok by SpaceXAI for Word",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
-    "date": "2026-06-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Backgrind",
-    "summary": "New product launch on Product Hunt: Backgrind",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backgrind",
-    "date": "2026-06-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Plansera AI",
-    "summary": "New product launch on Product Hunt: Plansera AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/plansera-ai",
-    "date": "2026-06-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Agent 37 Cloud",
-    "summary": "New product launch on Product Hunt: Agent 37 Cloud",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/agent-37-38",
-    "date": "2026-06-20",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Cloudback MCP Server",
-    "summary": "New product launch on Product Hunt: Cloudback MCP Server",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cloudback",
-    "date": "2026-06-20",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Atomic Mail Agentic",
-    "summary": "New product launch on Product Hunt: Atomic Mail Agentic",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/atomic-mail-agentic",
-    "date": "2026-06-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "vercel/eve - The Framework for Building Agents",
-    "summary": "2091 stars | TypeScript | The Framework for Building Agents",
-    "source": "GitHub Trending",
-    "url": "https://github.com/vercel/eve",
-    "date": "2026-06-16",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "rebel0789/codexpro - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-    "summary": "628 stars | JavaScript | Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/rebel0789/codexpro",
-    "date": "2026-06-16",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "ngrok/webernetes - Kubernetes in the browser.",
-    "summary": "483 stars | TypeScript | Kubernetes in the browser.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ngrok/webernetes",
-    "date": "2026-06-16",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Show HN: TownSquare, a tiny presence layer for websites",
-    "summary": "74 points | 24 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://townsquare.cauenapier.com/",
-    "date": "2026-06-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "CSSQuake",
-    "summary": "466 points | 101 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://cssquake.com/",
-    "date": "2026-06-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
-    "summary": "160 points | 54 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://startupwiki.tech/",
-    "date": "2026-06-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
-    "summary": "98 points | 74 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-    "date": "2026-06-20",
     "tags": [
       "HN"
     ],
