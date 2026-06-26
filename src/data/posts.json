@@ -1,10 +1,10 @@
 [
   {
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "summary": "536 points | 333 comments on Hacker News",
+    "title": "Om Malik has died",
+    "summary": "466 points | 48 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "date": "2026-06-24",
+    "url": "https://om.co/2026/06/24/1966-2026/",
+    "date": "2026-06-25",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "RubyLLM: A Ruby framework for all major AI providers",
-    "summary": "347 points | 55 comments on Hacker News",
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "summary": "991 points | 219 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://rubyllm.com/",
-    "date": "2026-06-24",
+    "url": "https://scrollprize.org/firstscroll",
+    "date": "2026-06-25",
     "tags": [
       "HN"
     ],
@@ -24,23 +24,23 @@
     "id": 2
   },
   {
-    "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
-    "summary": "67 points | 25 comments on Hacker News",
+    "title": "The 'papers, please' era of the internet will decimate your privacy",
+    "summary": "417 points | 191 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
-    "date": "2026-06-21",
+    "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+    "date": "2026-06-25",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 3
   },
   {
-    "title": "There are a few things that I look back on as my mistakes in the early days",
-    "summary": "494 points | 243 comments on Hacker News",
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "summary": "209 points | 99 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-    "date": "2026-06-24",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "date": "2026-06-25",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-    "summary": "201 points | 57 comments on Hacker News",
+    "title": "Show HN: Chess-Inspired Roguelike",
+    "summary": "218 points | 74 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/nubjs/nub",
-    "date": "2026-06-24",
+    "url": "https://princechazz.com",
+    "date": "2026-06-21",
     "tags": [
       "HN"
     ],
@@ -60,47 +60,47 @@
     "id": 5
   },
   {
-    "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
-    "summary": "8 points | 10 comments on Hacker News",
+    "title": "Apple raises prices of MacBooks, iPads",
+    "summary": "629 points | 904 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://victorribeiro.com/wordit/",
-    "date": "2026-06-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 6
-  },
-  {
-    "title": "Krea 2: SOTA open-weights 12B image model",
-    "summary": "340 points | 36 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "date": "2026-06-23",
+    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+    "date": "2026-06-25",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 6
+  },
+  {
+    "title": "Grass 2.0",
+    "summary": "New product launch on Product Hunt: Grass 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/grass-claude-code-from-your-phone",
+    "date": "2026-06-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
     "id": 7
   },
   {
-    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
-    "summary": "50 points | 12 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lookaway.com",
+    "title": "Polygraph",
+    "summary": "New product launch on Product Hunt: Polygraph",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/polygraph",
     "date": "2026-06-24",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "Crewdle AI",
-    "summary": "New product launch on Product Hunt: Crewdle AI",
+    "title": "BrowserAct",
+    "summary": "New product launch on Product Hunt: BrowserAct",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/crewdle",
-    "date": "2026-06-22",
+    "url": "https://www.producthunt.com/products/browseract",
+    "date": "2026-06-16",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Tencent EdgeOne Makers",
-    "summary": "New product launch on Product Hunt: Tencent EdgeOne Makers",
+    "title": "Oxlo.ai",
+    "summary": "New product launch on Product Hunt: Oxlo.ai",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tencent-edgeone-2",
-    "date": "2026-06-16",
+    "url": "https://www.producthunt.com/products/oxlo-ai",
+    "date": "2026-06-11",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Propane ",
-    "summary": "New product launch on Product Hunt: Propane ",
+    "title": "Papermark Agents",
+    "summary": "New product launch on Product Hunt: Papermark Agents",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/propane",
-    "date": "2026-06-17",
+    "url": "https://www.producthunt.com/products/papermark-2",
+    "date": "2026-06-24",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Stripe.Directory",
-    "summary": "New product launch on Product Hunt: Stripe.Directory",
+    "title": "Postproxy - Engagement API",
+    "summary": "New product launch on Product Hunt: Postproxy - Engagement API",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/stripe",
-    "date": "2026-06-22",
+    "url": "https://www.producthunt.com/products/postproxy",
+    "date": "2026-06-23",
     "tags": [
       "Product Launch"
     ],
@@ -144,32 +144,8 @@
     "id": 12
   },
   {
-    "title": "Prospector by Synter",
-    "summary": "New product launch on Product Hunt: Prospector by Synter",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/synter-media-ai",
-    "date": "2026-06-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Swimio",
-    "summary": "New product launch on Product Hunt: Swimio",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/swimio",
-    "date": "2026-06-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "bozhouDev/codex-orange-book - Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-    "summary": "1471 stars | HTML | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+    "summary": "1966 stars | HTML | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
     "source": "GitHub Trending",
     "url": "https://github.com/bozhouDev/codex-orange-book",
     "date": "2026-06-23",
@@ -178,13 +154,39 @@
       "HTML"
     ],
     "hot": true,
-    "id": 15
+    "id": 13
   },
   {
     "title": "lyra81604/zhengxi-views - 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基",
-    "summary": "990 stars | Python | 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+    "summary": "1037 stars | Python | 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
     "source": "GitHub Trending",
     "url": "https://github.com/lyra81604/zhengxi-views",
+    "date": "2026-06-20",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 14
+  },
+  {
+    "title": "kanavtwtgg/birds.cafe - No description",
+    "summary": "788 stars | JavaScript | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/kanavtwtgg/birds.cafe",
+    "date": "2026-06-21",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
+    "title": "yo-WASSUP/Good-Badminton - 🏸  AI Badminton Hawk-Eye System",
+    "summary": "521 stars | Python | 🏸  AI Badminton Hawk-Eye System",
+    "source": "GitHub Trending",
+    "url": "https://github.com/yo-WASSUP/Good-Badminton",
     "date": "2026-06-20",
     "tags": [
       "GitHub",
@@ -194,56 +196,30 @@
     "id": 16
   },
   {
-    "title": "Forsy-AI/agent-apprenticeship - The living ecosystem where AI agents learn from real-world work through iterativ",
-    "summary": "910 stars | Unknown | The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+    "title": "BohemiaInteractive/CWR - Arma: Cold War Assault Remastered Source Code Repository.",
+    "summary": "494 stars | C++ | Arma: Cold War Assault Remastered Source Code Repository.",
     "source": "GitHub Trending",
-    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-    "date": "2026-06-19",
+    "url": "https://github.com/BohemiaInteractive/CWR",
+    "date": "2026-06-22",
     "tags": [
       "GitHub",
-      "Code"
+      "C++"
     ],
-    "hot": true,
+    "hot": false,
     "id": 17
   },
   {
-    "title": "aidenybai/cnfast - Fast drop in replacement for `cn`",
-    "summary": "881 stars | TypeScript | Fast drop in replacement for `cn`",
+    "title": "QwenLM/Qwen-AgentWorld - Qwen-AgentWorld: Language World Models for General Agents",
+    "summary": "489 stars | Python | Qwen-AgentWorld: Language World Models for General Agents",
     "source": "GitHub Trending",
-    "url": "https://github.com/aidenybai/cnfast",
-    "date": "2026-06-19",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
-    "title": "kanavtwtgg/birds.cafe - No description",
-    "summary": "767 stars | JavaScript | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/kanavtwtgg/birds.cafe",
-    "date": "2026-06-21",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 19
-  },
-  {
-    "title": "sums001/Windows-Copilot-API - Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a",
-    "summary": "664 stars | Python | Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/sums001/Windows-Copilot-API",
-    "date": "2026-06-19",
+    "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+    "date": "2026-06-22",
     "tags": [
       "GitHub",
       "Python"
     ],
-    "hot": true,
-    "id": 20
+    "hot": false,
+    "id": 18
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "Reliability fail: No automated zone failover for Coinbase’s global trading service",
@@ -295,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 22
   },
   {
     "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
@@ -308,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 23
   },
   {
     "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
@@ -321,7 +297,214 @@
       "Career"
     ],
     "hot": false,
+    "id": 24
+  },
+  {
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "summary": "536 points | 333 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "date": "2026-06-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "summary": "347 points | 55 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://rubyllm.com/",
+    "date": "2026-06-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+    "summary": "67 points | 25 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
+    "date": "2026-06-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "There are a few things that I look back on as my mistakes in the early days",
+    "summary": "494 points | 243 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+    "date": "2026-06-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+    "summary": "201 points | 57 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/nubjs/nub",
+    "date": "2026-06-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
+    "summary": "8 points | 10 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://victorribeiro.com/wordit/",
+    "date": "2026-06-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Krea 2: SOTA open-weights 12B image model",
+    "summary": "340 points | 36 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "date": "2026-06-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+    "summary": "50 points | 12 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://lookaway.com",
+    "date": "2026-06-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Crewdle AI",
+    "summary": "New product launch on Product Hunt: Crewdle AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/crewdle",
+    "date": "2026-06-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Tencent EdgeOne Makers",
+    "summary": "New product launch on Product Hunt: Tencent EdgeOne Makers",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/tencent-edgeone-2",
+    "date": "2026-06-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Propane ",
+    "summary": "New product launch on Product Hunt: Propane ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/propane",
+    "date": "2026-06-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Stripe.Directory",
+    "summary": "New product launch on Product Hunt: Stripe.Directory",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/stripe",
+    "date": "2026-06-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Prospector by Synter",
+    "summary": "New product launch on Product Hunt: Prospector by Synter",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/synter-media-ai",
+    "date": "2026-06-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Swimio",
+    "summary": "New product launch on Product Hunt: Swimio",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/swimio",
+    "date": "2026-06-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Forsy-AI/agent-apprenticeship - The living ecosystem where AI agents learn from real-world work through iterativ",
+    "summary": "910 stars | Unknown | The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "date": "2026-06-19",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "aidenybai/cnfast - Fast drop in replacement for `cn`",
+    "summary": "881 stars | TypeScript | Fast drop in replacement for `cn`",
+    "source": "GitHub Trending",
+    "url": "https://github.com/aidenybai/cnfast",
+    "date": "2026-06-19",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "sums001/Windows-Copilot-API - Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 a",
+    "summary": "664 stars | Python | Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/sums001/Windows-Copilot-API",
+    "date": "2026-06-19",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
   },
   {
     "title": "Jerry's Map",
@@ -333,7 +516,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 42
   },
   {
     "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
@@ -345,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
@@ -357,7 +540,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 44
   },
   {
     "title": "The Coming Loop",
@@ -369,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Unlimited OCR: One-shot long-horizon parsing",
@@ -381,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Dirty Little Zine – a tool for making an 8 page printable Zine",
@@ -393,7 +576,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 47
   },
   {
     "title": "Show HN: FastUbu – An Ultrafast Video Archive",
@@ -405,7 +588,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 48
   },
   {
     "title": "BestDefense.io",
@@ -417,7 +600,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Sakana Fugu",
@@ -429,7 +612,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "Bluerails Discovery ",
@@ -441,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Rosply",
@@ -453,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "Deckwise",
@@ -465,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "Hush",
@@ -477,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 54
   },
   {
     "title": "zhongerxin/Cowart - No description",
@@ -490,7 +673,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 40
+    "id": 55
   },
   {
     "title": "Steam Machine launches today",
@@ -502,7 +685,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
@@ -514,7 +697,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "Show HN: Oak – Git alternative designed for agents",
@@ -526,7 +709,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
+    "id": 58
   },
   {
     "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
@@ -538,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 59
   },
   {
     "title": "Help I accidentally a wigglegram",
@@ -550,188 +733,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Pledging another $400k to the Zig software foundation",
-    "summary": "730 points | 245 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mitchellh.com/writing/zig-donation-2026",
-    "date": "2026-06-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-    "summary": "144 points | 99 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://puzzlelair.com/",
-    "date": "2026-06-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Deno Desktop",
-    "summary": "1026 points | 371 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "date": "2026-06-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "AlgoFly AI",
-    "summary": "New product launch on Product Hunt: AlgoFly AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/algofly-ai",
-    "date": "2026-06-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "AgentX",
-    "summary": "New product launch on Product Hunt: AgentX",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/agentx",
-    "date": "2026-06-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "HAQQ Legal AI on Mobile",
-    "summary": "New product launch on Product Hunt: HAQQ Legal AI on Mobile",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/haqq-mobile-app",
-    "date": "2026-02-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Cloudflare Temporary Accounts",
-    "summary": "New product launch on Product Hunt: Cloudflare Temporary Accounts",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cloudflare",
-    "date": "2026-06-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Photoroom API",
-    "summary": "New product launch on Product Hunt: Photoroom API",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/bg-app",
-    "date": "2026-06-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "MD+HTML Reader",
-    "summary": "New product launch on Product Hunt: MD+HTML Reader",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/md-html-reader",
-    "date": "2026-06-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Plaer1/junction - VS Code chat sidebar for local AI coding agents",
-    "summary": "526 stars | TypeScript | VS Code chat sidebar for local AI coding agents",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Plaer1/junction",
-    "date": "2026-06-17",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "The Pulse: Forward deployed engineering heats up again",
-    "summary": "Massive demand for the role at Google, OpenAI, and Anthropic. The latest version of the FDE role looks like the consultant / solution architect role done by many early-junior engineers.",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/",
-    "date": "2026-05-24",
-    "tags": [
-      "Tech",
-      "Career"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Identity verification on Claude",
-    "summary": "592 points | 521 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "date": "2026-06-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-    "summary": "439 points | 260 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.beyondallreason.info",
-    "date": "2026-06-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Prefer duplication over the wrong abstraction (2016)",
-    "summary": "429 points | 295 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "date": "2026-06-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Show HN: Recall – fully-local project memory for Claude Code",
-    "summary": "77 points | 58 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/raiyanyahya/recall",
-    "date": "2026-06-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
