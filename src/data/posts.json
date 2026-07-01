@@ -1,10 +1,10 @@
 [
   {
-    "title": ".self: A new top-level domain designed to support self-hosting",
-    "summary": "334 points | 192 comments on Hacker News",
+    "title": "Claude Sonnet 5",
+    "summary": "889 points | 499 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "date": "2026-06-29",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "date": "2026-06-30",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Qwen 3.6 27B is the sweet spot for local development",
-    "summary": "612 points | 511 comments on Hacker News",
+    "title": "Claude Code is steganographically marking requests",
+    "summary": "1429 points | 409 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "date": "2026-06-29",
+    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "date": "2026-06-30",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Rocketlab acquires Iridium",
-    "summary": "369 points | 230 comments on Hacker News",
+    "title": "Claude Science",
+    "summary": "371 points | 122 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-    "date": "2026-06-29",
+    "url": "https://claude.com/product/claude-science",
+    "date": "2026-06-30",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "US Supreme Court rules geofence warrants require constitutional protections",
-    "summary": "445 points | 212 comments on Hacker News",
+    "title": "Nano Banana 2 Lite",
+    "summary": "308 points | 120 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-    "date": "2026-06-29",
+    "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+    "date": "2026-06-30",
     "tags": [
       "HN"
     ],
@@ -48,23 +48,23 @@
     "id": 4
   },
   {
-    "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-    "summary": "308 points | 177 comments on Hacker News",
+    "title": "I built a mmWave material classification radar (2025)",
+    "summary": "142 points | 38 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-    "date": "2026-06-28",
+    "url": "https://gauthier-lechevalier.com/radar",
+    "date": "2026-06-30",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-    "summary": "52 points | 18 comments on Hacker News",
+    "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+    "summary": "75 points | 12 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "date": "2026-06-29",
+    "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
+    "date": "2026-06-30",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "ClinePass",
-    "summary": "New product launch on Product Hunt: ClinePass",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cline-4",
-    "date": "2026-06-25",
+    "title": "Building a custom octocopter from scratch with no prior hardware experience",
+    "summary": "331 points | 69 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://karolina.mgdubiel.com/drone/",
+    "date": "2026-06-28",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Spira for Product Hunt Makers",
-    "summary": "New product launch on Product Hunt: Spira for Product Hunt Makers",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/spira-ai",
-    "date": "2026-06-18",
+    "title": "Show HN: My 13-year-old built an ant colony tracker",
+    "summary": "40 points | 30 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://formicarium.es",
+    "date": "2026-06-30",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "PMB",
-    "summary": "New product launch on Product Hunt: PMB",
+    "title": "Skills Marketplace by Databox",
+    "summary": "New product launch on Product Hunt: Skills Marketplace by Databox",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
-    "date": "2026-06-28",
+    "url": "https://www.producthunt.com/products/databox",
+    "date": "2026-06-22",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "VisibAI",
-    "summary": "New product launch on Product Hunt: VisibAI",
+    "title": "v0 Design Systems 2.0",
+    "summary": "New product launch on Product Hunt: v0 Design Systems 2.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
-    "date": "2026-04-27",
+    "url": "https://www.producthunt.com/products/v0",
+    "date": "2026-06-29",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Agent Mode by Receiptor AI",
-    "summary": "New product launch on Product Hunt: Agent Mode by Receiptor AI",
+    "title": "Midway Chat",
+    "summary": "New product launch on Product Hunt: Midway Chat",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/receiptor-ai",
-    "date": "2026-06-27",
+    "url": "https://www.producthunt.com/products/midway-chat",
+    "date": "2026-06-29",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Sami",
-    "summary": "New product launch on Product Hunt: Sami",
+    "title": "Dayflow",
+    "summary": "New product launch on Product Hunt: Dayflow",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sami-automate-pace-scale-your-ads",
-    "date": "2026-05-26",
+    "url": "https://www.producthunt.com/products/dayflow-4",
+    "date": "2026-06-24",
     "tags": [
       "Product Launch"
     ],
@@ -144,8 +144,32 @@
     "id": 12
   },
   {
+    "title": "Clade",
+    "summary": "New product launch on Product Hunt: Clade",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cleo-4",
+    "date": "2026-06-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
+    "title": "Pluno",
+    "summary": "New product launch on Product Hunt: Pluno",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pluno",
+    "date": "2026-06-29",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding",
-    "summary": "3908 stars | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+    "summary": "5314 stars | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
     "source": "GitHub Trending",
     "url": "https://github.com/deepseek-ai/DeepSpec",
     "date": "2026-06-26",
@@ -154,39 +178,13 @@
       "Python"
     ],
     "hot": true,
-    "id": 13
-  },
-  {
-    "title": "Yu9191/wloc - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复",
-    "summary": "1519 stars | JavaScript | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Yu9191/wloc",
-    "date": "2026-06-24",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 14
-  },
-  {
-    "title": "Krishnagangwal/CS-Fundamentals - Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O",
-    "summary": "960 stars | Unknown | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
-    "date": "2026-06-28",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
     "id": 15
   },
   {
-    "title": "winsznx/theeleven - Eleven autonomous AI agents open live football prop markets on X Layer — custom ",
-    "summary": "715 stars | TypeScript | Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+    "title": "baairon/torlink - A sleek, zero-setup torrent finder and downloader that lives right in your termi",
+    "summary": "1706 stars | TypeScript | A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
     "source": "GitHub Trending",
-    "url": "https://github.com/winsznx/theeleven",
+    "url": "https://github.com/baairon/torlink",
     "date": "2026-06-25",
     "tags": [
       "GitHub",
@@ -196,30 +194,56 @@
     "id": 16
   },
   {
-    "title": "baairon/torlink - A sleek, zero-setup torrent finder and downloader that lives right in your termi",
-    "summary": "674 stars | TypeScript | A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+    "title": "Krishnagangwal/CS-Fundamentals - Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O",
+    "summary": "1219 stars | Unknown | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
     "source": "GitHub Trending",
-    "url": "https://github.com/baairon/torlink",
+    "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "date": "2026-06-28",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - No description",
+    "summary": "822 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+    "date": "2026-06-28",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "winsznx/theeleven - Eleven autonomous AI agents open live football prop markets on X Layer — custom ",
+    "summary": "691 stars | TypeScript | Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/winsznx/theeleven",
     "date": "2026-06-25",
     "tags": [
       "GitHub",
       "TypeScript"
     ],
     "hot": true,
-    "id": 17
+    "id": 19
   },
   {
-    "title": "benchflow-ai/awesome-evals - A curated, non-BS library of the best resources for building and evaluating AI a",
-    "summary": "589 stars | Unknown | A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+    "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent",
+    "summary": "603 stars | Python | Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
     "source": "GitHub Trending",
-    "url": "https://github.com/benchflow-ai/awesome-evals",
-    "date": "2026-06-24",
+    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+    "date": "2026-06-30",
     "tags": [
       "GitHub",
-      "Code"
+      "Python"
     ],
     "hot": true,
-    "id": 18
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -232,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -245,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -258,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 23
   },
   {
     "title": "Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it",
@@ -271,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 24
   },
   {
     "title": "Reliability fail: No automated zone failover for Coinbase’s global trading service",
@@ -284,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 25
   },
   {
     "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
@@ -297,7 +321,177 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 26
+  },
+  {
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "summary": "334 points | 192 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "date": "2026-06-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "summary": "612 points | 511 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "date": "2026-06-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Rocketlab acquires Iridium",
+    "summary": "369 points | 230 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "date": "2026-06-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "summary": "445 points | 212 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+    "date": "2026-06-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+    "summary": "308 points | 177 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+    "date": "2026-06-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+    "summary": "52 points | 18 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "date": "2026-06-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "ClinePass",
+    "summary": "New product launch on Product Hunt: ClinePass",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cline-4",
+    "date": "2026-06-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Spira for Product Hunt Makers",
+    "summary": "New product launch on Product Hunt: Spira for Product Hunt Makers",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/spira-ai",
+    "date": "2026-06-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "PMB",
+    "summary": "New product launch on Product Hunt: PMB",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
+    "date": "2026-06-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "VisibAI",
+    "summary": "New product launch on Product Hunt: VisibAI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
+    "date": "2026-04-27",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Agent Mode by Receiptor AI",
+    "summary": "New product launch on Product Hunt: Agent Mode by Receiptor AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/receiptor-ai",
+    "date": "2026-06-27",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Sami",
+    "summary": "New product launch on Product Hunt: Sami",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/sami-automate-pace-scale-your-ads",
+    "date": "2026-05-26",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Yu9191/wloc - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复",
+    "summary": "1519 stars | JavaScript | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Yu9191/wloc",
+    "date": "2026-06-24",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "benchflow-ai/awesome-evals - A curated, non-BS library of the best resources for building and evaluating AI a",
+    "summary": "589 stars | Unknown | A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/benchflow-ai/awesome-evals",
+    "date": "2026-06-24",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "GLM 5.2 beats Claude in our benchmarks",
@@ -309,7 +503,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 41
   },
   {
     "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
@@ -321,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 42
   },
   {
     "title": "I used Claude Code to get a second opinion on my MRI",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Show HN: Zanagrams",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Show HN: DRM-Free Books",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 47
   },
   {
     "title": "The KIDS Act would require age checks to get online",
@@ -393,7 +587,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Dotient",
@@ -405,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "discode.ai",
@@ -417,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "Lyto",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "GetCompress",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Persona.js",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "RetroMac",
@@ -465,7 +659,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "bozhouDev/codex-orange-book - Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
@@ -478,7 +672,7 @@
       "HTML"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "bikini/exploitarium - A single archive of public exploit PoCs and vulnerability research writeups. At ",
@@ -491,7 +685,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
@@ -503,7 +697,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 57
   },
   {
     "title": "OpenRA",
@@ -515,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "Fintech Engineering Handbook",
@@ -527,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "The case for physical media ownership",
@@ -539,199 +733,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Asian AI startups launch Mythos-like models",
-    "summary": "145 points | 132 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "date": "2026-06-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
-    "summary": "134 points | 40 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-    "date": "2026-06-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-    "summary": "90 points | 55 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/kageroumado/adrafinil",
-    "date": "2026-06-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Folio AI",
-    "summary": "New product launch on Product Hunt: Folio AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/folio-ai",
-    "date": "2026-06-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Epilogue. Write novels, scripts & poetry",
-    "summary": "New product launch on Product Hunt: Epilogue. Write novels, scripts & poetry",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/epilogue-book-writing-app",
-    "date": "2026-05-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Cloud World Model",
-    "summary": "New product launch on Product Hunt: Cloud World Model",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cloud-world-model",
-    "date": "2026-06-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "QApilot's CoWork",
-    "summary": "New product launch on Product Hunt: QApilot's CoWork",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/qapilot",
-    "date": "2026-06-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Nada",
-    "summary": "New product launch on Product Hunt: Nada",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nada-2",
-    "date": "2026-06-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "BohemiaInteractive/CWR - Arma: Cold War Assault Remastered Source Code Repository.",
-    "summary": "662 stars | C++ | Arma: Cold War Assault Remastered Source Code Repository.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/BohemiaInteractive/CWR",
-    "date": "2026-06-22",
-    "tags": [
-      "GitHub",
-      "C++"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "summary": "849 points | 505 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "date": "2026-06-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "U.S. government will decide who gets to use GPT-5.6",
-    "summary": "828 points | 928 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-    "date": "2026-06-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-    "summary": "69 points | 7 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-    "date": "2026-06-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-    "summary": "148 points | 89 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/workweave/router",
-    "date": "2026-06-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
-    "summary": "18 points | 4 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/dbos-inc/dbosify-py",
-    "date": "2026-06-24",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
-    "summary": "15 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/neospe/autofit2",
-    "date": "2026-06-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "LockIn MCP",
-    "summary": "New product launch on Product Hunt: LockIn MCP",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lockin-mcp",
-    "date": "2026-06-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
