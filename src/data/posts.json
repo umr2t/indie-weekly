@@ -1,105 +1,163 @@
 [
   {
-    "title": "Tamamon",
-    "summary": "New product launch on Product Hunt: Tamamon",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
-    "date": "2026-07-02",
+    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "summary": "355 points | 142 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+    "date": "2026-07-04",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 1
   },
   {
-    "title": "Osloq",
-    "summary": "New product launch on Product Hunt: Osloq",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/osloq",
-    "date": "2026-07-02",
+    "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+    "summary": "340 points | 167 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+    "date": "2026-07-04",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 2
   },
   {
-    "title": "nxt",
-    "summary": "New product launch on Product Hunt: nxt",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
-    "date": "2026-07-01",
+    "title": "Leaking YouTube creators' private videos",
+    "summary": "480 points | 271 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://javoriuski.com/post/youtube",
+    "date": "2026-07-04",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 3
   },
   {
-    "title": "Glaze by Raycast",
-    "summary": "New product launch on Product Hunt: Glaze by Raycast",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/glaze-4",
-    "date": "2026-07-02",
+    "title": "Better Models: Worse Tools",
+    "summary": "90 points | 29 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "date": "2026-07-04",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 4
   },
   {
-    "title": "Goals from Loops",
-    "summary": "New product launch on Product Hunt: Goals from Loops",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/loops",
-    "date": "2026-07-02",
+    "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+    "summary": "394 points | 52 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://peteris.rocks/blog/htop/",
+    "date": "2026-07-04",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Vox",
-    "summary": "New product launch on Product Hunt: Vox",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vox-5",
-    "date": "2026-07-03",
+    "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+    "summary": "54 points | 39 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+    "date": "2026-07-04",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 6
   },
   {
-    "title": "Krishnagangwal/CS-Fundamentals - Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O",
-    "summary": "1509 stars | Unknown | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
-    "date": "2026-06-28",
+    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+    "summary": "100 points | 31 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+    "date": "2026-06-30",
     "tags": [
-      "GitHub",
-      "Code"
+      "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - No description",
-    "summary": "1295 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
-    "date": "2026-06-28",
+    "title": "PhoneDeck",
+    "summary": "New product launch on Product Hunt: PhoneDeck",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/phonedeck",
+    "date": "2026-06-03",
     "tags": [
-      "GitHub",
-      "Python"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
+    "title": "CentryAI",
+    "summary": "New product launch on Product Hunt: CentryAI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/centryai",
+    "date": "2026-06-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 9
+  },
+  {
+    "title": "ChecklistFox",
+    "summary": "New product launch on Product Hunt: ChecklistFox",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/checklistfox",
+    "date": "2026-07-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 10
+  },
+  {
+    "title": "Vida",
+    "summary": "New product launch on Product Hunt: Vida",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vida-5",
+    "date": "2026-06-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 11
+  },
+  {
+    "title": "Termi Protocol",
+    "summary": "New product launch on Product Hunt: Termi Protocol",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/termi-protocol",
+    "date": "2026-07-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 12
+  },
+  {
+    "title": "Archify ",
+    "summary": "New product launch on Product Hunt: Archify ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/archify",
+    "date": "2026-06-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
     "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocke",
-    "summary": "1251 stars | JavaScript | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+    "summary": "1287 stars | JavaScript | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
     "source": "GitHub Trending",
     "url": "https://github.com/mekos2772/ios-location-spoofer",
     "date": "2026-06-30",
@@ -108,37 +166,24 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 9
+    "id": 14
   },
   {
-    "title": "Kulaxyz/self-learning-skills - A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): re",
-    "summary": "799 stars | Unknown | A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next tim",
+    "title": "jamesob/local-llm - Everything I know about running LLMs locally",
+    "summary": "755 stars | Shell | Everything I know about running LLMs locally",
     "source": "GitHub Trending",
-    "url": "https://github.com/Kulaxyz/self-learning-skills",
-    "date": "2026-06-28",
+    "url": "https://github.com/jamesob/local-llm",
+    "date": "2026-07-03",
     "tags": [
       "GitHub",
-      "Code"
+      "Shell"
     ],
     "hot": true,
-    "id": 10
-  },
-  {
-    "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent",
-    "summary": "520 stars | Python | Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-    "source": "GitHub Trending",
-    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-    "date": "2026-06-30",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 11
+    "id": 15
   },
   {
     "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frame",
-    "summary": "518 stars | Python | Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+    "summary": "748 stars | Python | Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
     "source": "GitHub Trending",
     "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
     "date": "2026-06-30",
@@ -147,7 +192,46 @@
       "Python"
     ],
     "hot": true,
-    "id": 12
+    "id": 16
+  },
+  {
+    "title": "xuchonglang/investing-for-beginners - 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+    "summary": "649 stars | Unknown | 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+    "source": "GitHub Trending",
+    "url": "https://github.com/xuchonglang/investing-for-beginners",
+    "date": "2026-07-03",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves o",
+    "summary": "587 stars | Python | GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/jmerelnyc/Talos",
+    "date": "2026-07-02",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "uzairansaruzi/hermex - Native iPhone app for your Hermes agent",
+    "summary": "552 stars | Swift | Native iPhone app for your Hermes agent",
+    "source": "GitHub Trending",
+    "url": "https://github.com/uzairansaruzi/hermex",
+    "date": "2026-07-02",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 19
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -160,7 +244,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 13
+    "id": 20
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -173,7 +257,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 14
+    "id": 21
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -186,7 +270,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 15
+    "id": 22
   },
   {
     "title": "The Pulse: a new trend, smart model routing",
@@ -199,7 +283,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 16
+    "id": 23
   },
   {
     "title": "Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it",
@@ -212,7 +296,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 17
+    "id": 24
   },
   {
     "title": "Reliability fail: No automated zone failover for Coinbase’s global trading service",
@@ -225,7 +309,131 @@
       "Career"
     ],
     "hot": false,
-    "id": 18
+    "id": 25
+  },
+  {
+    "title": "Tamamon",
+    "summary": "New product launch on Product Hunt: Tamamon",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+    "date": "2026-07-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 26
+  },
+  {
+    "title": "Osloq",
+    "summary": "New product launch on Product Hunt: Osloq",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/osloq",
+    "date": "2026-07-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "nxt",
+    "summary": "New product launch on Product Hunt: nxt",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
+    "date": "2026-07-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Glaze by Raycast",
+    "summary": "New product launch on Product Hunt: Glaze by Raycast",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/glaze-4",
+    "date": "2026-07-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Goals from Loops",
+    "summary": "New product launch on Product Hunt: Goals from Loops",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/loops",
+    "date": "2026-07-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Vox",
+    "summary": "New product launch on Product Hunt: Vox",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vox-5",
+    "date": "2026-07-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Krishnagangwal/CS-Fundamentals - Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O",
+    "summary": "1509 stars | Unknown | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "date": "2026-06-28",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - No description",
+    "summary": "1295 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+    "date": "2026-06-28",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Kulaxyz/self-learning-skills - A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): re",
+    "summary": "799 stars | Unknown | A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next tim",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Kulaxyz/self-learning-skills",
+    "date": "2026-06-28",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent",
+    "summary": "520 stars | Python | Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+    "source": "GitHub Trending",
+    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+    "date": "2026-06-30",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 35
   },
   {
     "title": "Virginia bans sale of geolocation data",
@@ -237,7 +445,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 19
+    "id": 36
   },
   {
     "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
@@ -249,7 +457,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 20
+    "id": 37
   },
   {
     "title": "Podman v6.0.0",
@@ -261,7 +469,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 21
+    "id": 38
   },
   {
     "title": "PeerTube is a free, decentralized and federated video platform",
@@ -273,7 +481,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 22
+    "id": 39
   },
   {
     "title": "How to ask for help from people who don't know you",
@@ -285,7 +493,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 23
+    "id": 40
   },
   {
     "title": "Show HN: Inkwell – An RSS reader for e-ink devices",
@@ -297,7 +505,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 24
+    "id": 41
   },
   {
     "title": "Show HN: Pieces – Social network for people",
@@ -309,7 +517,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 25
+    "id": 42
   },
   {
     "title": "Show HN: Gitstock–Transform you GitHub commit history into K-line and animations",
@@ -321,7 +529,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 26
+    "id": 43
   },
   {
     "title": "Solaris",
@@ -333,7 +541,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Basedash Actions",
@@ -345,7 +553,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 28
+    "id": 45
   },
   {
     "title": "scritty",
@@ -357,7 +565,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Gaming Chat SDK by CometChat",
@@ -369,7 +577,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 30
+    "id": 47
   },
   {
     "title": "Macro",
@@ -381,7 +589,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Context.dev",
@@ -393,7 +601,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 49
   },
   {
     "title": "aquace/CVE-2026-41940-PoC - CVE-2026-41940 authentication bypass vulnerability proof-of-concept",
@@ -406,7 +614,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 33
+    "id": 50
   },
   {
     "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
@@ -418,7 +626,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 51
   },
   {
     "title": "For first time, a cell built from scratch grows and divides",
@@ -430,7 +638,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
@@ -442,7 +650,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Box3D, an open source 3D physics engine",
@@ -454,7 +662,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 37
+    "id": 54
   },
   {
     "title": "I Left Harry's All-Night Hamburgers",
@@ -466,7 +674,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
@@ -478,7 +686,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "Fable 5 Is Back",
@@ -490,7 +698,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 57
   },
   {
     "title": "LightTwist",
@@ -502,7 +710,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 41
+    "id": 58
   },
   {
     "title": "Metal",
@@ -514,7 +722,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 42
+    "id": 59
   },
   {
     "title": "Acti",
@@ -522,212 +730,6 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/acti-2",
     "date": "2026-06-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 43
-  },
-  {
-    "title": "N71",
-    "summary": "New product launch on Product Hunt: N71",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/n71",
-    "date": "2026-06-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Sequence Agentic",
-    "summary": "New product launch on Product Hunt: Sequence Agentic",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sequence",
-    "date": "2026-06-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Adam CAD Copilot",
-    "summary": "New product launch on Product Hunt: Adam CAD Copilot",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/adam-cad-copilot",
-    "date": "2026-06-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "deepseek-ai/DeepSpec - DeepSpec: a full-stack codebase for training and evaluating speculative decoding",
-    "summary": "5750 stars | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-    "source": "GitHub Trending",
-    "url": "https://github.com/deepseek-ai/DeepSpec",
-    "date": "2026-06-26",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
-    "summary": "Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/",
-    "date": "2026-06-11",
-    "tags": [
-      "Tech",
-      "Career"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Claude Sonnet 5",
-    "summary": "889 points | 499 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.anthropic.com/news/claude-sonnet-5",
-    "date": "2026-06-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Claude Code is steganographically marking requests",
-    "summary": "1429 points | 409 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "date": "2026-06-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Claude Science",
-    "summary": "371 points | 122 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://claude.com/product/claude-science",
-    "date": "2026-06-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Nano Banana 2 Lite",
-    "summary": "308 points | 120 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-    "date": "2026-06-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "I built a mmWave material classification radar (2025)",
-    "summary": "142 points | 38 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://gauthier-lechevalier.com/radar",
-    "date": "2026-06-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
-    "summary": "75 points | 12 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-    "date": "2026-06-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Building a custom octocopter from scratch with no prior hardware experience",
-    "summary": "331 points | 69 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://karolina.mgdubiel.com/drone/",
-    "date": "2026-06-28",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Show HN: My 13-year-old built an ant colony tracker",
-    "summary": "40 points | 30 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://formicarium.es",
-    "date": "2026-06-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Skills Marketplace by Databox",
-    "summary": "New product launch on Product Hunt: Skills Marketplace by Databox",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/databox",
-    "date": "2026-06-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "v0 Design Systems 2.0",
-    "summary": "New product launch on Product Hunt: v0 Design Systems 2.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/v0",
-    "date": "2026-06-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Midway Chat",
-    "summary": "New product launch on Product Hunt: Midway Chat",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/midway-chat",
-    "date": "2026-06-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Dayflow",
-    "summary": "New product launch on Product Hunt: Dayflow",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dayflow-4",
-    "date": "2026-06-24",
     "tags": [
       "Product Launch"
     ],
