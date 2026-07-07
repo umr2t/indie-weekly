@@ -1,22 +1,22 @@
 [
   {
-    "title": "OpenPrinter",
-    "summary": "440 points | 112 comments on Hacker News",
+    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+    "summary": "138 points | 89 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.opentools.studio/",
-    "date": "2026-07-05",
+    "url": "https://github.com/MaximeRivest/Riddle",
+    "date": "2026-07-06",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 1
   },
   {
-    "title": "Organic Maps",
-    "summary": "810 points | 226 comments on Hacker News",
+    "title": "OpenWrt One – Open Hardware Router",
+    "summary": "442 points | 173 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://organicmaps.app/",
-    "date": "2026-07-05",
+    "url": "https://openwrt.org/toh/openwrt/one",
+    "date": "2026-07-06",
     "tags": [
       "HN"
     ],
@@ -24,23 +24,23 @@
     "id": 2
   },
   {
-    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-    "summary": "88 points | 30 comments on Hacker News",
+    "title": "CoMaps – FOSS Offline Maps",
+    "summary": "313 points | 60 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://homegames.io",
-    "date": "2026-07-05",
+    "url": "https://www.comaps.app/",
+    "date": "2026-07-06",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 3
   },
   {
-    "title": "It's not about physical vs. digital games, it's about ownership",
-    "summary": "321 points | 235 comments on Hacker News",
+    "title": "Resetting Xbox",
+    "summary": "478 points | 460 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://popcar.bearblog.dev/its-about-ownership/",
-    "date": "2026-07-05",
+    "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+    "date": "2026-07-06",
     "tags": [
       "HN"
     ],
@@ -48,35 +48,35 @@
     "id": 4
   },
   {
-    "title": "Starring the Computer",
-    "summary": "169 points | 41 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.starringthecomputer.com/computers.html",
-    "date": "2026-07-05",
+    "title": "Octolens",
+    "summary": "New product launch on Product Hunt: Octolens",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/octolens-ai",
+    "date": "2026-06-29",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 5
   },
   {
-    "title": "Show HN: Osint tool that finds exposed files on domains",
-    "summary": "25 points | 10 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://search.cerast-intelligence.com/",
-    "date": "2026-07-05",
+    "title": "Stanley Studio",
+    "summary": "New product launch on Product Hunt: Stanley Studio",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/stanley-studio",
+    "date": "2026-07-06",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 6
   },
   {
-    "title": "MentionDrop MCP",
-    "summary": "New product launch on Product Hunt: MentionDrop MCP",
+    "title": "Typeahead 2.0",
+    "summary": "New product launch on Product Hunt: Typeahead 2.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mentiondrop",
-    "date": "2026-06-19",
+    "url": "https://www.producthunt.com/products/typeahead",
+    "date": "2026-07-02",
     "tags": [
       "Product Launch"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "TryCase",
-    "summary": "New product launch on Product Hunt: TryCase",
+    "title": "Sunrise",
+    "summary": "New product launch on Product Hunt: Sunrise",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/trycase",
-    "date": "2026-06-08",
+    "url": "https://www.producthunt.com/products/sunrise-5",
+    "date": "2026-06-25",
     "tags": [
       "Product Launch"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Toku Reader",
-    "summary": "New product launch on Product Hunt: Toku Reader",
+    "title": "AnySearch",
+    "summary": "New product launch on Product Hunt: AnySearch",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/toku-reader",
-    "date": "2026-06-18",
+    "url": "https://www.producthunt.com/products/anysearch",
+    "date": "2026-07-01",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "CircleChat",
-    "summary": "New product launch on Product Hunt: CircleChat",
+    "title": "Cadence",
+    "summary": "New product launch on Product Hunt: Cadence",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/circlechat",
-    "date": "2026-07-04",
+    "url": "https://www.producthunt.com/products/cadence-13",
+    "date": "2026-07-03",
     "tags": [
       "Product Launch"
     ],
@@ -120,32 +120,8 @@
     "id": 10
   },
   {
-    "title": "Endl",
-    "summary": "New product launch on Product Hunt: Endl",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/endl",
-    "date": "2026-07-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 11
-  },
-  {
-    "title": "Pennen",
-    "summary": "New product launch on Product Hunt: Pennen",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pennen",
-    "date": "2026-07-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 12
-  },
-  {
     "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
-    "summary": "1716 stars | TypeScript | autonomous red teaming platform; multi-agent offensive-security meta-harness",
+    "summary": "2675 stars | TypeScript | autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "source": "GitHub Trending",
     "url": "https://github.com/elder-plinius/T3MP3ST",
     "date": "2026-07-02",
@@ -154,50 +130,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 13
-  },
-  {
-    "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocke",
-    "summary": "1329 stars | JavaScript | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/mekos2772/ios-location-spoofer",
-    "date": "2026-06-30",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 14
-  },
-  {
-    "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frame",
-    "summary": "980 stars | Python | Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-    "date": "2026-06-30",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
-    "title": "jamesob/local-llm - Everything I know about running LLMs locally",
-    "summary": "923 stars | Shell | Everything I know about running LLMs locally",
-    "source": "GitHub Trending",
-    "url": "https://github.com/jamesob/local-llm",
-    "date": "2026-07-03",
-    "tags": [
-      "GitHub",
-      "Shell"
-    ],
-    "hot": true,
-    "id": 16
+    "id": 11
   },
   {
     "title": "ammaarreshi/Generals-Mac-iOS-iPad - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —",
-    "summary": "804 stars | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game as",
+    "summary": "1153 stars | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game a",
     "source": "GitHub Trending",
     "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
     "date": "2026-07-04",
@@ -206,11 +143,37 @@
       "C++"
     ],
     "hot": true,
-    "id": 17
+    "id": 12
+  },
+  {
+    "title": "jamesob/local-llm - Everything I know about running LLMs locally",
+    "summary": "1075 stars | Shell | Everything I know about running LLMs locally",
+    "source": "GitHub Trending",
+    "url": "https://github.com/jamesob/local-llm",
+    "date": "2026-07-03",
+    "tags": [
+      "GitHub",
+      "Shell"
+    ],
+    "hot": true,
+    "id": 13
+  },
+  {
+    "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
+    "summary": "794 stars | TypeScript | The open-source AI workbench for scientific research",
+    "source": "GitHub Trending",
+    "url": "https://github.com/synthetic-sciences/openscience",
+    "date": "2026-07-03",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 14
   },
   {
     "title": "xuchonglang/investing-for-beginners - 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-    "summary": "710 stars | Unknown | 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+    "summary": "738 stars | Unknown | 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
     "source": "GitHub Trending",
     "url": "https://github.com/xuchonglang/investing-for-beginners",
     "date": "2026-07-03",
@@ -219,7 +182,20 @@
       "Code"
     ],
     "hot": true,
-    "id": 18
+    "id": 15
+  },
+  {
+    "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves o",
+    "summary": "722 stars | Python | GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/jmerelnyc/Talos",
+    "date": "2026-07-02",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 16
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -232,7 +208,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 17
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -245,7 +221,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 18
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -258,7 +234,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "The Pulse: a new trend, smart model routing",
@@ -271,7 +247,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it",
@@ -284,7 +260,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "Reliability fail: No automated zone failover for Coinbase’s global trading service",
@@ -297,7 +273,177 @@
       "Career"
     ],
     "hot": false,
+    "id": 22
+  },
+  {
+    "title": "OpenPrinter",
+    "summary": "440 points | 112 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.opentools.studio/",
+    "date": "2026-07-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 23
+  },
+  {
+    "title": "Organic Maps",
+    "summary": "810 points | 226 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://organicmaps.app/",
+    "date": "2026-07-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 24
+  },
+  {
+    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+    "summary": "88 points | 30 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://homegames.io",
+    "date": "2026-07-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 25
+  },
+  {
+    "title": "It's not about physical vs. digital games, it's about ownership",
+    "summary": "321 points | 235 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://popcar.bearblog.dev/its-about-ownership/",
+    "date": "2026-07-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 26
+  },
+  {
+    "title": "Starring the Computer",
+    "summary": "169 points | 41 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.starringthecomputer.com/computers.html",
+    "date": "2026-07-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Osint tool that finds exposed files on domains",
+    "summary": "25 points | 10 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://search.cerast-intelligence.com/",
+    "date": "2026-07-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "MentionDrop MCP",
+    "summary": "New product launch on Product Hunt: MentionDrop MCP",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mentiondrop",
+    "date": "2026-06-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "TryCase",
+    "summary": "New product launch on Product Hunt: TryCase",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/trycase",
+    "date": "2026-06-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Toku Reader",
+    "summary": "New product launch on Product Hunt: Toku Reader",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/toku-reader",
+    "date": "2026-06-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "CircleChat",
+    "summary": "New product launch on Product Hunt: CircleChat",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/circlechat",
+    "date": "2026-07-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Endl",
+    "summary": "New product launch on Product Hunt: Endl",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/endl",
+    "date": "2026-07-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Pennen",
+    "summary": "New product launch on Product Hunt: Pennen",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pennen",
+    "date": "2026-07-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "mekos2772/ios-location-spoofer - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocke",
+    "summary": "1329 stars | JavaScript | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/mekos2772/ios-location-spoofer",
+    "date": "2026-06-30",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 35
+  },
+  {
+    "title": "HUANGCHIHHUNGLeo/claude-real-video - Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frame",
+    "summary": "980 stars | Python | Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "date": "2026-06-30",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 36
   },
   {
     "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
@@ -309,7 +455,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 37
   },
   {
     "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
@@ -321,7 +467,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 38
   },
   {
     "title": "Leaking YouTube creators' private videos",
@@ -333,7 +479,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 39
   },
   {
     "title": "Better Models: Worse Tools",
@@ -345,7 +491,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 40
   },
   {
     "title": "Explanation of everything you can see in htop/top on Linux (2019)",
@@ -357,7 +503,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 41
   },
   {
     "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
@@ -369,7 +515,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 42
   },
   {
     "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
@@ -381,7 +527,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 43
   },
   {
     "title": "PhoneDeck",
@@ -393,7 +539,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 44
   },
   {
     "title": "CentryAI",
@@ -405,7 +551,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 45
   },
   {
     "title": "ChecklistFox",
@@ -417,7 +563,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 46
   },
   {
     "title": "Vida",
@@ -429,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 47
   },
   {
     "title": "Termi Protocol",
@@ -441,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 48
   },
   {
     "title": "Archify ",
@@ -453,20 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
-  },
-  {
-    "title": "jmerelnyc/Talos - GPU worker client for the Talos network. Pairs with your Talos account, serves o",
-    "summary": "587 stars | Python | GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/jmerelnyc/Talos",
-    "date": "2026-07-02",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 38
+    "id": 49
   },
   {
     "title": "uzairansaruzi/hermex - Native iPhone app for your Hermes agent",
@@ -479,7 +612,7 @@
       "Swift"
     ],
     "hot": true,
-    "id": 39
+    "id": 50
   },
   {
     "title": "Tamamon",
@@ -491,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 51
   },
   {
     "title": "Osloq",
@@ -503,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 41
+    "id": 52
   },
   {
     "title": "nxt",
@@ -515,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 42
+    "id": 53
   },
   {
     "title": "Glaze by Raycast",
@@ -527,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 43
+    "id": 54
   },
   {
     "title": "Goals from Loops",
@@ -539,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 44
+    "id": 55
   },
   {
     "title": "Vox",
@@ -551,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 45
+    "id": 56
   },
   {
     "title": "Krishnagangwal/CS-Fundamentals - Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O",
@@ -564,7 +697,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 46
+    "id": 57
   },
   {
     "title": "yynxxxxx/Codex-5.5-codex-instruct-5.5 - No description",
@@ -577,7 +710,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 47
+    "id": 58
   },
   {
     "title": "Kulaxyz/self-learning-skills - A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): re",
@@ -590,7 +723,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 48
+    "id": 59
   },
   {
     "title": "TianhangZhuzth/Fundamental-Ava - Build digital human beings — autonomous, collaborative, and socially intelligent",
@@ -603,138 +736,6 @@
       "Python"
     ],
     "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Virginia bans sale of geolocation data",
-    "summary": "468 points | 86 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-    "date": "2026-07-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-    "summary": "401 points | 188 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-    "date": "2026-07-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Podman v6.0.0",
-    "summary": "394 points | 154 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-    "date": "2026-07-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "PeerTube is a free, decentralized and federated video platform",
-    "summary": "516 points | 230 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/Chocobozzz/PeerTube",
-    "date": "2026-07-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "How to ask for help from people who don't know you",
-    "summary": "389 points | 63 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-    "date": "2026-07-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Show HN: Inkwell – An RSS reader for e-ink devices",
-    "summary": "25 points | 3 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://kendal.codeberg.page/inkwell/",
-    "date": "2026-07-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Show HN: Pieces – Social network for people",
-    "summary": "29 points | 18 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://try.piecesof.me/",
-    "date": "2026-07-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Gitstock–Transform you GitHub commit history into K-line and animations",
-    "summary": "8 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://gitstock.org/",
-    "date": "2026-06-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Solaris",
-    "summary": "New product launch on Product Hunt: Solaris",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/build-club",
-    "date": "2026-06-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Basedash Actions",
-    "summary": "New product launch on Product Hunt: Basedash Actions",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basedash",
-    "date": "2026-07-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "scritty",
-    "summary": "New product launch on Product Hunt: scritty",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/scritty",
-    "date": "2026-07-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
