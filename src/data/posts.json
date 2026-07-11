@@ -1,10 +1,10 @@
 [
   {
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-    "summary": "367 points | 97 comments on Hacker News",
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "summary": "473 points | 232 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/JustVugg/colibri",
-    "date": "2026-07-09",
+    "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+    "date": "2026-07-10",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "EU Parliament greenlights Chat Control 1.0",
-    "summary": "982 points | 473 comments on Hacker News",
+    "title": "QuadRF can spot drones and see WiFi through my wall",
+    "summary": "447 points | 171 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "date": "2026-07-09",
+    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "date": "2026-07-10",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "GPT-5.6",
-    "summary": "1046 points | 770 comments on Hacker News",
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "summary": "342 points | 275 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://openai.com/index/gpt-5-6/",
-    "date": "2026-07-09",
+    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "date": "2026-07-10",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Show HN: 18 Words",
-    "summary": "817 points | 284 comments on Hacker News",
+    "title": "New York City to to ban deceptive subscription practices",
+    "summary": "406 points | 210 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://18words.com/",
-    "date": "2026-07-09",
+    "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+    "date": "2026-07-10",
     "tags": [
       "HN"
     ],
@@ -48,23 +48,23 @@
     "id": 4
   },
   {
-    "title": "Hy3",
-    "summary": "382 points | 83 comments on Hacker News",
+    "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+    "summary": "64 points | 204 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://hy.tencent.com/research/hy3",
-    "date": "2026-07-09",
+    "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+    "date": "2026-07-10",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-    "summary": "365 points | 385 comments on Hacker News",
+    "title": "Good Tools Are Invisible",
+    "summary": "357 points | 165 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/malisper/pgrust",
-    "date": "2026-07-09",
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "date": "2026-07-10",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-    "summary": "72 points | 53 comments on Hacker News",
+    "title": "Late Bronze Age Collapse",
+    "summary": "317 points | 224 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.context.dev",
-    "date": "2026-07-09",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 7
-  },
-  {
-    "title": "Muse Spark 1.1",
-    "summary": "322 points | 171 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-    "date": "2026-07-09",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "date": "2026-07-10",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 7
+  },
+  {
+    "title": "The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty",
+    "summary": "4 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/",
+    "date": "2026-07-11",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Toyo",
-    "summary": "New product launch on Product Hunt: Toyo",
+    "title": "Mispher",
+    "summary": "New product launch on Product Hunt: Mispher",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/toyo",
-    "date": "2026-06-05",
+    "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+    "date": "2026-07-09",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Glimpse",
-    "summary": "New product launch on Product Hunt: Glimpse",
+    "title": "GPT-5.6",
+    "summary": "New product launch on Product Hunt: GPT-5.6",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/glimpse-17",
-    "date": "2026-07-07",
+    "url": "https://www.producthunt.com/products/openai",
+    "date": "2026-07-09",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Auriko ",
-    "summary": "New product launch on Product Hunt: Auriko ",
+    "title": "PlugThis",
+    "summary": "New product launch on Product Hunt: PlugThis",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/auriko",
-    "date": "2026-07-05",
+    "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
+    "date": "2026-07-06",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Coasty",
-    "summary": "New product launch on Product Hunt: Coasty",
+    "title": "ChatCut",
+    "summary": "New product launch on Product Hunt: ChatCut",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/coasty",
-    "date": "2026-07-08",
+    "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+    "date": "2026-07-09",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Timbal AI",
-    "summary": "New product launch on Product Hunt: Timbal AI",
+    "title": "Juicy",
+    "summary": "New product launch on Product Hunt: Juicy",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/timbal-ai",
-    "date": "2026-06-22",
+    "url": "https://www.producthunt.com/products/juicy-battery-app",
+    "date": "2026-07-07",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "ARKAD Wallet",
-    "summary": "New product launch on Product Hunt: ARKAD Wallet",
+    "title": "StoryChief Connect",
+    "summary": "New product launch on Product Hunt: StoryChief Connect",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/arkad-wallet",
-    "date": "2026-07-06",
+    "url": "https://www.producthunt.com/products/storychief-io",
+    "date": "2026-07-09",
     "tags": [
       "Product Launch"
     ],
@@ -168,21 +168,21 @@
     "id": 14
   },
   {
-    "title": "x4gKing/X4G - No description",
-    "summary": "3401 stars | Python | ",
+    "title": "withmarbleapp/os-taxonomy - No description",
+    "summary": "2133 stars | JavaScript | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/x4gKing/X4G",
-    "date": "2026-07-04",
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "date": "2026-07-08",
     "tags": [
       "GitHub",
-      "Python"
+      "JavaScript"
     ],
     "hot": true,
     "id": 15
   },
   {
     "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es",
-    "summary": "1568 stars | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+    "summary": "1704 stars | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
     "source": "GitHub Trending",
     "url": "https://github.com/Shpigford/knockoff",
     "date": "2026-07-06",
@@ -194,34 +194,8 @@
     "id": 16
   },
   {
-    "title": "withmarbleapp/os-taxonomy - No description",
-    "summary": "1412 stars | JavaScript | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/withmarbleapp/os-taxonomy",
-    "date": "2026-07-08",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
-    "title": "ammaarreshi/Generals-Mac-iOS-iPad - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —",
-    "summary": "1393 stars | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game a",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
-    "date": "2026-07-04",
-    "tags": [
-      "GitHub",
-      "C++"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
     "title": "MaximeRivest/riddle - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the ",
-    "summary": "1283 stars | Rust | The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+    "summary": "1339 stars | Rust | The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
     "source": "GitHub Trending",
     "url": "https://github.com/MaximeRivest/riddle",
     "date": "2026-07-05",
@@ -230,17 +204,43 @@
       "Rust"
     ],
     "hot": true,
-    "id": 19
+    "id": 17
   },
   {
     "title": "514-labs/dnsglobe - Global DNS propagation checker TUI — watch a DNS record propagate across 34 publ",
-    "summary": "774 stars | Rust | Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+    "summary": "794 stars | Rust | Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
     "source": "GitHub Trending",
     "url": "https://github.com/514-labs/dnsglobe",
     "date": "2026-07-05",
     "tags": [
       "GitHub",
       "Rust"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
+    "summary": "701 stars | Python | Infinite Worlds with Versatile Interactions",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Robbyant/lingbot-world-v2",
+    "date": "2026-07-08",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "simonlin1212/Vibe-Research - Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、",
+    "summary": "671 stars | TypeScript | Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/simonlin1212/Vibe-Research",
+    "date": "2026-07-05",
+    "tags": [
+      "GitHub",
+      "TypeScript"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,200 @@
     "id": 26
   },
   {
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "summary": "367 points | 97 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/JustVugg/colibri",
+    "date": "2026-07-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "EU Parliament greenlights Chat Control 1.0",
+    "summary": "982 points | 473 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+    "date": "2026-07-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "GPT-5.6",
+    "summary": "1046 points | 770 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "date": "2026-07-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: 18 Words",
+    "summary": "817 points | 284 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://18words.com/",
+    "date": "2026-07-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Hy3",
+    "summary": "382 points | 83 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://hy.tencent.com/research/hy3",
+    "date": "2026-07-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "summary": "365 points | 385 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/malisper/pgrust",
+    "date": "2026-07-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+    "summary": "72 points | 53 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.context.dev",
+    "date": "2026-07-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Muse Spark 1.1",
+    "summary": "322 points | 171 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "date": "2026-07-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Toyo",
+    "summary": "New product launch on Product Hunt: Toyo",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/toyo",
+    "date": "2026-06-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Glimpse",
+    "summary": "New product launch on Product Hunt: Glimpse",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/glimpse-17",
+    "date": "2026-07-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Auriko ",
+    "summary": "New product launch on Product Hunt: Auriko ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/auriko",
+    "date": "2026-07-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Coasty",
+    "summary": "New product launch on Product Hunt: Coasty",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/coasty",
+    "date": "2026-07-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Timbal AI",
+    "summary": "New product launch on Product Hunt: Timbal AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/timbal-ai",
+    "date": "2026-06-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "ARKAD Wallet",
+    "summary": "New product launch on Product Hunt: ARKAD Wallet",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/arkad-wallet",
+    "date": "2026-07-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "x4gKing/X4G - No description",
+    "summary": "3401 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/x4gKing/X4G",
+    "date": "2026-07-04",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "ammaarreshi/Generals-Mac-iOS-iPad - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —",
+    "summary": "1393 stars | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game a",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+    "date": "2026-07-04",
+    "tags": [
+      "GitHub",
+      "C++"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
     "title": "Chatto is now open source",
     "summary": "735 points | 194 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Grok 4.5",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
@@ -393,7 +587,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 48
   },
   {
     "title": "GPT‑Live",
@@ -405,7 +599,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 49
   },
   {
     "title": "TypeScript 7",
@@ -417,7 +611,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 50
   },
   {
     "title": "IvyForms",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "agents-cli",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "ExploreYC",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "LemonLime",
@@ -465,7 +659,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Jamboree",
@@ -477,7 +671,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 55
   },
   {
     "title": "Orbit for Mac",
@@ -489,7 +683,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 56
   },
   {
     "title": "synthetic-sciences/openscience - The open-source AI workbench for scientific research",
@@ -502,7 +696,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "jamesob/local-llm - Everything I know about running LLMs locally",
@@ -515,7 +709,7 @@
       "Shell"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "xuchonglang/investing-for-beginners - 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
@@ -528,7 +722,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Reliability fail: No automated zone failover for Coinbase’s global trading service",
@@ -539,199 +733,6 @@
     "tags": [
       "Tech",
       "Career"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-    "summary": "689 points | 169 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://streetcomplete.app/",
-    "date": "2026-07-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Chat Control 1.0 and 2.0 Explained",
-    "summary": "432 points | 145 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://fightchatcontrol.eu/chat-control-overview",
-    "date": "2026-07-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Davit, a Apple Containers UI",
-    "summary": "185 points | 41 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://davit.app",
-    "date": "2026-07-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Every new car sold in the European Union must include a driver monitoring camera",
-    "summary": "418 points | 545 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-    "date": "2026-07-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "A better way to tie gym shorts (or any drawstring) [video]",
-    "summary": "451 points | 162 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-    "date": "2026-07-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-    "summary": "348 points | 60 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://30papers.com/",
-    "date": "2026-07-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Show HN: Chiptune Radio",
-    "summary": "3 points | 0 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://chiptune-radio.alephvoid.com/",
-    "date": "2026-07-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-    "summary": "88 points | 25 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/rowboatlabs/rowboat",
-    "date": "2026-07-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Badge",
-    "summary": "New product launch on Product Hunt: Badge",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/badge-3",
-    "date": "2026-04-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Ogment AI",
-    "summary": "New product launch on Product Hunt: Ogment AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ogment-mcp-builder",
-    "date": "2026-06-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "AI Emaily",
-    "summary": "New product launch on Product Hunt: AI Emaily",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
-    "date": "2026-07-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Kadoink AI",
-    "summary": "New product launch on Product Hunt: Kadoink AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone",
-    "date": "2026-07-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Mira",
-    "summary": "New product launch on Product Hunt: Mira",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mira-the-ai-moderator",
-    "date": "2026-06-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Glideo",
-    "summary": "New product launch on Product Hunt: Glideo",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/glideo",
-    "date": "2026-07-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "elder-plinius/T3MP3ST - autonomous red teaming platform; multi-agent offensive-security meta-harness",
-    "summary": "3313 stars | TypeScript | autonomous red teaming platform; multi-agent offensive-security meta-harness",
-    "source": "GitHub Trending",
-    "url": "https://github.com/elder-plinius/T3MP3ST",
-    "date": "2026-07-02",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-    "summary": "138 points | 89 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/MaximeRivest/Riddle",
-    "date": "2026-07-06",
-    "tags": [
-      "HN"
     ],
     "hot": false,
     "id": 60
