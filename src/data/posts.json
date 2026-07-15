@@ -1,10 +1,10 @@
 [
   {
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "summary": "440 points | 178 comments on Hacker News",
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "summary": "415 points | 160 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "date": "2026-07-13",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "date": "2026-07-14",
     "tags": [
       "HN"
     ],
@@ -12,35 +12,35 @@
     "id": 1
   },
   {
-    "title": "Show HN: YouTube Guitar Tab Parser",
-    "summary": "66 points | 47 comments on Hacker News",
+    "title": "The Tower Keeps Rising",
+    "summary": "331 points | 159 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-    "date": "2026-07-13",
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "date": "2026-07-14",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 2
   },
   {
-    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-    "summary": "45 points | 19 comments on Hacker News",
+    "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+    "summary": "705 points | 433 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/jbwinters/jacquard-lang",
-    "date": "2026-07-13",
+    "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+    "date": "2026-07-11",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 3
   },
   {
-    "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
-    "summary": "421 points | 163 comments on Hacker News",
+    "title": "How to stop Claude from saying load-bearing",
+    "summary": "429 points | 492 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
-    "date": "2026-07-13",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "date": "2026-07-14",
     "tags": [
       "HN"
     ],
@@ -48,23 +48,23 @@
     "id": 4
   },
   {
-    "title": "Show HN: I implemented a neural network in SQL",
-    "summary": "55 points | 12 comments on Hacker News",
+    "title": "Are we offloading too much of our thinking to AI?",
+    "summary": "376 points | 375 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "date": "2026-07-13",
+    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+    "date": "2026-07-14",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
-    "summary": "12 points | 15 comments on Hacker News",
+    "title": "Show HN: Opening lines of famous literary works",
+    "summary": "141 points | 79 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://hackney.app/",
-    "date": "2026-07-13",
+    "url": "https://www.verbaprima.com/",
+    "date": "2026-07-14",
     "tags": [
       "HN"
     ],
@@ -72,23 +72,23 @@
     "id": 6
   },
   {
-    "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-    "summary": "340 points | 67 comments on Hacker News",
+    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+    "summary": "45 points | 26 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://jivx.com/densha",
-    "date": "2026-07-13",
+    "url": "https://agnost.ai",
+    "date": "2026-07-14",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-    "summary": "6 points | 0 comments on Hacker News",
+    "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+    "summary": "172 points | 79 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-    "date": "2026-07-13",
+    "url": "https://github.com/juggler-ai/juggler",
+    "date": "2026-07-12",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "NoMac.app",
-    "summary": "New product launch on Product Hunt: NoMac.app",
+    "title": "VocalVia",
+    "summary": "New product launch on Product Hunt: VocalVia",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nomac",
-    "date": "2026-07-10",
+    "url": "https://www.producthunt.com/products/vocalvia",
+    "date": "2026-07-13",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Playground",
-    "summary": "New product launch on Product Hunt: Playground",
+    "title": "Claude Overlay",
+    "summary": "New product launch on Product Hunt: Claude Overlay",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nyx-4",
-    "date": "2026-07-12",
+    "url": "https://www.producthunt.com/products/claude-overlay",
+    "date": "2026-07-10",
     "tags": [
       "Product Launch"
     ],
@@ -120,10 +120,10 @@
     "id": 10
   },
   {
-    "title": "Fudge MCP",
-    "summary": "New product launch on Product Hunt: Fudge MCP",
+    "title": "Sourclip",
+    "summary": "New product launch on Product Hunt: Sourclip",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fudge-mcp",
+    "url": "https://www.producthunt.com/products/sourclip",
     "date": "2026-07-10",
     "tags": [
       "Product Launch"
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Simba Voice Agents",
-    "summary": "New product launch on Product Hunt: Simba Voice Agents",
+    "title": "loopclub",
+    "summary": "New product launch on Product Hunt: loopclub",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/speechify",
-    "date": "2026-07-08",
+    "url": "https://www.producthunt.com/products/loopclub",
+    "date": "2026-07-13",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Loomal",
-    "summary": "New product launch on Product Hunt: Loomal",
+    "title": "ClawTeams",
+    "summary": "New product launch on Product Hunt: ClawTeams",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/loomal",
-    "date": "2026-07-07",
+    "url": "https://www.producthunt.com/products/clawteams",
+    "date": "2026-07-09",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "AI Media Buyer By Creatify",
-    "summary": "New product launch on Product Hunt: AI Media Buyer By Creatify",
+    "title": "Branda",
+    "summary": "New product launch on Product Hunt: Branda",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/creatify",
-    "date": "2026-07-03",
+    "url": "https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker",
+    "date": "2026-07-14",
     "tags": [
       "Product Launch"
     ],
@@ -168,47 +168,21 @@
     "id": 14
   },
   {
-    "title": "withmarbleapp/os-taxonomy - No description",
-    "summary": "2919 stars | JavaScript | ",
+    "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex",
+    "summary": "1011 stars | Python | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
     "source": "GitHub Trending",
-    "url": "https://github.com/withmarbleapp/os-taxonomy",
-    "date": "2026-07-08",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
-    "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
-    "summary": "1032 stars | Python | Infinite Worlds with Versatile Interactions",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Robbyant/lingbot-world-v2",
-    "date": "2026-07-08",
+    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "date": "2026-07-11",
     "tags": [
       "GitHub",
       "Python"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "x4gKing/3x-ui-Upgrade - No description",
-    "summary": "955 stars | HTML | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/x4gKing/3x-ui-Upgrade",
-    "date": "2026-07-08",
-    "tags": [
-      "GitHub",
-      "HTML"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 15
   },
   {
     "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready p",
-    "summary": "854 stars | Python | Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+    "summary": "965 stars | Python | Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
     "source": "GitHub Trending",
     "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
     "date": "2026-07-09",
@@ -217,14 +191,40 @@
       "Python"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
+    "summary": "909 stars | Python | Intercept any app, then call it from Python like a library",
+    "source": "GitHub Trending",
+    "url": "https://github.com/littledivy/mimic",
+    "date": "2026-07-13",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software developme",
+    "summary": "801 stars | TypeScript | Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "date": "2026-07-12",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
     "id": 18
   },
   {
-    "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-    "summary": "757 stars | Python | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+    "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflo",
+    "summary": "687 stars | Python | A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
     "source": "GitHub Trending",
-    "url": "https://github.com/Robbyant/lingbot-video",
-    "date": "2026-07-08",
+    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+    "date": "2026-07-10",
     "tags": [
       "GitHub",
       "Python"
@@ -233,14 +233,14 @@
     "id": 19
   },
   {
-    "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software developme",
-    "summary": "696 stars | TypeScript | Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+    "title": "x4gKing/Marzban-Panel - No description",
+    "summary": "668 stars | Dockerfile | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "url": "https://github.com/x4gKing/Marzban-Panel",
     "date": "2026-07-12",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "Dockerfile"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,226 @@
     "id": 26
   },
   {
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "summary": "440 points | 178 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "date": "2026-07-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: YouTube Guitar Tab Parser",
+    "summary": "66 points | 47 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+    "date": "2026-07-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+    "summary": "45 points | 19 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/jbwinters/jacquard-lang",
+    "date": "2026-07-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
+    "summary": "421 points | 163 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
+    "date": "2026-07-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: I implemented a neural network in SQL",
+    "summary": "55 points | 12 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "date": "2026-07-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
+    "summary": "12 points | 15 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://hackney.app/",
+    "date": "2026-07-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+    "summary": "340 points | 67 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://jivx.com/densha",
+    "date": "2026-07-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+    "summary": "6 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "date": "2026-07-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "NoMac.app",
+    "summary": "New product launch on Product Hunt: NoMac.app",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nomac",
+    "date": "2026-07-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Playground",
+    "summary": "New product launch on Product Hunt: Playground",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nyx-4",
+    "date": "2026-07-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Fudge MCP",
+    "summary": "New product launch on Product Hunt: Fudge MCP",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/fudge-mcp",
+    "date": "2026-07-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Simba Voice Agents",
+    "summary": "New product launch on Product Hunt: Simba Voice Agents",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/speechify",
+    "date": "2026-07-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Loomal",
+    "summary": "New product launch on Product Hunt: Loomal",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/loomal",
+    "date": "2026-07-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "AI Media Buyer By Creatify",
+    "summary": "New product launch on Product Hunt: AI Media Buyer By Creatify",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/creatify",
+    "date": "2026-07-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "withmarbleapp/os-taxonomy - No description",
+    "summary": "2919 stars | JavaScript | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "date": "2026-07-08",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "Robbyant/lingbot-world-v2 - Infinite Worlds with Versatile Interactions",
+    "summary": "1032 stars | Python | Infinite Worlds with Versatile Interactions",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Robbyant/lingbot-world-v2",
+    "date": "2026-07-08",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "x4gKing/3x-ui-Upgrade - No description",
+    "summary": "955 stars | HTML | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+    "date": "2026-07-08",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
+    "title": "Robbyant/lingbot-video - Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+    "summary": "757 stars | Python | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Robbyant/lingbot-video",
+    "date": "2026-07-08",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 44
+  },
+  {
     "title": "Designing and assembling my first PCB",
     "summary": "38 points | 4 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +553,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 45
   },
   {
     "title": "Old and new apps, via modern coding agents",
@@ -345,7 +565,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 46
   },
   {
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
@@ -357,7 +577,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 47
   },
   {
     "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
@@ -369,7 +589,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 48
   },
   {
     "title": "LARP – Revenue infrastructure for serious founders",
@@ -381,7 +601,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 49
   },
   {
     "title": "I love LLMs, I hate hype",
@@ -393,7 +613,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 50
   },
   {
     "title": "JustVibe",
@@ -405,7 +625,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 51
   },
   {
     "title": "Miora",
@@ -417,7 +637,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 52
   },
   {
     "title": "FetchSandbox",
@@ -429,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 53
   },
   {
     "title": "Second Brain for AI v2",
@@ -441,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 54
   },
   {
     "title": "ServiceBeard",
@@ -453,7 +673,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 55
   },
   {
     "title": "San Fran Sim",
@@ -465,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 56
   },
   {
     "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
@@ -477,7 +697,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 39
+    "id": 57
   },
   {
     "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
@@ -489,7 +709,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 40
+    "id": 58
   },
   {
     "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
@@ -501,7 +721,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 59
   },
   {
     "title": "Female US rower completes historic solo journey from California to Hawaii",
@@ -513,224 +733,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
-  },
-  {
-    "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-    "summary": "10 points | 0 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/sqlsure/sqlsure",
-    "date": "2026-07-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 43
-  },
-  {
-    "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
-    "summary": "36 points | 12 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/swellweb/reame",
-    "date": "2026-07-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
-    "summary": "32 points | 9 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/skorotkiewicz/earth-game",
-    "date": "2026-07-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Breathing In Labour",
-    "summary": "New product launch on Product Hunt: Breathing In Labour",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/breathing-in-labour",
-    "date": "2026-06-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Effects SDK",
-    "summary": "New product launch on Product Hunt: Effects SDK",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/effects-sdk",
-    "date": "2026-06-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Cloudflare Drop",
-    "summary": "New product launch on Product Hunt: Cloudflare Drop",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cloudflare",
-    "date": "2026-07-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Basedash SCIM",
-    "summary": "New product launch on Product Hunt: Basedash SCIM",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basedash",
-    "date": "2026-07-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "ChatGPT Work",
-    "summary": "New product launch on Product Hunt: ChatGPT Work",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chatgpt-work",
-    "date": "2026-07-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Shpigford/knockoff - Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es",
-    "summary": "1772 stars | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Shpigford/knockoff",
-    "date": "2026-07-06",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "oso95/scroll-world - A skill that turn any brand into a scrollable 3D world",
-    "summary": "889 stars | JavaScript | A skill that turn any brand into a scrollable 3D world",
-    "source": "GitHub Trending",
-    "url": "https://github.com/oso95/scroll-world",
-    "date": "2026-07-06",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "summary": "473 points | 232 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-    "date": "2026-07-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "QuadRF can spot drones and see WiFi through my wall",
-    "summary": "447 points | 171 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-    "date": "2026-07-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-    "summary": "342 points | 275 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "date": "2026-07-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "New York City to to ban deceptive subscription practices",
-    "summary": "406 points | 210 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-    "date": "2026-07-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-    "summary": "64 points | 204 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-    "date": "2026-07-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Good Tools Are Invisible",
-    "summary": "357 points | 165 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "date": "2026-07-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Late Bronze Age Collapse",
-    "summary": "317 points | 224 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "date": "2026-07-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty",
-    "summary": "4 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/",
-    "date": "2026-07-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
