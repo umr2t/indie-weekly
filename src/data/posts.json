@@ -1,10 +1,10 @@
 [
   {
-    "title": "Kimi K3: Open Frontier Intelligence",
-    "summary": "1149 points | 715 comments on Hacker News",
+    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+    "summary": "361 points | 225 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "date": "2026-07-16",
+    "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+    "date": "2026-07-17",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Microsoft Comic Chat is now open source",
-    "summary": "524 points | 118 comments on Hacker News",
+    "title": "The state of open source AI",
+    "summary": "367 points | 266 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-    "date": "2026-07-16",
+    "url": "https://stateofopensource.ai/",
+    "date": "2026-07-17",
     "tags": [
       "HN"
     ],
@@ -24,23 +24,23 @@
     "id": 2
   },
   {
-    "title": "Decoy Font",
-    "summary": "386 points | 97 comments on Hacker News",
+    "title": "Show HN: Instrumation a PYPI library for Instruments",
+    "summary": "3 points | 1 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "date": "2026-07-16",
+    "url": "https://github.com/abduznik/instrumation",
+    "date": "2026-07-12",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-    "summary": "60 points | 16 comments on Hacker News",
+    "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+    "summary": "54 points | 23 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.science.org/doi/10.1126/science.aea9708",
-    "date": "2026-07-16",
+    "url": "https://app.everything.diena.co/",
+    "date": "2026-07-17",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Show HN: Mojibake – a low-level Unicode library written in C",
-    "summary": "32 points | 6 comments on Hacker News",
+    "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+    "summary": "139 points | 49 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://mojibake.zaerl.com/",
-    "date": "2026-07-16",
+    "url": "https://honeypotlive.cc/",
+    "date": "2026-07-17",
     "tags": [
       "HN"
     ],
@@ -60,47 +60,47 @@
     "id": 5
   },
   {
-    "title": "OnePlus halts operations in USA and Europe",
-    "summary": "537 points | 326 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://community.oneplus.com/thread/2170715118587871237",
-    "date": "2026-07-16",
+    "title": "Kimi K3",
+    "summary": "New product launch on Product Hunt: Kimi K3",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+    "date": "2026-07-17",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
-    "summary": "81 points | 3 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/samyeyo/clx",
-    "date": "2026-07-11",
+    "title": "Aye",
+    "summary": "New product launch on Product Hunt: Aye",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/aye-browser",
+    "date": "2026-07-16",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "How Our Rust-to-Zig Rewrite Is Going",
-    "summary": "399 points | 220 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://rtfeldman.com/rust-to-zig",
-    "date": "2026-07-16",
+    "title": "Pebbles Ai",
+    "summary": "New product launch on Product Hunt: Pebbles Ai",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pebbles-ai",
+    "date": "2026-07-14",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Manta AI",
-    "summary": "New product launch on Product Hunt: Manta AI",
+    "title": "Unabyss for Claude",
+    "summary": "New product launch on Product Hunt: Unabyss for Claude",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/manta-ai",
-    "date": "2026-07-13",
+    "url": "https://www.producthunt.com/products/unabyss",
+    "date": "2026-07-10",
     "tags": [
       "Product Launch"
     ],
@@ -108,10 +108,10 @@
     "id": 9
   },
   {
-    "title": "The Eureka Database",
-    "summary": "New product launch on Product Hunt: The Eureka Database",
+    "title": "Basedash Suggestions",
+    "summary": "New product launch on Product Hunt: Basedash Suggestions",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/the-eureka-database",
+    "url": "https://www.producthunt.com/products/basedash",
     "date": "2026-07-16",
     "tags": [
       "Product Launch"
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Nitrosend",
-    "summary": "New product launch on Product Hunt: Nitrosend",
+    "title": "Scribble Party",
+    "summary": "New product launch on Product Hunt: Scribble Party",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nitrosend",
-    "date": "2026-07-15",
+    "url": "https://www.producthunt.com/products/scribble-party",
+    "date": "2026-07-17",
     "tags": [
       "Product Launch"
     ],
@@ -132,44 +132,8 @@
     "id": 11
   },
   {
-    "title": "Breadcromb",
-    "summary": "New product launch on Product Hunt: Breadcromb",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/breadcromb",
-    "date": "2026-07-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 12
-  },
-  {
-    "title": "ChikitAI",
-    "summary": "New product launch on Product Hunt: ChikitAI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chikitai",
-    "date": "2026-07-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "ClipMatch",
-    "summary": "New product launch on Product Hunt: ClipMatch",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clipmatch",
-    "date": "2026-07-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib",
-    "summary": "12305 stars | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+    "summary": "16499 stars | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
     "source": "GitHub Trending",
     "url": "https://github.com/xai-org/grok-build",
     "date": "2026-07-14",
@@ -178,11 +142,11 @@
       "Rust"
     ],
     "hot": true,
-    "id": 15
+    "id": 12
   },
   {
     "title": "Fei-Away/Codex-Dream-Skin - Codex Dream Skin",
-    "summary": "5514 stars | JavaScript | Codex Dream Skin",
+    "summary": "8695 stars | JavaScript | Codex Dream Skin",
     "source": "GitHub Trending",
     "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
     "date": "2026-07-15",
@@ -191,37 +155,11 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex",
-    "summary": "1674 stars | Python | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-    "date": "2026-07-11",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
-    "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
-    "summary": "1105 stars | Python | Intercept any app, then call it from Python like a library",
-    "source": "GitHub Trending",
-    "url": "https://github.com/littledivy/mimic",
-    "date": "2026-07-13",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 18
+    "id": 13
   },
   {
     "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state",
-    "summary": "1047 stars | TypeScript | A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+    "summary": "1164 stars | TypeScript | A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
     "source": "GitHub Trending",
     "url": "https://github.com/pixel-point/aval",
     "date": "2026-07-13",
@@ -230,11 +168,24 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 19
+    "id": 14
+  },
+  {
+    "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
+    "summary": "1149 stars | Python | Intercept any app, then call it from Python like a library",
+    "source": "GitHub Trending",
+    "url": "https://github.com/littledivy/mimic",
+    "date": "2026-07-13",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 15
   },
   {
     "title": "CluvexStudio/Aether - No description",
-    "summary": "935 stars | Rust | ",
+    "summary": "1144 stars | Rust | ",
     "source": "GitHub Trending",
     "url": "https://github.com/CluvexStudio/Aether",
     "date": "2026-07-14",
@@ -243,7 +194,20 @@
       "Rust"
     ],
     "hot": true,
-    "id": 20
+    "id": 16
+  },
+  {
+    "title": "x4gKing/Marzban-Panel - No description",
+    "summary": "914 stars | Dockerfile | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/x4gKing/Marzban-Panel",
+    "date": "2026-07-12",
+    "tags": [
+      "GitHub",
+      "Dockerfile"
+    ],
+    "hot": true,
+    "id": 17
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +220,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 18
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +233,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 19
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +246,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 20
   },
   {
     "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
@@ -295,7 +259,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 21
   },
   {
     "title": "The Pulse: Interesting AI coding stats from Cursor",
@@ -308,7 +272,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 22
   },
   {
     "title": "The Pulse: a new trend, smart model routing",
@@ -321,7 +285,188 @@
       "Career"
     ],
     "hot": false,
+    "id": 23
+  },
+  {
+    "title": "Kimi K3: Open Frontier Intelligence",
+    "summary": "1149 points | 715 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "date": "2026-07-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 24
+  },
+  {
+    "title": "Microsoft Comic Chat is now open source",
+    "summary": "524 points | 118 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+    "date": "2026-07-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Decoy Font",
+    "summary": "386 points | 97 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "date": "2026-07-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+    "summary": "60 points | 16 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.science.org/doi/10.1126/science.aea9708",
+    "date": "2026-07-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+    "summary": "32 points | 6 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mojibake.zaerl.com/",
+    "date": "2026-07-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "OnePlus halts operations in USA and Europe",
+    "summary": "537 points | 326 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://community.oneplus.com/thread/2170715118587871237",
+    "date": "2026-07-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+    "summary": "81 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/samyeyo/clx",
+    "date": "2026-07-11",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "How Our Rust-to-Zig Rewrite Is Going",
+    "summary": "399 points | 220 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://rtfeldman.com/rust-to-zig",
+    "date": "2026-07-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Manta AI",
+    "summary": "New product launch on Product Hunt: Manta AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/manta-ai",
+    "date": "2026-07-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "The Eureka Database",
+    "summary": "New product launch on Product Hunt: The Eureka Database",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/the-eureka-database",
+    "date": "2026-07-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Nitrosend",
+    "summary": "New product launch on Product Hunt: Nitrosend",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nitrosend",
+    "date": "2026-07-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Breadcromb",
+    "summary": "New product launch on Product Hunt: Breadcromb",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/breadcromb",
+    "date": "2026-07-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "ChikitAI",
+    "summary": "New product launch on Product Hunt: ChikitAI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/chikitai",
+    "date": "2026-07-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "ClipMatch",
+    "summary": "New product launch on Product Hunt: ClipMatch",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/clipmatch",
+    "date": "2026-07-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "MDX-Tom/gpt-5.6-instruct - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex",
+    "summary": "1674 stars | Python | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "date": "2026-07-11",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 38
   },
   {
     "title": "Inkling: Our Open-Weights Model",
@@ -333,7 +478,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 39
   },
   {
     "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
@@ -345,7 +490,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 40
   },
   {
     "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
@@ -357,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 41
   },
   {
     "title": "Show HN: One More Letter",
@@ -369,7 +514,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 42
   },
   {
     "title": "Show HN: Firefox in WebAssembly",
@@ -381,7 +526,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 43
   },
   {
     "title": "Designing APIs for Agents",
@@ -393,7 +538,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 44
   },
   {
     "title": "Show HN: E-- – A language you dial between English and Python",
@@ -405,7 +550,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 45
   },
   {
     "title": "RecordMeeting",
@@ -417,7 +562,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 46
   },
   {
     "title": "Keepresso",
@@ -429,7 +574,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 47
   },
   {
     "title": "Jam-Pod",
@@ -441,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 48
   },
   {
     "title": "Clerk | AI Assistant for Cap Tables",
@@ -453,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 49
   },
   {
     "title": "Campus",
@@ -465,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 50
   },
   {
     "title": "V2Fun",
@@ -477,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 51
   },
   {
     "title": "mereyabdenbekuly-ctrl/clodex-ide - Local-first, zero-trust agentic IDE for verifiable autonomous software developme",
@@ -490,7 +635,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 40
+    "id": 52
   },
   {
     "title": "AlephAITech/WorkBuddyGuide - A practical, open-source guide to mastering WorkBuddy through real-world workflo",
@@ -503,20 +648,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 41
-  },
-  {
-    "title": "x4gKing/Marzban-Panel - No description",
-    "summary": "775 stars | Dockerfile | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/x4gKing/Marzban-Panel",
-    "date": "2026-07-12",
-    "tags": [
-      "GitHub",
-      "Dockerfile"
-    ],
-    "hot": true,
-    "id": 42
+    "id": 53
   },
   {
     "title": "Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it",
@@ -529,7 +661,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 43
+    "id": 54
   },
   {
     "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
@@ -541,7 +673,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 55
   },
   {
     "title": "The Tower Keeps Rising",
@@ -553,7 +685,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 56
   },
   {
     "title": "Your 'app' could have been a webpage (so I fixed it for you)",
@@ -565,7 +697,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 46
+    "id": 57
   },
   {
     "title": "How to stop Claude from saying load-bearing",
@@ -577,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 47
+    "id": 58
   },
   {
     "title": "Are we offloading too much of our thinking to AI?",
@@ -589,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 48
+    "id": 59
   },
   {
     "title": "Show HN: Opening lines of famous literary works",
@@ -597,139 +729,6 @@
     "source": "Hacker News",
     "url": "https://www.verbaprima.com/",
     "date": "2026-07-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-    "summary": "45 points | 26 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://agnost.ai",
-    "date": "2026-07-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-    "summary": "172 points | 79 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/juggler-ai/juggler",
-    "date": "2026-07-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "VocalVia",
-    "summary": "New product launch on Product Hunt: VocalVia",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vocalvia",
-    "date": "2026-07-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Claude Overlay",
-    "summary": "New product launch on Product Hunt: Claude Overlay",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/claude-overlay",
-    "date": "2026-07-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Sourclip",
-    "summary": "New product launch on Product Hunt: Sourclip",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sourclip",
-    "date": "2026-07-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "loopclub",
-    "summary": "New product launch on Product Hunt: loopclub",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/loopclub",
-    "date": "2026-07-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "ClawTeams",
-    "summary": "New product launch on Product Hunt: ClawTeams",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clawteams",
-    "date": "2026-07-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Branda",
-    "summary": "New product launch on Product Hunt: Branda",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker",
-    "date": "2026-07-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin - Codex plugin that turns attached object images into code-only, animation-ready p",
-    "summary": "965 stars | Python | Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "date": "2026-07-09",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "summary": "440 points | 178 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "date": "2026-07-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Show HN: YouTube Guitar Tab Parser",
-    "summary": "66 points | 47 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-    "date": "2026-07-13",
     "tags": [
       "HN"
     ],
