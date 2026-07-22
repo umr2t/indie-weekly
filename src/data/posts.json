@@ -1,10 +1,10 @@
 [
   {
-    "title": "Kimi Work",
-    "summary": "391 points | 180 comments on Hacker News",
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "summary": "686 points | 453 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.kimi.com/products/kimi-work",
-    "date": "2026-07-20",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "date": "2026-07-21",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Jelly UI: Soft-body physics for native HTML form controls",
-    "summary": "333 points | 135 comments on Hacker News",
+    "title": "FreeInk: Open ecosystem for e-readers",
+    "summary": "398 points | 99 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://jelly-ui.com/",
-    "date": "2026-07-20",
+    "url": "https://freeink.org/",
+    "date": "2026-07-21",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Hacker wipes Romania's land registry database",
-    "summary": "567 points | 323 comments on Hacker News",
+    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "summary": "608 points | 480 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-    "date": "2026-07-20",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "date": "2026-07-21",
     "tags": [
       "HN"
     ],
@@ -36,23 +36,23 @@
     "id": 3
   },
   {
-    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-    "summary": "70 points | 14 comments on Hacker News",
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "summary": "233 points | 216 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://vincentwoo.com/3d/grace_cathedral/",
-    "date": "2026-07-20",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "date": "2026-07-21",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Airport Simulator",
-    "summary": "695 points | 142 comments on Hacker News",
+    "title": "Apple defeats liability for not scanning iCloud for CSAM",
+    "summary": "345 points | 324 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://airport.apunen.com/",
-    "date": "2026-07-20",
+    "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+    "date": "2026-07-21",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "China’s open-weights AI strategy is winning",
-    "summary": "973 points | 776 comments on Hacker News",
+    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+    "summary": "370 points | 64 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "date": "2026-07-20",
+    "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+    "date": "2026-07-21",
     "tags": [
       "HN"
     ],
@@ -72,11 +72,11 @@
     "id": 6
   },
   {
-    "title": "Jellyfin founder Andrew leaves team",
-    "summary": "13 points | 2 comments on Hacker News",
+    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+    "summary": "18 points | 16 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-    "date": "2026-07-20",
+    "url": "https://www.getcomputable.com/",
+    "date": "2026-07-21",
     "tags": [
       "HN"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-    "summary": "52 points | 5 comments on Hacker News",
+    "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+    "summary": "82 points | 12 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-    "date": "2026-07-20",
+    "url": "https://justif.lyall.co/",
+    "date": "2026-07-17",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Autoplot",
-    "summary": "New product launch on Product Hunt: Autoplot",
+    "title": "Lev8",
+    "summary": "New product launch on Product Hunt: Lev8",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/autoplot",
-    "date": "2026-07-19",
+    "url": "https://www.producthunt.com/products/lev8",
+    "date": "2026-07-15",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Replay QA",
-    "summary": "New product launch on Product Hunt: Replay QA",
+    "title": "Rerun",
+    "summary": "New product launch on Product Hunt: Rerun",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/replayio",
-    "date": "2026-07-02",
+    "url": "https://www.producthunt.com/products/rerun-2",
+    "date": "2026-07-15",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "CaptureKit",
-    "summary": "New product launch on Product Hunt: CaptureKit",
+    "title": "Jockey by TwelveLabs ",
+    "summary": "New product launch on Product Hunt: Jockey by TwelveLabs ",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/capturekit-2",
-    "date": "2026-07-19",
+    "url": "https://www.producthunt.com/products/twelvelabs",
+    "date": "2026-07-13",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "BlockscopeChat",
-    "summary": "New product launch on Product Hunt: BlockscopeChat",
+    "title": "CartAI",
+    "summary": "New product launch on Product Hunt: CartAI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/blockscopechat",
-    "date": "2026-07-17",
+    "url": "https://www.producthunt.com/products/cartai",
+    "date": "2026-05-31",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "LnkFlow",
-    "summary": "New product launch on Product Hunt: LnkFlow",
+    "title": "ProtoFlow",
+    "summary": "New product launch on Product Hunt: ProtoFlow",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lnkflow",
-    "date": "2026-07-17",
+    "url": "https://www.producthunt.com/products/protoflow-2",
+    "date": "2026-07-21",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Backbeat Forge",
-    "summary": "New product launch on Product Hunt: Backbeat Forge",
+    "title": "Manifest",
+    "summary": "New product launch on Product Hunt: Manifest",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backbeat-forge",
-    "date": "2026-07-19",
+    "url": "https://www.producthunt.com/products/manifest-363",
+    "date": "2026-07-20",
     "tags": [
       "Product Launch"
     ],
@@ -168,21 +168,21 @@
     "id": 14
   },
   {
-    "title": "Fei-Away/Codex-Dream-Skin - Codex Dream Skin",
-    "summary": "11074 stars | JavaScript | Codex Dream Skin",
+    "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness ",
+    "summary": "1605 stars | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
     "source": "GitHub Trending",
-    "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-    "date": "2026-07-15",
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "date": "2026-07-18",
     "tags": [
       "GitHub",
-      "JavaScript"
+      "Python"
     ],
     "hot": true,
     "id": 15
   },
   {
     "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
-    "summary": "1219 stars | JavaScript | Your clothes, extracted and organized with gpt-image.",
+    "summary": "1285 stars | JavaScript | Your clothes, extracted and organized with gpt-image.",
     "source": "GitHub Trending",
     "url": "https://github.com/tandpfun/wardrobe",
     "date": "2026-07-16",
@@ -194,21 +194,21 @@
     "id": 16
   },
   {
-    "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gate",
-    "summary": "1019 stars | Python | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
+    "summary": "962 stars | TypeScript | yoink any video from your terminal. no shady ads.",
     "source": "GitHub Trending",
-    "url": "https://github.com/hoainho/img2threejs",
-    "date": "2026-07-15",
+    "url": "https://github.com/pablostanley/yoinks",
+    "date": "2026-07-16",
     "tags": [
       "GitHub",
-      "Python"
+      "TypeScript"
     ],
     "hot": true,
     "id": 17
   },
   {
     "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
-    "summary": "881 stars | Go | Use LLMs to hide messages inside normal looking conversations",
+    "summary": "911 stars | Go | Use LLMs to hide messages inside normal looking conversations",
     "source": "GitHub Trending",
     "url": "https://github.com/nethical6/conversation-steganography",
     "date": "2026-07-17",
@@ -220,27 +220,27 @@
     "id": 18
   },
   {
-    "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
-    "summary": "865 stars | TypeScript | yoink any video from your terminal. no shady ads.",
+    "title": "v-modal/vmodal_sdk_flutter - V- Modal AI: Search anything anywhere SDK Flutter",
+    "summary": "777 stars | Dart | V- Modal AI: Search anything anywhere SDK Flutter",
     "source": "GitHub Trending",
-    "url": "https://github.com/pablostanley/yoinks",
+    "url": "https://github.com/v-modal/vmodal_sdk_flutter",
     "date": "2026-07-16",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "Dart"
     ],
     "hot": true,
     "id": 19
   },
   {
-    "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness ",
-    "summary": "773 stars | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot - An arbitrage bot is a smart contract connected to an external automation script ",
+    "summary": "739 stars | Solidity | An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "source": "GitHub Trending",
-    "url": "https://github.com/lopopolo/harness-engineering",
-    "date": "2026-07-18",
+    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "date": "2026-07-17",
     "tags": [
       "GitHub",
-      "Python"
+      "Solidity"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,200 @@
     "id": 26
   },
   {
+    "title": "Kimi Work",
+    "summary": "391 points | 180 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.kimi.com/products/kimi-work",
+    "date": "2026-07-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "summary": "333 points | 135 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://jelly-ui.com/",
+    "date": "2026-07-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Hacker wipes Romania's land registry database",
+    "summary": "567 points | 323 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "date": "2026-07-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+    "summary": "70 points | 14 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://vincentwoo.com/3d/grace_cathedral/",
+    "date": "2026-07-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Airport Simulator",
+    "summary": "695 points | 142 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://airport.apunen.com/",
+    "date": "2026-07-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "China’s open-weights AI strategy is winning",
+    "summary": "973 points | 776 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "date": "2026-07-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Jellyfin founder Andrew leaves team",
+    "summary": "13 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+    "date": "2026-07-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+    "summary": "52 points | 5 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "date": "2026-07-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Autoplot",
+    "summary": "New product launch on Product Hunt: Autoplot",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/autoplot",
+    "date": "2026-07-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Replay QA",
+    "summary": "New product launch on Product Hunt: Replay QA",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/replayio",
+    "date": "2026-07-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "CaptureKit",
+    "summary": "New product launch on Product Hunt: CaptureKit",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/capturekit-2",
+    "date": "2026-07-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "BlockscopeChat",
+    "summary": "New product launch on Product Hunt: BlockscopeChat",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/blockscopechat",
+    "date": "2026-07-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "LnkFlow",
+    "summary": "New product launch on Product Hunt: LnkFlow",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lnkflow",
+    "date": "2026-07-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Backbeat Forge",
+    "summary": "New product launch on Product Hunt: Backbeat Forge",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/backbeat-forge",
+    "date": "2026-07-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "Fei-Away/Codex-Dream-Skin - Codex Dream Skin",
+    "summary": "11074 stars | JavaScript | Codex Dream Skin",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "date": "2026-07-15",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gate",
+    "summary": "1019 stars | Python | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/hoainho/img2threejs",
+    "date": "2026-07-15",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
     "title": "Claude Code uses Bun written in Rust now",
     "summary": "384 points | 544 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Blender 5.2 LTS",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 44
   },
   {
     "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Qwen 3.8",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 47
   },
   {
     "title": "I joined the IndieWeb, here's what I learned",
@@ -393,7 +587,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
@@ -405,7 +599,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 49
   },
   {
     "title": "BaseRT",
@@ -417,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "Rewisp",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "Detourmap",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Kobbe",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "OpenSEO",
@@ -465,7 +659,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Spycost",
@@ -477,7 +671,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 55
   },
   {
     "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib",
@@ -490,7 +684,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "CluvexStudio/Aether - No description",
@@ -503,7 +697,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
@@ -515,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
@@ -527,7 +721,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
+    "id": 59
   },
   {
     "title": "LG monitors silently install software through Windows Update without consent",
@@ -539,200 +733,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-    "summary": "67 points | 13 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://q3edit.com",
-    "date": "2026-07-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "What AI did to stackoverflow in a graph",
-    "summary": "358 points | 436 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-    "date": "2026-07-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Mainichi",
-    "summary": "New product launch on Product Hunt: Mainichi",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mainichi-2",
-    "date": "2026-07-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "LiveDemo",
-    "summary": "New product launch on Product Hunt: LiveDemo",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/livedemo",
-    "date": "2026-07-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "DocuSmart AI ",
-    "summary": "New product launch on Product Hunt: DocuSmart AI ",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/docusmart-ai",
-    "date": "2026-03-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "ZooData",
-    "summary": "New product launch on Product Hunt: ZooData",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/zoodata",
-    "date": "2026-07-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Acebuilder",
-    "summary": "New product launch on Product Hunt: Acebuilder",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/acebuilder",
-    "date": "2026-07-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Clark",
-    "summary": "New product launch on Product Hunt: Clark",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clark-agent",
-    "date": "2026-05-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "pixel-point/aval - A new open-source format for interactive video on the web, with a built-in state",
-    "summary": "1210 stars | TypeScript | A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/pixel-point/aval",
-    "date": "2026-07-13",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "littledivy/mimic - Intercept any app, then call it from Python like a library",
-    "summary": "1174 stars | Python | Intercept any app, then call it from Python like a library",
-    "source": "GitHub Trending",
-    "url": "https://github.com/littledivy/mimic",
-    "date": "2026-07-13",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-    "summary": "361 points | 225 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-    "date": "2026-07-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "The state of open source AI",
-    "summary": "367 points | 266 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://stateofopensource.ai/",
-    "date": "2026-07-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Instrumation a PYPI library for Instruments",
-    "summary": "3 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/abduznik/instrumation",
-    "date": "2026-07-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-    "summary": "54 points | 23 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://app.everything.diena.co/",
-    "date": "2026-07-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-    "summary": "139 points | 49 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://honeypotlive.cc/",
-    "date": "2026-07-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Kimi K3",
-    "summary": "New product launch on Product Hunt: Kimi K3",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-    "date": "2026-07-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
