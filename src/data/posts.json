@@ -1,10 +1,10 @@
 [
   {
-    "title": "OpenAI and Hugging Face address security incident during model evaluation",
-    "summary": "686 points | 453 comments on Hacker News",
+    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "summary": "585 points | 361 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "date": "2026-07-21",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "date": "2026-07-22",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "FreeInk: Open ecosystem for e-readers",
-    "summary": "398 points | 99 comments on Hacker News",
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "summary": "359 points | 72 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://freeink.org/",
-    "date": "2026-07-21",
+    "url": "https://github.com/marcelroed/gigatoken/",
+    "date": "2026-07-22",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "summary": "608 points | 480 comments on Hacker News",
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "summary": "637 points | 149 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-    "date": "2026-07-21",
+    "url": "https://bento.page/slides/",
+    "date": "2026-07-22",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-    "summary": "233 points | 216 comments on Hacker News",
+    "title": "Are AI Labs Pelicanmaxxing?",
+    "summary": "386 points | 153 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-    "date": "2026-07-21",
+    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "date": "2026-07-22",
     "tags": [
       "HN"
     ],
@@ -48,23 +48,23 @@
     "id": 4
   },
   {
-    "title": "Apple defeats liability for not scanning iCloud for CSAM",
-    "summary": "345 points | 324 comments on Hacker News",
+    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+    "summary": "62 points | 10 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-    "date": "2026-07-21",
+    "url": "https://github.com/cactus-compute/cactus-hybrid",
+    "date": "2026-07-22",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-    "summary": "370 points | 64 comments on Hacker News",
+    "title": "John C. Dvorak has died",
+    "summary": "534 points | 170 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-    "date": "2026-07-21",
+    "url": "https://twitter.com/na_announce/status/2079952538040672302",
+    "date": "2026-07-22",
     "tags": [
       "HN"
     ],
@@ -72,23 +72,23 @@
     "id": 6
   },
   {
-    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
-    "summary": "18 points | 16 comments on Hacker News",
+    "title": "The startup's Postgres survival guide",
+    "summary": "310 points | 173 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.getcomputable.com/",
-    "date": "2026-07-21",
+    "url": "https://hatchet.run/blog/postgres-survival-guide",
+    "date": "2026-07-22",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
-    "summary": "82 points | 12 comments on Hacker News",
+    "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+    "summary": "46 points | 29 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://justif.lyall.co/",
-    "date": "2026-07-17",
+    "url": "https://unlayer.com",
+    "date": "2026-07-22",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Lev8",
-    "summary": "New product launch on Product Hunt: Lev8",
+    "title": "Humalike x Hermes",
+    "summary": "New product launch on Product Hunt: Humalike x Hermes",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lev8",
-    "date": "2026-07-15",
+    "url": "https://www.producthunt.com/products/humalike-2",
+    "date": "2026-07-17",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Rerun",
-    "summary": "New product launch on Product Hunt: Rerun",
+    "title": "box",
+    "summary": "New product launch on Product Hunt: box",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rerun-2",
-    "date": "2026-07-15",
+    "url": "https://www.producthunt.com/products/box-4",
+    "date": "2026-07-21",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Jockey by TwelveLabs ",
-    "summary": "New product launch on Product Hunt: Jockey by TwelveLabs ",
+    "title": "Kastra",
+    "summary": "New product launch on Product Hunt: Kastra",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/twelvelabs",
-    "date": "2026-07-13",
+    "url": "https://www.producthunt.com/products/kastra",
+    "date": "2026-07-09",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "CartAI",
-    "summary": "New product launch on Product Hunt: CartAI",
+    "title": "Lattics",
+    "summary": "New product launch on Product Hunt: Lattics",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cartai",
-    "date": "2026-05-31",
+    "url": "https://www.producthunt.com/products/lattics-2",
+    "date": "2026-07-21",
     "tags": [
       "Product Launch"
     ],
@@ -144,10 +144,10 @@
     "id": 12
   },
   {
-    "title": "ProtoFlow",
-    "summary": "New product launch on Product Hunt: ProtoFlow",
+    "title": "Redential",
+    "summary": "New product launch on Product Hunt: Redential",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/protoflow-2",
+    "url": "https://www.producthunt.com/products/redential",
     "date": "2026-07-21",
     "tags": [
       "Product Launch"
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Manifest",
-    "summary": "New product launch on Product Hunt: Manifest",
+    "title": "ACME.BOT",
+    "summary": "New product launch on Product Hunt: ACME.BOT",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/manifest-363",
-    "date": "2026-07-20",
+    "url": "https://www.producthunt.com/products/acme-bot",
+    "date": "2026-07-16",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness ",
-    "summary": "1605 stars | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "summary": "2192 stars | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
     "source": "GitHub Trending",
     "url": "https://github.com/lopopolo/harness-engineering",
     "date": "2026-07-18",
@@ -181,34 +181,8 @@
     "id": 15
   },
   {
-    "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
-    "summary": "1285 stars | JavaScript | Your clothes, extracted and organized with gpt-image.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/tandpfun/wardrobe",
-    "date": "2026-07-16",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
-    "summary": "962 stars | TypeScript | yoink any video from your terminal. no shady ads.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/pablostanley/yoinks",
-    "date": "2026-07-16",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
-    "summary": "911 stars | Go | Use LLMs to hide messages inside normal looking conversations",
+    "summary": "985 stars | Go | Use LLMs to hide messages inside normal looking conversations",
     "source": "GitHub Trending",
     "url": "https://github.com/nethical6/conversation-steganography",
     "date": "2026-07-17",
@@ -217,30 +191,56 @@
       "Go"
     ],
     "hot": true,
-    "id": 18
-  },
-  {
-    "title": "v-modal/vmodal_sdk_flutter - V- Modal AI: Search anything anywhere SDK Flutter",
-    "summary": "777 stars | Dart | V- Modal AI: Search anything anywhere SDK Flutter",
-    "source": "GitHub Trending",
-    "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-    "date": "2026-07-16",
-    "tags": [
-      "GitHub",
-      "Dart"
-    ],
-    "hot": true,
-    "id": 19
+    "id": 16
   },
   {
     "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot - An arbitrage bot is a smart contract connected to an external automation script ",
-    "summary": "739 stars | Solidity | An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "summary": "920 stars | Solidity | An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
     "source": "GitHub Trending",
     "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "date": "2026-07-17",
     "tags": [
       "GitHub",
       "Solidity"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "Blaizzy/nativ - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from ",
+    "summary": "760 stars | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Blaizzy/nativ",
+    "date": "2026-07-20",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two",
+    "summary": "621 stars | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Jakubantalik/thinking-orbs",
+    "date": "2026-07-21",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-co",
+    "summary": "620 stars | Python | Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/xiejunjie524/handdraw-story-video",
+    "date": "2026-07-18",
+    "tags": [
+      "GitHub",
+      "Python"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,213 @@
     "id": 26
   },
   {
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "summary": "686 points | 453 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "date": "2026-07-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "FreeInk: Open ecosystem for e-readers",
+    "summary": "398 points | 99 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://freeink.org/",
+    "date": "2026-07-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "summary": "608 points | 480 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "date": "2026-07-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "summary": "233 points | 216 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "date": "2026-07-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Apple defeats liability for not scanning iCloud for CSAM",
+    "summary": "345 points | 324 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+    "date": "2026-07-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+    "summary": "370 points | 64 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+    "date": "2026-07-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+    "summary": "18 points | 16 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.getcomputable.com/",
+    "date": "2026-07-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+    "summary": "82 points | 12 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://justif.lyall.co/",
+    "date": "2026-07-17",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Lev8",
+    "summary": "New product launch on Product Hunt: Lev8",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lev8",
+    "date": "2026-07-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Rerun",
+    "summary": "New product launch on Product Hunt: Rerun",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rerun-2",
+    "date": "2026-07-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Jockey by TwelveLabs ",
+    "summary": "New product launch on Product Hunt: Jockey by TwelveLabs ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/twelvelabs",
+    "date": "2026-07-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "CartAI",
+    "summary": "New product launch on Product Hunt: CartAI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cartai",
+    "date": "2026-05-31",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "ProtoFlow",
+    "summary": "New product launch on Product Hunt: ProtoFlow",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/protoflow-2",
+    "date": "2026-07-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Manifest",
+    "summary": "New product launch on Product Hunt: Manifest",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/manifest-363",
+    "date": "2026-07-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
+    "summary": "1285 stars | JavaScript | Your clothes, extracted and organized with gpt-image.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/tandpfun/wardrobe",
+    "date": "2026-07-16",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
+    "summary": "962 stars | TypeScript | yoink any video from your terminal. no shady ads.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/pablostanley/yoinks",
+    "date": "2026-07-16",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "v-modal/vmodal_sdk_flutter - V- Modal AI: Search anything anywhere SDK Flutter",
+    "summary": "777 stars | Dart | V- Modal AI: Search anything anywhere SDK Flutter",
+    "source": "GitHub Trending",
+    "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+    "date": "2026-07-16",
+    "tags": [
+      "GitHub",
+      "Dart"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
     "title": "Kimi Work",
     "summary": "391 points | 180 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Jelly UI: Soft-body physics for native HTML form controls",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Hacker wipes Romania's land registry database",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 47
   },
   {
     "title": "Airport Simulator",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "China’s open-weights AI strategy is winning",
@@ -393,7 +600,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Jellyfin founder Andrew leaves team",
@@ -405,7 +612,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 50
   },
   {
     "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
@@ -417,7 +624,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 51
   },
   {
     "title": "Autoplot",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Replay QA",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "CaptureKit",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "BlockscopeChat",
@@ -465,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "LnkFlow",
@@ -477,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "Backbeat Forge",
@@ -489,7 +696,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "Fei-Away/Codex-Dream-Skin - Codex Dream Skin",
@@ -502,7 +709,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "hoainho/img2threejs - Rebuild the object in a reference image as a code-only, procedural, quality-gate",
@@ -515,7 +722,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "Claude Code uses Bun written in Rust now",
@@ -523,212 +730,6 @@
     "source": "Hacker News",
     "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "date": "2026-07-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Blender 5.2 LTS",
-    "summary": "365 points | 147 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.blender.org/download/releases/5-2/",
-    "date": "2026-07-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "summary": "398 points | 196 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "date": "2026-07-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-    "summary": "311 points | 147 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/openai/codex/pull/33972/files",
-    "date": "2026-07-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Qwen 3.8",
-    "summary": "781 points | 546 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-    "date": "2026-07-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "I joined the IndieWeb, here's what I learned",
-    "summary": "151 points | 85 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-    "date": "2026-07-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-    "summary": "218 points | 84 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-    "date": "2026-07-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "BaseRT",
-    "summary": "New product launch on Product Hunt: BaseRT",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basert",
-    "date": "2026-07-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Rewisp",
-    "summary": "New product launch on Product Hunt: Rewisp",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
-    "date": "2026-07-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Detourmap",
-    "summary": "New product launch on Product Hunt: Detourmap",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/detourmap",
-    "date": "2026-07-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Kobbe",
-    "summary": "New product launch on Product Hunt: Kobbe",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kobbe",
-    "date": "2026-07-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "OpenSEO",
-    "summary": "New product launch on Product Hunt: OpenSEO",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openseo",
-    "date": "2026-07-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Spycost",
-    "summary": "New product launch on Product Hunt: Spycost",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/spycost",
-    "date": "2026-06-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "xai-org/grok-build - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib",
-    "summary": "20084 stars | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/xai-org/grok-build",
-    "date": "2026-07-14",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "CluvexStudio/Aether - No description",
-    "summary": "1316 stars | Rust | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/CluvexStudio/Aether",
-    "date": "2026-07-14",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "summary": "492 points | 322 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "date": "2026-07-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-    "summary": "70 points | 54 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.neatnik.net/hardcore-indieweb",
-    "date": "2026-07-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "LG monitors silently install software through Windows Update without consent",
-    "summary": "989 points | 506 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-    "date": "2026-07-18",
     "tags": [
       "HN"
     ],
