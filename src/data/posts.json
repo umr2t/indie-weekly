@@ -1,10 +1,10 @@
 [
   {
-    "title": "Writing by hand is good for your brain",
-    "summary": "963 points | 475 comments on Hacker News",
+    "title": "Claude Opus 5",
+    "summary": "1278 points | 698 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "date": "2026-07-23",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "date": "2026-07-24",
     "tags": [
       "HN"
     ],
@@ -12,35 +12,35 @@
     "id": 1
   },
   {
-    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "summary": "711 points | 642 comments on Hacker News",
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+    "summary": "84 points | 37 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "date": "2026-07-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 2
-  },
-  {
-    "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-    "summary": "118 points | 18 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/palmier-io/palmier-pro",
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
     "date": "2026-07-23",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 2
+  },
+  {
+    "title": "My security camera shipped a GitHub admin token in its login page",
+    "summary": "504 points | 173 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://hhh.hn/hanwha-github-token/",
+    "date": "2026-07-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 3
   },
   {
-    "title": "The arguments against open source AI are bad",
-    "summary": "201 points | 141 comments on Hacker News",
+    "title": "India's first privately-developed rocket reaches orbit on debut launch",
+    "summary": "485 points | 143 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-    "date": "2026-07-23",
+    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "date": "2026-07-20",
     "tags": [
       "HN"
     ],
@@ -48,35 +48,35 @@
     "id": 4
   },
   {
-    "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
-    "summary": "66 points | 52 comments on Hacker News",
+    "title": "If coding has been solved, why does software keep getting worse?",
+    "summary": "514 points | 408 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/izeigerman/claude-thermos",
-    "date": "2026-07-23",
+    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "date": "2026-07-24",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-    "summary": "80 points | 27 comments on Hacker News",
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "summary": "489 points | 230 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/onecli/onecli",
-    "date": "2026-07-23",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "date": "2026-07-24",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-    "summary": "370 points | 311 comments on Hacker News",
+    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "summary": "416 points | 226 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "date": "2026-07-23",
+    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+    "date": "2026-07-24",
     "tags": [
       "HN"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-    "summary": "588 points | 292 comments on Hacker News",
+    "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+    "summary": "372 points | 274 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "date": "2026-07-23",
+    "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+    "date": "2026-07-24",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "PromptQL",
-    "summary": "New product launch on Product Hunt: PromptQL",
+    "title": "Pushary",
+    "summary": "New product launch on Product Hunt: Pushary",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/promptql",
-    "date": "2026-07-18",
+    "url": "https://www.producthunt.com/products/pushary",
+    "date": "2026-07-10",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Basedash AI Kit",
-    "summary": "New product launch on Product Hunt: Basedash AI Kit",
+    "title": "Prosed",
+    "summary": "New product launch on Product Hunt: Prosed",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basedash",
-    "date": "2026-07-23",
+    "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+    "date": "2026-07-19",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Quaso",
-    "summary": "New product launch on Product Hunt: Quaso",
+    "title": "The new Firecrawl /search",
+    "summary": "New product launch on Product Hunt: The new Firecrawl /search",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notte",
-    "date": "2026-07-06",
+    "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+    "date": "2026-07-22",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "OpenCode Superapp",
-    "summary": "New product launch on Product Hunt: OpenCode Superapp",
+    "title": "YC has it",
+    "summary": "New product launch on Product Hunt: YC has it",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/opencode-superapp",
-    "date": "2026-07-23",
+    "url": "https://www.producthunt.com/products/yc-has-it",
+    "date": "2026-07-22",
     "tags": [
       "Product Launch"
     ],
@@ -144,10 +144,10 @@
     "id": 12
   },
   {
-    "title": "Mufal",
-    "summary": "New product launch on Product Hunt: Mufal",
+    "title": "Freesolo Flash",
+    "summary": "New product launch on Product Hunt: Freesolo Flash",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mufal",
+    "url": "https://www.producthunt.com/products/freesolo-flash",
     "date": "2026-07-22",
     "tags": [
       "Product Launch"
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Plow Mac App",
-    "summary": "New product launch on Product Hunt: Plow Mac App",
+    "title": "HarnessRouter",
+    "summary": "New product launch on Product Hunt: HarnessRouter",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/plow-mac-app-safely-run-gpt-5-6-agents",
-    "date": "2026-07-23",
+    "url": "https://www.producthunt.com/products/epsilla",
+    "date": "2026-07-22",
     "tags": [
       "Product Launch"
     ],
@@ -168,21 +168,8 @@
     "id": 14
   },
   {
-    "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness ",
-    "summary": "2275 stars | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-    "source": "GitHub Trending",
-    "url": "https://github.com/lopopolo/harness-engineering",
-    "date": "2026-07-18",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "andrewyng/openworker - No description",
-    "summary": "1253 stars | Python | ",
+    "summary": "3417 stars | Python | ",
     "source": "GitHub Trending",
     "url": "https://github.com/andrewyng/openworker",
     "date": "2026-07-20",
@@ -191,11 +178,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 16
+    "id": 15
   },
   {
     "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion:",
-    "summary": "937 stars | TypeScript | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "summary": "1438 stars | TypeScript | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
     "source": "GitHub Trending",
     "url": "https://github.com/Vincentwei1021/video-shotcraft",
     "date": "2026-07-19",
@@ -204,11 +191,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 17
+    "id": 16
   },
   {
     "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two",
-    "summary": "827 stars | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+    "summary": "932 stars | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
     "source": "GitHub Trending",
     "url": "https://github.com/Jakubantalik/thinking-orbs",
     "date": "2026-07-21",
@@ -217,11 +204,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 18
+    "id": 17
   },
   {
     "title": "Blaizzy/nativ - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from ",
-    "summary": "816 stars | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+    "summary": "860 stars | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
     "source": "GitHub Trending",
     "url": "https://github.com/Blaizzy/nativ",
     "date": "2026-07-20",
@@ -230,11 +217,24 @@
       "Swift"
     ],
     "hot": true,
+    "id": 18
+  },
+  {
+    "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+    "summary": "801 stars | Python | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/powerycy/goutoujunshi",
+    "date": "2026-07-20",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 19
   },
   {
     "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding",
-    "summary": "658 stars | TypeScript | Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any ",
+    "summary": "710 stars | TypeScript | Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any ",
     "source": "GitHub Trending",
     "url": "https://github.com/pireel/pireel",
     "date": "2026-07-20",
@@ -324,6 +324,187 @@
     "id": 26
   },
   {
+    "title": "Writing by hand is good for your brain",
+    "summary": "963 points | 475 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "date": "2026-07-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "summary": "711 points | 642 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "date": "2026-07-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+    "summary": "118 points | 18 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "date": "2026-07-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "The arguments against open source AI are bad",
+    "summary": "201 points | 141 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "date": "2026-07-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+    "summary": "66 points | 52 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/izeigerman/claude-thermos",
+    "date": "2026-07-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+    "summary": "80 points | 27 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/onecli/onecli",
+    "date": "2026-07-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+    "summary": "370 points | 311 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "date": "2026-07-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "summary": "588 points | 292 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "date": "2026-07-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "PromptQL",
+    "summary": "New product launch on Product Hunt: PromptQL",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/promptql",
+    "date": "2026-07-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Basedash AI Kit",
+    "summary": "New product launch on Product Hunt: Basedash AI Kit",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/basedash",
+    "date": "2026-07-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Quaso",
+    "summary": "New product launch on Product Hunt: Quaso",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/notte",
+    "date": "2026-07-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "OpenCode Superapp",
+    "summary": "New product launch on Product Hunt: OpenCode Superapp",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/opencode-superapp",
+    "date": "2026-07-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Mufal",
+    "summary": "New product launch on Product Hunt: Mufal",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mufal",
+    "date": "2026-07-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Plow Mac App",
+    "summary": "New product launch on Product Hunt: Plow Mac App",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/plow-mac-app-safely-run-gpt-5-6-agents",
+    "date": "2026-07-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness ",
+    "summary": "2275 stars | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "source": "GitHub Trending",
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "date": "2026-07-18",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
     "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
     "summary": "585 points | 361 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 42
   },
   {
     "title": "GigaToken: ~1000x faster Language model tokenization",
@@ -345,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
@@ -357,7 +538,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 44
   },
   {
     "title": "Are AI Labs Pelicanmaxxing?",
@@ -369,7 +550,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
@@ -381,7 +562,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 46
   },
   {
     "title": "John C. Dvorak has died",
@@ -393,7 +574,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 47
   },
   {
     "title": "The startup's Postgres survival guide",
@@ -405,7 +586,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
@@ -417,7 +598,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Humalike x Hermes",
@@ -429,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "box",
@@ -441,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Kastra",
@@ -453,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "Lattics",
@@ -465,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "Redential",
@@ -477,7 +658,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 54
   },
   {
     "title": "ACME.BOT",
@@ -489,7 +670,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 55
   },
   {
     "title": "nethical6/conversation-steganography - Use LLMs to hide messages inside normal looking conversations",
@@ -502,7 +683,7 @@
       "Go"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "MIgHTy-alIeN/MEV-Arbitrage-Bot - An arbitrage bot is a smart contract connected to an external automation script ",
@@ -515,7 +696,7 @@
       "Solidity"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "xiejunjie524/handdraw-story-video - Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-co",
@@ -528,7 +709,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 43
+    "id": 58
   },
   {
     "title": "The Pulse: a new trend, smart model routing",
@@ -541,7 +722,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 44
+    "id": 59
   },
   {
     "title": "OpenAI and Hugging Face address security incident during model evaluation",
@@ -551,188 +732,6 @@
     "date": "2026-07-21",
     "tags": [
       "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "FreeInk: Open ecosystem for e-readers",
-    "summary": "398 points | 99 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://freeink.org/",
-    "date": "2026-07-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "summary": "608 points | 480 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-    "date": "2026-07-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-    "summary": "233 points | 216 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-    "date": "2026-07-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Apple defeats liability for not scanning iCloud for CSAM",
-    "summary": "345 points | 324 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-    "date": "2026-07-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-    "summary": "370 points | 64 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-    "date": "2026-07-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
-    "summary": "18 points | 16 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.getcomputable.com/",
-    "date": "2026-07-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
-    "summary": "82 points | 12 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://justif.lyall.co/",
-    "date": "2026-07-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Lev8",
-    "summary": "New product launch on Product Hunt: Lev8",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lev8",
-    "date": "2026-07-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Rerun",
-    "summary": "New product launch on Product Hunt: Rerun",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rerun-2",
-    "date": "2026-07-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Jockey by TwelveLabs ",
-    "summary": "New product launch on Product Hunt: Jockey by TwelveLabs ",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/twelvelabs",
-    "date": "2026-07-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "CartAI",
-    "summary": "New product launch on Product Hunt: CartAI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cartai",
-    "date": "2026-05-31",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "ProtoFlow",
-    "summary": "New product launch on Product Hunt: ProtoFlow",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/protoflow-2",
-    "date": "2026-07-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Manifest",
-    "summary": "New product launch on Product Hunt: Manifest",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/manifest-363",
-    "date": "2026-07-20",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "tandpfun/wardrobe - Your clothes, extracted and organized with gpt-image.",
-    "summary": "1285 stars | JavaScript | Your clothes, extracted and organized with gpt-image.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/tandpfun/wardrobe",
-    "date": "2026-07-16",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "pablostanley/yoinks - yoink any video from your terminal. no shady ads.",
-    "summary": "962 stars | TypeScript | yoink any video from your terminal. no shady ads.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/pablostanley/yoinks",
-    "date": "2026-07-16",
-    "tags": [
-      "GitHub",
-      "TypeScript"
     ],
     "hot": true,
     "id": 60
