@@ -1,46 +1,46 @@
 [
   {
-    "title": "Stolen Buttons",
-    "summary": "567 points | 132 comments on Hacker News",
+    "title": "Show HN: Physically accurate black hole you can put in your room",
+    "summary": "14 points | 1 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://anatolyzenkov.com/stolen-buttons",
-    "date": "2026-07-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 1
-  },
-  {
-    "title": "Show HN: I made some transistor animations",
-    "summary": "129 points | 15 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://brandonli.net/semisim/animations",
-    "date": "2026-07-24",
+    "url": "https://blackhole.plav.in",
+    "date": "2026-07-23",
     "tags": [
       "HN"
     ],
     "hot": false,
-    "id": 2
+    "id": 1
   },
   {
-    "title": "Open-weight AI is having its Kubernetes moment",
-    "summary": "307 points | 249 comments on Hacker News",
+    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "summary": "356 points | 111 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-    "date": "2026-07-25",
+    "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+    "date": "2026-07-26",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 2
+  },
+  {
+    "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+    "summary": "103 points | 22 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/gmrandazzo/CheapSecurity",
+    "date": "2026-07-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 3
   },
   {
-    "title": "Show HN: Brolly, a plain-text weather forecast site",
-    "summary": "127 points | 43 comments on Hacker News",
+    "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+    "summary": "6 points | 2 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://brolly.sh/forecast/RWFP2qW8",
-    "date": "2026-07-25",
+    "url": "https://portzero.net/",
+    "date": "2026-07-27",
     "tags": [
       "HN"
     ],
@@ -48,35 +48,35 @@
     "id": 4
   },
   {
-    "title": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
-    "summary": "14 points | 5 comments on Hacker News",
+    "title": "Kill The Cookie Banner",
+    "summary": "828 points | 403 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/alokdhir/spinwin",
-    "date": "2026-07-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 5
-  },
-  {
-    "title": "Android May Soon Restrict On-Device ADB",
-    "summary": "874 points | 415 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-    "date": "2026-07-25",
+    "url": "https://killthecookiebanner.eu/",
+    "date": "2026-07-26",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 5
+  },
+  {
+    "title": "Show HN: Reverse Minesweeper",
+    "summary": "146 points | 50 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://sunflowersgame.com/",
+    "date": "2026-07-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 6
   },
   {
-    "title": "Heard",
-    "summary": "New product launch on Product Hunt: Heard",
+    "title": "BrainFeed",
+    "summary": "New product launch on Product Hunt: BrainFeed",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/heard-2",
-    "date": "2026-07-24",
+    "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
+    "date": "2026-07-25",
     "tags": [
       "Product Launch"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "Second Brain for Mac and Windows",
-    "summary": "New product launch on Product Hunt: Second Brain for Mac and Windows",
+    "title": "Aymo AI",
+    "summary": "New product launch on Product Hunt: Aymo AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/second-brain-cloudflare",
-    "date": "2026-07-17",
+    "url": "https://www.producthunt.com/products/aymo-ai",
+    "date": "2026-07-21",
     "tags": [
       "Product Launch"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "FluentDB",
-    "summary": "New product launch on Product Hunt: FluentDB",
+    "title": "Athena by Shoplazza",
+    "summary": "New product launch on Product Hunt: Athena by Shoplazza",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fluentdb-2",
-    "date": "2026-07-22",
+    "url": "https://www.producthunt.com/products/athena-by-shoplazza",
+    "date": "2026-07-17",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Health in ChatGPT",
-    "summary": "New product launch on Product Hunt: Health in ChatGPT",
+    "title": "Openbase",
+    "summary": "New product launch on Product Hunt: Openbase",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openai",
-    "date": "2026-07-25",
+    "url": "https://www.producthunt.com/products/openbase-2",
+    "date": "2026-07-19",
     "tags": [
       "Product Launch"
     ],
@@ -120,10 +120,10 @@
     "id": 10
   },
   {
-    "title": "ADE",
-    "summary": "New product launch on Product Hunt: ADE",
+    "title": "TouchGrass",
+    "summary": "New product launch on Product Hunt: TouchGrass",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
+    "url": "https://www.producthunt.com/products/touchgrass-2",
     "date": "2026-07-24",
     "tags": [
       "Product Launch"
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Capsomnia",
-    "summary": "New product launch on Product Hunt: Capsomnia",
+    "title": "SF Apartment Finder",
+    "summary": "New product launch on Product Hunt: SF Apartment Finder",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/capsomnia",
-    "date": "2026-07-19",
+    "url": "https://www.producthunt.com/products/sf-apartment-finder",
+    "date": "2026-07-25",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "andrewyng/openworker - No description",
-    "summary": "5009 stars | Python | ",
+    "title": "slvDev/esp32-ai - No description",
+    "summary": "1352 stars | Python | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/andrewyng/openworker",
-    "date": "2026-07-20",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "date": "2026-07-23",
     "tags": [
       "GitHub",
       "Python"
@@ -158,7 +158,7 @@
   },
   {
     "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two",
-    "summary": "1007 stars | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+    "summary": "1100 stars | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
     "source": "GitHub Trending",
     "url": "https://github.com/Jakubantalik/thinking-orbs",
     "date": "2026-07-21",
@@ -170,50 +170,50 @@
     "id": 14
   },
   {
-    "title": "Blaizzy/nativ - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from ",
-    "summary": "884 stars | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+    "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge wi",
+    "summary": "855 stars | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
     "source": "GitHub Trending",
-    "url": "https://github.com/Blaizzy/nativ",
-    "date": "2026-07-20",
+    "url": "https://github.com/mikiarlo3/ai-copywriter",
+    "date": "2026-07-24",
     "tags": [
       "GitHub",
-      "Swift"
+      "Python"
     ],
     "hot": true,
     "id": 15
   },
   {
-    "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-    "summary": "876 stars | Python | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+    "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+    "summary": "670 stars | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt.",
     "source": "GitHub Trending",
-    "url": "https://github.com/powerycy/goutoujunshi",
-    "date": "2026-07-20",
+    "url": "https://github.com/mshumer/Claude-of-Duty",
+    "date": "2026-07-25",
     "tags": [
       "GitHub",
-      "Python"
+      "JavaScript"
     ],
     "hot": true,
     "id": 16
   },
   {
-    "title": "slvDev/esp32-ai - No description",
-    "summary": "810 stars | Python | ",
+    "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diar",
+    "summary": "653 stars | JavaScript | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
     "source": "GitHub Trending",
-    "url": "https://github.com/slvDev/esp32-ai",
-    "date": "2026-07-23",
+    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "date": "2026-07-21",
     "tags": [
       "GitHub",
-      "Python"
+      "JavaScript"
     ],
     "hot": true,
     "id": 17
   },
   {
-    "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding",
-    "summary": "753 stars | TypeScript | Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any ",
+    "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
+    "summary": "511 stars | TypeScript | Get notified when big trades happen on Hyperliquid.",
     "source": "GitHub Trending",
-    "url": "https://github.com/pireel/pireel",
-    "date": "2026-07-20",
+    "url": "https://github.com/0xhype/hyperliquid-tracker",
+    "date": "2026-07-21",
     "tags": [
       "GitHub",
       "TypeScript"
@@ -300,6 +300,202 @@
     "id": 24
   },
   {
+    "title": "Stolen Buttons",
+    "summary": "567 points | 132 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://anatolyzenkov.com/stolen-buttons",
+    "date": "2026-07-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Show HN: I made some transistor animations",
+    "summary": "129 points | 15 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://brandonli.net/semisim/animations",
+    "date": "2026-07-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 26
+  },
+  {
+    "title": "Open-weight AI is having its Kubernetes moment",
+    "summary": "307 points | 249 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "date": "2026-07-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Brolly, a plain-text weather forecast site",
+    "summary": "127 points | 43 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://brolly.sh/forecast/RWFP2qW8",
+    "date": "2026-07-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
+    "summary": "14 points | 5 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/alokdhir/spinwin",
+    "date": "2026-07-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Android May Soon Restrict On-Device ADB",
+    "summary": "874 points | 415 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "date": "2026-07-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Heard",
+    "summary": "New product launch on Product Hunt: Heard",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/heard-2",
+    "date": "2026-07-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Second Brain for Mac and Windows",
+    "summary": "New product launch on Product Hunt: Second Brain for Mac and Windows",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+    "date": "2026-07-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "FluentDB",
+    "summary": "New product launch on Product Hunt: FluentDB",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/fluentdb-2",
+    "date": "2026-07-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Health in ChatGPT",
+    "summary": "New product launch on Product Hunt: Health in ChatGPT",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openai",
+    "date": "2026-07-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "ADE",
+    "summary": "New product launch on Product Hunt: ADE",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
+    "date": "2026-07-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Capsomnia",
+    "summary": "New product launch on Product Hunt: Capsomnia",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/capsomnia",
+    "date": "2026-07-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "andrewyng/openworker - No description",
+    "summary": "5009 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/andrewyng/openworker",
+    "date": "2026-07-20",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 37
+  },
+  {
+    "title": "Blaizzy/nativ - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from ",
+    "summary": "884 stars | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Blaizzy/nativ",
+    "date": "2026-07-20",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 38
+  },
+  {
+    "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+    "summary": "876 stars | Python | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/powerycy/goutoujunshi",
+    "date": "2026-07-20",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding",
+    "summary": "753 stars | TypeScript | Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/pireel/pireel",
+    "date": "2026-07-20",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
     "title": "Claude Opus 5",
     "summary": "1278 points | 698 comments on Hacker News",
     "source": "Hacker News",
@@ -309,7 +505,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 41
   },
   {
     "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
@@ -321,7 +517,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 26
+    "id": 42
   },
   {
     "title": "My security camera shipped a GitHub admin token in its login page",
@@ -333,7 +529,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "India's first privately-developed rocket reaches orbit on debut launch",
@@ -345,7 +541,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 44
   },
   {
     "title": "If coding has been solved, why does software keep getting worse?",
@@ -357,7 +553,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
@@ -369,7 +565,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Be skeptical of OpenAI's rogue hacker agent story",
@@ -381,7 +577,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
@@ -393,7 +589,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Pushary",
@@ -405,7 +601,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "Prosed",
@@ -417,7 +613,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "The new Firecrawl /search",
@@ -429,7 +625,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "YC has it",
@@ -441,7 +637,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Freesolo Flash",
@@ -453,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "HarnessRouter",
@@ -465,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion:",
@@ -478,7 +674,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "Writing by hand is good for your brain",
@@ -490,7 +686,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
@@ -502,7 +698,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
@@ -514,7 +710,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 42
+    "id": 58
   },
   {
     "title": "The arguments against open source AI are bad",
@@ -526,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
@@ -538,199 +734,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-    "summary": "80 points | 27 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/onecli/onecli",
-    "date": "2026-07-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-    "summary": "370 points | 311 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "date": "2026-07-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-    "summary": "588 points | 292 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "date": "2026-07-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "PromptQL",
-    "summary": "New product launch on Product Hunt: PromptQL",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/promptql",
-    "date": "2026-07-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Basedash AI Kit",
-    "summary": "New product launch on Product Hunt: Basedash AI Kit",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basedash",
-    "date": "2026-07-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Quaso",
-    "summary": "New product launch on Product Hunt: Quaso",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notte",
-    "date": "2026-07-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "OpenCode Superapp",
-    "summary": "New product launch on Product Hunt: OpenCode Superapp",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/opencode-superapp",
-    "date": "2026-07-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Mufal",
-    "summary": "New product launch on Product Hunt: Mufal",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mufal",
-    "date": "2026-07-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Plow Mac App",
-    "summary": "New product launch on Product Hunt: Plow Mac App",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/plow-mac-app-safely-run-gpt-5-6-agents",
-    "date": "2026-07-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "lopopolo/harness-engineering - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness ",
-    "summary": "2275 stars | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-    "source": "GitHub Trending",
-    "url": "https://github.com/lopopolo/harness-engineering",
-    "date": "2026-07-18",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-    "summary": "585 points | 361 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "date": "2026-07-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "GigaToken: ~1000x faster Language model tokenization",
-    "summary": "359 points | 72 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/marcelroed/gigatoken/",
-    "date": "2026-07-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-    "summary": "637 points | 149 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://bento.page/slides/",
-    "date": "2026-07-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Are AI Labs Pelicanmaxxing?",
-    "summary": "386 points | 153 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-    "date": "2026-07-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-    "summary": "62 points | 10 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/cactus-compute/cactus-hybrid",
-    "date": "2026-07-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "John C. Dvorak has died",
-    "summary": "534 points | 170 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://twitter.com/na_announce/status/2079952538040672302",
-    "date": "2026-07-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
