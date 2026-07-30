@@ -1,34 +1,34 @@
 [
   {
-    "title": "Codex Security",
-    "summary": "332 points | 91 comments on Hacker News",
+    "title": "AI's top startups are barely publishing their research",
+    "summary": "179 points | 99 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/openai/codex-security",
-    "date": "2026-07-28",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 1
-  },
-  {
-    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-    "summary": "110 points | 35 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/twalichiewicz/HNewhere",
-    "date": "2026-07-28",
+    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "date": "2026-07-29",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 1
+  },
+  {
+    "title": "The coolest use for the Vision Pro",
+    "summary": "371 points | 169 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 2
   },
   {
-    "title": "Substack writers, you need a website",
-    "summary": "407 points | 208 comments on Hacker News",
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "summary": "643 points | 223 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-    "date": "2026-07-28",
+    "url": "https://github.com/drumih/turbo-fieldfare",
+    "date": "2026-07-29",
     "tags": [
       "HN"
     ],
@@ -36,23 +36,23 @@
     "id": 3
   },
   {
-    "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-    "summary": "5 points | 0 comments on Hacker News",
+    "title": "Superlogical",
+    "summary": "515 points | 317 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+    "url": "https://www.superlogical.com/",
     "date": "2026-07-29",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Kimi K3 Architecture Overview and Notes",
-    "summary": "303 points | 40 comments on Hacker News",
+    "title": "Kimi K3-256k",
+    "summary": "334 points | 96 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-    "date": "2026-07-28",
+    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "date": "2026-07-29",
     "tags": [
       "HN"
     ],
@@ -60,47 +60,47 @@
     "id": 5
   },
   {
-    "title": "Show HN: How far do I have to go to run into 100k people?",
-    "summary": "44 points | 34 comments on Hacker News",
+    "title": "KOReader",
+    "summary": "661 points | 211 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://imjasonh.github.io/playground/population-rays/",
-    "date": "2026-07-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 6
-  },
-  {
-    "title": "New HIV vaccine shows unprecedented success in preclinical study",
-    "summary": "561 points | 238 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-    "date": "2026-07-28",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 7
-  },
-  {
-    "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-    "summary": "15 points | 6 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://studio.academa.ai/",
+    "url": "https://koreader.rocks/",
     "date": "2026-07-29",
     "tags": [
       "HN"
     ],
+    "hot": true,
+    "id": 6
+  },
+  {
+    "title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "summary": "10 points | 1 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "date": "2026-07-30",
+    "tags": [
+      "HN"
+    ],
     "hot": false,
+    "id": 7
+  },
+  {
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "summary": "341 points | 259 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 8
   },
   {
-    "title": "Cekura",
-    "summary": "New product launch on Product Hunt: Cekura",
+    "title": "ClinicFrame ",
+    "summary": "New product launch on Product Hunt: ClinicFrame ",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vocera",
-    "date": "2026-07-13",
+    "url": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
+    "date": "2026-06-30",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "RecipeBook by Shofo",
-    "summary": "New product launch on Product Hunt: RecipeBook by Shofo",
+    "title": "Denovo",
+    "summary": "New product launch on Product Hunt: Denovo",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/recipebook-by-shofo",
-    "date": "2026-07-25",
+    "url": "https://www.producthunt.com/products/denovo-business-manager",
+    "date": "2026-05-04",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Phantom",
-    "summary": "New product launch on Product Hunt: Phantom",
+    "title": "EQK 3.0",
+    "summary": "New product launch on Product Hunt: EQK 3.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/phantom-6",
-    "date": "2026-07-25",
+    "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
+    "date": "2026-07-21",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Liminal",
-    "summary": "New product launch on Product Hunt: Liminal",
+    "title": "Bo AI",
+    "summary": "New product launch on Product Hunt: Bo AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/liminal-4",
-    "date": "2026-07-27",
+    "url": "https://www.producthunt.com/products/bo-ai",
+    "date": "2026-07-28",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Prefactor",
-    "summary": "New product launch on Product Hunt: Prefactor",
+    "title": "Totem",
+    "summary": "New product launch on Product Hunt: Totem",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/prefactor",
-    "date": "2026-07-08",
+    "url": "https://www.producthunt.com/products/totem-5",
+    "date": "2026-07-28",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Ycode AI Agents",
-    "summary": "New product launch on Product Hunt: Ycode AI Agents",
+    "title": "SoundGate Guitar",
+    "summary": "New product launch on Product Hunt: SoundGate Guitar",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ycode",
-    "date": "2026-07-24",
+    "url": "https://www.producthunt.com/products/soundgate-guitar-app",
+    "date": "2026-07-05",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "MoonshotAI/Kimi-K3 - Open Frontier Intelligence",
-    "summary": "3421 stars | Unknown | Open Frontier Intelligence",
+    "summary": "5790 stars | Unknown | Open Frontier Intelligence",
     "source": "GitHub Trending",
     "url": "https://github.com/MoonshotAI/Kimi-K3",
     "date": "2026-07-27",
@@ -181,21 +181,8 @@
     "id": 15
   },
   {
-    "title": "slvDev/esp32-ai - No description",
-    "summary": "2059 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/slvDev/esp32-ai",
-    "date": "2026-07-23",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-    "summary": "1741 stars | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+    "summary": "2249 stars | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt.",
     "source": "GitHub Trending",
     "url": "https://github.com/mshumer/Claude-of-Duty",
     "date": "2026-07-25",
@@ -204,27 +191,40 @@
       "JavaScript"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "digimata/quill - Ultra-minimalist macOS recording + transcription.",
+    "summary": "1510 stars | Swift | Ultra-minimalist macOS recording + transcription.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/digimata/quill",
+    "date": "2026-07-24",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
     "id": 17
   },
   {
-    "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scal",
-    "summary": "1438 stars | Rust | AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+    "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge wi",
+    "summary": "1046 stars | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
     "source": "GitHub Trending",
-    "url": "https://github.com/kvcache-ai/AgentENV",
-    "date": "2026-07-23",
+    "url": "https://github.com/mikiarlo3/ai-copywriter",
+    "date": "2026-07-24",
     "tags": [
       "GitHub",
-      "Rust"
+      "Python"
     ],
     "hot": true,
     "id": 18
   },
   {
-    "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge wi",
-    "summary": "991 stars | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+    "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share li",
+    "summary": "932 stars | Python | An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
     "source": "GitHub Trending",
-    "url": "https://github.com/mikiarlo3/ai-copywriter",
-    "date": "2026-07-24",
+    "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+    "date": "2026-07-26",
     "tags": [
       "GitHub",
       "Python"
@@ -234,7 +234,7 @@
   },
   {
     "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-    "summary": "803 stars | Python | Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+    "summary": "873 stars | Python | Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
     "source": "GitHub Trending",
     "url": "https://github.com/VictorTaelin/OptMem",
     "date": "2026-07-25",
@@ -324,6 +324,200 @@
     "id": 26
   },
   {
+    "title": "Codex Security",
+    "summary": "332 points | 91 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/openai/codex-security",
+    "date": "2026-07-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+    "summary": "110 points | 35 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/twalichiewicz/HNewhere",
+    "date": "2026-07-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Substack writers, you need a website",
+    "summary": "407 points | 208 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "date": "2026-07-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+    "summary": "5 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Kimi K3 Architecture Overview and Notes",
+    "summary": "303 points | 40 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "date": "2026-07-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: How far do I have to go to run into 100k people?",
+    "summary": "44 points | 34 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://imjasonh.github.io/playground/population-rays/",
+    "date": "2026-07-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "summary": "561 points | 238 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+    "date": "2026-07-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+    "summary": "15 points | 6 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://studio.academa.ai/",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Cekura",
+    "summary": "New product launch on Product Hunt: Cekura",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vocera",
+    "date": "2026-07-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "RecipeBook by Shofo",
+    "summary": "New product launch on Product Hunt: RecipeBook by Shofo",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/recipebook-by-shofo",
+    "date": "2026-07-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Phantom",
+    "summary": "New product launch on Product Hunt: Phantom",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/phantom-6",
+    "date": "2026-07-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Liminal",
+    "summary": "New product launch on Product Hunt: Liminal",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/liminal-4",
+    "date": "2026-07-27",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Prefactor",
+    "summary": "New product launch on Product Hunt: Prefactor",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/prefactor",
+    "date": "2026-07-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Ycode AI Agents",
+    "summary": "New product launch on Product Hunt: Ycode AI Agents",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ycode",
+    "date": "2026-07-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "slvDev/esp32-ai - No description",
+    "summary": "2059 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "date": "2026-07-23",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scal",
+    "summary": "1438 stars | Rust | AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/kvcache-ai/AgentENV",
+    "date": "2026-07-23",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
     "title": "Our position on open-weights models",
     "summary": "420 points | 576 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 45
   },
   {
     "title": "FindDiskKiller",
@@ -369,7 +563,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Adomate",
@@ -381,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Repaint Socials",
@@ -393,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Tunio",
@@ -405,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "Grok 4.5",
@@ -417,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "Illume Labs",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
@@ -442,7 +636,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 36
+    "id": 52
   },
   {
     "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开",
@@ -455,7 +649,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 37
+    "id": 53
   },
   {
     "title": "Show HN: Physically accurate black hole you can put in your room",
@@ -467,7 +661,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
@@ -479,7 +673,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
@@ -491,7 +685,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
@@ -503,7 +697,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 57
   },
   {
     "title": "Kill The Cookie Banner",
@@ -515,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "Show HN: Reverse Minesweeper",
@@ -527,7 +721,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
+    "id": 59
   },
   {
     "title": "BrainFeed",
@@ -535,201 +729,6 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
     "date": "2026-07-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Aymo AI",
-    "summary": "New product launch on Product Hunt: Aymo AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/aymo-ai",
-    "date": "2026-07-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Athena by Shoplazza",
-    "summary": "New product launch on Product Hunt: Athena by Shoplazza",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/athena-by-shoplazza",
-    "date": "2026-07-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Openbase",
-    "summary": "New product launch on Product Hunt: Openbase",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openbase-2",
-    "date": "2026-07-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "TouchGrass",
-    "summary": "New product launch on Product Hunt: TouchGrass",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/touchgrass-2",
-    "date": "2026-07-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "SF Apartment Finder",
-    "summary": "New product launch on Product Hunt: SF Apartment Finder",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sf-apartment-finder",
-    "date": "2026-07-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two",
-    "summary": "1100 stars | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Jakubantalik/thinking-orbs",
-    "date": "2026-07-21",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diar",
-    "summary": "653 stars | JavaScript | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-    "source": "GitHub Trending",
-    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-    "date": "2026-07-21",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
-    "summary": "511 stars | TypeScript | Get notified when big trades happen on Hyperliquid.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/0xhype/hyperliquid-tracker",
-    "date": "2026-07-21",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Stolen Buttons",
-    "summary": "567 points | 132 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://anatolyzenkov.com/stolen-buttons",
-    "date": "2026-07-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Show HN: I made some transistor animations",
-    "summary": "129 points | 15 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://brandonli.net/semisim/animations",
-    "date": "2026-07-24",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Open-weight AI is having its Kubernetes moment",
-    "summary": "307 points | 249 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-    "date": "2026-07-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Show HN: Brolly, a plain-text weather forecast site",
-    "summary": "127 points | 43 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://brolly.sh/forecast/RWFP2qW8",
-    "date": "2026-07-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
-    "summary": "14 points | 5 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/alokdhir/spinwin",
-    "date": "2026-07-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Android May Soon Restrict On-Device ADB",
-    "summary": "874 points | 415 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-    "date": "2026-07-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Heard",
-    "summary": "New product launch on Product Hunt: Heard",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/heard-2",
-    "date": "2026-07-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Second Brain for Mac and Windows",
-    "summary": "New product launch on Product Hunt: Second Brain for Mac and Windows",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/second-brain-cloudflare",
-    "date": "2026-07-17",
     "tags": [
       "Product Launch"
     ],
