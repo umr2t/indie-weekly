@@ -1,22 +1,22 @@
 [
   {
-    "title": "AI's top startups are barely publishing their research",
-    "summary": "179 points | 99 comments on Hacker News",
+    "title": "Read this before you buy that TV streaming stick",
+    "summary": "554 points | 328 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "date": "2026-07-29",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "date": "2026-07-30",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 1
   },
   {
-    "title": "The coolest use for the Vision Pro",
-    "summary": "371 points | 169 comments on Hacker News",
+    "title": "Stacked PRs are now live on GitHub",
+    "summary": "460 points | 161 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "date": "2026-07-29",
+    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "date": "2026-07-30",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "summary": "643 points | 223 comments on Hacker News",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "summary": "474 points | 394 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/drumih/turbo-fieldfare",
-    "date": "2026-07-29",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "date": "2026-07-30",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Superlogical",
-    "summary": "515 points | 317 comments on Hacker News",
+    "title": "UEFA and its national associations will not participate in FIFA competitions",
+    "summary": "766 points | 430 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.superlogical.com/",
-    "date": "2026-07-29",
+    "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "date": "2026-07-30",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Kimi K3-256k",
-    "summary": "334 points | 96 comments on Hacker News",
+    "title": "Google will expand age checks on Android worldwide till the end of the year",
+    "summary": "351 points | 430 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-    "date": "2026-07-29",
+    "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+    "date": "2026-07-30",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "KOReader",
-    "summary": "661 points | 211 comments on Hacker News",
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "summary": "489 points | 323 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://koreader.rocks/",
-    "date": "2026-07-29",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "date": "2026-07-30",
     "tags": [
       "HN"
     ],
@@ -72,10 +72,10 @@
     "id": 6
   },
   {
-    "title": "Show HN: A local merge queue for parallel Claude Code agents",
-    "summary": "10 points | 1 comments on Hacker News",
+    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "summary": "83 points | 61 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/funador/claude-code-merge-queue",
+    "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
     "date": "2026-07-30",
     "tags": [
       "HN"
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "summary": "341 points | 259 comments on Hacker News",
+    "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+    "summary": "90 points | 19 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "url": "https://kedge.dev/",
     "date": "2026-07-29",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "ClinicFrame ",
-    "summary": "New product launch on Product Hunt: ClinicFrame ",
+    "title": "Phantom Voice",
+    "summary": "New product launch on Product Hunt: Phantom Voice",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
-    "date": "2026-06-30",
+    "url": "https://www.producthunt.com/products/phantom-voice",
+    "date": "2026-07-29",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Denovo",
-    "summary": "New product launch on Product Hunt: Denovo",
+    "title": "Greplica",
+    "summary": "New product launch on Product Hunt: Greplica",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/denovo-business-manager",
-    "date": "2026-05-04",
+    "url": "https://www.producthunt.com/products/greplica",
+    "date": "2026-07-29",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "EQK 3.0",
-    "summary": "New product launch on Product Hunt: EQK 3.0",
+    "title": "Premation",
+    "summary": "New product launch on Product Hunt: Premation",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
-    "date": "2026-07-21",
+    "url": "https://www.producthunt.com/products/premation",
+    "date": "2026-07-30",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Bo AI",
-    "summary": "New product launch on Product Hunt: Bo AI",
+    "title": "agentOS",
+    "summary": "New product launch on Product Hunt: agentOS",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/bo-ai",
-    "date": "2026-07-28",
+    "url": "https://www.producthunt.com/products/agentos-3",
+    "date": "2026-07-21",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Totem",
-    "summary": "New product launch on Product Hunt: Totem",
+    "title": "docktor",
+    "summary": "New product launch on Product Hunt: docktor",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/totem-5",
-    "date": "2026-07-28",
+    "url": "https://www.producthunt.com/products/docktor",
+    "date": "2026-07-29",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "SoundGate Guitar",
-    "summary": "New product launch on Product Hunt: SoundGate Guitar",
+    "title": "Sorinai",
+    "summary": "New product launch on Product Hunt: Sorinai",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/soundgate-guitar-app",
-    "date": "2026-07-05",
+    "url": "https://www.producthunt.com/products/sorinai",
+    "date": "2026-07-30",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "MoonshotAI/Kimi-K3 - Open Frontier Intelligence",
-    "summary": "5790 stars | Unknown | Open Frontier Intelligence",
+    "summary": "7537 stars | Unknown | Open Frontier Intelligence",
     "source": "GitHub Trending",
     "url": "https://github.com/MoonshotAI/Kimi-K3",
     "date": "2026-07-27",
@@ -182,7 +182,7 @@
   },
   {
     "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-    "summary": "2249 stars | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+    "summary": "2405 stars | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt.",
     "source": "GitHub Trending",
     "url": "https://github.com/mshumer/Claude-of-Duty",
     "date": "2026-07-25",
@@ -194,53 +194,53 @@
     "id": 16
   },
   {
-    "title": "digimata/quill - Ultra-minimalist macOS recording + transcription.",
-    "summary": "1510 stars | Swift | Ultra-minimalist macOS recording + transcription.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/digimata/quill",
-    "date": "2026-07-24",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
-    "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge wi",
-    "summary": "1046 stars | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/mikiarlo3/ai-copywriter",
-    "date": "2026-07-24",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
-    "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share li",
-    "summary": "932 stars | Python | An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
-    "date": "2026-07-26",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 19
-  },
-  {
     "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-    "summary": "873 stars | Python | Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+    "summary": "933 stars | Python | Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
     "source": "GitHub Trending",
     "url": "https://github.com/VictorTaelin/OptMem",
     "date": "2026-07-25",
     "tags": [
       "GitHub",
       "Python"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "xikhar/persona - Bringing real-time voice to life.",
+    "summary": "673 stars | JavaScript | Bringing real-time voice to life.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/xikhar/persona",
+    "date": "2026-07-28",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code",
+    "summary": "564 stars | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+    "date": "2026-07-28",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
+    "summary": "562 stars | TypeScript | runs anywhere. uses anything",
+    "source": "GitHub Trending",
+    "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+    "date": "2026-07-26",
+    "tags": [
+      "GitHub",
+      "TypeScript"
     ],
     "hot": true,
     "id": 20
@@ -285,6 +285,19 @@
     "id": 23
   },
   {
+    "title": "The Pulse: Quitting Spotify Podcasts over reliability",
+    "summary": "Spotify’s podcast platform has become chronically unreliable since the company’s leadership started boasting about AI adoption. Competitors haven’t had similar issues, so I offboarded from Spotify.",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/",
+    "date": "2026-07-30",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
     "title": "The Pulse: New trend - concern about massive increase in code review load",
     "summary": "Top of mind for engineering leaders: what to do about the growing code review load, and how devs are starting to review code less thoroughly than before? Many questions, but few proven solutions.",
     "source": "Pragmatic Engineer",
@@ -295,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
   },
   {
     "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
@@ -308,7 +321,214 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 26
+  },
+  {
+    "title": "AI's top startups are barely publishing their research",
+    "summary": "179 points | 99 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "The coolest use for the Vision Pro",
+    "summary": "371 points | 169 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "summary": "643 points | 223 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/drumih/turbo-fieldfare",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Superlogical",
+    "summary": "515 points | 317 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.superlogical.com/",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Kimi K3-256k",
+    "summary": "334 points | 96 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "KOReader",
+    "summary": "661 points | 211 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://koreader.rocks/",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "summary": "10 points | 1 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "date": "2026-07-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "summary": "341 points | 259 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "date": "2026-07-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "ClinicFrame ",
+    "summary": "New product launch on Product Hunt: ClinicFrame ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
+    "date": "2026-06-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Denovo",
+    "summary": "New product launch on Product Hunt: Denovo",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/denovo-business-manager",
+    "date": "2026-05-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "EQK 3.0",
+    "summary": "New product launch on Product Hunt: EQK 3.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
+    "date": "2026-07-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Bo AI",
+    "summary": "New product launch on Product Hunt: Bo AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/bo-ai",
+    "date": "2026-07-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Totem",
+    "summary": "New product launch on Product Hunt: Totem",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/totem-5",
+    "date": "2026-07-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "SoundGate Guitar",
+    "summary": "New product launch on Product Hunt: SoundGate Guitar",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/soundgate-guitar-app",
+    "date": "2026-07-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "digimata/quill - Ultra-minimalist macOS recording + transcription.",
+    "summary": "1510 stars | Swift | Ultra-minimalist macOS recording + transcription.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/digimata/quill",
+    "date": "2026-07-24",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge wi",
+    "summary": "1046 stars | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/mikiarlo3/ai-copywriter",
+    "date": "2026-07-24",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share li",
+    "summary": "932 stars | Python | An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+    "date": "2026-07-26",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 43
   },
   {
     "title": "The Pulse: Interesting AI coding stats from Cursor",
@@ -321,7 +541,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 26
+    "id": 44
   },
   {
     "title": "Codex Security",
@@ -333,7 +553,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 45
   },
   {
     "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
@@ -345,7 +565,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 46
   },
   {
     "title": "Substack writers, you need a website",
@@ -357,7 +577,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 47
   },
   {
     "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
@@ -369,7 +589,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 48
   },
   {
     "title": "Kimi K3 Architecture Overview and Notes",
@@ -381,7 +601,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 49
   },
   {
     "title": "Show HN: How far do I have to go to run into 100k people?",
@@ -393,7 +613,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 50
   },
   {
     "title": "New HIV vaccine shows unprecedented success in preclinical study",
@@ -405,7 +625,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 51
   },
   {
     "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
@@ -417,7 +637,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 52
   },
   {
     "title": "Cekura",
@@ -429,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 53
   },
   {
     "title": "RecipeBook by Shofo",
@@ -441,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 54
   },
   {
     "title": "Phantom",
@@ -453,7 +673,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 55
   },
   {
     "title": "Liminal",
@@ -465,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 56
   },
   {
     "title": "Prefactor",
@@ -477,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 57
   },
   {
     "title": "Ycode AI Agents",
@@ -489,7 +709,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 58
   },
   {
     "title": "slvDev/esp32-ai - No description",
@@ -502,7 +722,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 41
+    "id": 59
   },
   {
     "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scal",
@@ -515,224 +735,6 @@
       "Rust"
     ],
     "hot": true,
-    "id": 42
-  },
-  {
-    "title": "Our position on open-weights models",
-    "summary": "420 points | 576 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.anthropic.com/news/position-open-weights-models",
-    "date": "2026-07-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-    "summary": "59 points | 22 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.rise-reforming.com",
-    "date": "2026-07-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-    "summary": "88 points | 21 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://usefeyn.com/blog/feynobg/",
-    "date": "2026-07-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "FindDiskKiller",
-    "summary": "New product launch on Product Hunt: FindDiskKiller",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/finddiskkiller",
-    "date": "2026-07-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Adomate",
-    "summary": "New product launch on Product Hunt: Adomate",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/adomate",
-    "date": "2026-03-31",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Repaint Socials",
-    "summary": "New product launch on Product Hunt: Repaint Socials",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
-    "date": "2026-07-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Tunio",
-    "summary": "New product launch on Product Hunt: Tunio",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tunio",
-    "date": "2026-07-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Grok 4.5",
-    "summary": "New product launch on Product Hunt: Grok 4.5",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/grok",
-    "date": "2026-07-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Illume Labs",
-    "summary": "New product launch on Product Hunt: Illume Labs",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/illume-labs",
-    "date": "2026-07-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
-    "summary": "1745 stars | TypeScript | TypeScript-to-Native Compiler",
-    "source": "GitHub Trending",
-    "url": "https://github.com/vercel-labs/scriptc",
-    "date": "2026-07-22",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开",
-    "summary": "846 stars | TypeScript | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/makecindy/cindy",
-    "date": "2026-07-22",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Show HN: Physically accurate black hole you can put in your room",
-    "summary": "14 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blackhole.plav.in",
-    "date": "2026-07-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-    "summary": "356 points | 111 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-    "date": "2026-07-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-    "summary": "103 points | 22 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/gmrandazzo/CheapSecurity",
-    "date": "2026-07-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-    "summary": "6 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://portzero.net/",
-    "date": "2026-07-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Kill The Cookie Banner",
-    "summary": "828 points | 403 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://killthecookiebanner.eu/",
-    "date": "2026-07-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Reverse Minesweeper",
-    "summary": "146 points | 50 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://sunflowersgame.com/",
-    "date": "2026-07-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "BrainFeed",
-    "summary": "New product launch on Product Hunt: BrainFeed",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
-    "date": "2026-07-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
