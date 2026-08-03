@@ -1,10 +1,10 @@
 [
   {
-    "title": "How Google helped destroy adoption of RSS feeds (2023)",
-    "summary": "388 points | 135 comments on Hacker News",
+    "title": "Karpathy’s Pelican",
+    "summary": "429 points | 335 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-    "date": "2026-08-01",
+    "url": "https://twitter.com/karpathy/status/2083749667410727319",
+    "date": "2026-08-02",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Nyctography: A substituton cypher by Lewis Carroll",
-    "summary": "50 points | 5 comments on Hacker News",
+    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+    "summary": "177 points | 37 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://en.wikipedia.org/wiki/Nyctography",
-    "date": "2026-07-28",
+    "url": "https://github.com/wie-project/kakehashi",
+    "date": "2026-08-02",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal",
-    "summary": "7 points | 0 comments on Hacker News",
+    "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+    "summary": "82 points | 54 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/nooneknowspeter/legionlinuxtui",
-    "date": "2026-07-30",
+    "url": "https://github.com/pg83/shitty",
+    "date": "2026-08-02",
     "tags": [
       "HN"
     ],
@@ -36,71 +36,71 @@
     "id": 3
   },
   {
-    "title": "Cursor removed cost information from the usage page and CSV export",
-    "summary": "304 points | 138 comments on Hacker News",
+    "title": "Developers are attached to tools because tools encode trust",
+    "summary": "146 points | 69 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-    "date": "2026-08-01",
+    "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+    "date": "2026-07-29",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Terminal Candy",
-    "summary": "New product launch on Product Hunt: Terminal Candy",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/terminal-candy",
-    "date": "2026-07-19",
+    "title": "Show HN: Mu – Tools for Agents",
+    "summary": "25 points | 8 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/micro/mu",
+    "date": "2026-08-02",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 5
   },
   {
-    "title": "NudgeForMe",
-    "summary": "New product launch on Product Hunt: NudgeForMe",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nudgeforme",
-    "date": "2026-07-31",
+    "title": "Show HN: Make your Framework 12 sound like a creaky door",
+    "summary": "48 points | 5 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/ArcaEge/creakwork12",
+    "date": "2026-08-02",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 6
   },
   {
-    "title": "DeepSeek-V4-Flash-0731",
-    "summary": "New product launch on Product Hunt: DeepSeek-V4-Flash-0731",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/deepseek",
-    "date": "2026-07-31",
+    "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+    "summary": "95 points | 28 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/graham33/nixos-dgx-spark",
+    "date": "2026-08-02",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Tandem",
-    "summary": "New product launch on Product Hunt: Tandem",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tandem-11",
-    "date": "2026-07-28",
+    "title": "A tool for finding the causes of unstable Python tests",
+    "summary": "10 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/mgaitan/pytest-leak-finder",
+    "date": "2026-07-30",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "Kopai",
-    "summary": "New product launch on Product Hunt: Kopai",
+    "title": "Capptivo",
+    "summary": "New product launch on Product Hunt: Capptivo",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-    "date": "2026-07-31",
+    "url": "https://www.producthunt.com/products/capptivo",
+    "date": "2026-08-01",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Port22",
-    "summary": "New product launch on Product Hunt: Port22",
+    "title": "UniwebPay Skill",
+    "summary": "New product launch on Product Hunt: UniwebPay Skill",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/port22",
-    "date": "2026-07-29",
+    "url": "https://www.producthunt.com/products/uniwebpay",
+    "date": "2026-07-14",
     "tags": [
       "Product Launch"
     ],
@@ -120,21 +120,56 @@
     "id": 10
   },
   {
-    "title": "MoonshotAI/Kimi-K3 - Open Frontier Intelligence",
-    "summary": "7826 stars | Unknown | Open Frontier Intelligence",
-    "source": "GitHub Trending",
-    "url": "https://github.com/MoonshotAI/Kimi-K3",
-    "date": "2026-07-27",
+    "title": "Finamie",
+    "summary": "New product launch on Product Hunt: Finamie",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/finamie-know-your-money-for-real",
+    "date": "2026-08-01",
     "tags": [
-      "GitHub",
-      "Code"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 11
   },
   {
+    "title": "FreqWave EQ",
+    "summary": "New product launch on Product Hunt: FreqWave EQ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/freqwave-eq-browser-audio-equalizer",
+    "date": "2026-07-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 12
+  },
+  {
+    "title": "Zinley",
+    "summary": "New product launch on Product Hunt: Zinley",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/zinley",
+    "date": "2026-05-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
+    "title": "Lumichats",
+    "summary": "New product launch on Product Hunt: Lumichats",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lumichats-offline",
+    "date": "2026-08-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "yc-software/qm - Multiplayer agent harness for work",
-    "summary": "5021 stars | TypeScript | Multiplayer agent harness for work",
+    "summary": "7276 stars | TypeScript | Multiplayer agent harness for work",
     "source": "GitHub Trending",
     "url": "https://github.com/yc-software/qm",
     "date": "2026-07-29",
@@ -143,11 +178,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 12
+    "id": 15
   },
   {
     "title": "bashalarmistalt/decimen-optical-transfer - No description",
-    "summary": "3084 stars | TypeScript | ",
+    "summary": "3692 stars | TypeScript | ",
     "source": "GitHub Trending",
     "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
     "date": "2026-07-30",
@@ -156,24 +191,24 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 13
+    "id": 16
   },
   {
-    "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-",
-    "summary": "1283 stars | JavaScript | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+    "title": "trycompai/crm - An open-source, agentic-first CRM.",
+    "summary": "1840 stars | TypeScript | An open-source, agentic-first CRM.",
     "source": "GitHub Trending",
-    "url": "https://github.com/QwenAudio/qwen-audio-agent",
-    "date": "2026-07-27",
+    "url": "https://github.com/trycompai/crm",
+    "date": "2026-07-31",
     "tags": [
       "GitHub",
-      "JavaScript"
+      "TypeScript"
     ],
     "hot": true,
-    "id": 14
+    "id": 17
   },
   {
     "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer - FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-    "summary": "1008 stars | Unknown | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+    "summary": "1577 stars | Unknown | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
     "source": "GitHub Trending",
     "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "date": "2026-07-30",
@@ -182,20 +217,33 @@
       "Code"
     ],
     "hot": true,
-    "id": 15
+    "id": 18
   },
   {
-    "title": "xikhar/persona - Bringing real-time voice to life.",
-    "summary": "764 stars | JavaScript | Bringing real-time voice to life.",
+    "title": "WilonityDev/WilonityLoader - Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 2",
+    "summary": "1215 stars | Unknown | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chamel",
     "source": "GitHub Trending",
-    "url": "https://github.com/xikhar/persona",
+    "url": "https://github.com/WilonityDev/WilonityLoader",
+    "date": "2026-07-31",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "sqliteai/waste - Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by strea",
+    "summary": "1071 stars | C | Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/sqliteai/waste",
     "date": "2026-07-28",
     "tags": [
       "GitHub",
-      "JavaScript"
+      "C"
     ],
     "hot": true,
-    "id": 16
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -208,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 17
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -221,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 18
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -234,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 23
   },
   {
     "title": "The Pulse: Quitting Spotify Podcasts over reliability",
@@ -247,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 20
+    "id": 24
   },
   {
     "title": "The Pulse: New trend - concern about massive increase in code review load",
@@ -260,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 21
+    "id": 25
   },
   {
     "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
@@ -273,7 +321,166 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 26
+  },
+  {
+    "title": "How Google helped destroy adoption of RSS feeds (2023)",
+    "summary": "388 points | 135 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+    "date": "2026-08-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Nyctography: A substituton cypher by Lewis Carroll",
+    "summary": "50 points | 5 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://en.wikipedia.org/wiki/Nyctography",
+    "date": "2026-07-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal",
+    "summary": "7 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/nooneknowspeter/legionlinuxtui",
+    "date": "2026-07-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Cursor removed cost information from the usage page and CSV export",
+    "summary": "304 points | 138 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+    "date": "2026-08-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Terminal Candy",
+    "summary": "New product launch on Product Hunt: Terminal Candy",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/terminal-candy",
+    "date": "2026-07-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "NudgeForMe",
+    "summary": "New product launch on Product Hunt: NudgeForMe",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nudgeforme",
+    "date": "2026-07-31",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "DeepSeek-V4-Flash-0731",
+    "summary": "New product launch on Product Hunt: DeepSeek-V4-Flash-0731",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/deepseek",
+    "date": "2026-07-31",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Tandem",
+    "summary": "New product launch on Product Hunt: Tandem",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/tandem-11",
+    "date": "2026-07-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Kopai",
+    "summary": "New product launch on Product Hunt: Kopai",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+    "date": "2026-07-31",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Port22",
+    "summary": "New product launch on Product Hunt: Port22",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/port22",
+    "date": "2026-07-29",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "MoonshotAI/Kimi-K3 - Open Frontier Intelligence",
+    "summary": "7826 stars | Unknown | Open Frontier Intelligence",
+    "source": "GitHub Trending",
+    "url": "https://github.com/MoonshotAI/Kimi-K3",
+    "date": "2026-07-27",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 37
+  },
+  {
+    "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-",
+    "summary": "1283 stars | JavaScript | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+    "source": "GitHub Trending",
+    "url": "https://github.com/QwenAudio/qwen-audio-agent",
+    "date": "2026-07-27",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 38
+  },
+  {
+    "title": "xikhar/persona - Bringing real-time voice to life.",
+    "summary": "764 stars | JavaScript | Bringing real-time voice to life.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/xikhar/persona",
+    "date": "2026-07-28",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 39
   },
   {
     "title": "Tailscale didn't stop the Hugging Face intrusion",
@@ -285,7 +492,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 23
+    "id": 40
   },
   {
     "title": "Elevators",
@@ -297,7 +504,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 24
+    "id": 41
   },
   {
     "title": "witr",
@@ -309,7 +516,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 25
+    "id": 42
   },
   {
     "title": "Screencap",
@@ -321,7 +528,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 26
+    "id": 43
   },
   {
     "title": "Cleanlist AI",
@@ -333,7 +540,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Customer.io Summer Release",
@@ -345,7 +552,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Poth Labs",
@@ -357,7 +564,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 29
+    "id": 46
   },
   {
     "title": "DepthData",
@@ -369,7 +576,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 30
+    "id": 47
   },
   {
     "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code",
@@ -382,7 +589,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Read this before you buy that TV streaming stick",
@@ -394,7 +601,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Stacked PRs are now live on GitHub",
@@ -406,7 +613,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 50
   },
   {
     "title": "Gemini Robotics 2 brings whole body intelligence to robots",
@@ -418,7 +625,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 51
   },
   {
     "title": "UEFA and its national associations will not participate in FIFA competitions",
@@ -430,7 +637,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Google will expand age checks on Android worldwide till the end of the year",
@@ -442,7 +649,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Advancing the price-performance frontier with GPT‑5.6",
@@ -454,7 +661,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 37
+    "id": 54
   },
   {
     "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
@@ -466,7 +673,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
@@ -478,7 +685,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "Phantom Voice",
@@ -490,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "Greplica",
@@ -502,7 +709,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 41
+    "id": 58
   },
   {
     "title": "Premation",
@@ -514,7 +721,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 42
+    "id": 59
   },
   {
     "title": "agentOS",
@@ -522,213 +729,6 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/agentos-3",
     "date": "2026-07-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 43
-  },
-  {
-    "title": "docktor",
-    "summary": "New product launch on Product Hunt: docktor",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/docktor",
-    "date": "2026-07-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Sorinai",
-    "summary": "New product launch on Product Hunt: Sorinai",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sorinai",
-    "date": "2026-07-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-    "summary": "2405 stars | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/mshumer/Claude-of-Duty",
-    "date": "2026-07-25",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-    "summary": "933 stars | Python | Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/VictorTaelin/OptMem",
-    "date": "2026-07-25",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
-    "summary": "562 stars | TypeScript | runs anywhere. uses anything",
-    "source": "GitHub Trending",
-    "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-    "date": "2026-07-26",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "AI's top startups are barely publishing their research",
-    "summary": "179 points | 99 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "date": "2026-07-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "The coolest use for the Vision Pro",
-    "summary": "371 points | 169 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "date": "2026-07-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "summary": "643 points | 223 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/drumih/turbo-fieldfare",
-    "date": "2026-07-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Superlogical",
-    "summary": "515 points | 317 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.superlogical.com/",
-    "date": "2026-07-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Kimi K3-256k",
-    "summary": "334 points | 96 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-    "date": "2026-07-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "KOReader",
-    "summary": "661 points | 211 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://koreader.rocks/",
-    "date": "2026-07-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Show HN: A local merge queue for parallel Claude Code agents",
-    "summary": "10 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/funador/claude-code-merge-queue",
-    "date": "2026-07-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "summary": "341 points | 259 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "date": "2026-07-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "ClinicFrame ",
-    "summary": "New product launch on Product Hunt: ClinicFrame ",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
-    "date": "2026-06-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Denovo",
-    "summary": "New product launch on Product Hunt: Denovo",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/denovo-business-manager",
-    "date": "2026-05-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "EQK 3.0",
-    "summary": "New product launch on Product Hunt: EQK 3.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
-    "date": "2026-07-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Bo AI",
-    "summary": "New product launch on Product Hunt: Bo AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/bo-ai",
-    "date": "2026-07-28",
     "tags": [
       "Product Launch"
     ],
