@@ -1,10 +1,10 @@
 [
   {
-    "title": "Discovery Loop",
-    "summary": "581 points | 366 comments on Hacker News",
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "summary": "375 points | 297 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.discoveryloop.com/",
-    "date": "2026-08-05",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "date": "2026-08-06",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-    "summary": "459 points | 579 comments on Hacker News",
+    "title": "Mario Meets Pareto",
+    "summary": "877 points | 150 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "date": "2026-08-05",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "date": "2026-08-06",
     "tags": [
       "HN"
     ],
@@ -24,59 +24,59 @@
     "id": 2
   },
   {
-    "title": "Cloudflare OS: an open platform for agents, apps, and work",
-    "summary": "467 points | 231 comments on Hacker News",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "summary": "187 points | 130 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "date": "2026-08-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 3
-  },
-  {
-    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-    "summary": "42 points | 28 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.hyperprobe.co",
-    "date": "2026-08-05",
+    "url": "https://provenmetal.com",
+    "date": "2026-08-06",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 3
+  },
+  {
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "summary": "325 points | 272 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "date": "2026-08-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 4
   },
   {
-    "title": "BackEngine MCP",
-    "summary": "New product launch on Product Hunt: BackEngine MCP",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backengine-mcp",
-    "date": "2026-08-04",
+    "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "summary": "87 points | 20 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/CopilotKit/channels-sdk",
+    "date": "2026-08-06",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 5
   },
   {
-    "title": "Keytones",
-    "summary": "New product launch on Product Hunt: Keytones",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/keytones-for-mac",
-    "date": "2026-07-21",
+    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+    "summary": "430 points | 279 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+    "date": "2026-08-06",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Wispr Flow Notetaker",
-    "summary": "New product launch on Product Hunt: Wispr Flow Notetaker",
+    "title": "Gesture Synth School",
+    "summary": "New product launch on Product Hunt: Gesture Synth School",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/wisprflow",
-    "date": "2026-08-04",
+    "url": "https://www.producthunt.com/products/gesture-synth-school",
+    "date": "2026-08-06",
     "tags": [
       "Product Launch"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "ngrok AI Gateway",
-    "summary": "New product launch on Product Hunt: ngrok AI Gateway",
+    "title": "Shieldstral",
+    "summary": "New product launch on Product Hunt: Shieldstral",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
-    "date": "2026-07-23",
+    "url": "https://www.producthunt.com/products/mistral-7b",
+    "date": "2026-08-06",
     "tags": [
       "Product Launch"
     ],
@@ -96,10 +96,10 @@
     "id": 8
   },
   {
-    "title": "NextDoor.Company",
-    "summary": "New product launch on Product Hunt: NextDoor.Company",
+    "title": "Ododok",
+    "summary": "New product launch on Product Hunt: Ododok",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nextdoor-company",
+    "url": "https://www.producthunt.com/products/ododok",
     "date": "2026-08-04",
     "tags": [
       "Product Launch"
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Keystroke",
-    "summary": "New product launch on Product Hunt: Keystroke",
+    "title": "Chute",
+    "summary": "New product launch on Product Hunt: Chute",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/keystroke-2",
-    "date": "2026-08-04",
+    "url": "https://www.producthunt.com/products/chute-better-airdrop",
+    "date": "2026-08-05",
     "tags": [
       "Product Launch"
     ],
@@ -120,21 +120,32 @@
     "id": 10
   },
   {
-    "title": "trycompai/crm - An open-source, agentic-first CRM.",
-    "summary": "6278 stars | TypeScript | An open-source, agentic-first CRM.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/trycompai/crm",
-    "date": "2026-07-31",
+    "title": "Annotate",
+    "summary": "New product launch on Product Hunt: Annotate",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/annotate-8",
+    "date": "2026-08-05",
     "tags": [
-      "GitHub",
-      "TypeScript"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 11
   },
   {
+    "title": "AI Spend Console by Rippling",
+    "summary": "New product launch on Product Hunt: AI Spend Console by Rippling",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rippling",
+    "date": "2026-07-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 12
+  },
+  {
     "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ",
-    "summary": "5113 stars | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "summary": "8565 stars | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
     "source": "GitHub Trending",
     "url": "https://github.com/firecrawl/anydoc",
     "date": "2026-08-03",
@@ -143,11 +154,11 @@
       "Rust"
     ],
     "hot": true,
-    "id": 12
+    "id": 13
   },
   {
     "title": "FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o",
-    "summary": "2579 stars | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "summary": "2837 stars | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
     "source": "GitHub Trending",
     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
     "date": "2026-08-01",
@@ -156,11 +167,11 @@
       "C"
     ],
     "hot": true,
-    "id": 13
+    "id": 14
   },
   {
     "title": "imsai-sh/zhuzhiliao - 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-    "summary": "2035 stars | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+    "summary": "2301 stars | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
     "source": "GitHub Trending",
     "url": "https://github.com/imsai-sh/zhuzhiliao",
     "date": "2026-08-01",
@@ -169,24 +180,11 @@
       "HTML"
     ],
     "hot": true,
-    "id": 14
-  },
-  {
-    "title": "genspark-ai/genoffice - An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr",
-    "summary": "1781 stars | TypeScript | An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/genspark-ai/genoffice",
-    "date": "2026-07-31",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
     "id": 15
   },
   {
     "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "summary": "1614 stars | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+    "summary": "1869 stars | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
     "source": "GitHub Trending",
     "url": "https://github.com/thebuggeddev/anatomy",
     "date": "2026-08-02",
@@ -196,6 +194,32 @@
     ],
     "hot": true,
     "id": 16
+  },
+  {
+    "title": "DannyMac180/sol-advisor - Codex-native architect orchestration with Luna and Terra implementation lanes an",
+    "summary": "1707 stars | Shell | Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/DannyMac180/sol-advisor",
+    "date": "2026-08-01",
+    "tags": [
+      "GitHub",
+      "Shell"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "summary": "1603 stars | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/KKKKhazix/human-writing",
+    "date": "2026-08-05",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 18
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -208,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 17
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -221,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 18
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -234,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 21
   },
   {
     "title": "The Pulse: Bending Spoons' Acquisition Strategy",
@@ -247,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 20
+    "id": 22
   },
   {
     "title": "The Pulse: Quitting Spotify Podcasts over reliability",
@@ -260,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 21
+    "id": 23
   },
   {
     "title": "The Pulse: New trend - concern about massive increase in code review load",
@@ -273,7 +297,153 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 24
+  },
+  {
+    "title": "Discovery Loop",
+    "summary": "581 points | 366 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.discoveryloop.com/",
+    "date": "2026-08-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "summary": "459 points | 579 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "date": "2026-08-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 26
+  },
+  {
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "summary": "467 points | 231 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "date": "2026-08-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+    "summary": "42 points | 28 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.hyperprobe.co",
+    "date": "2026-08-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "BackEngine MCP",
+    "summary": "New product launch on Product Hunt: BackEngine MCP",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/backengine-mcp",
+    "date": "2026-08-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Keytones",
+    "summary": "New product launch on Product Hunt: Keytones",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/keytones-for-mac",
+    "date": "2026-07-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Wispr Flow Notetaker",
+    "summary": "New product launch on Product Hunt: Wispr Flow Notetaker",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/wisprflow",
+    "date": "2026-08-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "ngrok AI Gateway",
+    "summary": "New product launch on Product Hunt: ngrok AI Gateway",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
+    "date": "2026-07-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "NextDoor.Company",
+    "summary": "New product launch on Product Hunt: NextDoor.Company",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nextdoor-company",
+    "date": "2026-08-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Keystroke",
+    "summary": "New product launch on Product Hunt: Keystroke",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/keystroke-2",
+    "date": "2026-08-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "trycompai/crm - An open-source, agentic-first CRM.",
+    "summary": "6278 stars | TypeScript | An open-source, agentic-first CRM.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/trycompai/crm",
+    "date": "2026-07-31",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 35
+  },
+  {
+    "title": "genspark-ai/genoffice - An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr",
+    "summary": "1781 stars | TypeScript | An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/genspark-ai/genoffice",
+    "date": "2026-07-31",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 36
   },
   {
     "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
@@ -285,7 +455,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 23
+    "id": 37
   },
   {
     "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
@@ -297,7 +467,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 24
+    "id": 38
   },
   {
     "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
@@ -309,7 +479,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 39
   },
   {
     "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
@@ -321,7 +491,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 40
   },
   {
     "title": "Show HN: SIMD Viterbi Decoder in Rust",
@@ -333,7 +503,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 41
   },
   {
     "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
@@ -345,7 +515,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 42
   },
   {
     "title": "DeepSeek V4 Flash on a Single AMD MI300X",
@@ -357,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 43
   },
   {
     "title": "Show HN: A little physical breakout clone",
@@ -369,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 44
   },
   {
     "title": "Wondering",
@@ -381,7 +551,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 45
   },
   {
     "title": "Atlaso",
@@ -393,7 +563,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 46
   },
   {
     "title": "Screen Awesome ",
@@ -405,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 47
   },
   {
     "title": "GrowthBook 5.0",
@@ -417,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 48
   },
   {
     "title": "Dashi Metrics",
@@ -429,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "SpeakoFlow",
@@ -441,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "bashalarmistalt/decimen-optical-transfer - No description",
@@ -454,7 +624,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 37
+    "id": 51
   },
   {
     "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer - FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
@@ -467,7 +637,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 38
+    "id": 52
   },
   {
     "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
@@ -480,7 +650,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 39
+    "id": 53
   },
   {
     "title": "LLMs reward expertise",
@@ -492,7 +662,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 54
   },
   {
     "title": "Ten advances in mathematics and theoretical computer science",
@@ -504,7 +674,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "Devtools must be open source",
@@ -516,7 +686,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 56
   },
   {
     "title": "Prevent cognitive debt by manually retyping LLM-generated code",
@@ -528,7 +698,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 57
   },
   {
     "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
@@ -540,7 +710,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
+    "id": 58
   },
   {
     "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
@@ -552,7 +722,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 45
+    "id": 59
   },
   {
     "title": "Appllama",
@@ -562,176 +732,6 @@
     "date": "2026-08-02",
     "tags": [
       "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Ctruh Studio",
-    "summary": "New product launch on Product Hunt: Ctruh Studio",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ctruh-studio",
-    "date": "2026-07-31",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "MascotAI",
-    "summary": "New product launch on Product Hunt: MascotAI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mascotai",
-    "date": "2026-08-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Airtop for Google Ads Automation",
-    "summary": "New product launch on Product Hunt: Airtop for Google Ads Automation",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/airtop",
-    "date": "2026-07-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "yapyap",
-    "summary": "New product launch on Product Hunt: yapyap",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/yapyap-3",
-    "date": "2026-07-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Hand Wave",
-    "summary": "New product launch on Product Hunt: Hand Wave",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hand-wave",
-    "date": "2026-07-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "yc-software/qm - Multiplayer agent harness for work",
-    "summary": "9712 stars | TypeScript | Multiplayer agent harness for work",
-    "source": "GitHub Trending",
-    "url": "https://github.com/yc-software/qm",
-    "date": "2026-07-29",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "microsoft/skill-recorder - Desktop app that records your on-screen work session and uses the GitHub Copilot",
-    "summary": "1411 stars | TypeScript | Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automatio",
-    "source": "GitHub Trending",
-    "url": "https://github.com/microsoft/skill-recorder",
-    "date": "2026-07-29",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Karpathy’s Pelican",
-    "summary": "429 points | 335 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://twitter.com/karpathy/status/2083749667410727319",
-    "date": "2026-08-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-    "summary": "177 points | 37 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/wie-project/kakehashi",
-    "date": "2026-08-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-    "summary": "82 points | 54 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/pg83/shitty",
-    "date": "2026-08-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Developers are attached to tools because tools encode trust",
-    "summary": "146 points | 69 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-    "date": "2026-07-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Show HN: Mu – Tools for Agents",
-    "summary": "25 points | 8 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/micro/mu",
-    "date": "2026-08-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Make your Framework 12 sound like a creaky door",
-    "summary": "48 points | 5 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/ArcaEge/creakwork12",
-    "date": "2026-08-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-    "summary": "95 points | 28 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/graham33/nixos-dgx-spark",
-    "date": "2026-08-02",
-    "tags": [
-      "HN"
     ],
     "hot": false,
     "id": 60
