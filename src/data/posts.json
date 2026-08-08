@@ -1,10 +1,10 @@
 [
   {
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "summary": "375 points | 297 comments on Hacker News",
+    "title": "DeepSeek V4 Flash 0731",
+    "summary": "434 points | 252 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "date": "2026-08-06",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "date": "2026-08-07",
     "tags": [
       "HN"
     ],
@@ -12,35 +12,35 @@
     "id": 1
   },
   {
-    "title": "Mario Meets Pareto",
-    "summary": "877 points | 150 comments on Hacker News",
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "summary": "43 points | 14 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "date": "2026-08-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 2
-  },
-  {
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-    "summary": "187 points | 130 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://provenmetal.com",
-    "date": "2026-08-06",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "date": "2026-08-07",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 2
+  },
+  {
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "summary": "385 points | 518 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 3
   },
   {
-    "title": "GitHub Actions and Pages are experiencing degraded availability",
-    "summary": "325 points | 272 comments on Hacker News",
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "summary": "371 points | 247 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "date": "2026-08-06",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "date": "2026-08-07",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-    "summary": "87 points | 20 comments on Hacker News",
+    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+    "summary": "132 points | 58 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/CopilotKit/channels-sdk",
-    "date": "2026-08-06",
+    "url": "https://textlog.cc/about",
+    "date": "2026-08-07",
     "tags": [
       "HN"
     ],
@@ -60,47 +60,47 @@
     "id": 5
   },
   {
-    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-    "summary": "430 points | 279 comments on Hacker News",
+    "title": "Show HN: Wyzer Programming Language",
+    "summary": "170 points | 100 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-    "date": "2026-08-06",
+    "url": "https://github.com/Wyzer-Lang/wyzer",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 6
+  },
+  {
+    "title": "A year of fighting scrapers on my 1.5 million-page website",
+    "summary": "363 points | 344 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "date": "2026-08-07",
     "tags": [
       "HN"
     ],
     "hot": true,
-    "id": 6
-  },
-  {
-    "title": "Gesture Synth School",
-    "summary": "New product launch on Product Hunt: Gesture Synth School",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gesture-synth-school",
-    "date": "2026-08-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
     "id": 7
   },
   {
-    "title": "Shieldstral",
-    "summary": "New product launch on Product Hunt: Shieldstral",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mistral-7b",
-    "date": "2026-08-06",
+    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "summary": "714 points | 389 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+    "date": "2026-08-07",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "Ododok",
-    "summary": "New product launch on Product Hunt: Ododok",
+    "title": "HAR",
+    "summary": "New product launch on Product Hunt: HAR",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ododok",
-    "date": "2026-08-04",
+    "url": "https://www.producthunt.com/products/har",
+    "date": "2026-08-06",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Chute",
-    "summary": "New product launch on Product Hunt: Chute",
+    "title": "Orite",
+    "summary": "New product launch on Product Hunt: Orite",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chute-better-airdrop",
-    "date": "2026-08-05",
+    "url": "https://www.producthunt.com/products/orite",
+    "date": "2026-07-10",
     "tags": [
       "Product Launch"
     ],
@@ -120,10 +120,10 @@
     "id": 10
   },
   {
-    "title": "Annotate",
-    "summary": "New product launch on Product Hunt: Annotate",
+    "title": "Reference",
+    "summary": "New product launch on Product Hunt: Reference",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/annotate-8",
+    "url": "https://www.producthunt.com/products/reference-2",
     "date": "2026-08-05",
     "tags": [
       "Product Launch"
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "AI Spend Console by Rippling",
-    "summary": "New product launch on Product Hunt: AI Spend Console by Rippling",
+    "title": "StepShot",
+    "summary": "New product launch on Product Hunt: StepShot",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rippling",
-    "date": "2026-07-14",
+    "url": "https://www.producthunt.com/products/stepshot-2",
+    "date": "2026-08-05",
     "tags": [
       "Product Launch"
     ],
@@ -144,8 +144,32 @@
     "id": 12
   },
   {
+    "title": "Merge",
+    "summary": "New product launch on Product Hunt: Merge",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/merge-5",
+    "date": "2026-08-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
+    "title": "Troopr AI Scrum Master",
+    "summary": "New product launch on Product Hunt: Troopr AI Scrum Master",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/troopr",
+    "date": "2026-08-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ",
-    "summary": "8565 stars | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "summary": "11020 stars | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
     "source": "GitHub Trending",
     "url": "https://github.com/firecrawl/anydoc",
     "date": "2026-08-03",
@@ -154,37 +178,11 @@
       "Rust"
     ],
     "hot": true,
-    "id": 13
-  },
-  {
-    "title": "FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o",
-    "summary": "2837 stars | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-    "date": "2026-08-01",
-    "tags": [
-      "GitHub",
-      "C"
-    ],
-    "hot": true,
-    "id": 14
-  },
-  {
-    "title": "imsai-sh/zhuzhiliao - 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-    "summary": "2301 stars | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/imsai-sh/zhuzhiliao",
-    "date": "2026-08-01",
-    "tags": [
-      "GitHub",
-      "HTML"
-    ],
-    "hot": true,
     "id": 15
   },
   {
     "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "summary": "1869 stars | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+    "summary": "1982 stars | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
     "source": "GitHub Trending",
     "url": "https://github.com/thebuggeddev/anatomy",
     "date": "2026-08-02",
@@ -196,21 +194,8 @@
     "id": 16
   },
   {
-    "title": "DannyMac180/sol-advisor - Codex-native architect orchestration with Luna and Terra implementation lanes an",
-    "summary": "1707 stars | Shell | Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/DannyMac180/sol-advisor",
-    "date": "2026-08-01",
-    "tags": [
-      "GitHub",
-      "Shell"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-    "summary": "1603 stars | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "summary": "1874 stars | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "source": "GitHub Trending",
     "url": "https://github.com/KKKKhazix/human-writing",
     "date": "2026-08-05",
@@ -219,7 +204,46 @@
       "Python"
     ],
     "hot": true,
+    "id": 17
+  },
+  {
+    "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S",
+    "summary": "1588 stars | Unknown | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+    "date": "2026-08-05",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
     "id": 18
+  },
+  {
+    "title": "ZzzLc0405/photo-abstract-editorial - No description",
+    "summary": "1490 stars | Unknown | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "date": "2026-08-04",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "Accio-org/RealReplicaBench - RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, a",
+    "summary": "1040 stars | HTML | RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Accio-org/RealReplicaBench",
+    "date": "2026-08-02",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -232,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -245,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -258,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 23
   },
   {
     "title": "The Pulse: Bending Spoons' Acquisition Strategy",
@@ -271,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 24
   },
   {
     "title": "The Pulse: Quitting Spotify Podcasts over reliability",
@@ -284,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 25
   },
   {
     "title": "The Pulse: New trend - concern about massive increase in code review load",
@@ -297,7 +321,190 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 26
+  },
+  {
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "summary": "375 points | 297 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "date": "2026-08-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Mario Meets Pareto",
+    "summary": "877 points | 150 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "date": "2026-08-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "summary": "187 points | 130 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://provenmetal.com",
+    "date": "2026-08-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "summary": "325 points | 272 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "date": "2026-08-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "summary": "87 points | 20 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/CopilotKit/channels-sdk",
+    "date": "2026-08-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+    "summary": "430 points | 279 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+    "date": "2026-08-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Gesture Synth School",
+    "summary": "New product launch on Product Hunt: Gesture Synth School",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/gesture-synth-school",
+    "date": "2026-08-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Shieldstral",
+    "summary": "New product launch on Product Hunt: Shieldstral",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mistral-7b",
+    "date": "2026-08-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Ododok",
+    "summary": "New product launch on Product Hunt: Ododok",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ododok",
+    "date": "2026-08-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Chute",
+    "summary": "New product launch on Product Hunt: Chute",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/chute-better-airdrop",
+    "date": "2026-08-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Annotate",
+    "summary": "New product launch on Product Hunt: Annotate",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/annotate-8",
+    "date": "2026-08-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "AI Spend Console by Rippling",
+    "summary": "New product launch on Product Hunt: AI Spend Console by Rippling",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rippling",
+    "date": "2026-07-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o",
+    "summary": "2837 stars | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "date": "2026-08-01",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "imsai-sh/zhuzhiliao - 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+    "summary": "2301 stars | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/imsai-sh/zhuzhiliao",
+    "date": "2026-08-01",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "DannyMac180/sol-advisor - Codex-native architect orchestration with Luna and Terra implementation lanes an",
+    "summary": "1707 stars | Shell | Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/DannyMac180/sol-advisor",
+    "date": "2026-08-01",
+    "tags": [
+      "GitHub",
+      "Shell"
+    ],
+    "hot": true,
+    "id": 41
   },
   {
     "title": "Discovery Loop",
@@ -309,7 +516,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 42
   },
   {
     "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
@@ -321,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 43
   },
   {
     "title": "Cloudflare OS: an open platform for agents, apps, and work",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 45
   },
   {
     "title": "BackEngine MCP",
@@ -357,7 +564,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Keytones",
@@ -369,7 +576,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 30
+    "id": 47
   },
   {
     "title": "Wispr Flow Notetaker",
@@ -381,7 +588,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 48
   },
   {
     "title": "ngrok AI Gateway",
@@ -393,7 +600,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 49
   },
   {
     "title": "NextDoor.Company",
@@ -405,7 +612,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 50
   },
   {
     "title": "Keystroke",
@@ -417,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 51
   },
   {
     "title": "trycompai/crm - An open-source, agentic-first CRM.",
@@ -430,7 +637,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 35
+    "id": 52
   },
   {
     "title": "genspark-ai/genoffice - An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr",
@@ -443,7 +650,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 36
+    "id": 53
   },
   {
     "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
@@ -455,7 +662,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
@@ -467,7 +674,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
@@ -479,7 +686,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 56
   },
   {
     "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
@@ -491,7 +698,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 57
   },
   {
     "title": "Show HN: SIMD Viterbi Decoder in Rust",
@@ -503,7 +710,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 58
   },
   {
     "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
@@ -515,7 +722,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 42
+    "id": 59
   },
   {
     "title": "DeepSeek V4 Flash on a Single AMD MI300X",
@@ -527,213 +734,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Show HN: A little physical breakout clone",
-    "summary": "10 points | 6 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://brontosaurusrex.github.io/physical/v7/",
-    "date": "2026-07-31",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Wondering",
-    "summary": "New product launch on Product Hunt: Wondering",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/wondering-2",
-    "date": "2026-07-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Atlaso",
-    "summary": "New product launch on Product Hunt: Atlaso",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/atlaso",
-    "date": "2026-07-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Screen Awesome ",
-    "summary": "New product launch on Product Hunt: Screen Awesome ",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/screen-awesome-record-annotate",
-    "date": "2026-08-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "GrowthBook 5.0",
-    "summary": "New product launch on Product Hunt: GrowthBook 5.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/growthbook",
-    "date": "2026-07-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Dashi Metrics",
-    "summary": "New product launch on Product Hunt: Dashi Metrics",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dashi-metrics",
-    "date": "2026-07-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "SpeakoFlow",
-    "summary": "New product launch on Product Hunt: SpeakoFlow",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/speakoflow",
-    "date": "2026-08-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "bashalarmistalt/decimen-optical-transfer - No description",
-    "summary": "4551 stars | TypeScript | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-    "date": "2026-07-30",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer - FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-    "summary": "2933 stars | Unknown | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-    "source": "GitHub Trending",
-    "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-    "date": "2026-07-30",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
-    "summary": "To a sceptic, spending $165K to migrate Bun from Zig to Rust sounds very expensive. But to a realist, shortening a 1-2 year migration down to 11 days opens amazing new opportunities for devs. However,",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/",
-    "date": "2026-07-16",
-    "tags": [
-      "Tech",
-      "Career"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "LLMs reward expertise",
-    "summary": "397 points | 181 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "date": "2026-08-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "summary": "418 points | 699 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/ten-advances-in-mathematics/",
-    "date": "2026-08-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Devtools must be open source",
-    "summary": "495 points | 177 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.exe.dev/devtools-must-be-open-source",
-    "date": "2026-08-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-    "summary": "380 points | 319 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "date": "2026-08-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-    "summary": "57 points | 50 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://hoplite.sh",
-    "date": "2026-08-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
-    "summary": "43 points | 7 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.cloudflare.com/billable-usage-api/",
-    "date": "2026-08-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Appllama",
-    "summary": "New product launch on Product Hunt: Appllama",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/appllama",
-    "date": "2026-08-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
