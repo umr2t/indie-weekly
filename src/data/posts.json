@@ -1,10 +1,10 @@
 [
   {
-    "title": "DeepSeek V4 Flash 0731",
-    "summary": "434 points | 252 comments on Hacker News",
+    "title": "Fastmail offers EU data region",
+    "summary": "310 points | 140 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-    "date": "2026-08-07",
+    "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "date": "2026-08-08",
     "tags": [
       "HN"
     ],
@@ -12,23 +12,23 @@
     "id": 1
   },
   {
-    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-    "summary": "43 points | 14 comments on Hacker News",
+    "title": "_for-sale DNS records",
+    "summary": "339 points | 131 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://genesisopenmodels.anl.gov/",
-    "date": "2026-08-07",
+    "url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "date": "2026-08-08",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 2
   },
   {
-    "title": "What happens if an entire class of workers loses faith in their careers",
-    "summary": "385 points | 518 comments on Hacker News",
+    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+    "summary": "374 points | 114 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "date": "2026-08-07",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "date": "2026-08-08",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Oracle bans AI-generated code from OpenJDK",
-    "summary": "371 points | 247 comments on Hacker News",
+    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "summary": "321 points | 332 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "date": "2026-08-07",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "date": "2026-08-08",
     "tags": [
       "HN"
     ],
@@ -48,35 +48,35 @@
     "id": 4
   },
   {
-    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-    "summary": "132 points | 58 comments on Hacker News",
+    "title": "Danish high schoolers will have to verbally defend written assignments",
+    "summary": "499 points | 234 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://textlog.cc/about",
-    "date": "2026-08-07",
+    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+    "date": "2026-08-08",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Show HN: Wyzer Programming Language",
-    "summary": "170 points | 100 comments on Hacker News",
+    "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
+    "summary": "422 points | 97 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/Wyzer-Lang/wyzer",
-    "date": "2026-08-07",
+    "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+    "date": "2026-08-05",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "A year of fighting scrapers on my 1.5 million-page website",
-    "summary": "363 points | 344 comments on Hacker News",
+    "title": "“Code was never the hard part” is an insult to all programmers",
+    "summary": "545 points | 353 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-    "date": "2026-08-07",
+    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "date": "2026-08-08",
     "tags": [
       "HN"
     ],
@@ -84,10 +84,10 @@
     "id": 7
   },
   {
-    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-    "summary": "714 points | 389 comments on Hacker News",
+    "title": "DeepSeek V4 Flash 0731",
+    "summary": "759 points | 454 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
     "date": "2026-08-07",
     "tags": [
       "HN"
@@ -96,10 +96,10 @@
     "id": 8
   },
   {
-    "title": "HAR",
-    "summary": "New product launch on Product Hunt: HAR",
+    "title": "AstraPixels",
+    "summary": "New product launch on Product Hunt: AstraPixels",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/har",
+    "url": "https://www.producthunt.com/products/astrapixels",
     "date": "2026-08-06",
     "tags": [
       "Product Launch"
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Orite",
-    "summary": "New product launch on Product Hunt: Orite",
+    "title": "The GTM Co-Founder",
+    "summary": "New product launch on Product Hunt: The GTM Co-Founder",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/orite",
-    "date": "2026-07-10",
+    "url": "https://www.producthunt.com/products/the-gtm-co-founder",
+    "date": "2026-07-27",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Reference",
-    "summary": "New product launch on Product Hunt: Reference",
+    "title": "Basedash Subscriptions",
+    "summary": "New product launch on Product Hunt: Basedash Subscriptions",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/reference-2",
-    "date": "2026-08-05",
+    "url": "https://www.producthunt.com/products/basedash",
+    "date": "2026-08-08",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "StepShot",
-    "summary": "New product launch on Product Hunt: StepShot",
+    "title": "Hexis",
+    "summary": "New product launch on Product Hunt: Hexis",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/stepshot-2",
-    "date": "2026-08-05",
+    "url": "https://www.producthunt.com/products/bevel-4",
+    "date": "2026-08-03",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Merge",
-    "summary": "New product launch on Product Hunt: Merge",
+    "title": "Toolport",
+    "summary": "New product launch on Product Hunt: Toolport",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/merge-5",
-    "date": "2026-08-06",
+    "url": "https://www.producthunt.com/products/conduit-12",
+    "date": "2026-08-07",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Troopr AI Scrum Master",
-    "summary": "New product launch on Product Hunt: Troopr AI Scrum Master",
+    "title": "AndroMeld",
+    "summary": "New product launch on Product Hunt: AndroMeld",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/troopr",
-    "date": "2026-08-04",
+    "url": "https://www.producthunt.com/products/andromeld",
+    "date": "2026-08-05",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ",
-    "summary": "11020 stars | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "summary": "12123 stars | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
     "source": "GitHub Trending",
     "url": "https://github.com/firecrawl/anydoc",
     "date": "2026-08-03",
@@ -181,27 +181,27 @@
     "id": 15
   },
   {
-    "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "summary": "1982 stars | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "source": "GitHub Trending",
-    "url": "https://github.com/thebuggeddev/anatomy",
-    "date": "2026-08-02",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-    "summary": "1874 stars | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "summary": "1988 stars | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "source": "GitHub Trending",
     "url": "https://github.com/KKKKhazix/human-writing",
     "date": "2026-08-05",
     "tags": [
       "GitHub",
       "Python"
+    ],
+    "hot": true,
+    "id": 16
+  },
+  {
+    "title": "ZzzLc0405/photo-abstract-editorial - No description",
+    "summary": "1721 stars | Unknown | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "date": "2026-08-04",
+    "tags": [
+      "GitHub",
+      "Code"
     ],
     "hot": true,
     "id": 17
@@ -220,27 +220,27 @@
     "id": 18
   },
   {
-    "title": "ZzzLc0405/photo-abstract-editorial - No description",
-    "summary": "1490 stars | Unknown | ",
+    "title": "mikiarlo3/awesome-growth-hacking-skills - Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+    "summary": "764 stars | Shell | Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
     "source": "GitHub Trending",
-    "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
     "date": "2026-08-04",
     "tags": [
       "GitHub",
-      "Code"
+      "Shell"
     ],
     "hot": true,
     "id": 19
   },
   {
-    "title": "Accio-org/RealReplicaBench - RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, a",
-    "summary": "1040 stars | HTML | RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+    "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Cl",
+    "summary": "681 stars | JavaScript | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-lev",
     "source": "GitHub Trending",
-    "url": "https://github.com/Accio-org/RealReplicaBench",
-    "date": "2026-08-02",
+    "url": "https://github.com/0xwilliamortiz/claude-red",
+    "date": "2026-08-05",
     "tags": [
       "GitHub",
-      "HTML"
+      "JavaScript"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,188 @@
     "id": 26
   },
   {
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "summary": "43 points | 14 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "summary": "385 points | 518 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "summary": "371 points | 247 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+    "summary": "132 points | 58 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://textlog.cc/about",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Wyzer Programming Language",
+    "summary": "170 points | 100 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/Wyzer-Lang/wyzer",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "A year of fighting scrapers on my 1.5 million-page website",
+    "summary": "363 points | 344 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "summary": "714 points | 389 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "HAR",
+    "summary": "New product launch on Product Hunt: HAR",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/har",
+    "date": "2026-08-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Orite",
+    "summary": "New product launch on Product Hunt: Orite",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/orite",
+    "date": "2026-07-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Reference",
+    "summary": "New product launch on Product Hunt: Reference",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/reference-2",
+    "date": "2026-08-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "StepShot",
+    "summary": "New product launch on Product Hunt: StepShot",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/stepshot-2",
+    "date": "2026-08-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Merge",
+    "summary": "New product launch on Product Hunt: Merge",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/merge-5",
+    "date": "2026-08-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Troopr AI Scrum Master",
+    "summary": "New product launch on Product Hunt: Troopr AI Scrum Master",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/troopr",
+    "date": "2026-08-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+    "summary": "1982 stars | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+    "source": "GitHub Trending",
+    "url": "https://github.com/thebuggeddev/anatomy",
+    "date": "2026-08-02",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "Accio-org/RealReplicaBench - RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, a",
+    "summary": "1040 stars | HTML | RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Accio-org/RealReplicaBench",
+    "date": "2026-08-02",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "summary": "375 points | 297 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 42
   },
   {
     "title": "Mario Meets Pareto",
@@ -345,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
@@ -357,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 44
   },
   {
     "title": "GitHub Actions and Pages are experiencing degraded availability",
@@ -369,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
@@ -381,7 +563,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
@@ -393,7 +575,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 47
   },
   {
     "title": "Gesture Synth School",
@@ -405,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Shieldstral",
@@ -417,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Ododok",
@@ -429,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "Chute",
@@ -441,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Annotate",
@@ -453,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "AI Spend Console by Rippling",
@@ -465,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "FareedKhan-dev/kimi-k3-in-c - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o",
@@ -478,7 +660,7 @@
       "C"
     ],
     "hot": true,
-    "id": 39
+    "id": 54
   },
   {
     "title": "imsai-sh/zhuzhiliao - 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
@@ -491,7 +673,7 @@
       "HTML"
     ],
     "hot": true,
-    "id": 40
+    "id": 55
   },
   {
     "title": "DannyMac180/sol-advisor - Codex-native architect orchestration with Luna and Terra implementation lanes an",
@@ -504,7 +686,7 @@
       "Shell"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "Discovery Loop",
@@ -516,7 +698,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
@@ -528,7 +710,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 58
   },
   {
     "title": "Cloudflare OS: an open platform for agents, apps, and work",
@@ -540,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 59
   },
   {
     "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
@@ -552,188 +734,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 45
-  },
-  {
-    "title": "BackEngine MCP",
-    "summary": "New product launch on Product Hunt: BackEngine MCP",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backengine-mcp",
-    "date": "2026-08-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Keytones",
-    "summary": "New product launch on Product Hunt: Keytones",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/keytones-for-mac",
-    "date": "2026-07-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Wispr Flow Notetaker",
-    "summary": "New product launch on Product Hunt: Wispr Flow Notetaker",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/wisprflow",
-    "date": "2026-08-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "ngrok AI Gateway",
-    "summary": "New product launch on Product Hunt: ngrok AI Gateway",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
-    "date": "2026-07-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "NextDoor.Company",
-    "summary": "New product launch on Product Hunt: NextDoor.Company",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nextdoor-company",
-    "date": "2026-08-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Keystroke",
-    "summary": "New product launch on Product Hunt: Keystroke",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/keystroke-2",
-    "date": "2026-08-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "trycompai/crm - An open-source, agentic-first CRM.",
-    "summary": "6278 stars | TypeScript | An open-source, agentic-first CRM.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/trycompai/crm",
-    "date": "2026-07-31",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "genspark-ai/genoffice - An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr",
-    "summary": "1781 stars | TypeScript | An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/genspark-ai/genoffice",
-    "date": "2026-07-31",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-    "summary": "153 points | 77 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://twitter.com/gwern/status/2084739205071343837",
-    "date": "2026-08-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-    "summary": "47 points | 4 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://techascent.com/blog/just-ducking-around.html",
-    "date": "2026-08-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "summary": "459 points | 87 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://toneyalexander.github.io/inclusive-color-space/",
-    "date": "2026-08-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-    "summary": "894 points | 48 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-    "date": "2026-08-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Show HN: SIMD Viterbi Decoder in Rust",
-    "summary": "19 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/brian-armstrong/fec",
-    "date": "2026-08-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
-    "summary": "43 points | 10 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://deepgrove.ai/maple-preview",
-    "date": "2026-08-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-    "summary": "365 points | 88 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-    "date": "2026-08-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
