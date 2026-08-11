@@ -1,10 +1,10 @@
 [
   {
-    "title": "How I use LLMs to learn complex topics",
-    "summary": "364 points | 203 comments on Hacker News",
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "summary": "1019 points | 570 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "date": "2026-08-09",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "date": "2026-08-10",
     "tags": [
       "HN"
     ],
@@ -12,47 +12,47 @@
     "id": 1
   },
   {
-    "title": "Mea Culpa – Dark Hours",
-    "summary": "546 points | 249 comments on Hacker News",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "summary": "143 points | 68 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-    "date": "2026-08-09",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 2
-  },
-  {
-    "title": "I made tinnitus my friend, then it disappeared [video]",
-    "summary": "69 points | 37 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mynoise.net/vlog.php?ep=20260803",
-    "date": "2026-08-09",
+    "url": "https://cactuscompute.com/needle",
+    "date": "2026-08-10",
     "tags": [
       "HN"
     ],
     "hot": false,
-    "id": 3
+    "id": 2
   },
   {
-    "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-    "summary": "345 points | 291 comments on Hacker News",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "summary": "350 points | 365 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-    "date": "2026-08-09",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "date": "2026-08-10",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 3
+  },
+  {
+    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+    "summary": "24 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://everycube.alen.is/",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-    "summary": "104 points | 16 comments on Hacker News",
+    "title": "Publishing Schematics Before “Open Source” Was a Word",
+    "summary": "59 points | 14 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-    "date": "2026-08-09",
+    "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+    "date": "2026-08-07",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
-    "summary": "20 points | 13 comments on Hacker News",
+    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+    "summary": "63 points | 39 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://alphabetsoup.club",
-    "date": "2026-08-09",
+    "url": "https://www.stoaexchange.com",
+    "date": "2026-08-10",
     "tags": [
       "HN"
     ],
@@ -72,11 +72,11 @@
     "id": 6
   },
   {
-    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
-    "summary": "213 points | 70 comments on Hacker News",
+    "title": "Mistral Patent for “Code implemented tool calls”",
+    "summary": "207 points | 171 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
-    "date": "2026-08-09",
+    "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "date": "2026-08-10",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Omniwork",
-    "summary": "New product launch on Product Hunt: Omniwork",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/omniwork-2",
-    "date": "2026-07-14",
+    "title": "Tl;dv: Over 180k meetings left wide open",
+    "summary": "527 points | 173 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "date": "2026-08-10",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "VoiceOS App Store",
-    "summary": "New product launch on Product Hunt: VoiceOS App Store",
+    "title": "Portfolio Lab",
+    "summary": "New product launch on Product Hunt: Portfolio Lab",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/voiceos",
-    "date": "2026-08-08",
+    "url": "https://www.producthunt.com/products/portfolio-lab",
+    "date": "2026-07-29",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "SoloUno",
-    "summary": "New product launch on Product Hunt: SoloUno",
+    "title": "Remix",
+    "summary": "New product launch on Product Hunt: Remix",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/solouno",
-    "date": "2026-07-30",
+    "url": "https://www.producthunt.com/products/remix-8",
+    "date": "2026-08-06",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Macrobite",
-    "summary": "New product launch on Product Hunt: Macrobite",
+    "title": "AI Group Call",
+    "summary": "New product launch on Product Hunt: AI Group Call",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/macrobite",
-    "date": "2026-07-24",
+    "url": "https://www.producthunt.com/products/ai-group-call",
+    "date": "2026-08-09",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "DocsAlot CLI",
-    "summary": "New product launch on Product Hunt: DocsAlot CLI",
+    "title": "Gutta",
+    "summary": "New product launch on Product Hunt: Gutta",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/docsalot-2",
-    "date": "2026-08-07",
+    "url": "https://www.producthunt.com/products/gutta",
+    "date": "2026-08-09",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Prompt Golf",
-    "summary": "New product launch on Product Hunt: Prompt Golf",
+    "title": "SecondBrain Note by GenSpark",
+    "summary": "New product launch on Product Hunt: SecondBrain Note by GenSpark",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/prompt-golf",
-    "date": "2026-07-30",
+    "url": "https://www.producthunt.com/products/genspark",
+    "date": "2026-08-09",
     "tags": [
       "Product Launch"
     ],
@@ -156,27 +156,26 @@
     "id": 13
   },
   {
+    "title": "Prime Agent",
+    "summary": "New product launch on Product Hunt: Prime Agent",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/prime-intellect",
+    "date": "2026-08-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-    "summary": "2096 stars | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "summary": "2274 stars | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
     "source": "GitHub Trending",
     "url": "https://github.com/KKKKhazix/human-writing",
     "date": "2026-08-05",
     "tags": [
       "GitHub",
       "Python"
-    ],
-    "hot": true,
-    "id": 14
-  },
-  {
-    "title": "ZzzLc0405/photo-abstract-editorial - No description",
-    "summary": "1953 stars | Unknown | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
-    "date": "2026-08-04",
-    "tags": [
-      "GitHub",
-      "Code"
     ],
     "hot": true,
     "id": 15
@@ -196,7 +195,7 @@
   },
   {
     "title": "ShawnPana/phone-harness - let your agent control your phone",
-    "summary": "852 stars | Python | let your agent control your phone",
+    "summary": "1313 stars | Python | let your agent control your phone",
     "source": "GitHub Trending",
     "url": "https://github.com/ShawnPana/phone-harness",
     "date": "2026-08-07",
@@ -208,30 +207,43 @@
     "id": 17
   },
   {
-    "title": "mikiarlo3/awesome-growth-hacking-skills - Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-    "summary": "795 stars | Shell | Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+    "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
+    "summary": "1199 stars | Python | Create smooth, responsive interactive web animations.",
     "source": "GitHub Trending",
-    "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
-    "date": "2026-08-04",
+    "url": "https://github.com/oil-oil/oil-motion",
+    "date": "2026-08-07",
     "tags": [
       "GitHub",
-      "Shell"
+      "Python"
     ],
     "hot": true,
     "id": 18
   },
   {
-    "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Cl",
-    "summary": "705 stars | JavaScript | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-lev",
+    "title": "MengTo/kage - An interactive five-chapter night walk through a Kyoto mountain temple, rendered",
+    "summary": "774 stars | HTML | An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
     "source": "GitHub Trending",
-    "url": "https://github.com/0xwilliamortiz/claude-red",
-    "date": "2026-08-05",
+    "url": "https://github.com/MengTo/kage",
+    "date": "2026-08-08",
     "tags": [
       "GitHub",
-      "JavaScript"
+      "HTML"
     ],
     "hot": true,
     "id": 19
+  },
+  {
+    "title": "xoreaxeaxeax/asm-hall-of-shame - Racing to the bottom of CPU performance",
+    "summary": "729 stars | C | Racing to the bottom of CPU performance",
+    "source": "GitHub Trending",
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "date": "2026-08-06",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -244,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -257,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -270,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 23
   },
   {
     "title": "The Pulse: Bending Spoons' Acquisition Strategy",
@@ -283,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 24
   },
   {
     "title": "The Pulse: Quitting Spotify Podcasts over reliability",
@@ -296,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
   },
   {
     "title": "The Pulse: New trend - concern about massive increase in code review load",
@@ -309,7 +321,202 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 26
+  },
+  {
+    "title": "How I use LLMs to learn complex topics",
+    "summary": "364 points | 203 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "date": "2026-08-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Mea Culpa – Dark Hours",
+    "summary": "546 points | 249 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+    "date": "2026-08-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "I made tinnitus my friend, then it disappeared [video]",
+    "summary": "69 points | 37 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mynoise.net/vlog.php?ep=20260803",
+    "date": "2026-08-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+    "summary": "345 points | 291 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+    "date": "2026-08-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "summary": "104 points | 16 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+    "date": "2026-08-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
+    "summary": "20 points | 13 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://alphabetsoup.club",
+    "date": "2026-08-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+    "summary": "213 points | 70 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
+    "date": "2026-08-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Omniwork",
+    "summary": "New product launch on Product Hunt: Omniwork",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/omniwork-2",
+    "date": "2026-07-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "VoiceOS App Store",
+    "summary": "New product launch on Product Hunt: VoiceOS App Store",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/voiceos",
+    "date": "2026-08-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "SoloUno",
+    "summary": "New product launch on Product Hunt: SoloUno",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/solouno",
+    "date": "2026-07-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Macrobite",
+    "summary": "New product launch on Product Hunt: Macrobite",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/macrobite",
+    "date": "2026-07-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "DocsAlot CLI",
+    "summary": "New product launch on Product Hunt: DocsAlot CLI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/docsalot-2",
+    "date": "2026-08-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Prompt Golf",
+    "summary": "New product launch on Product Hunt: Prompt Golf",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/prompt-golf",
+    "date": "2026-07-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "ZzzLc0405/photo-abstract-editorial - No description",
+    "summary": "1953 stars | Unknown | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "date": "2026-08-04",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "mikiarlo3/awesome-growth-hacking-skills - Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+    "summary": "795 stars | Shell | Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+    "source": "GitHub Trending",
+    "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+    "date": "2026-08-04",
+    "tags": [
+      "GitHub",
+      "Shell"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Cl",
+    "summary": "705 stars | JavaScript | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-lev",
+    "source": "GitHub Trending",
+    "url": "https://github.com/0xwilliamortiz/claude-red",
+    "date": "2026-08-05",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 42
   },
   {
     "title": "Fastmail offers EU data region",
@@ -321,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 43
   },
   {
     "title": "_for-sale DNS records",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Timeline of the OpenAI accidental attack against Hugging Face",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Danish high schoolers will have to verbally defend written assignments",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 47
   },
   {
     "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "“Code was never the hard part” is an insult to all programmers",
@@ -393,7 +600,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 49
   },
   {
     "title": "DeepSeek V4 Flash 0731",
@@ -405,7 +612,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 50
   },
   {
     "title": "AstraPixels",
@@ -417,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 51
   },
   {
     "title": "The GTM Co-Founder",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Basedash Subscriptions",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Hexis",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "Toolport",
@@ -465,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "AndroMeld",
@@ -477,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ",
@@ -490,7 +697,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 40
+    "id": 57
   },
   {
     "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
@@ -502,7 +709,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 58
   },
   {
     "title": "What happens if an entire class of workers loses faith in their careers",
@@ -514,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "Oracle bans AI-generated code from OpenJDK",
@@ -526,212 +733,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-    "summary": "132 points | 58 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://textlog.cc/about",
-    "date": "2026-08-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Show HN: Wyzer Programming Language",
-    "summary": "170 points | 100 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/Wyzer-Lang/wyzer",
-    "date": "2026-08-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "A year of fighting scrapers on my 1.5 million-page website",
-    "summary": "363 points | 344 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-    "date": "2026-08-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-    "summary": "714 points | 389 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-    "date": "2026-08-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "HAR",
-    "summary": "New product launch on Product Hunt: HAR",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/har",
-    "date": "2026-08-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Orite",
-    "summary": "New product launch on Product Hunt: Orite",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/orite",
-    "date": "2026-07-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Reference",
-    "summary": "New product launch on Product Hunt: Reference",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/reference-2",
-    "date": "2026-08-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "StepShot",
-    "summary": "New product launch on Product Hunt: StepShot",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/stepshot-2",
-    "date": "2026-08-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Merge",
-    "summary": "New product launch on Product Hunt: Merge",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/merge-5",
-    "date": "2026-08-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Troopr AI Scrum Master",
-    "summary": "New product launch on Product Hunt: Troopr AI Scrum Master",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/troopr",
-    "date": "2026-08-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "summary": "1982 stars | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "source": "GitHub Trending",
-    "url": "https://github.com/thebuggeddev/anatomy",
-    "date": "2026-08-02",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Accio-org/RealReplicaBench - RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, a",
-    "summary": "1040 stars | HTML | RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Accio-org/RealReplicaBench",
-    "date": "2026-08-02",
-    "tags": [
-      "GitHub",
-      "HTML"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "summary": "375 points | 297 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "date": "2026-08-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Mario Meets Pareto",
-    "summary": "877 points | 150 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "date": "2026-08-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-    "summary": "187 points | 130 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://provenmetal.com",
-    "date": "2026-08-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "GitHub Actions and Pages are experiencing degraded availability",
-    "summary": "325 points | 272 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "date": "2026-08-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-    "summary": "87 points | 20 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/CopilotKit/channels-sdk",
-    "date": "2026-08-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
