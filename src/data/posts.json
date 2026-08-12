@@ -1,10 +1,10 @@
 [
   {
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-    "summary": "1019 points | 570 comments on Hacker News",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "summary": "479 points | 201 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "date": "2026-08-10",
+    "url": "https://stolen-thoughts.com/",
+    "date": "2026-08-11",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-    "summary": "143 points | 68 comments on Hacker News",
+    "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+    "summary": "196 points | 199 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://cactuscompute.com/needle",
-    "date": "2026-08-10",
+    "url": "https://photosynthesis.camera",
+    "date": "2026-08-08",
     "tags": [
       "HN"
     ],
@@ -24,35 +24,35 @@
     "id": 2
   },
   {
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-    "summary": "350 points | 365 comments on Hacker News",
+    "title": "Show HN: Tamron Lens Utility Alternative on Linux",
+    "summary": "15 points | 0 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "date": "2026-08-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 3
-  },
-  {
-    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-    "summary": "24 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://everycube.alen.is/",
-    "date": "2026-08-10",
+    "url": "https://github.com/yikerman/tamron-lens-control",
+    "date": "2026-08-07",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 3
+  },
+  {
+    "title": "England set to be one of the first countries to eliminate hepatitis C",
+    "summary": "483 points | 348 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+    "date": "2026-08-11",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Publishing Schematics Before “Open Source” Was a Word",
-    "summary": "59 points | 14 comments on Hacker News",
+    "title": "Suzanne: AI tool for designing and manufacturing physical products",
+    "summary": "30 points | 24 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
-    "date": "2026-08-07",
+    "url": "https://www.suzanne3d.com/",
+    "date": "2026-08-11",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-    "summary": "63 points | 39 comments on Hacker News",
+    "title": "Show HN: Line9 - a Mermaid rendering engine with its own layout",
+    "summary": "8 points | 1 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.stoaexchange.com",
-    "date": "2026-08-10",
+    "url": "https://line9.ai/diagram",
+    "date": "2026-08-06",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Mistral Patent for “Code implemented tool calls”",
-    "summary": "207 points | 171 comments on Hacker News",
+    "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+    "summary": "127 points | 85 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-    "date": "2026-08-10",
+    "url": "https://github.com/TheRealYT/git-knife",
+    "date": "2026-08-11",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "Tl;dv: Over 180k meetings left wide open",
-    "summary": "527 points | 173 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "title": "Lexi",
+    "summary": "New product launch on Product Hunt: Lexi",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lexi-5",
     "date": "2026-08-10",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Portfolio Lab",
-    "summary": "New product launch on Product Hunt: Portfolio Lab",
+    "title": "AdmitRaven",
+    "summary": "New product launch on Product Hunt: AdmitRaven",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/portfolio-lab",
-    "date": "2026-07-29",
+    "url": "https://www.producthunt.com/products/admitraven",
+    "date": "2026-08-10",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Remix",
-    "summary": "New product launch on Product Hunt: Remix",
+    "title": "Switchy for Mac",
+    "summary": "New product launch on Product Hunt: Switchy for Mac",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/remix-8",
-    "date": "2026-08-06",
+    "url": "https://www.producthunt.com/products/switchy-for-mac",
+    "date": "2026-08-09",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "AI Group Call",
-    "summary": "New product launch on Product Hunt: AI Group Call",
+    "title": "BetterClaw",
+    "summary": "New product launch on Product Hunt: BetterClaw",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ai-group-call",
-    "date": "2026-08-09",
+    "url": "https://www.producthunt.com/products/betterclaw",
+    "date": "2026-05-01",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Gutta",
-    "summary": "New product launch on Product Hunt: Gutta",
+    "title": "Product Analytics for Agents and Users",
+    "summary": "New product launch on Product Hunt: Product Analytics for Agents and Users",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gutta",
-    "date": "2026-08-09",
+    "url": "https://www.producthunt.com/products/kubit",
+    "date": "2026-07-24",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "SecondBrain Note by GenSpark",
-    "summary": "New product launch on Product Hunt: SecondBrain Note by GenSpark",
+    "title": "Vizard Agent",
+    "summary": "New product launch on Product Hunt: Vizard Agent",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/genspark",
-    "date": "2026-08-09",
+    "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
+    "date": "2026-08-04",
     "tags": [
       "Product Launch"
     ],
@@ -156,46 +156,8 @@
     "id": 13
   },
   {
-    "title": "Prime Agent",
-    "summary": "New product launch on Product Hunt: Prime Agent",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/prime-intellect",
-    "date": "2026-08-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
-    "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-    "summary": "2274 stars | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/KKKKhazix/human-writing",
-    "date": "2026-08-05",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
-    "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S",
-    "summary": "1607 stars | Unknown | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-    "date": "2026-08-05",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "ShawnPana/phone-harness - let your agent control your phone",
-    "summary": "1313 stars | Python | let your agent control your phone",
+    "summary": "1499 stars | Python | let your agent control your phone",
     "source": "GitHub Trending",
     "url": "https://github.com/ShawnPana/phone-harness",
     "date": "2026-08-07",
@@ -204,11 +166,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 17
+    "id": 14
   },
   {
     "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
-    "summary": "1199 stars | Python | Create smooth, responsive interactive web animations.",
+    "summary": "1483 stars | Python | Create smooth, responsive interactive web animations.",
     "source": "GitHub Trending",
     "url": "https://github.com/oil-oil/oil-motion",
     "date": "2026-08-07",
@@ -217,33 +179,59 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
+    "id": 15
   },
   {
-    "title": "MengTo/kage - An interactive five-chapter night walk through a Kyoto mountain temple, rendered",
-    "summary": "774 stars | HTML | An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+    "title": "SMNETSTUDIO/WeChat-AI - No description",
+    "summary": "1421 stars | TypeScript | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/MengTo/kage",
-    "date": "2026-08-08",
+    "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+    "date": "2026-08-10",
     "tags": [
       "GitHub",
-      "HTML"
+      "TypeScript"
     ],
     "hot": true,
-    "id": 19
+    "id": 16
   },
   {
-    "title": "xoreaxeaxeax/asm-hall-of-shame - Racing to the bottom of CPU performance",
-    "summary": "729 stars | C | Racing to the bottom of CPU performance",
+    "title": "antirez/h3.c - MiniMax H3 inference engine for Mac computers",
+    "summary": "1238 stars | C | MiniMax H3 inference engine for Mac computers",
     "source": "GitHub Trending",
-    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-    "date": "2026-08-06",
+    "url": "https://github.com/antirez/h3.c",
+    "date": "2026-08-09",
     "tags": [
       "GitHub",
       "C"
     ],
     "hot": true,
-    "id": 20
+    "id": 17
+  },
+  {
+    "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — ch",
+    "summary": "895 stars | JavaScript | AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/eternityspring/shuohao-skills",
+    "date": "2026-08-06",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscri",
+    "summary": "835 stars | TypeScript | A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engi",
+    "source": "GitHub Trending",
+    "url": "https://github.com/sohaibdevv/youtube-music",
+    "date": "2026-08-11",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 19
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +244,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 20
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +257,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 21
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +270,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 22
   },
   {
     "title": "The Pulse: Bending Spoons' Acquisition Strategy",
@@ -295,7 +283,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 23
   },
   {
     "title": "The Pulse: Quitting Spotify Podcasts over reliability",
@@ -308,7 +296,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 24
   },
   {
     "title": "The Pulse: New trend - concern about massive increase in code review load",
@@ -321,7 +309,227 @@
       "Career"
     ],
     "hot": false,
+    "id": 25
+  },
+  {
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "summary": "1019 points | 570 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "summary": "143 points | 68 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://cactuscompute.com/needle",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "summary": "350 points | 365 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+    "summary": "24 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://everycube.alen.is/",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Publishing Schematics Before “Open Source” Was a Word",
+    "summary": "59 points | 14 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+    "date": "2026-08-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+    "summary": "63 points | 39 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.stoaexchange.com",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Mistral Patent for “Code implemented tool calls”",
+    "summary": "207 points | 171 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Tl;dv: Over 180k meetings left wide open",
+    "summary": "527 points | 173 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Portfolio Lab",
+    "summary": "New product launch on Product Hunt: Portfolio Lab",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/portfolio-lab",
+    "date": "2026-07-29",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Remix",
+    "summary": "New product launch on Product Hunt: Remix",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/remix-8",
+    "date": "2026-08-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "AI Group Call",
+    "summary": "New product launch on Product Hunt: AI Group Call",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ai-group-call",
+    "date": "2026-08-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Gutta",
+    "summary": "New product launch on Product Hunt: Gutta",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/gutta",
+    "date": "2026-08-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "SecondBrain Note by GenSpark",
+    "summary": "New product launch on Product Hunt: SecondBrain Note by GenSpark",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/genspark",
+    "date": "2026-08-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Prime Agent",
+    "summary": "New product launch on Product Hunt: Prime Agent",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/prime-intellect",
+    "date": "2026-08-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "summary": "2274 stars | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/KKKKhazix/human-writing",
+    "date": "2026-08-05",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S",
+    "summary": "1607 stars | Unknown | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+    "date": "2026-08-05",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "MengTo/kage - An interactive five-chapter night walk through a Kyoto mountain temple, rendered",
+    "summary": "774 stars | HTML | An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/MengTo/kage",
+    "date": "2026-08-08",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "xoreaxeaxeax/asm-hall-of-shame - Racing to the bottom of CPU performance",
+    "summary": "729 stars | C | Racing to the bottom of CPU performance",
+    "source": "GitHub Trending",
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "date": "2026-08-06",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 43
   },
   {
     "title": "How I use LLMs to learn complex topics",
@@ -333,7 +541,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Mea Culpa – Dark Hours",
@@ -345,7 +553,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "I made tinnitus my friend, then it disappeared [video]",
@@ -357,7 +565,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
@@ -369,7 +577,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 47
   },
   {
     "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
@@ -381,7 +589,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
@@ -393,7 +601,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
@@ -405,7 +613,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 50
   },
   {
     "title": "Omniwork",
@@ -417,7 +625,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 51
   },
   {
     "title": "VoiceOS App Store",
@@ -429,7 +637,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "SoloUno",
@@ -441,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Macrobite",
@@ -453,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "DocsAlot CLI",
@@ -465,7 +673,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "Prompt Golf",
@@ -477,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "ZzzLc0405/photo-abstract-editorial - No description",
@@ -490,7 +698,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 40
+    "id": 57
   },
   {
     "title": "mikiarlo3/awesome-growth-hacking-skills - Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
@@ -503,7 +711,7 @@
       "Shell"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Cl",
@@ -516,7 +724,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "Fastmail offers EU data region",
@@ -524,211 +732,6 @@
     "source": "Hacker News",
     "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
     "date": "2026-08-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "_for-sale DNS records",
-    "summary": "339 points | 131 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://specification.website/spec/foundations/for-sale-dns/",
-    "date": "2026-08-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-    "summary": "374 points | 114 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "date": "2026-08-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-    "summary": "321 points | 332 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "date": "2026-08-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Danish high schoolers will have to verbally defend written assignments",
-    "summary": "499 points | 234 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-    "date": "2026-08-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
-    "summary": "422 points | 97 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-    "date": "2026-08-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "“Code was never the hard part” is an insult to all programmers",
-    "summary": "545 points | 353 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "date": "2026-08-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "DeepSeek V4 Flash 0731",
-    "summary": "759 points | 454 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-    "date": "2026-08-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "AstraPixels",
-    "summary": "New product launch on Product Hunt: AstraPixels",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/astrapixels",
-    "date": "2026-08-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "The GTM Co-Founder",
-    "summary": "New product launch on Product Hunt: The GTM Co-Founder",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/the-gtm-co-founder",
-    "date": "2026-07-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Basedash Subscriptions",
-    "summary": "New product launch on Product Hunt: Basedash Subscriptions",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basedash",
-    "date": "2026-08-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Hexis",
-    "summary": "New product launch on Product Hunt: Hexis",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/bevel-4",
-    "date": "2026-08-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Toolport",
-    "summary": "New product launch on Product Hunt: Toolport",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/conduit-12",
-    "date": "2026-08-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "AndroMeld",
-    "summary": "New product launch on Product Hunt: AndroMeld",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/andromeld",
-    "date": "2026-08-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ",
-    "summary": "12123 stars | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/firecrawl/anydoc",
-    "date": "2026-08-03",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-    "summary": "43 points | 14 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://genesisopenmodels.anl.gov/",
-    "date": "2026-08-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "What happens if an entire class of workers loses faith in their careers",
-    "summary": "385 points | 518 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "date": "2026-08-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Oracle bans AI-generated code from OpenJDK",
-    "summary": "371 points | 247 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "date": "2026-08-07",
     "tags": [
       "HN"
     ],
