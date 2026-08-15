@@ -1,10 +1,10 @@
 [
   {
-    "title": "Gemini 3.7 Flash",
-    "summary": "592 points | 330 comments on Hacker News",
+    "title": "Qwen 3.8 27B",
+    "summary": "857 points | 564 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "date": "2026-08-13",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "date": "2026-08-14",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Accelerating GPT-5.6 Sol Ultrafast",
-    "summary": "404 points | 170 comments on Hacker News",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "summary": "761 points | 694 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "date": "2026-08-13",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "date": "2026-08-14",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "DeepSeek Harness developer preview",
-    "summary": "545 points | 239 comments on Hacker News",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "summary": "334 points | 114 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://deepseek.com/harness/en/",
-    "date": "2026-08-13",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "date": "2026-08-14",
     "tags": [
       "HN"
     ],
@@ -36,35 +36,35 @@
     "id": 3
   },
   {
-    "title": "Spaghettifying DRAM",
-    "summary": "484 points | 138 comments on Hacker News",
+    "title": "Show HN: Mole – Deep research agent for your terminal",
+    "summary": "45 points | 6 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "date": "2026-08-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 4
-  },
-  {
-    "title": "SparrowMap – Cameras that watch government vehicles",
-    "summary": "7 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://sparrowmap.com/",
+    "url": "https://github.com/lajosdeme/mole",
     "date": "2026-08-14",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 4
+  },
+  {
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "summary": "1025 points | 509 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://z.ai/blog/glm-5.3",
+    "date": "2026-08-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-    "summary": "81 points | 51 comments on Hacker News",
+    "title": "Show HN: Ember – Redshift safe color palettes",
+    "summary": "53 points | 13 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.codewithbullet.com",
-    "date": "2026-08-13",
+    "url": "https://github.com/carpdiem/ember",
+    "date": "2026-08-09",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Scrimba Explain",
-    "summary": "New product launch on Product Hunt: Scrimba Explain",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/scrimba",
-    "date": "2026-08-04",
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "summary": "68 points | 13 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://luacad.ad-si.com",
+    "date": "2026-08-14",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Human Behavior",
-    "summary": "New product launch on Product Hunt: Human Behavior",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/human-behavior",
-    "date": "2026-08-13",
+    "title": "Every Fucking Website (2020)",
+    "summary": "730 points | 442 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://lxe.github.io/everywebsite/",
+    "date": "2026-08-14",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "WebBrain",
-    "summary": "New product launch on Product Hunt: WebBrain",
+    "title": "Freebuff",
+    "summary": "New product launch on Product Hunt: Freebuff",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/webbrain",
-    "date": "2026-07-13",
+    "url": "https://www.producthunt.com/products/freebuff-2",
+    "date": "2026-08-13",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Patience",
-    "summary": "New product launch on Product Hunt: Patience",
+    "title": "Basedash Tasks",
+    "summary": "New product launch on Product Hunt: Basedash Tasks",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/patience-2",
-    "date": "2026-08-08",
+    "url": "https://www.producthunt.com/products/basedash",
+    "date": "2026-08-14",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Kane CLI",
-    "summary": "New product launch on Product Hunt: Kane CLI",
+    "title": "Munder Difflin",
+    "summary": "New product launch on Product Hunt: Munder Difflin",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lambdatest",
-    "date": "2026-08-10",
+    "url": "https://www.producthunt.com/products/munder-difflin",
+    "date": "2026-08-12",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Kivicube",
-    "summary": "New product launch on Product Hunt: Kivicube",
+    "title": "Muse",
+    "summary": "New product launch on Product Hunt: Muse",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kivicube",
-    "date": "2026-08-12",
+    "url": "https://www.producthunt.com/products/muse-19",
+    "date": "2026-08-11",
     "tags": [
       "Product Launch"
     ],
@@ -144,8 +144,32 @@
     "id": 12
   },
   {
+    "title": "Port22",
+    "summary": "New product launch on Product Hunt: Port22",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/port22",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
+    "title": "DeepSeek Harness",
+    "summary": "New product launch on Product Hunt: DeepSeek Harness",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/deepseek",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-    "summary": "44839 stars | TypeScript | DeepSeek Harness: Everything is a Plugin.",
+    "summary": "95579 stars | TypeScript | DeepSeek Harness: Everything is a Plugin.",
     "source": "GitHub Trending",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
     "date": "2026-08-13",
@@ -154,11 +178,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 13
+    "id": 15
   },
   {
     "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit",
-    "summary": "5421 stars | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+    "summary": "8153 stars | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
     "source": "GitHub Trending",
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
     "date": "2026-08-11",
@@ -167,11 +191,37 @@
       "Python"
     ],
     "hot": true,
-    "id": 14
+    "id": 16
+  },
+  {
+    "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g",
+    "summary": "1943 stars | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/zhu1090093659/dsh-web-ui",
+    "date": "2026-08-12",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+    "summary": "1869 stars | TypeScript | 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+    "source": "GitHub Trending",
+    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "date": "2026-08-13",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 18
   },
   {
     "title": "antirez/h3.c - MiniMax H3 inference engine for Mac computers",
-    "summary": "1777 stars | C | MiniMax H3 inference engine for Mac computers",
+    "summary": "1851 stars | C | MiniMax H3 inference engine for Mac computers",
     "source": "GitHub Trending",
     "url": "https://github.com/antirez/h3.c",
     "date": "2026-08-09",
@@ -180,11 +230,11 @@
       "C"
     ],
     "hot": true,
-    "id": 15
+    "id": 19
   },
   {
     "title": "SMNETSTUDIO/WeChat-AI - No description",
-    "summary": "1683 stars | TypeScript | ",
+    "summary": "1709 stars | TypeScript | ",
     "source": "GitHub Trending",
     "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
     "date": "2026-08-10",
@@ -193,20 +243,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference",
-    "summary": "1027 stars | Python | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Leutenegger/book-to-skill",
-    "date": "2026-08-13",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -219,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 18
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -232,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -245,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 23
   },
   {
     "title": "The Pulse: Bending Spoons' Acquisition Strategy",
@@ -258,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 21
+    "id": 24
   },
   {
     "title": "The Pulse: Quitting Spotify Podcasts over reliability",
@@ -271,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 25
   },
   {
     "title": "The Pulse: New trend - concern about massive increase in code review load",
@@ -284,7 +321,164 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 26
+  },
+  {
+    "title": "Gemini 3.7 Flash",
+    "summary": "592 points | 330 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "date": "2026-08-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "summary": "404 points | 170 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "date": "2026-08-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "DeepSeek Harness developer preview",
+    "summary": "545 points | 239 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://deepseek.com/harness/en/",
+    "date": "2026-08-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Spaghettifying DRAM",
+    "summary": "484 points | 138 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "date": "2026-08-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "SparrowMap – Cameras that watch government vehicles",
+    "summary": "7 points | 1 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://sparrowmap.com/",
+    "date": "2026-08-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+    "summary": "81 points | 51 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.codewithbullet.com",
+    "date": "2026-08-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Scrimba Explain",
+    "summary": "New product launch on Product Hunt: Scrimba Explain",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/scrimba",
+    "date": "2026-08-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Human Behavior",
+    "summary": "New product launch on Product Hunt: Human Behavior",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/human-behavior",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "WebBrain",
+    "summary": "New product launch on Product Hunt: WebBrain",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/webbrain",
+    "date": "2026-07-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Patience",
+    "summary": "New product launch on Product Hunt: Patience",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/patience-2",
+    "date": "2026-08-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Kane CLI",
+    "summary": "New product launch on Product Hunt: Kane CLI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lambdatest",
+    "date": "2026-08-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Kivicube",
+    "summary": "New product launch on Product Hunt: Kivicube",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/kivicube",
+    "date": "2026-08-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference",
+    "summary": "1027 stars | Python | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Leutenegger/book-to-skill",
+    "date": "2026-08-13",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 39
   },
   {
     "title": "DeepSeek V4 Pro 0813",
@@ -296,7 +490,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 24
+    "id": 40
   },
   {
     "title": "Delta",
@@ -308,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 41
   },
   {
     "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
@@ -320,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 42
   },
   {
     "title": "Qwen3.8-2.4T",
@@ -332,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
@@ -344,7 +538,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 44
   },
   {
     "title": "2026 Eclipse Webcams",
@@ -356,7 +550,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Build Wide, Ship Narrow",
@@ -368,7 +562,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Grok 4.6",
@@ -380,7 +574,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Swipe",
@@ -392,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Media Sharing",
@@ -404,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "LaraCopilot",
@@ -416,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "Assembly Studio",
@@ -428,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "CodeBurn",
@@ -440,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Dograh",
@@ -452,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "ShawnPana/phone-harness - let your agent control your phone",
@@ -465,7 +659,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 38
+    "id": 54
   },
   {
     "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
@@ -478,7 +672,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for m",
@@ -491,7 +685,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
@@ -503,7 +697,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
@@ -515,7 +709,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 42
+    "id": 58
   },
   {
     "title": "Show HN: Tamron Lens Utility Alternative on Linux",
@@ -527,7 +721,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
+    "id": 59
   },
   {
     "title": "England set to be one of the first countries to eliminate hepatitis C",
@@ -539,200 +733,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Suzanne: AI tool for designing and manufacturing physical products",
-    "summary": "30 points | 24 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.suzanne3d.com/",
-    "date": "2026-08-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Show HN: Line9 - a Mermaid rendering engine with its own layout",
-    "summary": "8 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://line9.ai/diagram",
-    "date": "2026-08-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-    "summary": "127 points | 85 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/TheRealYT/git-knife",
-    "date": "2026-08-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Lexi",
-    "summary": "New product launch on Product Hunt: Lexi",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lexi-5",
-    "date": "2026-08-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "AdmitRaven",
-    "summary": "New product launch on Product Hunt: AdmitRaven",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/admitraven",
-    "date": "2026-08-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Switchy for Mac",
-    "summary": "New product launch on Product Hunt: Switchy for Mac",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/switchy-for-mac",
-    "date": "2026-08-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "BetterClaw",
-    "summary": "New product launch on Product Hunt: BetterClaw",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/betterclaw",
-    "date": "2026-05-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Product Analytics for Agents and Users",
-    "summary": "New product launch on Product Hunt: Product Analytics for Agents and Users",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kubit",
-    "date": "2026-07-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Vizard Agent",
-    "summary": "New product launch on Product Hunt: Vizard Agent",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
-    "date": "2026-08-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — ch",
-    "summary": "895 stars | JavaScript | AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/eternityspring/shuohao-skills",
-    "date": "2026-08-06",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscri",
-    "summary": "835 stars | TypeScript | A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engi",
-    "source": "GitHub Trending",
-    "url": "https://github.com/sohaibdevv/youtube-music",
-    "date": "2026-08-11",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-    "summary": "1019 points | 570 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "date": "2026-08-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-    "summary": "143 points | 68 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://cactuscompute.com/needle",
-    "date": "2026-08-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-    "summary": "350 points | 365 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "date": "2026-08-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-    "summary": "24 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://everycube.alen.is/",
-    "date": "2026-08-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Publishing Schematics Before “Open Source” Was a Word",
-    "summary": "59 points | 14 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
-    "date": "2026-08-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
