@@ -1,10 +1,10 @@
 [
   {
-    "title": "Qwen 3.8 27B",
-    "summary": "857 points | 564 comments on Hacker News",
+    "title": "Semaglutide linked to lower predicted dementia risk",
+    "summary": "332 points | 228 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-    "date": "2026-08-14",
+    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+    "date": "2026-08-15",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Why does Opus 5 feel worse to work with?",
-    "summary": "761 points | 694 comments on Hacker News",
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "summary": "389 points | 346 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "date": "2026-08-14",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "date": "2026-08-15",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Firefox is now the last major browser that still supports uBlock Origin",
-    "summary": "334 points | 114 comments on Hacker News",
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "summary": "388 points | 86 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-    "date": "2026-08-14",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "date": "2026-08-15",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Show HN: Mole – Deep research agent for your terminal",
-    "summary": "45 points | 6 comments on Hacker News",
+    "title": "A fortuitous decade as an indie software developer",
+    "summary": "14 points | 1 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/lajosdeme/mole",
-    "date": "2026-08-14",
+    "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+    "date": "2026-08-10",
     "tags": [
       "HN"
     ],
@@ -48,23 +48,23 @@
     "id": 4
   },
   {
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "summary": "1025 points | 509 comments on Hacker News",
+    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+    "summary": "55 points | 9 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://z.ai/blog/glm-5.3",
-    "date": "2026-08-14",
+    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+    "date": "2026-08-15",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Show HN: Ember – Redshift safe color palettes",
-    "summary": "53 points | 13 comments on Hacker News",
+    "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+    "summary": "195 points | 92 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/carpdiem/ember",
-    "date": "2026-08-09",
+    "url": "https://baselashraf81.github.io/eigendrum/",
+    "date": "2026-08-10",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-    "summary": "68 points | 13 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://luacad.ad-si.com",
+    "title": "GLM-5.3",
+    "summary": "New product launch on Product Hunt: GLM-5.3",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/z-ai",
     "date": "2026-08-14",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Every Fucking Website (2020)",
-    "summary": "730 points | 442 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lxe.github.io/everywebsite/",
-    "date": "2026-08-14",
+    "title": "Big Mike",
+    "summary": "New product launch on Product Hunt: Big Mike",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/big-mike",
+    "date": "2026-07-14",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Freebuff",
-    "summary": "New product launch on Product Hunt: Freebuff",
+    "title": "nenspace",
+    "summary": "New product launch on Product Hunt: nenspace",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/freebuff-2",
-    "date": "2026-08-13",
+    "url": "https://www.producthunt.com/products/nenspace",
+    "date": "2026-08-12",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Basedash Tasks",
-    "summary": "New product launch on Product Hunt: Basedash Tasks",
+    "title": "Inferock Bench",
+    "summary": "New product launch on Product Hunt: Inferock Bench",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basedash",
-    "date": "2026-08-14",
+    "url": "https://www.producthunt.com/products/inferock-bench",
+    "date": "2026-08-11",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Munder Difflin",
-    "summary": "New product launch on Product Hunt: Munder Difflin",
+    "title": "Clamshell",
+    "summary": "New product launch on Product Hunt: Clamshell",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/munder-difflin",
-    "date": "2026-08-12",
+    "url": "https://www.producthunt.com/products/clamshell",
+    "date": "2026-08-09",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Muse",
-    "summary": "New product launch on Product Hunt: Muse",
+    "title": "Chronock",
+    "summary": "New product launch on Product Hunt: Chronock",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/muse-19",
-    "date": "2026-08-11",
+    "url": "https://www.producthunt.com/products/chronock",
+    "date": "2026-08-13",
     "tags": [
       "Product Launch"
     ],
@@ -144,34 +144,36 @@
     "id": 12
   },
   {
-    "title": "Port22",
-    "summary": "New product launch on Product Hunt: Port22",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/port22",
+    "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
+    "summary": "115317 stars | TypeScript | DeepSeek Harness: Everything is a Plugin.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
     "date": "2026-08-13",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "TypeScript"
     ],
-    "hot": false,
+    "hot": true,
     "id": 13
   },
   {
-    "title": "DeepSeek Harness",
-    "summary": "New product launch on Product Hunt: DeepSeek Harness",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/deepseek",
-    "date": "2026-08-13",
+    "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit",
+    "summary": "9736 stars | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+    "source": "GitHub Trending",
+    "url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "date": "2026-08-11",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "Python"
     ],
-    "hot": false,
+    "hot": true,
     "id": 14
   },
   {
-    "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-    "summary": "95579 stars | TypeScript | DeepSeek Harness: Everything is a Plugin.",
+    "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+    "summary": "5876 stars | TypeScript | 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
     "source": "GitHub Trending",
-    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "date": "2026-08-13",
     "tags": [
       "GitHub",
@@ -181,11 +183,11 @@
     "id": 15
   },
   {
-    "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit",
-    "summary": "8153 stars | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+    "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+    "summary": "2994 stars | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
     "source": "GitHub Trending",
-    "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "date": "2026-08-11",
+    "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "date": "2026-08-13",
     "tags": [
       "GitHub",
       "Python"
@@ -195,7 +197,7 @@
   },
   {
     "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g",
-    "summary": "1943 stars | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+    "summary": "2707 stars | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
     "source": "GitHub Trending",
     "url": "https://github.com/zhu1090093659/dsh-web-ui",
     "date": "2026-08-12",
@@ -207,43 +209,17 @@
     "id": 17
   },
   {
-    "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-    "summary": "1869 stars | TypeScript | 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+    "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard",
+    "summary": "2189 stars | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
     "source": "GitHub Trending",
-    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-    "date": "2026-08-13",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "date": "2026-08-14",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "JavaScript"
     ],
     "hot": true,
     "id": 18
-  },
-  {
-    "title": "antirez/h3.c - MiniMax H3 inference engine for Mac computers",
-    "summary": "1851 stars | C | MiniMax H3 inference engine for Mac computers",
-    "source": "GitHub Trending",
-    "url": "https://github.com/antirez/h3.c",
-    "date": "2026-08-09",
-    "tags": [
-      "GitHub",
-      "C"
-    ],
-    "hot": true,
-    "id": 19
-  },
-  {
-    "title": "SMNETSTUDIO/WeChat-AI - No description",
-    "summary": "1709 stars | TypeScript | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-    "date": "2026-08-10",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "The Pulse: Bending Spoons' Acquisition Strategy",
@@ -295,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 22
   },
   {
     "title": "The Pulse: Quitting Spotify Podcasts over reliability",
@@ -308,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 23
   },
   {
     "title": "The Pulse: New trend - concern about massive increase in code review load",
@@ -321,7 +297,201 @@
       "Career"
     ],
     "hot": false,
+    "id": 24
+  },
+  {
+    "title": "Qwen 3.8 27B",
+    "summary": "857 points | 564 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "date": "2026-08-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Why does Opus 5 feel worse to work with?",
+    "summary": "761 points | 694 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "date": "2026-08-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "summary": "334 points | 114 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "date": "2026-08-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Mole – Deep research agent for your terminal",
+    "summary": "45 points | 6 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/lajosdeme/mole",
+    "date": "2026-08-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "summary": "1025 points | 509 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://z.ai/blog/glm-5.3",
+    "date": "2026-08-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Ember – Redshift safe color palettes",
+    "summary": "53 points | 13 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/carpdiem/ember",
+    "date": "2026-08-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "summary": "68 points | 13 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://luacad.ad-si.com",
+    "date": "2026-08-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Every Fucking Website (2020)",
+    "summary": "730 points | 442 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://lxe.github.io/everywebsite/",
+    "date": "2026-08-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Freebuff",
+    "summary": "New product launch on Product Hunt: Freebuff",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/freebuff-2",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Basedash Tasks",
+    "summary": "New product launch on Product Hunt: Basedash Tasks",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/basedash",
+    "date": "2026-08-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Munder Difflin",
+    "summary": "New product launch on Product Hunt: Munder Difflin",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/munder-difflin",
+    "date": "2026-08-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Muse",
+    "summary": "New product launch on Product Hunt: Muse",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/muse-19",
+    "date": "2026-08-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Port22",
+    "summary": "New product launch on Product Hunt: Port22",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/port22",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "DeepSeek Harness",
+    "summary": "New product launch on Product Hunt: DeepSeek Harness",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/deepseek",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "antirez/h3.c - MiniMax H3 inference engine for Mac computers",
+    "summary": "1851 stars | C | MiniMax H3 inference engine for Mac computers",
+    "source": "GitHub Trending",
+    "url": "https://github.com/antirez/h3.c",
+    "date": "2026-08-09",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "SMNETSTUDIO/WeChat-AI - No description",
+    "summary": "1709 stars | TypeScript | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+    "date": "2026-08-10",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "Gemini 3.7 Flash",
@@ -333,7 +503,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 41
   },
   {
     "title": "Accelerating GPT-5.6 Sol Ultrafast",
@@ -345,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "DeepSeek Harness developer preview",
@@ -357,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 43
   },
   {
     "title": "Spaghettifying DRAM",
@@ -369,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 44
   },
   {
     "title": "SparrowMap – Cameras that watch government vehicles",
@@ -381,7 +551,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 45
   },
   {
     "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
@@ -393,7 +563,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 46
   },
   {
     "title": "Scrimba Explain",
@@ -405,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 47
   },
   {
     "title": "Human Behavior",
@@ -417,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 48
   },
   {
     "title": "WebBrain",
@@ -429,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "Patience",
@@ -441,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "Kane CLI",
@@ -453,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 51
   },
   {
     "title": "Kivicube",
@@ -465,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 52
   },
   {
     "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference",
@@ -478,7 +648,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 39
+    "id": 53
   },
   {
     "title": "DeepSeek V4 Pro 0813",
@@ -490,7 +660,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 54
   },
   {
     "title": "Delta",
@@ -502,7 +672,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
@@ -514,7 +684,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 56
   },
   {
     "title": "Qwen3.8-2.4T",
@@ -526,7 +696,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 57
   },
   {
     "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
@@ -538,7 +708,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
+    "id": 58
   },
   {
     "title": "2026 Eclipse Webcams",
@@ -550,7 +720,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 59
   },
   {
     "title": "Build Wide, Ship Narrow",
@@ -562,177 +732,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Grok 4.6",
-    "summary": "391 points | 388 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://x.ai/news/grok-4-6",
-    "date": "2026-08-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Swipe",
-    "summary": "New product launch on Product Hunt: Swipe",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/swipe-9",
-    "date": "2026-08-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Media Sharing",
-    "summary": "New product launch on Product Hunt: Media Sharing",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/argos",
-    "date": "2026-08-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "LaraCopilot",
-    "summary": "New product launch on Product Hunt: LaraCopilot",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/laracopilot",
-    "date": "2026-08-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Assembly Studio",
-    "summary": "New product launch on Product Hunt: Assembly Studio",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/assembly-7",
-    "date": "2026-07-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "CodeBurn",
-    "summary": "New product launch on Product Hunt: CodeBurn",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/codeburn",
-    "date": "2026-08-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Dograh",
-    "summary": "New product launch on Product Hunt: Dograh",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dograh",
-    "date": "2026-08-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "ShawnPana/phone-harness - let your agent control your phone",
-    "summary": "1637 stars | Python | let your agent control your phone",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ShawnPana/phone-harness",
-    "date": "2026-08-07",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
-    "summary": "1614 stars | Python | Create smooth, responsive interactive web animations.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/oil-oil/oil-motion",
-    "date": "2026-08-07",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for m",
-    "summary": "887 stars | Rust | Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Flaminis/Dalaran",
-    "date": "2026-08-07",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "summary": "479 points | 201 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://stolen-thoughts.com/",
-    "date": "2026-08-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-    "summary": "196 points | 199 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://photosynthesis.camera",
-    "date": "2026-08-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Tamron Lens Utility Alternative on Linux",
-    "summary": "15 points | 0 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/yikerman/tamron-lens-control",
-    "date": "2026-08-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "England set to be one of the first countries to eliminate hepatitis C",
-    "summary": "483 points | 348 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-    "date": "2026-08-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
