@@ -1,10 +1,10 @@
 [
   {
-    "title": "Semaglutide linked to lower predicted dementia risk",
-    "summary": "332 points | 228 comments on Hacker News",
+    "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+    "summary": "343 points | 179 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-    "date": "2026-08-15",
+    "url": "https://rvembedded.com/blog_post/12/",
+    "date": "2026-08-16",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "AI has access to a vastly larger working memory than the human brain",
-    "summary": "389 points | 346 comments on Hacker News",
+    "title": "Claude: System Prompts",
+    "summary": "519 points | 216 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "date": "2026-08-15",
+    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "date": "2026-08-16",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-    "summary": "388 points | 86 comments on Hacker News",
+    "title": "Firefox for iOS now has a native adblocker",
+    "summary": "519 points | 213 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://sankalp.bearblog.dev/autoresearch/",
-    "date": "2026-08-15",
+    "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+    "date": "2026-08-16",
     "tags": [
       "HN"
     ],
@@ -36,47 +36,47 @@
     "id": 3
   },
   {
-    "title": "A fortuitous decade as an indie software developer",
-    "summary": "14 points | 1 comments on Hacker News",
+    "title": "Asus Bike Booster",
+    "summary": "607 points | 426 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
-    "date": "2026-08-10",
+    "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+    "date": "2026-08-12",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 4
   },
   {
-    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
-    "summary": "55 points | 9 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+    "title": "Chert",
+    "summary": "New product launch on Product Hunt: Chert",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/chert",
     "date": "2026-08-15",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 5
   },
   {
-    "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-    "summary": "195 points | 92 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://baselashraf81.github.io/eigendrum/",
-    "date": "2026-08-10",
+    "title": "Expeditione",
+    "summary": "New product launch on Product Hunt: Expeditione",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/expeditione",
+    "date": "2026-08-12",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 6
   },
   {
-    "title": "GLM-5.3",
-    "summary": "New product launch on Product Hunt: GLM-5.3",
+    "title": "CostLogic",
+    "summary": "New product launch on Product Hunt: CostLogic",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/z-ai",
-    "date": "2026-08-14",
+    "url": "https://www.producthunt.com/products/costlogic",
+    "date": "2026-07-31",
     "tags": [
       "Product Launch"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "Big Mike",
-    "summary": "New product launch on Product Hunt: Big Mike",
+    "title": "Vidaya",
+    "summary": "New product launch on Product Hunt: Vidaya",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/big-mike",
-    "date": "2026-07-14",
+    "url": "https://www.producthunt.com/products/vidaya",
+    "date": "2026-08-06",
     "tags": [
       "Product Launch"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "nenspace",
-    "summary": "New product launch on Product Hunt: nenspace",
+    "title": "AirAlarm",
+    "summary": "New product launch on Product Hunt: AirAlarm",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nenspace",
-    "date": "2026-08-12",
+    "url": "https://www.producthunt.com/products/airalarm",
+    "date": "2026-08-10",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Inferock Bench",
-    "summary": "New product launch on Product Hunt: Inferock Bench",
+    "title": "Blume",
+    "summary": "New product launch on Product Hunt: Blume",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/inferock-bench",
-    "date": "2026-08-11",
+    "url": "https://www.producthunt.com/products/blume-3",
+    "date": "2026-07-19",
     "tags": [
       "Product Launch"
     ],
@@ -120,34 +120,36 @@
     "id": 10
   },
   {
-    "title": "Clamshell",
-    "summary": "New product launch on Product Hunt: Clamshell",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clamshell",
-    "date": "2026-08-09",
+    "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
+    "summary": "131419 stars | TypeScript | DeepSeek Harness: Everything is a Plugin.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "date": "2026-08-13",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "TypeScript"
     ],
-    "hot": false,
+    "hot": true,
     "id": 11
   },
   {
-    "title": "Chronock",
-    "summary": "New product launch on Product Hunt: Chronock",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chronock",
-    "date": "2026-08-13",
+    "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit",
+    "summary": "11446 stars | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+    "source": "GitHub Trending",
+    "url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "date": "2026-08-11",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "Python"
     ],
-    "hot": false,
+    "hot": true,
     "id": 12
   },
   {
-    "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-    "summary": "115317 stars | TypeScript | DeepSeek Harness: Everything is a Plugin.",
+    "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+    "summary": "8897 stars | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
     "source": "GitHub Trending",
-    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
     "date": "2026-08-13",
     "tags": [
       "GitHub",
@@ -157,34 +159,8 @@
     "id": 13
   },
   {
-    "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit",
-    "summary": "9736 stars | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-    "source": "GitHub Trending",
-    "url": "https://github.com/guillaumemeyer/watermarks-remover",
-    "date": "2026-08-11",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 14
-  },
-  {
-    "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-    "summary": "5876 stars | TypeScript | 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-    "source": "GitHub Trending",
-    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-    "date": "2026-08-13",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-    "summary": "2994 stars | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+    "summary": "5119 stars | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
     "source": "GitHub Trending",
     "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "date": "2026-08-13",
@@ -193,11 +169,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 16
+    "id": 14
   },
   {
     "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g",
-    "summary": "2707 stars | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+    "summary": "3422 stars | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
     "source": "GitHub Trending",
     "url": "https://github.com/zhu1090093659/dsh-web-ui",
     "date": "2026-08-12",
@@ -206,11 +182,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 17
+    "id": 15
   },
   {
     "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard",
-    "summary": "2189 stars | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "summary": "3022 stars | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
     "source": "GitHub Trending",
     "url": "https://github.com/xiaobright/dsh-anchored-standard",
     "date": "2026-08-14",
@@ -219,7 +195,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 18
+    "id": 16
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -232,7 +208,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 17
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -245,7 +221,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 18
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -258,7 +234,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "The Pulse: Bending Spoons' Acquisition Strategy",
@@ -271,7 +247,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "The Pulse: Quitting Spotify Podcasts over reliability",
@@ -284,7 +260,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "The Pulse: New trend - concern about massive increase in code review load",
@@ -297,7 +273,151 @@
       "Career"
     ],
     "hot": false,
+    "id": 22
+  },
+  {
+    "title": "Semaglutide linked to lower predicted dementia risk",
+    "summary": "332 points | 228 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+    "date": "2026-08-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 23
+  },
+  {
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "summary": "389 points | 346 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "date": "2026-08-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 24
+  },
+  {
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "summary": "388 points | 86 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "date": "2026-08-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "A fortuitous decade as an indie software developer",
+    "summary": "14 points | 1 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 26
+  },
+  {
+    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+    "summary": "55 points | 9 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+    "date": "2026-08-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+    "summary": "195 points | 92 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://baselashraf81.github.io/eigendrum/",
+    "date": "2026-08-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "GLM-5.3",
+    "summary": "New product launch on Product Hunt: GLM-5.3",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/z-ai",
+    "date": "2026-08-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Big Mike",
+    "summary": "New product launch on Product Hunt: Big Mike",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/big-mike",
+    "date": "2026-07-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "nenspace",
+    "summary": "New product launch on Product Hunt: nenspace",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nenspace",
+    "date": "2026-08-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Inferock Bench",
+    "summary": "New product launch on Product Hunt: Inferock Bench",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/inferock-bench",
+    "date": "2026-08-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Clamshell",
+    "summary": "New product launch on Product Hunt: Clamshell",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/clamshell",
+    "date": "2026-08-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Chronock",
+    "summary": "New product launch on Product Hunt: Chronock",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/chronock",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
   },
   {
     "title": "Qwen 3.8 27B",
@@ -309,7 +429,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 35
   },
   {
     "title": "Why does Opus 5 feel worse to work with?",
@@ -321,7 +441,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 36
   },
   {
     "title": "Firefox is now the last major browser that still supports uBlock Origin",
@@ -333,7 +453,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 37
   },
   {
     "title": "Show HN: Mole – Deep research agent for your terminal",
@@ -345,7 +465,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 38
   },
   {
     "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
@@ -357,7 +477,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 39
   },
   {
     "title": "Show HN: Ember – Redshift safe color palettes",
@@ -369,7 +489,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 40
   },
   {
     "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
@@ -381,7 +501,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 41
   },
   {
     "title": "Every Fucking Website (2020)",
@@ -393,7 +513,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 42
   },
   {
     "title": "Freebuff",
@@ -405,7 +525,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 43
   },
   {
     "title": "Basedash Tasks",
@@ -417,7 +537,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 44
   },
   {
     "title": "Munder Difflin",
@@ -429,7 +549,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 45
   },
   {
     "title": "Muse",
@@ -441,7 +561,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 46
   },
   {
     "title": "Port22",
@@ -453,7 +573,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 47
   },
   {
     "title": "DeepSeek Harness",
@@ -465,7 +585,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 48
   },
   {
     "title": "antirez/h3.c - MiniMax H3 inference engine for Mac computers",
@@ -478,7 +598,7 @@
       "C"
     ],
     "hot": true,
-    "id": 39
+    "id": 49
   },
   {
     "title": "SMNETSTUDIO/WeChat-AI - No description",
@@ -491,7 +611,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 40
+    "id": 50
   },
   {
     "title": "Gemini 3.7 Flash",
@@ -503,7 +623,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 51
   },
   {
     "title": "Accelerating GPT-5.6 Sol Ultrafast",
@@ -515,7 +635,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 52
   },
   {
     "title": "DeepSeek Harness developer preview",
@@ -527,7 +647,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 53
   },
   {
     "title": "Spaghettifying DRAM",
@@ -539,7 +659,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 54
   },
   {
     "title": "SparrowMap – Cameras that watch government vehicles",
@@ -551,7 +671,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 45
+    "id": 55
   },
   {
     "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
@@ -563,7 +683,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 46
+    "id": 56
   },
   {
     "title": "Scrimba Explain",
@@ -575,7 +695,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 47
+    "id": 57
   },
   {
     "title": "Human Behavior",
@@ -587,7 +707,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 48
+    "id": 58
   },
   {
     "title": "WebBrain",
@@ -599,7 +719,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 49
+    "id": 59
   },
   {
     "title": "Patience",
@@ -609,127 +729,6 @@
     "date": "2026-08-08",
     "tags": [
       "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Kane CLI",
-    "summary": "New product launch on Product Hunt: Kane CLI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lambdatest",
-    "date": "2026-08-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Kivicube",
-    "summary": "New product launch on Product Hunt: Kivicube",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kivicube",
-    "date": "2026-08-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference",
-    "summary": "1027 stars | Python | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Leutenegger/book-to-skill",
-    "date": "2026-08-13",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "DeepSeek V4 Pro 0813",
-    "summary": "720 points | 270 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-    "date": "2026-08-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Delta",
-    "summary": "373 points | 121 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://zed.dev/blog/introducing-delta",
-    "date": "2026-08-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-    "summary": "779 points | 138 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "date": "2026-08-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Qwen3.8-2.4T",
-    "summary": "481 points | 102 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-    "date": "2026-08-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-    "summary": "11 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ballet.dev/",
-    "date": "2026-08-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "2026 Eclipse Webcams",
-    "summary": "457 points | 124 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://jonty.github.io/2026_eclipse_webcams/",
-    "date": "2026-08-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Build Wide, Ship Narrow",
-    "summary": "11 points | 0 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://adapt.com/blog/build-wide-ship-narrow",
-    "date": "2026-08-12",
-    "tags": [
-      "HN"
     ],
     "hot": false,
     "id": 60
