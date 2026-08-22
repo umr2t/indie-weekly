@@ -1,10 +1,10 @@
 [
   {
-    "title": "I like 'em thick: an apology to my English teachers",
-    "summary": "539 points | 250 comments on Hacker News",
+    "title": "Kobo can run apps now",
+    "summary": "398 points | 137 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.experimental-history.com/p/i-like-em-thick",
-    "date": "2026-08-18",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "date": "2026-08-21",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-    "summary": "825 points | 186 comments on Hacker News",
+    "title": "Felony Bench",
+    "summary": "486 points | 220 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "date": "2026-08-20",
+    "url": "https://www.felonybench.com/",
+    "date": "2026-08-21",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "summary": "859 points | 280 comments on Hacker News",
+    "title": "Felony charges for citizen deleting phone data at US Border",
+    "summary": "511 points | 699 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-    "date": "2026-08-20",
+    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "date": "2026-08-21",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "HTML Can Do That",
-    "summary": "545 points | 154 comments on Hacker News",
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "summary": "986 points | 333 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "date": "2026-08-19",
+    "url": "https://kagi.com/changelog#11296",
+    "date": "2026-08-21",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Malicious Rust crate Arrayref runs a build-time payload",
-    "summary": "379 points | 356 comments on Hacker News",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "summary": "420 points | 46 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-    "date": "2026-08-20",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "date": "2026-08-21",
     "tags": [
       "HN"
     ],
@@ -60,23 +60,23 @@
     "id": 5
   },
   {
-    "title": "Show HN: Huzzah – a novel approach to coding with AI",
-    "summary": "201 points | 111 comments on Hacker News",
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "summary": "19 points | 8 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "date": "2026-08-20",
+    "url": "https://ozbrain.com",
+    "date": "2026-08-21",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "CIA funding helped keep NeXT afloat in the 80s",
-    "summary": "316 points | 204 comments on Hacker News",
+    "title": "DeepSeek-v4-flash-vision-exp",
+    "summary": "450 points | 142 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "date": "2026-08-20",
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "date": "2026-08-21",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-    "summary": "485 points | 105 comments on Hacker News",
+    "title": "The coolest anti-surveillance tools at Defcon [video]",
+    "summary": "147 points | 8 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "date": "2026-08-20",
+    "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+    "date": "2026-08-18",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "HyNote for Mac",
-    "summary": "New product launch on Product Hunt: HyNote for Mac",
+    "title": "Flunkey",
+    "summary": "New product launch on Product Hunt: Flunkey",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hynote-ai",
-    "date": "2026-08-05",
+    "url": "https://www.producthunt.com/products/flunkey",
+    "date": "2026-08-20",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Hermai Brand API",
-    "summary": "New product launch on Product Hunt: Hermai Brand API",
+    "title": "Supernova",
+    "summary": "New product launch on Product Hunt: Supernova",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hermai-brand-api",
-    "date": "2026-08-20",
+    "url": "https://www.producthunt.com/products/supernova-ai",
+    "date": "2026-08-11",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Grok 4.6",
-    "summary": "New product launch on Product Hunt: Grok 4.6",
+    "title": "Outlook Google Calendar Sync for Mac",
+    "summary": "New product launch on Product Hunt: Outlook Google Calendar Sync for Mac",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/grok-4-6-7",
-    "date": "2026-08-19",
+    "url": "https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac",
+    "date": "2026-06-27",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "The New Calendly",
-    "summary": "New product launch on Product Hunt: The New Calendly",
+    "title": "Antigravity IDE Extensions",
+    "summary": "New product launch on Product Hunt: Antigravity IDE Extensions",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/calendly",
-    "date": "2026-08-20",
+    "url": "https://www.producthunt.com/products/google-antigravity",
+    "date": "2026-08-21",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Zoho Cliq 7.0",
-    "summary": "New product launch on Product Hunt: Zoho Cliq 7.0",
+    "title": "Lynqo",
+    "summary": "New product launch on Product Hunt: Lynqo",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/zoho",
-    "date": "2026-07-31",
+    "url": "https://www.producthunt.com/products/lynqo-your-local-nas-server",
+    "date": "2026-08-20",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "MeetStream AI",
-    "summary": "New product launch on Product Hunt: MeetStream AI",
+    "title": "PixelRead AI OCR",
+    "summary": "New product launch on Product Hunt: PixelRead AI OCR",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/meetstream-ai",
-    "date": "2026-08-19",
+    "url": "https://www.producthunt.com/products/pixelread-ai-ocr",
+    "date": "2026-08-20",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP",
-    "summary": "3089 stars | Unknown | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+    "summary": "3485 stars | Unknown | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
     "source": "GitHub Trending",
     "url": "https://github.com/s1dashu/ip-as-logo-skill",
     "date": "2026-08-18",
@@ -182,7 +182,7 @@
   },
   {
     "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-cla",
-    "summary": "2774 stars | TypeScript | Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+    "summary": "2858 stars | TypeScript | Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
     "source": "GitHub Trending",
     "url": "https://github.com/yetone/cumora",
     "date": "2026-08-17",
@@ -195,7 +195,7 @@
   },
   {
     "title": "CopilotKit/OpenBot - Open-source AI coworkers that each get a computer of their own: a browser, files",
-    "summary": "1624 stars | TypeScript | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI ag",
+    "summary": "2120 stars | TypeScript | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI ag",
     "source": "GitHub Trending",
     "url": "https://github.com/CopilotKit/OpenBot",
     "date": "2026-08-17",
@@ -208,7 +208,7 @@
   },
   {
     "title": "cinderline/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, si",
-    "summary": "1198 stars | JavaScript | Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+    "summary": "1203 stars | JavaScript | Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
     "source": "GitHub Trending",
     "url": "https://github.com/cinderline/northcinder",
     "date": "2026-08-17",
@@ -221,7 +221,7 @@
   },
   {
     "title": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report - DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-",
-    "summary": "1038 stars | Unknown | DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+    "summary": "1036 stars | Unknown | DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
     "source": "GitHub Trending",
     "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
     "date": "2026-08-16",
@@ -233,11 +233,11 @@
     "id": 19
   },
   {
-    "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical",
-    "summary": "924 stars | Python | Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+    "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent ne",
+    "summary": "1009 stars | Python | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
     "source": "GitHub Trending",
-    "url": "https://github.com/Leutenegger/watermarks-remover",
-    "date": "2026-08-19",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "date": "2026-08-18",
     "tags": [
       "GitHub",
       "Python"
@@ -324,6 +324,187 @@
     "id": 26
   },
   {
+    "title": "I like 'em thick: an apology to my English teachers",
+    "summary": "539 points | 250 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "date": "2026-08-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+    "summary": "825 points | 186 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "date": "2026-08-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "summary": "859 points | 280 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "date": "2026-08-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "HTML Can Do That",
+    "summary": "545 points | 154 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "date": "2026-08-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Malicious Rust crate Arrayref runs a build-time payload",
+    "summary": "379 points | 356 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "date": "2026-08-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "summary": "201 points | 111 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "date": "2026-08-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "CIA funding helped keep NeXT afloat in the 80s",
+    "summary": "316 points | 204 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "date": "2026-08-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "summary": "485 points | 105 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "date": "2026-08-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "HyNote for Mac",
+    "summary": "New product launch on Product Hunt: HyNote for Mac",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/hynote-ai",
+    "date": "2026-08-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Hermai Brand API",
+    "summary": "New product launch on Product Hunt: Hermai Brand API",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/hermai-brand-api",
+    "date": "2026-08-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Grok 4.6",
+    "summary": "New product launch on Product Hunt: Grok 4.6",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/grok-4-6-7",
+    "date": "2026-08-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "The New Calendly",
+    "summary": "New product launch on Product Hunt: The New Calendly",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/calendly",
+    "date": "2026-08-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Zoho Cliq 7.0",
+    "summary": "New product launch on Product Hunt: Zoho Cliq 7.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/zoho",
+    "date": "2026-07-31",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "MeetStream AI",
+    "summary": "New product launch on Product Hunt: MeetStream AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/meetstream-ai",
+    "date": "2026-08-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical",
+    "summary": "924 stars | Python | Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Leutenegger/watermarks-remover",
+    "date": "2026-08-19",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
     "title": "OpenRouter is joining Stripe",
     "summary": "588 points | 316 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 42
   },
   {
     "title": "Go 1.27",
@@ -345,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
@@ -357,7 +538,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 44
   },
   {
     "title": "A joke domain purchase turned in geopolitical warfare",
@@ -369,7 +550,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Geolocating a random island using geometry and CUDA programming",
@@ -381,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Remote workers report the highest well-being in study of 7,700 employees",
@@ -393,7 +574,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 47
   },
   {
     "title": "anyCreature by Gobkit",
@@ -405,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 48
   },
   {
     "title": "OmniVibe",
@@ -417,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "ChatGPT for Teens",
@@ -429,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "Hexel Editor",
@@ -441,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Astute",
@@ -453,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "Clipto MCP",
@@ -465,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "yjh051108/dsh-routing-suite - dsh-routing-suite — injector + router-standard kit: install the runtime injector",
@@ -478,7 +659,7 @@
       "PowerShell"
     ],
     "hot": true,
-    "id": 39
+    "id": 54
   },
   {
     "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard",
@@ -491,7 +672,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 40
+    "id": 55
   },
   {
     "title": "dsh-market/dsh-market - The plugin market inside DeepSeek Harness — browse, search, one-click install · ",
@@ -504,7 +685,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "The Pulse: Quitting Spotify Podcasts over reliability",
@@ -517,7 +698,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 42
+    "id": 57
   },
   {
     "title": "The Amazon tax",
@@ -529,7 +710,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 58
   },
   {
     "title": "Solo – a .so loader for static Linux binaries",
@@ -541,7 +722,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
+    "id": 59
   },
   {
     "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
@@ -551,190 +732,6 @@
     "date": "2026-08-18",
     "tags": [
       "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Using the railway network as a flatbed scanner",
-    "summary": "388 points | 61 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://philo.gay/linecam/",
-    "date": "2026-08-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Beware Management Consultants",
-    "summary": "426 points | 115 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-    "date": "2026-08-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Cursor launches Origin, GitHub alternative",
-    "summary": "448 points | 351 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://cursor.com/changelog/origin-code-hosting",
-    "date": "2026-08-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Fixing a bricked Framework laptop",
-    "summary": "343 points | 235 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "date": "2026-08-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Memory prices climb 500% in 12 months",
-    "summary": "451 points | 370 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-    "date": "2026-08-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Whisperstream",
-    "summary": "New product launch on Product Hunt: Whisperstream",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/whisperstream",
-    "date": "2026-06-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Dates by Agenda Hero",
-    "summary": "New product launch on Product Hunt: Dates by Agenda Hero",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dates-by-agenda-hero",
-    "date": "2026-08-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Deepmark",
-    "summary": "New product launch on Product Hunt: Deepmark",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/deepmark",
-    "date": "2026-08-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Taku AI",
-    "summary": "New product launch on Product Hunt: Taku AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/taku-ai",
-    "date": "2026-08-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Clara AI SDR",
-    "summary": "New product launch on Product Hunt: Clara AI SDR",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clara-ai-sdr",
-    "date": "2026-08-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Salem Robotics",
-    "summary": "New product launch on Product Hunt: Salem Robotics",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/salem-robotics",
-    "date": "2026-08-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
-    "summary": "160373 stars | TypeScript | DeepSeek Harness: Everything is a Plugin.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "date": "2026-08-13",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-    "summary": "13580 stars | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-    "date": "2026-08-13",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-    "summary": "8892 stars | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-    "source": "GitHub Trending",
-    "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-    "date": "2026-08-13",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "The Pulse: New trend - concern about massive increase in code review load",
-    "summary": "Top of mind for engineering leaders: what to do about the growing code review load, and how devs are starting to review code less thoroughly than before? Many questions, but few proven solutions.",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/",
-    "date": "2026-07-23",
-    "tags": [
-      "Tech",
-      "Career"
     ],
     "hot": false,
     "id": 60
