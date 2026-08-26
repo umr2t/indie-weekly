@@ -1,10 +1,10 @@
 [
   {
-    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "summary": "707 points | 476 comments on Hacker News",
+    "title": "Apple introduces M6 and M5 Ultra",
+    "summary": "925 points | 881 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://twitter.com/lemire/status/2091894299289874926",
-    "date": "2026-08-24",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "date": "2026-08-25",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "summary": "533 points | 215 comments on Hacker News",
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
+    "summary": "694 points | 434 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "date": "2026-08-24",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "date": "2026-08-25",
     "tags": [
       "HN"
     ],
@@ -24,23 +24,23 @@
     "id": 2
   },
   {
-    "title": "The entire city of San Francisco as a video game",
-    "summary": "321 points | 111 comments on Hacker News",
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "summary": "34 points | 7 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://sf.thijs.gg/",
-    "date": "2026-08-24",
+    "url": "https://github.com/swimmingbrain/texbrain",
+    "date": "2026-08-25",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "How Europe is killing makers and micro-entrepreneurs",
-    "summary": "1030 points | 645 comments on Hacker News",
+    "title": "New Mac mini, featuring M6 and M5 Pro",
+    "summary": "414 points | 247 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-    "date": "2026-08-24",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+    "date": "2026-08-25",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Oceans hit highest temperature on record",
-    "summary": "378 points | 258 comments on Hacker News",
+    "title": "Nitter project received cease and desist",
+    "summary": "584 points | 412 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-    "date": "2026-08-24",
+    "url": "https://github.com/zedeus/nitter/issues/1442",
+    "date": "2026-08-25",
     "tags": [
       "HN"
     ],
@@ -60,47 +60,47 @@
     "id": 5
   },
   {
-    "title": "IPFS Maintainers Winding Down",
-    "summary": "316 points | 160 comments on Hacker News",
+    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+    "summary": "88 points | 19 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "date": "2026-08-24",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 6
-  },
-  {
-    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-    "summary": "89 points | 16 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://picomq.com/",
-    "date": "2026-08-24",
+    "url": "https://github.com/ThinkOffApp/CarWatch",
+    "date": "2026-08-25",
     "tags": [
       "HN"
     ],
     "hot": false,
-    "id": 7
+    "id": 6
   },
   {
-    "title": "Coding expertise is going to collapse from AI reliance",
-    "summary": "442 points | 444 comments on Hacker News",
+    "title": "Dolly Parton has died",
+    "summary": "1151 points | 180 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "date": "2026-08-24",
+    "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+    "date": "2026-08-25",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 7
+  },
+  {
+    "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+    "summary": "100 points | 31 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/jeffhajewski/latticedb",
+    "date": "2026-08-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 8
   },
   {
-    "title": "IFAH",
-    "summary": "New product launch on Product Hunt: IFAH",
+    "title": "Flare",
+    "summary": "New product launch on Product Hunt: Flare",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound",
-    "date": "2026-08-23",
+    "url": "https://www.producthunt.com/products/flare-11",
+    "date": "2026-08-22",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Cortex by SKYNETLAB",
-    "summary": "New product launch on Product Hunt: Cortex by SKYNETLAB",
+    "title": "Particle Studio",
+    "summary": "New product launch on Product Hunt: Particle Studio",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cortex-by-skynetlab",
-    "date": "2026-08-23",
+    "url": "https://www.producthunt.com/products/particle-studio",
+    "date": "2026-08-18",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Destiny Rings",
-    "summary": "New product launch on Product Hunt: Destiny Rings",
+    "title": "Agnost AI",
+    "summary": "New product launch on Product Hunt: Agnost AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/destiny-rings",
-    "date": "2026-08-20",
+    "url": "https://www.producthunt.com/products/agnost-ai",
+    "date": "2026-08-23",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Lucid Train",
-    "summary": "New product launch on Product Hunt: Lucid Train",
+    "title": "Ninjō AI",
+    "summary": "New product launch on Product Hunt: Ninjō AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lucid-train",
-    "date": "2026-08-23",
+    "url": "https://www.producthunt.com/products/ninjo-ai",
+    "date": "2026-08-13",
     "tags": [
       "Product Launch"
     ],
@@ -144,10 +144,10 @@
     "id": 12
   },
   {
-    "title": "Trama",
-    "summary": "New product launch on Product Hunt: Trama",
+    "title": "Diet Claude",
+    "summary": "New product launch on Product Hunt: Diet Claude",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/trama-mac-automation-in-plain-language",
+    "url": "https://www.producthunt.com/products/diet-claude",
     "date": "2026-08-22",
     "tags": [
       "Product Launch"
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Antigravity Remote Control",
-    "summary": "New product launch on Product Hunt: Antigravity Remote Control",
+    "title": "Purchase API by Agentcard",
+    "summary": "New product launch on Product Hunt: Purchase API by Agentcard",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google-antigravity",
-    "date": "2026-08-24",
+    "url": "https://www.producthunt.com/products/agent-card",
+    "date": "2026-08-23",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "MengTo/threeui - Open-source ThreeUI Community catalog with live interactive components and compl",
-    "summary": "3448 stars | HTML | Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+    "summary": "3909 stars | HTML | Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
     "source": "GitHub Trending",
     "url": "https://github.com/MengTo/threeui",
     "date": "2026-08-21",
@@ -182,7 +182,7 @@
   },
   {
     "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m",
-    "summary": "1707 stars | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+    "summary": "2543 stars | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
     "source": "GitHub Trending",
     "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
     "date": "2026-08-23",
@@ -194,21 +194,8 @@
     "id": 16
   },
   {
-    "title": "duty1g/x64dbg-mcp-server - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha",
-    "summary": "1223 stars | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and co",
-    "source": "GitHub Trending",
-    "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "date": "2026-08-22",
-    "tags": [
-      "GitHub",
-      "Zig"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "tobi/walgit - No description",
-    "summary": "1046 stars | Rust | ",
+    "summary": "1544 stars | Rust | ",
     "source": "GitHub Trending",
     "url": "https://github.com/tobi/walgit",
     "date": "2026-08-23",
@@ -217,11 +204,24 @@
       "Rust"
     ],
     "hot": true,
+    "id": 17
+  },
+  {
+    "title": "duty1g/x64dbg-mcp-server - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha",
+    "summary": "1380 stars | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and co",
+    "source": "GitHub Trending",
+    "url": "https://github.com/duty1g/x64dbg-mcp-server",
+    "date": "2026-08-22",
+    "tags": [
+      "GitHub",
+      "Zig"
+    ],
+    "hot": true,
     "id": 18
   },
   {
     "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a s",
-    "summary": "837 stars | Python | Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+    "summary": "913 stars | Python | Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
     "source": "GitHub Trending",
     "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
     "date": "2026-08-20",
@@ -233,14 +233,14 @@
     "id": 19
   },
   {
-    "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite ",
-    "summary": "768 stars | Python | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin",
+    "summary": "907 stars | JavaScript | Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
     "source": "GitHub Trending",
-    "url": "https://github.com/ShadowAqueduct/watermark-remover",
-    "date": "2026-08-23",
+    "url": "https://github.com/nateherkai/scroll-craft",
+    "date": "2026-08-22",
     "tags": [
       "GitHub",
-      "Python"
+      "JavaScript"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,187 @@
     "id": 26
   },
   {
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "summary": "707 points | 476 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "date": "2026-08-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "summary": "533 points | 215 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "date": "2026-08-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "The entire city of San Francisco as a video game",
+    "summary": "321 points | 111 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://sf.thijs.gg/",
+    "date": "2026-08-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "How Europe is killing makers and micro-entrepreneurs",
+    "summary": "1030 points | 645 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+    "date": "2026-08-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Oceans hit highest temperature on record",
+    "summary": "378 points | 258 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+    "date": "2026-08-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "IPFS Maintainers Winding Down",
+    "summary": "316 points | 160 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "date": "2026-08-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+    "summary": "89 points | 16 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://picomq.com/",
+    "date": "2026-08-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "summary": "442 points | 444 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "date": "2026-08-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "IFAH",
+    "summary": "New product launch on Product Hunt: IFAH",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound",
+    "date": "2026-08-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Cortex by SKYNETLAB",
+    "summary": "New product launch on Product Hunt: Cortex by SKYNETLAB",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cortex-by-skynetlab",
+    "date": "2026-08-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Destiny Rings",
+    "summary": "New product launch on Product Hunt: Destiny Rings",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/destiny-rings",
+    "date": "2026-08-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Lucid Train",
+    "summary": "New product launch on Product Hunt: Lucid Train",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lucid-train",
+    "date": "2026-08-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Trama",
+    "summary": "New product launch on Product Hunt: Trama",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/trama-mac-automation-in-plain-language",
+    "date": "2026-08-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Antigravity Remote Control",
+    "summary": "New product launch on Product Hunt: Antigravity Remote Control",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/google-antigravity",
+    "date": "2026-08-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite ",
+    "summary": "768 stars | Python | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ShadowAqueduct/watermark-remover",
+    "date": "2026-08-23",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
     "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
     "summary": "160 points | 135 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +514,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 42
   },
   {
     "title": "A website for debloated open source alternatives",
@@ -345,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
@@ -357,7 +538,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 44
   },
   {
     "title": "Tab Notes",
@@ -369,7 +550,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Local Music Organizer for Mac",
@@ -381,7 +562,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Claude Academy",
@@ -393,7 +574,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 47
   },
   {
     "title": "Flown",
@@ -405,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Yatko",
@@ -417,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "KanaSensei",
@@ -429,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "s1dashu/ip-as-logo-skill - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP",
@@ -442,7 +623,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 36
+    "id": 51
   },
   {
     "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent ne",
@@ -455,7 +636,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 37
+    "id": 52
   },
   {
     "title": "vvxw/deploy-vercel - Install Command：npm install",
@@ -468,7 +649,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 38
+    "id": 53
   },
   {
     "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -480,7 +661,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 54
   },
   {
     "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
@@ -492,7 +673,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 40
+    "id": 55
   },
   {
     "title": "Rust Glancer: Rust LSP using 100x less RAM",
@@ -504,7 +685,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "Show HN: terminal-code – VS Code inside the terminal",
@@ -516,7 +697,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 42
+    "id": 57
   },
   {
     "title": "Show HN: Make your logo extra bright on HDR screens",
@@ -528,7 +709,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
+    "id": 58
   },
   {
     "title": "Port Radar for macOS",
@@ -540,7 +721,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 44
+    "id": 59
   },
   {
     "title": "SubtitleGenerator",
@@ -548,189 +729,6 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/subtitlegenerator",
     "date": "2026-08-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Open Analytics",
-    "summary": "New product launch on Product Hunt: Open Analytics",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/open-analytics-2",
-    "date": "2026-08-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Pocket by Meta",
-    "summary": "New product launch on Product Hunt: Pocket by Meta",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pocket-by-meta",
-    "date": "2026-08-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Pawvis",
-    "summary": "New product launch on Product Hunt: Pawvis",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pawvis",
-    "date": "2026-08-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "VeloFiler",
-    "summary": "New product launch on Product Hunt: VeloFiler",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/velofiler",
-    "date": "2026-08-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-cla",
-    "summary": "2901 stars | TypeScript | Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/yetone/cumora",
-    "date": "2026-08-17",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "CopilotKit/OpenBot - Open-source AI coworkers that each get a computer of their own: a browser, files",
-    "summary": "2324 stars | TypeScript | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI ag",
-    "source": "GitHub Trending",
-    "url": "https://github.com/CopilotKit/OpenBot",
-    "date": "2026-08-17",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "cinderline/northcinder - Open-source MCP server for comparing products and asking the buyer before purcha",
-    "summary": "1205 stars | JavaScript | Open-source MCP server for comparing products and asking the buyer before purchase.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/cinderline/northcinder",
-    "date": "2026-08-17",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Kobo can run apps now",
-    "summary": "398 points | 137 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "date": "2026-08-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Felony Bench",
-    "summary": "486 points | 220 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.felonybench.com/",
-    "date": "2026-08-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Felony charges for citizen deleting phone data at US Border",
-    "summary": "511 points | 699 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-    "date": "2026-08-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Kagi added a setting for removing paywalled links from search results",
-    "summary": "986 points | 333 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://kagi.com/changelog#11296",
-    "date": "2026-08-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-    "summary": "420 points | 46 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "date": "2026-08-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "DeepSeek-v4-flash-vision-exp",
-    "summary": "450 points | 142 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://api-docs.deepseek.com/guides/vision/",
-    "date": "2026-08-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "The coolest anti-surveillance tools at Defcon [video]",
-    "summary": "147 points | 8 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-    "date": "2026-08-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Flunkey",
-    "summary": "New product launch on Product Hunt: Flunkey",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/flunkey",
-    "date": "2026-08-20",
     "tags": [
       "Product Launch"
     ],
