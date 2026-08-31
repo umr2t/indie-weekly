@@ -1,10 +1,10 @@
 [
   {
-    "title": "Tether: iMessage, SMS, etc. on Linux",
-    "summary": "366 points | 147 comments on Hacker News",
+    "title": "Creepy Crawlies",
+    "summary": "933 points | 435 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://zackbartel.com/blog/2026/08/tether/",
-    "date": "2026-08-24",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "date": "2026-08-29",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-    "summary": "104 points | 32 comments on Hacker News",
+    "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+    "summary": "107 points | 11 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "date": "2026-08-29",
+    "url": "https://wilsonharper.net/projects/businesscard/",
+    "date": "2026-08-28",
     "tags": [
       "HN"
     ],
@@ -24,71 +24,71 @@
     "id": 2
   },
   {
-    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-    "summary": "310 points | 48 comments on Hacker News",
+    "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "summary": "70 points | 34 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-    "date": "2026-08-29",
+    "url": "https://github.com/KodeMunkie/sm750hdmifb",
+    "date": "2026-08-30",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "EVE Online moves to Python 3",
-    "summary": "304 points | 157 comments on Hacker News",
+    "title": "Startup Anti-Patterns",
+    "summary": "79 points | 39 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-    "date": "2026-08-25",
+    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+    "date": "2026-08-30",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "summary": "382 points | 103 comments on Hacker News",
+    "title": "Zig: Pointer Stability for ArrayLists",
+    "summary": "84 points | 61 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/Lakr233/vphone-cli",
-    "date": "2026-08-28",
+    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+    "date": "2026-08-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 5
+  },
+  {
+    "title": "Omarchy: Any User Process Can Escalate to Root",
+    "summary": "422 points | 410 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "date": "2026-08-30",
     "tags": [
       "HN"
     ],
     "hot": true,
-    "id": 5
-  },
-  {
-    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-    "summary": "98 points | 24 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://typebase.io",
-    "date": "2026-08-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 6
   },
   {
-    "title": "Any Command",
-    "summary": "New product launch on Product Hunt: Any Command",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/any-command-remote-control-for-pc",
-    "date": "2026-08-24",
+    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+    "summary": "359 points | 150 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+    "date": "2026-08-30",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Staats",
-    "summary": "New product launch on Product Hunt: Staats",
+    "title": "Superagent",
+    "summary": "New product launch on Product Hunt: Superagent",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/staats-3",
-    "date": "2026-08-28",
+    "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+    "date": "2026-08-29",
     "tags": [
       "Product Launch"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "RawToHEIC",
-    "summary": "New product launch on Product Hunt: RawToHEIC",
+    "title": "Murfy AI",
+    "summary": "New product launch on Product Hunt: Murfy AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rawtoheic",
-    "date": "2026-08-26",
+    "url": "https://www.producthunt.com/products/murfy",
+    "date": "2026-08-10",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Neo",
-    "summary": "New product launch on Product Hunt: Neo",
+    "title": "Skud",
+    "summary": "New product launch on Product Hunt: Skud",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/neo",
-    "date": "2026-08-18",
+    "url": "https://www.producthunt.com/products/skud-drag-send-track-in-seconds",
+    "date": "2026-08-27",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "1752vc Pitch Deck Analyzer",
-    "summary": "New product launch on Product Hunt: 1752vc Pitch Deck Analyzer",
+    "title": "Ravioli",
+    "summary": "New product launch on Product Hunt: Ravioli",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis",
-    "date": "2026-07-13",
+    "url": "https://www.producthunt.com/products/ravioli-2",
+    "date": "2026-08-25",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Einfall",
-    "summary": "New product launch on Product Hunt: Einfall",
+    "title": "Ulpaso",
+    "summary": "New product launch on Product Hunt: Ulpaso",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/einfall-a-place-for-fugitive-thoughts",
-    "date": "2026-08-24",
+    "url": "https://www.producthunt.com/products/ulpaso",
+    "date": "2026-08-28",
     "tags": [
       "Product Launch"
     ],
@@ -144,21 +144,20 @@
     "id": 12
   },
   {
-    "title": "HEJustinSun/my-girlfriend-jingtian-latex - No description",
-    "summary": "3940 stars | TeX | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
-    "date": "2026-08-27",
+    "title": "Olostep",
+    "summary": "New product launch on Product Hunt: Olostep",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/olostep",
+    "date": "2026-07-17",
     "tags": [
-      "GitHub",
-      "TeX"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 13
   },
   {
     "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-    "summary": "3200 stars | Python | Autonomous research system for measurable, computer-executable research.",
+    "summary": "4531 stars | Python | Autonomous research system for measurable, computer-executable research.",
     "source": "GitHub Trending",
     "url": "https://github.com/sapientinc/PRAXIST",
     "date": "2026-08-27",
@@ -170,34 +169,21 @@
     "id": 14
   },
   {
-    "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own setti",
-    "summary": "1070 stars | TypeScript | A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+    "title": "HEJustinSun/my-girlfriend-jingtian-latex - No description",
+    "summary": "4147 stars | TeX | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/wide-trace/open-higgsfield",
-    "date": "2026-08-26",
+    "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+    "date": "2026-08-27",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "TeX"
     ],
     "hot": true,
     "id": 15
   },
   {
-    "title": "bryllim/workout-guide - 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-    "summary": "1003 stars | Astro | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-    "source": "GitHub Trending",
-    "url": "https://github.com/bryllim/workout-guide",
-    "date": "2026-08-24",
-    "tags": [
-      "GitHub",
-      "Astro"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the",
-    "summary": "953 stars | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "summary": "1423 stars | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "source": "GitHub Trending",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "date": "2026-08-28",
@@ -206,11 +192,37 @@
       "TypeScript"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "MetaMask-AI/metamask-desktop - 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled webs",
+    "summary": "1227 stars | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+    "source": "GitHub Trending",
+    "url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "date": "2026-08-28",
+    "tags": [
+      "GitHub",
+      "CSS"
+    ],
+    "hot": true,
     "id": 17
   },
   {
+    "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own setti",
+    "summary": "1084 stars | TypeScript | A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/wide-trace/open-higgsfield",
+    "date": "2026-08-26",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
     "title": "Tencent/WeMM-Embedding - WeMM-Embedding is a family of universal multimodal embedding models by the WeCha",
-    "summary": "911 stars | Python | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+    "summary": "939 stars | Python | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
     "source": "GitHub Trending",
     "url": "https://github.com/Tencent/WeMM-Embedding",
     "date": "2026-08-25",
@@ -219,7 +231,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
+    "id": 19
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -232,7 +244,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 20
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -245,7 +257,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 21
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -258,7 +270,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 22
   },
   {
     "title": "The Pulse: We need to talk about migrations with AI",
@@ -271,7 +283,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 23
   },
   {
     "title": "Why you're not getting a response to your podcast pitch from me (or others)",
@@ -284,7 +296,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 24
   },
   {
     "title": "The Pulse: Meta’s self-inflicted resignation-wave",
@@ -297,7 +309,164 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
+  },
+  {
+    "title": "Tether: iMessage, SMS, etc. on Linux",
+    "summary": "366 points | 147 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://zackbartel.com/blog/2026/08/tether/",
+    "date": "2026-08-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 26
+  },
+  {
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+    "summary": "104 points | 32 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "date": "2026-08-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+    "summary": "310 points | 48 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+    "date": "2026-08-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "EVE Online moves to Python 3",
+    "summary": "304 points | 157 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+    "date": "2026-08-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+    "summary": "382 points | 103 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "date": "2026-08-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+    "summary": "98 points | 24 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://typebase.io",
+    "date": "2026-08-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Any Command",
+    "summary": "New product launch on Product Hunt: Any Command",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/any-command-remote-control-for-pc",
+    "date": "2026-08-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Staats",
+    "summary": "New product launch on Product Hunt: Staats",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/staats-3",
+    "date": "2026-08-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "RawToHEIC",
+    "summary": "New product launch on Product Hunt: RawToHEIC",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rawtoheic",
+    "date": "2026-08-26",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Neo",
+    "summary": "New product launch on Product Hunt: Neo",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/neo",
+    "date": "2026-08-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "1752vc Pitch Deck Analyzer",
+    "summary": "New product launch on Product Hunt: 1752vc Pitch Deck Analyzer",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis",
+    "date": "2026-07-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Einfall",
+    "summary": "New product launch on Product Hunt: Einfall",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/einfall-a-place-for-fugitive-thoughts",
+    "date": "2026-08-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "bryllim/workout-guide - 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+    "summary": "1003 stars | Astro | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+    "source": "GitHub Trending",
+    "url": "https://github.com/bryllim/workout-guide",
+    "date": "2026-08-24",
+    "tags": [
+      "GitHub",
+      "Astro"
+    ],
+    "hot": true,
+    "id": 38
   },
   {
     "title": "GUIs should be fully keyboard-driven",
@@ -309,7 +478,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 25
+    "id": 39
   },
   {
     "title": "Htmx 4.0",
@@ -321,7 +490,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 40
   },
   {
     "title": "U.S. sanctions against the A/I Collective",
@@ -333,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 41
   },
   {
     "title": "Inception-style curved map for turn-by-turn directions",
@@ -345,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "GLM-5.3 is now open-weight",
@@ -357,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 43
   },
   {
     "title": "Caddi",
@@ -369,7 +538,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 30
+    "id": 44
   },
   {
     "title": "Microduck",
@@ -381,7 +550,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 45
   },
   {
     "title": "PageIndex",
@@ -393,7 +562,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 46
   },
   {
     "title": "AureaCam",
@@ -405,7 +574,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 47
   },
   {
     "title": "CTRL Micro",
@@ -417,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 48
   },
   {
     "title": "Revalvo",
@@ -429,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m",
@@ -442,7 +611,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 36
+    "id": 50
   },
   {
     "title": "tobi/walgit - No description",
@@ -455,7 +624,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 37
+    "id": 51
   },
   {
     "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
@@ -467,7 +636,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 38
+    "id": 52
   },
   {
     "title": "Small Models Have Arrived",
@@ -479,7 +648,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 53
   },
   {
     "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
@@ -491,7 +660,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 40
+    "id": 54
   },
   {
     "title": "507 Mechanical Movements",
@@ -503,7 +672,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "Microduck",
@@ -515,7 +684,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 56
   },
   {
     "title": "Show HN: We built open OpenRouter that turns usage into a better model",
@@ -527,7 +696,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
+    "id": 57
   },
   {
     "title": "Bootstrappable Builds: How and Why",
@@ -539,7 +708,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
+    "id": 58
   },
   {
     "title": "Show HN: The load-bearing vocabulary of Claude",
@@ -551,7 +720,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 59
   },
   {
     "title": "OpenTag",
@@ -561,177 +730,6 @@
     "date": "2026-08-27",
     "tags": [
       "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Glisio",
-    "summary": "New product launch on Product Hunt: Glisio",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/glisio",
-    "date": "2026-08-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Play with Putty",
-    "summary": "New product launch on Product Hunt: Play with Putty",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google-labs",
-    "date": "2026-08-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Aramb",
-    "summary": "New product launch on Product Hunt: Aramb",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/aramb",
-    "date": "2026-08-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "duty1g/x64dbg-mcp-server - x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha",
-    "summary": "1586 stars | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and co",
-    "source": "GitHub Trending",
-    "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "date": "2026-08-22",
-    "tags": [
-      "GitHub",
-      "Zig"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native comman",
-    "summary": "1171 stars | Python | 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Doc",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ApodexAI/FrontierAgent",
-    "date": "2026-08-22",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin",
-    "summary": "1115 stars | JavaScript | Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/nateherkai/scroll-craft",
-    "date": "2026-08-22",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Nvidia agrees to acquire Hugging Face for $13B",
-    "summary": "632 points | 266 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-    "date": "2026-08-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "summary": "281 points | 174 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/SenteLabsAI/OpenExecutive",
-    "date": "2026-08-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "GLM-5.3-Flash",
-    "summary": "951 points | 474 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://z.ai/blog/glm-5.3-flash",
-    "date": "2026-08-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-    "summary": "519 points | 95 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/tailscale/tailcat",
-    "date": "2026-08-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "An ongoing 3D-printer AGPL violation",
-    "summary": "357 points | 160 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-    "date": "2026-08-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "U.S. State Department pauses immigrant visa applications",
-    "summary": "400 points | 604 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-    "date": "2026-08-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Twitter Viewer – View Twitter Without Account",
-    "summary": "370 points | 205 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://twitterwebviewer.com/",
-    "date": "2026-08-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-    "summary": "148 points | 77 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-    "date": "2026-08-26",
-    "tags": [
-      "HN"
     ],
     "hot": false,
     "id": 60
