@@ -1,10 +1,10 @@
 [
   {
-    "title": "Hang on to Your Firefox",
-    "summary": "496 points | 265 comments on Hacker News",
+    "title": "Muse Spark 1.3",
+    "summary": "395 points | 262 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-    "date": "2026-09-01",
+    "url": "https://developer.meta.com/ai/models/muse-spark/",
+    "date": "2026-09-02",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-    "summary": "931 points | 878 comments on Hacker News",
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "summary": "828 points | 485 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "date": "2026-09-01",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "date": "2026-09-02",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-    "summary": "413 points | 501 comments on Hacker News",
+    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+    "summary": "313 points | 143 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://danluu.com/zitron/",
-    "date": "2026-09-01",
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "date": "2026-09-02",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-    "summary": "54 points | 19 comments on Hacker News",
+    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+    "summary": "24 points | 30 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://masteranza.github.io/weedout/",
-    "date": "2026-09-01",
+    "url": "https://ronanrx.com/",
+    "date": "2026-09-02",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-    "summary": "832 points | 246 comments on Hacker News",
+    "title": "Can I opt out of my input or output data being used for training?",
+    "summary": "370 points | 164 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-    "date": "2026-09-01",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "date": "2026-09-02",
     "tags": [
       "HN"
     ],
@@ -60,47 +60,47 @@
     "id": 5
   },
   {
-    "title": "Introducing Ad Blocker for Firefox on iOS",
-    "summary": "308 points | 106 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-    "date": "2026-09-01",
+    "title": "Parasocial",
+    "summary": "New product launch on Product Hunt: Parasocial",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/parasocial",
+    "date": "2026-08-18",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-    "summary": "115 points | 40 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.norirobotics.com/",
-    "date": "2026-09-01",
+    "title": "OpenClaw 2.0",
+    "summary": "New product launch on Product Hunt: OpenClaw 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openclaw-formerly-clawdbot",
+    "date": "2026-08-31",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-    "summary": "578 points | 149 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "date": "2026-09-01",
+    "title": "Dial",
+    "summary": "New product launch on Product Hunt: Dial",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/dial-3",
+    "date": "2026-08-15",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "EAS Observe",
-    "summary": "New product launch on Product Hunt: EAS Observe",
+    "title": "Dyson CameraJet",
+    "summary": "New product launch on Product Hunt: Dyson CameraJet",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/expo",
-    "date": "2026-08-31",
+    "url": "https://www.producthunt.com/products/dyson-humidifier",
+    "date": "2026-09-02",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Notchling",
-    "summary": "New product launch on Product Hunt: Notchling",
+    "title": "Basedash AI Sources",
+    "summary": "New product launch on Product Hunt: Basedash AI Sources",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
-    "date": "2026-08-26",
+    "url": "https://www.producthunt.com/products/basedash",
+    "date": "2026-09-02",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "TrustedRouter",
-    "summary": "New product launch on Product Hunt: TrustedRouter",
+    "title": "Doop",
+    "summary": "New product launch on Product Hunt: Doop",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/trustedrouter",
-    "date": "2026-08-31",
+    "url": "https://www.producthunt.com/products/doop",
+    "date": "2026-09-02",
     "tags": [
       "Product Launch"
     ],
@@ -132,57 +132,8 @@
     "id": 11
   },
   {
-    "title": "Kilo Code for JetBrains",
-    "summary": "New product launch on Product Hunt: Kilo Code for JetBrains",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kilocode",
-    "date": "2026-07-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 12
-  },
-  {
-    "title": "Creatium Coach",
-    "summary": "New product launch on Product Hunt: Creatium Coach",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/creatium",
-    "date": "2026-08-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Sider Code",
-    "summary": "New product launch on Product Hunt: Sider Code",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sider-code-customize-any-website",
-    "date": "2026-08-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
-    "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-    "summary": "6202 stars | Python | Autonomous research system for measurable, computer-executable research.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/sapientinc/PRAXIST",
-    "date": "2026-08-27",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the",
-    "summary": "2141 stars | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "summary": "2279 stars | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "source": "GitHub Trending",
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "date": "2026-08-28",
@@ -191,24 +142,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local",
-    "summary": "1550 stars | Rust | Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/crmne/fastpotify",
-    "date": "2026-08-27",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 12
   },
   {
     "title": "Nanako0129/sepia - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL",
-    "summary": "1357 stars | Python | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architectur",
+    "summary": "1591 stars | Python | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architectur",
     "source": "GitHub Trending",
     "url": "https://github.com/Nanako0129/sepia",
     "date": "2026-08-28",
@@ -217,11 +155,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
+    "id": 13
   },
   {
     "title": "MetaMask-AI/metamask-desktop - 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled webs",
-    "summary": "1229 stars | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+    "summary": "1230 stars | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
     "source": "GitHub Trending",
     "url": "https://github.com/MetaMask-AI/metamask-desktop",
     "date": "2026-08-28",
@@ -230,20 +168,46 @@
       "CSS"
     ],
     "hot": true,
-    "id": 19
+    "id": 14
   },
   {
-    "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out h",
-    "summary": "1138 stars | Python | A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "title": "cbrock84/headcount - An agent organization for Claude Code, structured as a company — 15+ departments",
+    "summary": "1117 stars | Markdown | An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
     "source": "GitHub Trending",
-    "url": "https://github.com/damejan80/tokentab",
-    "date": "2026-08-27",
+    "url": "https://github.com/cbrock84/headcount",
+    "date": "2026-08-28",
+    "tags": [
+      "GitHub",
+      "Markdown"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
+    "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
+    "summary": "934 stars | Python | Dress AI Sponsor",
+    "source": "GitHub Trending",
+    "url": "https://github.com/GangTailorUpgrade/undress-service",
+    "date": "2026-08-31",
     "tags": [
       "GitHub",
       "Python"
     ],
     "hot": true,
-    "id": 20
+    "id": 16
+  },
+  {
+    "title": "chrisgreg/boop - A tiny, self-hosted notification inbox for developers. Something happened in one",
+    "summary": "687 stars | Go | A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/chrisgreg/boop",
+    "date": "2026-08-28",
+    "tags": [
+      "GitHub",
+      "Go"
+    ],
+    "hot": true,
+    "id": 17
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +220,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 18
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +233,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 19
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +246,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 20
   },
   {
     "title": "How software engineering is changing: an essay challenge",
@@ -295,7 +259,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 21
   },
   {
     "title": "The Pulse: We need to talk about migrations with AI",
@@ -308,7 +272,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 22
   },
   {
     "title": "Why you're not getting a response to your podcast pitch from me (or others)",
@@ -321,7 +285,214 @@
       "Career"
     ],
     "hot": false,
+    "id": 23
+  },
+  {
+    "title": "Hang on to Your Firefox",
+    "summary": "496 points | 265 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+    "date": "2026-09-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 24
+  },
+  {
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "summary": "931 points | 878 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "date": "2026-09-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "summary": "413 points | 501 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://danluu.com/zitron/",
+    "date": "2026-09-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+    "summary": "54 points | 19 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://masteranza.github.io/weedout/",
+    "date": "2026-09-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "summary": "832 points | 246 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "date": "2026-09-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Introducing Ad Blocker for Firefox on iOS",
+    "summary": "308 points | 106 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+    "date": "2026-09-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "summary": "115 points | 40 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.norirobotics.com/",
+    "date": "2026-09-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "summary": "578 points | 149 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "date": "2026-09-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "EAS Observe",
+    "summary": "New product launch on Product Hunt: EAS Observe",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/expo",
+    "date": "2026-08-31",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Notchling",
+    "summary": "New product launch on Product Hunt: Notchling",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
+    "date": "2026-08-26",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "TrustedRouter",
+    "summary": "New product launch on Product Hunt: TrustedRouter",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/trustedrouter",
+    "date": "2026-08-31",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Kilo Code for JetBrains",
+    "summary": "New product launch on Product Hunt: Kilo Code for JetBrains",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/kilocode",
+    "date": "2026-07-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Creatium Coach",
+    "summary": "New product launch on Product Hunt: Creatium Coach",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/creatium",
+    "date": "2026-08-26",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Sider Code",
+    "summary": "New product launch on Product Hunt: Sider Code",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/sider-code-customize-any-website",
+    "date": "2026-08-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
+    "summary": "6202 stars | Python | Autonomous research system for measurable, computer-executable research.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/sapientinc/PRAXIST",
+    "date": "2026-08-27",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 38
+  },
+  {
+    "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local",
+    "summary": "1550 stars | Rust | Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/crmne/fastpotify",
+    "date": "2026-08-27",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "damejan80/tokentab - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out h",
+    "summary": "1138 stars | Python | A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/damejan80/tokentab",
+    "date": "2026-08-27",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
@@ -333,7 +504,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 41
   },
   {
     "title": "I turned my security cameras into an automatic bird identification system",
@@ -345,7 +516,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "Playa Phone",
@@ -357,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 43
   },
   {
     "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
@@ -369,7 +540,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 44
   },
   {
     "title": "Dwarf Fortress is getting the mother of all magic updates",
@@ -381,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 45
   },
   {
     "title": "Show HN: Laser Graffiti",
@@ -393,7 +564,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 46
   },
   {
     "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
@@ -405,7 +576,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 47
   },
   {
     "title": "ChatGPT Work Tool and Skill Reference",
@@ -417,7 +588,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 48
   },
   {
     "title": "Interactive Sessions",
@@ -429,7 +600,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "BrandJet",
@@ -441,7 +612,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "Video Agent by Fotor",
@@ -453,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 51
   },
   {
     "title": "Tether",
@@ -465,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 52
   },
   {
     "title": "Ask My Wardrobe",
@@ -477,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 53
   },
   {
     "title": "StackScope",
@@ -489,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 54
   },
   {
     "title": "HEJustinSun/my-girlfriend-jingtian-latex - No description",
@@ -502,7 +673,7 @@
       "TeX"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own setti",
@@ -515,7 +686,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 42
+    "id": 56
   },
   {
     "title": "The Pulse: Meta’s self-inflicted resignation-wave",
@@ -528,7 +699,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 43
+    "id": 57
   },
   {
     "title": "Creepy Crawlies",
@@ -540,7 +711,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 58
   },
   {
     "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
@@ -552,7 +723,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 45
+    "id": 59
   },
   {
     "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
@@ -564,175 +735,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Startup Anti-Patterns",
-    "summary": "79 points | 39 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-    "date": "2026-08-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Zig: Pointer Stability for ArrayLists",
-    "summary": "84 points | 61 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-    "date": "2026-08-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Omarchy: Any User Process Can Escalate to Root",
-    "summary": "422 points | 410 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://0xcc.io/posts/omarchy-root-creds/",
-    "date": "2026-08-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-    "summary": "359 points | 150 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-    "date": "2026-08-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Superagent",
-    "summary": "New product launch on Product Hunt: Superagent",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
-    "date": "2026-08-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Murfy AI",
-    "summary": "New product launch on Product Hunt: Murfy AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/murfy",
-    "date": "2026-08-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Skud",
-    "summary": "New product launch on Product Hunt: Skud",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/skud-drag-send-track-in-seconds",
-    "date": "2026-08-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Ravioli",
-    "summary": "New product launch on Product Hunt: Ravioli",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ravioli-2",
-    "date": "2026-08-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Ulpaso",
-    "summary": "New product launch on Product Hunt: Ulpaso",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ulpaso",
-    "date": "2026-08-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Olostep",
-    "summary": "New product launch on Product Hunt: Olostep",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/olostep",
-    "date": "2026-07-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Tencent/WeMM-Embedding - WeMM-Embedding is a family of universal multimodal embedding models by the WeCha",
-    "summary": "939 stars | Python | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Tencent/WeMM-Embedding",
-    "date": "2026-08-25",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Tether: iMessage, SMS, etc. on Linux",
-    "summary": "366 points | 147 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://zackbartel.com/blog/2026/08/tether/",
-    "date": "2026-08-24",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-    "summary": "104 points | 32 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "date": "2026-08-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-    "summary": "310 points | 48 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-    "date": "2026-08-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
