@@ -1,22 +1,22 @@
 [
   {
-    "title": "Your intellectual fly is open (2025)",
-    "summary": "522 points | 336 comments on Hacker News",
+    "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+    "summary": "86 points | 25 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "date": "2026-09-06",
+    "url": "https://github.com/Sadpainy/Stuxnet",
+    "date": "2026-09-07",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 1
   },
   {
-    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "summary": "66 points | 22 comments on Hacker News",
+    "title": "Show HN: I built an aesthetically pleasing puzzle",
+    "summary": "48 points | 14 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/marsbos/mador",
-    "date": "2026-09-06",
+    "url": "https://jigsawhaiku.com/",
+    "date": "2026-09-04",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Nitter and XCancel resume service after legal advice",
-    "summary": "456 points | 239 comments on Hacker News",
+    "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+    "summary": "510 points | 726 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-    "date": "2026-09-06",
+    "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+    "date": "2026-09-07",
     "tags": [
       "HN"
     ],
@@ -36,23 +36,23 @@
     "id": 3
   },
   {
-    "title": "An Alien Mind",
-    "summary": "321 points | 282 comments on Hacker News",
+    "title": "Show HN: Interactive Tree of Life",
+    "summary": "60 points | 16 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://openai.com/index/an-alien-mind/",
-    "date": "2026-09-06",
+    "url": "https://ptree.org/",
+    "date": "2026-09-04",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Asahi Linux on M3",
-    "summary": "356 points | 195 comments on Hacker News",
+    "title": "Keep Our Servers Running",
+    "summary": "953 points | 247 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-    "date": "2026-09-06",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "date": "2026-09-07",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "A/I shuts down",
-    "summary": "523 points | 388 comments on Hacker News",
+    "title": "bzip3",
+    "summary": "381 points | 110 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-    "date": "2026-09-06",
+    "url": "https://github.com/iczelia/bzip3",
+    "date": "2026-09-07",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Research carried out using NetBSD",
-    "summary": "76 points | 18 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.netbsd.org/gallery/research.html",
-    "date": "2026-09-06",
+    "title": "Routines by Databox",
+    "summary": "New product launch on Product Hunt: Routines by Databox",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/databox",
+    "date": "2026-08-27",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "D2 Is Non-Profit",
-    "summary": "28 points | 10 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://d2lang.com/blog/d2-non-profit/",
-    "date": "2026-09-06",
+    "title": "Nina by Antalpha",
+    "summary": "New product launch on Product Hunt: Nina by Antalpha",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/antalpha",
+    "date": "2026-08-28",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "AI Toolbox 3.0",
-    "summary": "New product launch on Product Hunt: AI Toolbox 3.0",
+    "title": "Clipnote",
+    "summary": "New product launch on Product Hunt: Clipnote",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chatgpt-toolbox",
-    "date": "2026-07-25",
+    "url": "https://www.producthunt.com/products/clipnote-2",
+    "date": "2026-09-07",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Kit by Speakeasy",
-    "summary": "New product launch on Product Hunt: Kit by Speakeasy",
+    "title": "Airuncode",
+    "summary": "New product launch on Product Hunt: Airuncode",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/speakeasydev",
-    "date": "2026-09-02",
+    "url": "https://www.producthunt.com/products/airuncode",
+    "date": "2026-09-06",
     "tags": [
       "Product Launch"
     ],
@@ -120,10 +120,10 @@
     "id": 10
   },
   {
-    "title": "Notify.domains",
-    "summary": "New product launch on Product Hunt: Notify.domains",
+    "title": "PR Lens by Coldtea.ai",
+    "summary": "New product launch on Product Hunt: PR Lens by Coldtea.ai",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notify-domains",
+    "url": "https://www.producthunt.com/products/coldtea",
     "date": "2026-08-28",
     "tags": [
       "Product Launch"
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Agentic Video Understanding in Gemini",
-    "summary": "New product launch on Product Hunt: Agentic Video Understanding in Gemini",
+    "title": "Bloop",
+    "summary": "New product launch on Product Hunt: Bloop",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google",
-    "date": "2026-09-02",
+    "url": "https://www.producthunt.com/products/bloop-4",
+    "date": "2026-08-06",
     "tags": [
       "Product Launch"
     ],
@@ -144,32 +144,8 @@
     "id": 12
   },
   {
-    "title": " H3 Max by fal",
-    "summary": "New product launch on Product Hunt:  H3 Max by fal",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fal-ai",
-    "date": "2026-09-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Tadata",
-    "summary": "New product launch on Product Hunt: Tadata",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tadata",
-    "date": "2025-12-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-codi",
-    "summary": "4291 stars | TypeScript | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+    "summary": "4690 stars | TypeScript | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
     "source": "GitHub Trending",
     "url": "https://github.com/lnkiai/m3e-canvas",
     "date": "2026-09-02",
@@ -178,24 +154,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 15
-  },
-  {
-    "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examp",
-    "summary": "2221 stars | Python | Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/anthropics/commerce-agents",
-    "date": "2026-09-01",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
+    "id": 13
   },
   {
     "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay",
-    "summary": "1363 stars | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+    "summary": "2032 stars | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
     "source": "GitHub Trending",
     "url": "https://github.com/ashemag/human-atlas",
     "date": "2026-09-05",
@@ -204,11 +167,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 17
+    "id": 14
   },
   {
     "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc",
-    "summary": "1087 stars | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+    "summary": "1816 stars | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
     "source": "GitHub Trending",
     "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "date": "2026-09-04",
@@ -217,11 +180,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
+    "id": 15
   },
   {
     "title": "pierrenade/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short vi",
-    "summary": "894 stars | Python | Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+    "summary": "1177 stars | Python | Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
     "source": "GitHub Trending",
     "url": "https://github.com/pierrenade/short-video-generator-AI",
     "date": "2026-09-05",
@@ -230,11 +193,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 19
+    "id": 16
   },
   {
     "title": "anthropics/fermats-last-theorem - No description",
-    "summary": "845 stars | Lean | ",
+    "summary": "939 stars | Lean | ",
     "source": "GitHub Trending",
     "url": "https://github.com/anthropics/fermats-last-theorem",
     "date": "2026-09-04",
@@ -243,7 +206,20 @@
       "Lean"
     ],
     "hot": true,
-    "id": 20
+    "id": 17
+  },
+  {
+    "title": "vinzdg/codenotch - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav",
+    "summary": "939 stars | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/vinzdg/codenotch",
+    "date": "2026-09-05",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 18
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
@@ -295,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 22
   },
   {
     "title": "How software engineering is changing: an essay challenge",
@@ -308,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 23
   },
   {
     "title": "The Pulse: We need to talk about migrations with AI",
@@ -321,7 +297,188 @@
       "Career"
     ],
     "hot": false,
+    "id": 24
+  },
+  {
+    "title": "Your intellectual fly is open (2025)",
+    "summary": "522 points | 336 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "date": "2026-09-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "summary": "66 points | 22 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/marsbos/mador",
+    "date": "2026-09-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 26
+  },
+  {
+    "title": "Nitter and XCancel resume service after legal advice",
+    "summary": "456 points | 239 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "date": "2026-09-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "An Alien Mind",
+    "summary": "321 points | 282 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/an-alien-mind/",
+    "date": "2026-09-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Asahi Linux on M3",
+    "summary": "356 points | 195 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "date": "2026-09-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "A/I shuts down",
+    "summary": "523 points | 388 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "date": "2026-09-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Research carried out using NetBSD",
+    "summary": "76 points | 18 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.netbsd.org/gallery/research.html",
+    "date": "2026-09-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "D2 Is Non-Profit",
+    "summary": "28 points | 10 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://d2lang.com/blog/d2-non-profit/",
+    "date": "2026-09-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "AI Toolbox 3.0",
+    "summary": "New product launch on Product Hunt: AI Toolbox 3.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/chatgpt-toolbox",
+    "date": "2026-07-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Kit by Speakeasy",
+    "summary": "New product launch on Product Hunt: Kit by Speakeasy",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/speakeasydev",
+    "date": "2026-09-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Notify.domains",
+    "summary": "New product launch on Product Hunt: Notify.domains",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/notify-domains",
+    "date": "2026-08-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Agentic Video Understanding in Gemini",
+    "summary": "New product launch on Product Hunt: Agentic Video Understanding in Gemini",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/google",
+    "date": "2026-09-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": " H3 Max by fal",
+    "summary": "New product launch on Product Hunt:  H3 Max by fal",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/fal-ai",
+    "date": "2026-09-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Tadata",
+    "summary": "New product launch on Product Hunt: Tadata",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/tadata",
+    "date": "2025-12-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "anthropics/commerce-agents - Reference blueprint for building shopping and merchant agents with Claude. Examp",
+    "summary": "2221 stars | Python | Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/anthropics/commerce-agents",
+    "date": "2026-09-01",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 39
   },
   {
     "title": "Private German rocket makes history, reaches orbit from European soil",
@@ -333,7 +490,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 40
   },
   {
     "title": "Discovery of a new OpenAI agent message board",
@@ -345,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 41
   },
   {
     "title": "Actively exploited sandbox RCE in all Chromium versions",
@@ -357,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 42
   },
   {
     "title": "Nitter has more working instances than before the takedowns",
@@ -369,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 43
   },
   {
     "title": "Show HN: Fly By – retro biplane flying game",
@@ -381,7 +538,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 44
   },
   {
     "title": "Isar Aerospace launch into orbit [video]",
@@ -393,7 +550,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 45
   },
   {
     "title": "Statichost.eu – European static site hosting",
@@ -405,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 46
   },
   {
     "title": "Can AI design circuit boards yet?",
@@ -417,7 +574,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 47
   },
   {
     "title": "Hyperprobe",
@@ -429,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 48
   },
   {
     "title": "BrickForgerAI",
@@ -441,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 49
   },
   {
     "title": "at8pm",
@@ -453,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 50
   },
   {
     "title": "GitWarren",
@@ -465,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 51
   },
   {
     "title": "PostBox",
@@ -477,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 52
   },
   {
     "title": "Ponytail",
@@ -489,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 53
   },
   {
     "title": "shadcn-ui/cn - cn is a new engine for Tailwind class merging and conflict resolution. It replac",
@@ -502,7 +659,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 54
   },
   {
     "title": "GangTailorUpgrade/undress-service - Dress AI Sponsor",
@@ -515,7 +672,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 42
+    "id": 55
   },
   {
     "title": "2akouwu/reverify - Stop your AI from making things up — it proposes, deterministic tools decide, ev",
@@ -528,7 +685,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 43
+    "id": 56
   },
   {
     "title": "yczz/oc-english - 养成类游戏英语学习",
@@ -541,7 +698,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 44
+    "id": 57
   },
   {
     "title": "Formalizing Fermat's Last Theorem",
@@ -553,7 +710,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 58
   },
   {
     "title": "Show HN: Open-Source eInk Bike Computer",
@@ -565,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 46
+    "id": 59
   },
   {
     "title": "Show HN: Moadim.io – A scheduler for agents",
@@ -577,163 +734,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Solving the Jane Street reverse engineering challenge",
-    "summary": "393 points | 87 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-    "date": "2026-09-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Chalked for Mac",
-    "summary": "New product launch on Product Hunt: Chalked for Mac",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chalked",
-    "date": "2026-09-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Offline JS Playground",
-    "summary": "New product launch on Product Hunt: Offline JS Playground",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/offline-js-playground",
-    "date": "2026-08-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Clockwork",
-    "summary": "New product launch on Product Hunt: Clockwork",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clockwork-5",
-    "date": "2026-09-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Snitch",
-    "summary": "New product launch on Product Hunt: Snitch",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/snitch-4",
-    "date": "2026-09-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Compliance by TwelveLabs",
-    "summary": "New product launch on Product Hunt: Compliance by TwelveLabs",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/twelvelabs",
-    "date": "2026-08-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "GPT-6 Astra",
-    "summary": "New product launch on Product Hunt: GPT-6 Astra",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openai",
-    "date": "2026-09-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "nahrek/polyledger - Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Pol",
-    "summary": "614 stars | Python | Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-    "source": "GitHub Trending",
-    "url": "https://github.com/nahrek/polyledger",
-    "date": "2026-09-02",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "GPT-6 Astra",
-    "summary": "1321 points | 1042 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/gpt-6-astra/",
-    "date": "2026-09-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": ".name Termination",
-    "summary": "1358 points | 378 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "date": "2026-09-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "summary": "452 points | 132 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://inference-docs.cerebras.ai/models/overview",
-    "date": "2026-09-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-    "summary": "98 points | 30 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-    "date": "2026-09-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-    "summary": "469 points | 236 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://anyhumanever.com/",
-    "date": "2026-09-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
