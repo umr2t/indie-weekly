@@ -1,10 +1,10 @@
 [
   {
-    "title": "iPhone Duo",
-    "summary": "889 points | 1688 comments on Hacker News",
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "summary": "779 points | 529 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.apple.com/iphone-duo/",
-    "date": "2026-09-09",
+    "url": "https://shopify.engineering/back-to-native",
+    "date": "2026-09-10",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Shopify acquires Tailwind",
-    "summary": "891 points | 352 comments on Hacker News",
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "summary": "668 points | 631 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "date": "2026-09-09",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "date": "2026-09-10",
     "tags": [
       "HN"
     ],
@@ -24,23 +24,23 @@
     "id": 2
   },
   {
-    "title": "What do Visa and Mastercard do? An intro to card networks",
-    "summary": "371 points | 223 comments on Hacker News",
+    "title": "OpenAI Agents API",
+    "summary": "132 points | 85 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://tautology.town/2026/06/01/card-networks.html",
-    "date": "2026-09-08",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "date": "2026-09-10",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "AirPods 5",
-    "summary": "377 points | 305 comments on Hacker News",
+    "title": "Don't let anyone take away your big box of cables",
+    "summary": "327 points | 250 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-    "date": "2026-09-09",
+    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+    "date": "2026-09-10",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-    "summary": "349 points | 122 comments on Hacker News",
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "summary": "353 points | 144 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-    "date": "2026-09-09",
+    "url": "https://cognition.com/blog/swe-2",
+    "date": "2026-09-10",
     "tags": [
       "HN"
     ],
@@ -60,22 +60,22 @@
     "id": 5
   },
   {
-    "title": "Desert Ant Labs: local, fast models that run on device",
-    "summary": "393 points | 92 comments on Hacker News",
+    "title": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+    "summary": "4 points | 2 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "date": "2026-09-09",
+    "url": "https://benzi.fly.dev/benchmark",
+    "date": "2026-09-11",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "How I advertise malicious software on Google Ads",
-    "summary": "357 points | 219 comments on Hacker News",
+    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+    "summary": "285 points | 228 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
     "date": "2026-09-09",
     "tags": [
       "HN"
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "Claude, change the “Add to Cart” button to blue",
-    "summary": "1016 points | 398 comments on Hacker News",
+    "title": "Rust is tier-1 language at Microsoft",
+    "summary": "603 points | 343 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://opusfived.dev/",
-    "date": "2026-09-09",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "date": "2026-09-10",
     "tags": [
       "HN"
     ],
@@ -96,10 +96,10 @@
     "id": 8
   },
   {
-    "title": "AlphaGenome Atlas",
-    "summary": "New product launch on Product Hunt: AlphaGenome Atlas",
+    "title": "iPhone Duo",
+    "summary": "New product launch on Product Hunt: iPhone Duo",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/alphagenome-atlas",
+    "url": "https://www.producthunt.com/products/apple",
     "date": "2026-09-09",
     "tags": [
       "Product Launch"
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "DuckFightClub",
-    "summary": "New product launch on Product Hunt: DuckFightClub",
+    "title": "Live Captions by Subanana",
+    "summary": "New product launch on Product Hunt: Live Captions by Subanana",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/duckfightclub",
-    "date": "2026-09-08",
+    "url": "https://www.producthunt.com/products/subanana",
+    "date": "2026-09-01",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Noodle Seed",
-    "summary": "New product launch on Product Hunt: Noodle Seed",
+    "title": "Mock Magic: Video Presets",
+    "summary": "New product launch on Product Hunt: Mock Magic: Video Presets",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/noodle-seed",
-    "date": "2026-08-26",
+    "url": "https://www.producthunt.com/products/mockmagic",
+    "date": "2026-02-11",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Basedash in Español Français & Português",
-    "summary": "New product launch on Product Hunt: Basedash in Español Français & Português",
+    "title": "FreeScan.app",
+    "summary": "New product launch on Product Hunt: FreeScan.app",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basedash",
-    "date": "2026-09-08",
+    "url": "https://www.producthunt.com/products/freescan-app",
+    "date": "2026-09-01",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "ChatGPT Images 2.5",
-    "summary": "New product launch on Product Hunt: ChatGPT Images 2.5",
+    "title": "Vibe Eyes",
+    "summary": "New product launch on Product Hunt: Vibe Eyes",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openai",
-    "date": "2026-09-08",
+    "url": "https://www.producthunt.com/products/vibe-eyes",
+    "date": "2026-09-09",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Frigade Assist API",
-    "summary": "New product launch on Product Hunt: Frigade Assist API",
+    "title": "Wealthfolio",
+    "summary": "New product launch on Product Hunt: Wealthfolio",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/frigade",
-    "date": "2026-09-08",
+    "url": "https://www.producthunt.com/products/wealthfolio",
+    "date": "2026-09-07",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay",
-    "summary": "2848 stars | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+    "summary": "3097 stars | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
     "source": "GitHub Trending",
     "url": "https://github.com/ashemag/human-atlas",
     "date": "2026-09-05",
@@ -181,21 +181,8 @@
     "id": 15
   },
   {
-    "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc",
-    "summary": "2023 stars | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-    "date": "2026-09-04",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "openai/NavierStokesAndEuler - Lean certificates accompanying Navier-Stokes and Euler results",
-    "summary": "1564 stars | Lean | Lean certificates accompanying Navier-Stokes and Euler results",
+    "summary": "1719 stars | Lean | Lean certificates accompanying Navier-Stokes and Euler results",
     "source": "GitHub Trending",
     "url": "https://github.com/openai/NavierStokesAndEuler",
     "date": "2026-09-08",
@@ -204,11 +191,24 @@
       "Lean"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "sdli1995/dlssg_for_sm86 - Here is a dlssg for RTX30 Series GPU ",
+    "summary": "1438 stars | Unknown | Here is a dlssg for RTX30 Series GPU ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/sdli1995/dlssg_for_sm86",
+    "date": "2026-09-07",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
     "id": 17
   },
   {
     "title": "vinzdg/codenotch - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav",
-    "summary": "1288 stars | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+    "summary": "1387 stars | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
     "source": "GitHub Trending",
     "url": "https://github.com/vinzdg/codenotch",
     "date": "2026-09-05",
@@ -221,7 +221,7 @@
   },
   {
     "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blen",
-    "summary": "1240 stars | Python | Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and d",
+    "summary": "1337 stars | Python | Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and d",
     "source": "GitHub Trending",
     "url": "https://github.com/EverettFish/holo-card-studio",
     "date": "2026-09-07",
@@ -233,14 +233,14 @@
     "id": 19
   },
   {
-    "title": "anthropics/fermats-last-theorem - No description",
-    "summary": "1000 stars | Lean | ",
+    "title": "Edge0-AI/Edge0 - No description",
+    "summary": "1021 stars | Python | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/anthropics/fermats-last-theorem",
-    "date": "2026-09-04",
+    "url": "https://github.com/Edge0-AI/Edge0",
+    "date": "2026-09-08",
     "tags": [
       "GitHub",
-      "Lean"
+      "Python"
     ],
     "hot": true,
     "id": 20
@@ -285,6 +285,19 @@
     "id": 23
   },
   {
+    "title": "The Pulse: tech companies move to open AI models",
+    "summary": "Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/",
+    "date": "2026-09-10",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
     "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
     "summary": "An in-depth report by Reuters details how Meta’s leadership decided to slash team sizes by 60%. Zuckerberg changed his mind, and now the company is stuck with low morale and culture turned mercenary.",
     "source": "Pragmatic Engineer",
@@ -295,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
   },
   {
     "title": "How software engineering is changing: an essay challenge",
@@ -308,7 +321,201 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 26
+  },
+  {
+    "title": "iPhone Duo",
+    "summary": "889 points | 1688 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.apple.com/iphone-duo/",
+    "date": "2026-09-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Shopify acquires Tailwind",
+    "summary": "891 points | 352 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "date": "2026-09-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "What do Visa and Mastercard do? An intro to card networks",
+    "summary": "371 points | 223 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tautology.town/2026/06/01/card-networks.html",
+    "date": "2026-09-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "AirPods 5",
+    "summary": "377 points | 305 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "date": "2026-09-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+    "summary": "349 points | 122 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "date": "2026-09-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Desert Ant Labs: local, fast models that run on device",
+    "summary": "393 points | 92 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "date": "2026-09-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "How I advertise malicious software on Google Ads",
+    "summary": "357 points | 219 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+    "date": "2026-09-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Claude, change the “Add to Cart” button to blue",
+    "summary": "1016 points | 398 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://opusfived.dev/",
+    "date": "2026-09-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "AlphaGenome Atlas",
+    "summary": "New product launch on Product Hunt: AlphaGenome Atlas",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/alphagenome-atlas",
+    "date": "2026-09-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "DuckFightClub",
+    "summary": "New product launch on Product Hunt: DuckFightClub",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/duckfightclub",
+    "date": "2026-09-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Noodle Seed",
+    "summary": "New product launch on Product Hunt: Noodle Seed",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/noodle-seed",
+    "date": "2026-08-26",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Basedash in Español Français & Português",
+    "summary": "New product launch on Product Hunt: Basedash in Español Français & Português",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/basedash",
+    "date": "2026-09-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "ChatGPT Images 2.5",
+    "summary": "New product launch on Product Hunt: ChatGPT Images 2.5",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openai",
+    "date": "2026-09-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Frigade Assist API",
+    "summary": "New product launch on Product Hunt: Frigade Assist API",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/frigade",
+    "date": "2026-09-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc",
+    "summary": "2023 stars | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+    "date": "2026-09-04",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "anthropics/fermats-last-theorem - No description",
+    "summary": "1000 stars | Lean | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "date": "2026-09-04",
+    "tags": [
+      "GitHub",
+      "Lean"
+    ],
+    "hot": true,
+    "id": 42
   },
   {
     "title": "The Pulse: We need to talk about migrations with AI",
@@ -321,7 +528,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 26
+    "id": 43
   },
   {
     "title": "Muse – Meta’s personal AI agent",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 46
   },
   {
     "title": "On the Navier–Stokes Millennium Prize Problem",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 47
   },
   {
     "title": "DaVinci Resolve 21.1",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
@@ -393,7 +600,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Show HN: LLM Attention Visualization",
@@ -405,7 +612,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 50
   },
   {
     "title": "We built our house for LAN parties (2024)",
@@ -417,7 +624,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 51
   },
   {
     "title": "Dictantor",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Trancy Air",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Pastea",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "Replay QA Security Scan",
@@ -465,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "GoodLads",
@@ -477,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "Relaticle",
@@ -489,7 +696,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
@@ -502,7 +709,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
@@ -514,7 +721,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 42
+    "id": 59
   },
   {
     "title": "Show HN: I built an aesthetically pleasing puzzle",
@@ -526,212 +733,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
-  },
-  {
-    "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-    "summary": "510 points | 726 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-    "date": "2026-09-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Show HN: Interactive Tree of Life",
-    "summary": "60 points | 16 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://ptree.org/",
-    "date": "2026-09-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Keep Our Servers Running",
-    "summary": "953 points | 247 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-    "date": "2026-09-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "bzip3",
-    "summary": "381 points | 110 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/iczelia/bzip3",
-    "date": "2026-09-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Routines by Databox",
-    "summary": "New product launch on Product Hunt: Routines by Databox",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/databox",
-    "date": "2026-08-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Nina by Antalpha",
-    "summary": "New product launch on Product Hunt: Nina by Antalpha",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/antalpha",
-    "date": "2026-08-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Clipnote",
-    "summary": "New product launch on Product Hunt: Clipnote",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clipnote-2",
-    "date": "2026-09-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Airuncode",
-    "summary": "New product launch on Product Hunt: Airuncode",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/airuncode",
-    "date": "2026-09-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "PR Lens by Coldtea.ai",
-    "summary": "New product launch on Product Hunt: PR Lens by Coldtea.ai",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/coldtea",
-    "date": "2026-08-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Bloop",
-    "summary": "New product launch on Product Hunt: Bloop",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/bloop-4",
-    "date": "2026-08-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "lnkiai/m3e-canvas - Sketch Material 3 Expressive screens in the browser and turn them into vibe-codi",
-    "summary": "4690 stars | TypeScript | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/lnkiai/m3e-canvas",
-    "date": "2026-09-02",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "pierrenade/short-video-generator-AI - Free open-source project designed for turning youtube-viedos into viral short vi",
-    "summary": "1177 stars | Python | Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/pierrenade/short-video-generator-AI",
-    "date": "2026-09-05",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Your intellectual fly is open (2025)",
-    "summary": "522 points | 336 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "date": "2026-09-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "summary": "66 points | 22 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/marsbos/mador",
-    "date": "2026-09-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Nitter and XCancel resume service after legal advice",
-    "summary": "456 points | 239 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-    "date": "2026-09-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "An Alien Mind",
-    "summary": "321 points | 282 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/an-alien-mind/",
-    "date": "2026-09-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Asahi Linux on M3",
-    "summary": "356 points | 195 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-    "date": "2026-09-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
