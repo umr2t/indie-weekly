@@ -1,10 +1,10 @@
 [
   {
-    "title": "Shopify is moving from React Native back to Swift and Kotlin",
-    "summary": "779 points | 529 comments on Hacker News",
+    "title": "A misalignment of AI in mathematics",
+    "summary": "645 points | 686 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://shopify.engineering/back-to-native",
-    "date": "2026-09-10",
+    "url": "https://mathandai.org/",
+    "date": "2026-09-11",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "summary": "668 points | 631 comments on Hacker News",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "summary": "328 points | 191 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "date": "2026-09-10",
+    "url": "https://www.rubyhack.ai/",
+    "date": "2026-09-11",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "OpenAI Agents API",
-    "summary": "132 points | 85 comments on Hacker News",
+    "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+    "summary": "29 points | 10 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "date": "2026-09-10",
+    "url": "https://github.com/mirza-rizvi/ResolveHQ",
+    "date": "2026-09-11",
     "tags": [
       "HN"
     ],
@@ -36,23 +36,23 @@
     "id": 3
   },
   {
-    "title": "Don't let anyone take away your big box of cables",
-    "summary": "327 points | 250 comments on Hacker News",
+    "title": "Rune is now open source",
+    "summary": "147 points | 55 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-    "date": "2026-09-10",
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "date": "2026-09-11",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "summary": "353 points | 144 comments on Hacker News",
+    "title": "The EPA is planning to scrap public review rules for data center pollution",
+    "summary": "358 points | 242 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://cognition.com/blog/swe-2",
-    "date": "2026-09-10",
+    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+    "date": "2026-09-11",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
-    "summary": "4 points | 2 comments on Hacker News",
+    "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+    "summary": "8 points | 4 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://benzi.fly.dev/benchmark",
-    "date": "2026-09-11",
+    "url": "https://github.com/zachsaw/graphify-csharp",
+    "date": "2026-09-12",
     "tags": [
       "HN"
     ],
@@ -72,23 +72,23 @@
     "id": 6
   },
   {
-    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-    "summary": "285 points | 228 comments on Hacker News",
+    "title": "Show HN: Bodily Oddities",
+    "summary": "168 points | 139 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-    "date": "2026-09-09",
+    "url": "https://vester.si/bodily-oddities/",
+    "date": "2026-09-10",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "Rust is tier-1 language at Microsoft",
-    "summary": "603 points | 343 comments on Hacker News",
+    "title": "Claude is only available to people over 18 years",
+    "summary": "578 points | 599 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "date": "2026-09-10",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "date": "2026-09-11",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "iPhone Duo",
-    "summary": "New product launch on Product Hunt: iPhone Duo",
+    "title": "Loqua",
+    "summary": "New product launch on Product Hunt: Loqua",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/apple",
-    "date": "2026-09-09",
+    "url": "https://www.producthunt.com/products/loqua",
+    "date": "2026-09-07",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Live Captions by Subanana",
-    "summary": "New product launch on Product Hunt: Live Captions by Subanana",
+    "title": "Devin Voice",
+    "summary": "New product launch on Product Hunt: Devin Voice",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/subanana",
-    "date": "2026-09-01",
+    "url": "https://www.producthunt.com/products/devin-voice",
+    "date": "2026-09-10",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Mock Magic: Video Presets",
-    "summary": "New product launch on Product Hunt: Mock Magic: Video Presets",
+    "title": "easyspecs.ai",
+    "summary": "New product launch on Product Hunt: easyspecs.ai",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mockmagic",
-    "date": "2026-02-11",
+    "url": "https://www.producthunt.com/products/easyspecs-ai",
+    "date": "2026-09-04",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "FreeScan.app",
-    "summary": "New product launch on Product Hunt: FreeScan.app",
+    "title": "Anysite.io",
+    "summary": "New product launch on Product Hunt: Anysite.io",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/freescan-app",
-    "date": "2026-09-01",
+    "url": "https://www.producthunt.com/products/anysite",
+    "date": "2026-08-11",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Vibe Eyes",
-    "summary": "New product launch on Product Hunt: Vibe Eyes",
+    "title": "chat-recall",
+    "summary": "New product launch on Product Hunt: chat-recall",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vibe-eyes",
-    "date": "2026-09-09",
+    "url": "https://www.producthunt.com/products/chat-recall",
+    "date": "2026-09-10",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Wealthfolio",
-    "summary": "New product launch on Product Hunt: Wealthfolio",
+    "title": "Cline Desktop App",
+    "summary": "New product launch on Product Hunt: Cline Desktop App",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/wealthfolio",
-    "date": "2026-09-07",
+    "url": "https://www.producthunt.com/products/cline-4",
+    "date": "2026-09-08",
     "tags": [
       "Product Launch"
     ],
@@ -168,21 +168,21 @@
     "id": 14
   },
   {
-    "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay",
-    "summary": "3097 stars | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+    "title": "sdli1995/dlssg_for_sm86 - Here is a dlssg for RTX30 Series GPU ",
+    "summary": "1782 stars | Unknown | Here is a dlssg for RTX30 Series GPU ",
     "source": "GitHub Trending",
-    "url": "https://github.com/ashemag/human-atlas",
-    "date": "2026-09-05",
+    "url": "https://github.com/sdli1995/dlssg_for_sm86",
+    "date": "2026-09-07",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "Code"
     ],
     "hot": true,
     "id": 15
   },
   {
     "title": "openai/NavierStokesAndEuler - Lean certificates accompanying Navier-Stokes and Euler results",
-    "summary": "1719 stars | Lean | Lean certificates accompanying Navier-Stokes and Euler results",
+    "summary": "1778 stars | Lean | Lean certificates accompanying Navier-Stokes and Euler results",
     "source": "GitHub Trending",
     "url": "https://github.com/openai/NavierStokesAndEuler",
     "date": "2026-09-08",
@@ -194,34 +194,8 @@
     "id": 16
   },
   {
-    "title": "sdli1995/dlssg_for_sm86 - Here is a dlssg for RTX30 Series GPU ",
-    "summary": "1438 stars | Unknown | Here is a dlssg for RTX30 Series GPU ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/sdli1995/dlssg_for_sm86",
-    "date": "2026-09-07",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
-    "title": "vinzdg/codenotch - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav",
-    "summary": "1387 stars | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/vinzdg/codenotch",
-    "date": "2026-09-05",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
     "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blen",
-    "summary": "1337 stars | Python | Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and d",
+    "summary": "1445 stars | Python | Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and d",
     "source": "GitHub Trending",
     "url": "https://github.com/EverettFish/holo-card-studio",
     "date": "2026-09-07",
@@ -230,17 +204,43 @@
       "Python"
     ],
     "hot": true,
-    "id": 19
+    "id": 17
   },
   {
     "title": "Edge0-AI/Edge0 - No description",
-    "summary": "1021 stars | Python | ",
+    "summary": "1353 stars | Python | ",
     "source": "GitHub Trending",
     "url": "https://github.com/Edge0-AI/Edge0",
     "date": "2026-09-08",
     "tags": [
       "GitHub",
       "Python"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a",
+    "summary": "940 stars | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "date": "2026-09-08",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "Faizpi/bank-sampah - No description",
+    "summary": "919 stars | PHP | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Faizpi/bank-sampah",
+    "date": "2026-09-11",
+    "tags": [
+      "GitHub",
+      "PHP"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,200 @@
     "id": 26
   },
   {
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "summary": "779 points | 529 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://shopify.engineering/back-to-native",
+    "date": "2026-09-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "summary": "668 points | 631 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "date": "2026-09-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "OpenAI Agents API",
+    "summary": "132 points | 85 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "date": "2026-09-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Don't let anyone take away your big box of cables",
+    "summary": "327 points | 250 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+    "date": "2026-09-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "summary": "353 points | 144 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://cognition.com/blog/swe-2",
+    "date": "2026-09-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
+    "summary": "4 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://benzi.fly.dev/benchmark",
+    "date": "2026-09-11",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+    "summary": "285 points | 228 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+    "date": "2026-09-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Rust is tier-1 language at Microsoft",
+    "summary": "603 points | 343 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "date": "2026-09-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "iPhone Duo",
+    "summary": "New product launch on Product Hunt: iPhone Duo",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/apple",
+    "date": "2026-09-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Live Captions by Subanana",
+    "summary": "New product launch on Product Hunt: Live Captions by Subanana",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/subanana",
+    "date": "2026-09-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Mock Magic: Video Presets",
+    "summary": "New product launch on Product Hunt: Mock Magic: Video Presets",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mockmagic",
+    "date": "2026-02-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "FreeScan.app",
+    "summary": "New product launch on Product Hunt: FreeScan.app",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/freescan-app",
+    "date": "2026-09-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Vibe Eyes",
+    "summary": "New product launch on Product Hunt: Vibe Eyes",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vibe-eyes",
+    "date": "2026-09-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Wealthfolio",
+    "summary": "New product launch on Product Hunt: Wealthfolio",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/wealthfolio",
+    "date": "2026-09-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "ashemag/human-atlas - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay",
+    "summary": "3097 stars | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ashemag/human-atlas",
+    "date": "2026-09-05",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "vinzdg/codenotch - A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav",
+    "summary": "1387 stars | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/vinzdg/codenotch",
+    "date": "2026-09-05",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
     "title": "iPhone Duo",
     "summary": "889 points | 1688 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Shopify acquires Tailwind",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 44
   },
   {
     "title": "What do Visa and Mastercard do? An intro to card networks",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "AirPods 5",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Desert Ant Labs: local, fast models that run on device",
@@ -393,7 +587,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 48
   },
   {
     "title": "How I advertise malicious software on Google Ads",
@@ -405,7 +599,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 49
   },
   {
     "title": "Claude, change the “Add to Cart” button to blue",
@@ -417,7 +611,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 50
   },
   {
     "title": "AlphaGenome Atlas",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "DuckFightClub",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Noodle Seed",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "Basedash in Español Français & Português",
@@ -465,7 +659,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "ChatGPT Images 2.5",
@@ -477,7 +671,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 55
   },
   {
     "title": "Frigade Assist API",
@@ -489,7 +683,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Rion-Wu-tech/wechat-intelligence-hub - Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc",
@@ -502,7 +696,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "anthropics/fermats-last-theorem - No description",
@@ -515,7 +709,7 @@
       "Lean"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "The Pulse: We need to talk about migrations with AI",
@@ -528,7 +722,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Muse – Meta’s personal AI agent",
@@ -540,199 +734,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
-  },
-  {
-    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-    "summary": "494 points | 115 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "date": "2026-09-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-    "summary": "1258 points | 548 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-    "date": "2026-09-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "summary": "1123 points | 970 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/navier-stokes-solution/",
-    "date": "2026-09-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "DaVinci Resolve 21.1",
-    "summary": "351 points | 157 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-    "date": "2026-09-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-    "summary": "322 points | 256 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "date": "2026-09-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Show HN: LLM Attention Visualization",
-    "summary": "129 points | 22 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-    "date": "2026-09-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "We built our house for LAN parties (2024)",
-    "summary": "415 points | 308 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lanparty.house/",
-    "date": "2026-09-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Dictantor",
-    "summary": "New product launch on Product Hunt: Dictantor",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dictantor",
-    "date": "2026-09-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Trancy Air",
-    "summary": "New product launch on Product Hunt: Trancy Air",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/trancy-air",
-    "date": "2026-09-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Pastea",
-    "summary": "New product launch on Product Hunt: Pastea",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pastea",
-    "date": "2026-09-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Replay QA Security Scan",
-    "summary": "New product launch on Product Hunt: Replay QA Security Scan",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/replayio",
-    "date": "2026-09-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "GoodLads",
-    "summary": "New product launch on Product Hunt: GoodLads",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/good-lads-1-0",
-    "date": "2026-09-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Relaticle",
-    "summary": "New product launch on Product Hunt: Relaticle",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/relaticle",
-    "date": "2026-09-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Albert-Weasker/niubigeo - Open-source AI brand visibility and competitor reports",
-    "summary": "2168 stars | TypeScript | Open-source AI brand visibility and competitor reports",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Albert-Weasker/niubigeo",
-    "date": "2026-09-03",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-    "summary": "86 points | 25 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/Sadpainy/Stuxnet",
-    "date": "2026-09-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Show HN: I built an aesthetically pleasing puzzle",
-    "summary": "48 points | 14 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://jigsawhaiku.com/",
-    "date": "2026-09-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
