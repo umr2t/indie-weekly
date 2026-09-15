@@ -1,227 +1,79 @@
 [
   {
-    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "summary": "480 points | 207 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "date": "2026-09-13",
+    "title": "Elva",
+    "summary": "New product launch on Product Hunt: Elva",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/elva",
+    "date": "2026-09-07",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 1
   },
   {
-    "title": "Why is Google still serving dodgy ads?",
-    "summary": "601 points | 280 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-    "date": "2026-09-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 2
-  },
-  {
-    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-    "summary": "382 points | 176 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-    "date": "2026-09-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 3
-  },
-  {
-    "title": "Data collected by cars and sold to third parties",
-    "summary": "312 points | 161 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-    "date": "2026-09-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 4
-  },
-  {
-    "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-    "summary": "387 points | 90 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://bensimms.moe/reverse-engineering-scooter/",
-    "date": "2026-09-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 5
-  },
-  {
-    "title": "Making Startups Powerful",
-    "summary": "163 points | 74 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://paulgraham.com/powerful.html",
-    "date": "2026-09-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 6
-  },
-  {
-    "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
-    "summary": "79 points | 20 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-    "date": "2026-09-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 7
-  },
-  {
-    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-    "summary": "361 points | 195 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "date": "2026-09-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 8
-  },
-  {
-    "title": "Resurf",
-    "summary": "New product launch on Product Hunt: Resurf",
+    "title": "MemoryPet 2.0",
+    "summary": "New product launch on Product Hunt: MemoryPet 2.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/resurf-2",
+    "url": "https://www.producthunt.com/products/memorypet",
     "date": "2026-09-11",
     "tags": [
       "Product Launch"
     ],
     "hot": false,
-    "id": 9
+    "id": 2
   },
   {
-    "title": "Perplexity Hybrid Compute ",
-    "summary": "New product launch on Product Hunt: Perplexity Hybrid Compute ",
+    "title": "Oats",
+    "summary": "New product launch on Product Hunt: Oats",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/perplexity-ai",
+    "url": "https://www.producthunt.com/products/oats-2",
+    "date": "2026-09-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 3
+  },
+  {
+    "title": "Naoma AI Demo Agent V2",
+    "summary": "New product launch on Product Hunt: Naoma AI Demo Agent V2",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/naoma",
     "date": "2026-09-09",
     "tags": [
       "Product Launch"
     ],
     "hot": false,
-    "id": 10
+    "id": 4
   },
   {
-    "title": "Cognition's SWE-2",
-    "summary": "New product launch on Product Hunt: Cognition's SWE-2",
+    "title": "Aside",
+    "summary": "New product launch on Product Hunt: Aside",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cognition-s-swe-2",
-    "date": "2026-09-10",
+    "url": "https://www.producthunt.com/products/aside-6",
+    "date": "2026-09-12",
     "tags": [
       "Product Launch"
     ],
     "hot": false,
-    "id": 11
+    "id": 5
   },
   {
-    "title": "Neopress",
-    "summary": "New product launch on Product Hunt: Neopress",
+    "title": "Marqly 6.0",
+    "summary": "New product launch on Product Hunt: Marqly 6.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/neopress",
-    "date": "2026-09-10",
+    "url": "https://www.producthunt.com/products/marqly",
+    "date": "2026-09-13",
     "tags": [
       "Product Launch"
     ],
     "hot": false,
-    "id": 12
-  },
-  {
-    "title": "GhostWriter by MyHandler",
-    "summary": "New product launch on Product Hunt: GhostWriter by MyHandler",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ghostwriter-by-myhandler",
-    "date": "2026-08-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Visiby",
-    "summary": "New product launch on Product Hunt: Visiby",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/visiby",
-    "date": "2026-09-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
-    "title": "openai/NavierStokesAndEuler - Lean certificates accompanying Navier-Stokes and Euler results",
-    "summary": "1858 stars | Lean | Lean certificates accompanying Navier-Stokes and Euler results",
-    "source": "GitHub Trending",
-    "url": "https://github.com/openai/NavierStokesAndEuler",
-    "date": "2026-09-08",
-    "tags": [
-      "GitHub",
-      "Lean"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
-    "title": "Edge0-AI/Edge0 - No description",
-    "summary": "1609 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Edge0-AI/Edge0",
-    "date": "2026-09-08",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a",
-    "summary": "1174 stars | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Vincentwei1021/anything2explainer",
-    "date": "2026-09-08",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
-    "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
-    "summary": "816 stars | Python | Express yourself in meetings (with memes, of course).",
-    "source": "GitHub Trending",
-    "url": "https://github.com/gazijarin/itsgiving",
-    "date": "2026-09-08",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 18
+    "id": 6
   },
   {
     "title": "sumimakito/Mac-Duo - Wish you could bring the iPhone Duo effect to your MacBook?",
-    "summary": "796 stars | Swift | Wish you could bring the iPhone Duo effect to your MacBook?",
+    "summary": "873 stars | Swift | Wish you could bring the iPhone Duo effect to your MacBook?",
     "source": "GitHub Trending",
     "url": "https://github.com/sumimakito/Mac-Duo",
     "date": "2026-09-10",
@@ -230,20 +82,72 @@
       "Swift"
     ],
     "hot": true,
-    "id": 19
+    "id": 7
   },
   {
-    "title": "SpaceDudem/text-humanizer - text-humanizer is an open-source project designed to convert text generated by A",
-    "summary": "731 stars | Python | text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+    "title": "Chuloo/mural - The language app you eventually delete. A native iPhone companion for learning t",
+    "summary": "817 stars | Kotlin | The language app you eventually delete. A native iPhone companion for learning through conversation.",
     "source": "GitHub Trending",
-    "url": "https://github.com/SpaceDudem/text-humanizer",
-    "date": "2026-09-08",
+    "url": "https://github.com/Chuloo/mural",
+    "date": "2026-09-12",
+    "tags": [
+      "GitHub",
+      "Kotlin"
+    ],
+    "hot": true,
+    "id": 8
+  },
+  {
+    "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Clau",
+    "summary": "812 stars | Python | Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/kruzovic7/ai-data-extractor",
+    "date": "2026-09-11",
     "tags": [
       "GitHub",
       "Python"
     ],
     "hot": true,
-    "id": 20
+    "id": 9
+  },
+  {
+    "title": "yifanzhang-pro/recurrent-looped-tranformer - Official Project Page for Recurrent Looped Transformer (RLT)",
+    "summary": "752 stars | HTML | Official Project Page for Recurrent Looped Transformer (RLT)",
+    "source": "GitHub Trending",
+    "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+    "date": "2026-09-12",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 10
+  },
+  {
+    "title": "angusdevgo/IDM_Pro_Tool - IDM激活与状态维护工具",
+    "summary": "697 stars | C# | IDM激活与状态维护工具",
+    "source": "GitHub Trending",
+    "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
+    "date": "2026-09-10",
+    "tags": [
+      "GitHub",
+      "C#"
+    ],
+    "hot": true,
+    "id": 11
+  },
+  {
+    "title": "eternityspring/reelbench-skills - Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+    "summary": "674 stars | HTML | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+    "source": "GitHub Trending",
+    "url": "https://github.com/eternityspring/reelbench-skills",
+    "date": "2026-09-11",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 12
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +160,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 13
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +173,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 14
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +186,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 15
   },
   {
     "title": "The Pulse: tech companies move to open AI models",
@@ -295,7 +199,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 16
   },
   {
     "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
@@ -308,7 +212,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 17
   },
   {
     "title": "How software engineering is changing: an essay challenge",
@@ -321,7 +225,240 @@
       "Career"
     ],
     "hot": false,
+    "id": 18
+  },
+  {
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "summary": "480 points | 207 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "date": "2026-09-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "Why is Google still serving dodgy ads?",
+    "summary": "601 points | 280 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "date": "2026-09-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 20
+  },
+  {
+    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+    "summary": "382 points | 176 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+    "date": "2026-09-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 21
+  },
+  {
+    "title": "Data collected by cars and sold to third parties",
+    "summary": "312 points | 161 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "date": "2026-09-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 22
+  },
+  {
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+    "summary": "387 points | 90 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bensimms.moe/reverse-engineering-scooter/",
+    "date": "2026-09-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 23
+  },
+  {
+    "title": "Making Startups Powerful",
+    "summary": "163 points | 74 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://paulgraham.com/powerful.html",
+    "date": "2026-09-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
+    "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
+    "summary": "79 points | 20 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+    "date": "2026-09-10",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 25
+  },
+  {
+    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+    "summary": "361 points | 195 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "date": "2026-09-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Resurf",
+    "summary": "New product launch on Product Hunt: Resurf",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/resurf-2",
+    "date": "2026-09-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Perplexity Hybrid Compute ",
+    "summary": "New product launch on Product Hunt: Perplexity Hybrid Compute ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/perplexity-ai",
+    "date": "2026-09-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Cognition's SWE-2",
+    "summary": "New product launch on Product Hunt: Cognition's SWE-2",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cognition-s-swe-2",
+    "date": "2026-09-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Neopress",
+    "summary": "New product launch on Product Hunt: Neopress",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/neopress",
+    "date": "2026-09-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "GhostWriter by MyHandler",
+    "summary": "New product launch on Product Hunt: GhostWriter by MyHandler",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ghostwriter-by-myhandler",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Visiby",
+    "summary": "New product launch on Product Hunt: Visiby",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/visiby",
+    "date": "2026-09-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "openai/NavierStokesAndEuler - Lean certificates accompanying Navier-Stokes and Euler results",
+    "summary": "1858 stars | Lean | Lean certificates accompanying Navier-Stokes and Euler results",
+    "source": "GitHub Trending",
+    "url": "https://github.com/openai/NavierStokesAndEuler",
+    "date": "2026-09-08",
+    "tags": [
+      "GitHub",
+      "Lean"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Edge0-AI/Edge0 - No description",
+    "summary": "1609 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Edge0-AI/Edge0",
+    "date": "2026-09-08",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Vincentwei1021/anything2explainer - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a",
+    "summary": "1174 stars | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "date": "2026-09-08",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 35
+  },
+  {
+    "title": "gazijarin/itsgiving - Express yourself in meetings (with memes, of course).",
+    "summary": "816 stars | Python | Express yourself in meetings (with memes, of course).",
+    "source": "GitHub Trending",
+    "url": "https://github.com/gazijarin/itsgiving",
+    "date": "2026-09-08",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 36
+  },
+  {
+    "title": "SpaceDudem/text-humanizer - text-humanizer is an open-source project designed to convert text generated by A",
+    "summary": "731 stars | Python | text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+    "source": "GitHub Trending",
+    "url": "https://github.com/SpaceDudem/text-humanizer",
+    "date": "2026-09-08",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 37
   },
   {
     "title": "Make your first edit to OpenStreetMap",
@@ -333,7 +470,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 38
   },
   {
     "title": "Nvidia is the central bank of AI",
@@ -345,7 +482,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 39
   },
   {
     "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
@@ -357,7 +494,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 40
   },
   {
     "title": "IKEA made a mod for Skyrim [video]",
@@ -369,7 +506,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 41
   },
   {
     "title": "We must pace the frontier",
@@ -381,7 +518,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 42
   },
   {
     "title": "I made a build visualizer to understand Bun's compile times",
@@ -393,7 +530,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 43
   },
   {
     "title": "Show HN: See Sounds on Your Webcam",
@@ -405,7 +542,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 44
   },
   {
     "title": "SUDARI",
@@ -417,7 +554,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 45
   },
   {
     "title": "LinkFlick",
@@ -429,7 +566,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 46
   },
   {
     "title": "Pascal’s Pager",
@@ -441,7 +578,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 47
   },
   {
     "title": "VoxelWall",
@@ -453,7 +590,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 48
   },
   {
     "title": "Wokyintosh",
@@ -465,7 +602,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 49
   },
   {
     "title": "Work Life Panda",
@@ -477,7 +614,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 50
   },
   {
     "title": "sdli1995/dlssg_for_sm86 - Here is a dlssg for RTX30 Series GPU ",
@@ -490,7 +627,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 40
+    "id": 51
   },
   {
     "title": "EverettFish/holo-card-studio - Turn the user's description or uploaded reference into a finished, editable Blen",
@@ -503,7 +640,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 41
+    "id": 52
   },
   {
     "title": "achimala/dream-loop - Agent skill for impressive 3D visuals using Blender + image gen + subagent criti",
@@ -516,7 +653,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 42
+    "id": 53
   },
   {
     "title": "A misalignment of AI in mathematics",
@@ -528,7 +665,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 54
   },
   {
     "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -540,7 +677,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 55
   },
   {
     "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
@@ -552,7 +689,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 45
+    "id": 56
   },
   {
     "title": "Rune is now open source",
@@ -564,7 +701,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 46
+    "id": 57
   },
   {
     "title": "The EPA is planning to scrap public review rules for data center pollution",
@@ -576,7 +713,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 47
+    "id": 58
   },
   {
     "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
@@ -588,146 +725,13 @@
       "HN"
     ],
     "hot": false,
-    "id": 48
+    "id": 59
   },
   {
     "title": "Show HN: Bodily Oddities",
     "summary": "168 points | 139 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://vester.si/bodily-oddities/",
-    "date": "2026-09-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Claude is only available to people over 18 years",
-    "summary": "578 points | 599 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "date": "2026-09-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Loqua",
-    "summary": "New product launch on Product Hunt: Loqua",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/loqua",
-    "date": "2026-09-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Devin Voice",
-    "summary": "New product launch on Product Hunt: Devin Voice",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/devin-voice",
-    "date": "2026-09-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "easyspecs.ai",
-    "summary": "New product launch on Product Hunt: easyspecs.ai",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/easyspecs-ai",
-    "date": "2026-09-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Anysite.io",
-    "summary": "New product launch on Product Hunt: Anysite.io",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/anysite",
-    "date": "2026-08-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "chat-recall",
-    "summary": "New product launch on Product Hunt: chat-recall",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chat-recall",
-    "date": "2026-09-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Cline Desktop App",
-    "summary": "New product launch on Product Hunt: Cline Desktop App",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cline-4",
-    "date": "2026-09-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Faizpi/bank-sampah - No description",
-    "summary": "919 stars | PHP | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Faizpi/bank-sampah",
-    "date": "2026-09-11",
-    "tags": [
-      "GitHub",
-      "PHP"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Shopify is moving from React Native back to Swift and Kotlin",
-    "summary": "779 points | 529 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://shopify.engineering/back-to-native",
-    "date": "2026-09-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "summary": "668 points | 631 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "date": "2026-09-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "OpenAI Agents API",
-    "summary": "132 points | 85 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
     "date": "2026-09-10",
     "tags": [
       "HN"
