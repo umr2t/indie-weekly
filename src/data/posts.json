@@ -1,10 +1,10 @@
 [
   {
-    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "summary": "540 points | 263 comments on Hacker News",
+    "title": "I built non-autoregressive decision models with RL a year ago",
+    "summary": "1094 points | 269 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-    "date": "2026-09-18",
+    "url": "https://laya.convaiinnovations.com/",
+    "date": "2026-09-19",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Cloudflare Quick Tunnels",
-    "summary": "578 points | 250 comments on Hacker News",
+    "title": "AI-generated posters don’t have to be horrible",
+    "summary": "1388 points | 778 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://try.cloudflare.com/",
-    "date": "2026-09-18",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "date": "2026-09-19",
     "tags": [
       "HN"
     ],
@@ -24,8 +24,20 @@
     "id": 2
   },
   {
+    "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+    "summary": "65 points | 7 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/trycua/cua",
+    "date": "2026-09-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 3
+  },
+  {
     "title": "How to Write with an LLM",
-    "summary": "391 points | 270 comments on Hacker News",
+    "summary": "629 points | 374 comments on Hacker News",
     "source": "Hacker News",
     "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "date": "2026-09-17",
@@ -33,26 +45,14 @@
       "HN"
     ],
     "hot": true,
-    "id": 3
-  },
-  {
-    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-    "summary": "164 points | 78 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://cactuscompute.com/needle",
-    "date": "2026-09-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 4
   },
   {
-    "title": "OpenJev",
-    "summary": "557 points | 245 comments on Hacker News",
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "summary": "613 points | 237 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://openjev.com/",
-    "date": "2026-09-18",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "date": "2026-09-19",
     "tags": [
       "HN"
     ],
@@ -60,34 +60,34 @@
     "id": 5
   },
   {
-    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "summary": "514 points | 182 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "Punch",
+    "summary": "New product launch on Product Hunt: Punch",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/punch-4",
     "date": "2026-09-18",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-    "summary": "8 points | 3 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://liveworld.info/",
+    "title": "Mise",
+    "summary": "New product launch on Product Hunt: Mise",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/robot-recipes",
     "date": "2026-09-19",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "AI Class by Kanary",
-    "summary": "New product launch on Product Hunt: AI Class by Kanary",
+    "title": "Basedash Models",
+    "summary": "New product launch on Product Hunt: Basedash Models",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ai-class-by-kanary",
+    "url": "https://www.producthunt.com/products/basedash",
     "date": "2026-09-18",
     "tags": [
       "Product Launch"
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Sutura",
-    "summary": "New product launch on Product Hunt: Sutura",
+    "title": "Ruby UTCP",
+    "summary": "New product launch on Product Hunt: Ruby UTCP",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sutura",
-    "date": "2026-09-17",
+    "url": "https://www.producthunt.com/products/utcp",
+    "date": "2026-09-16",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "PC Anatomy",
-    "summary": "New product launch on Product Hunt: PC Anatomy",
+    "title": "VoiceCap",
+    "summary": "New product launch on Product Hunt: VoiceCap",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pc-anatomy",
-    "date": "2026-09-15",
+    "url": "https://www.producthunt.com/products/voicecap",
+    "date": "2026-09-17",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "OpenAlgo Charts",
-    "summary": "New product launch on Product Hunt: OpenAlgo Charts",
+    "title": "Doneit 3.2",
+    "summary": "New product launch on Product Hunt: Doneit 3.2",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openalgo-charts",
-    "date": "2026-09-15",
+    "url": "https://www.producthunt.com/products/doneit",
+    "date": "2026-09-14",
     "tags": [
       "Product Launch"
     ],
@@ -132,32 +132,8 @@
     "id": 11
   },
   {
-    "title": "Unfetch.com",
-    "summary": "New product launch on Product Hunt: Unfetch.com",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/unfetch-com",
-    "date": "2026-09-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 12
-  },
-  {
-    "title": "Galactic Receipt Scanner",
-    "summary": "New product launch on Product Hunt: Galactic Receipt Scanner",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/galactic-receipt-scanner",
-    "date": "2026-09-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
     "title": "browser-use/jev-ultrafast - i. am. speed.",
-    "summary": "5643 stars | Python | i. am. speed.",
+    "summary": "8660 stars | Python | i. am. speed.",
     "source": "GitHub Trending",
     "url": "https://github.com/browser-use/jev-ultrafast",
     "date": "2026-09-16",
@@ -166,11 +142,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 14
+    "id": 12
   },
   {
     "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: ever",
-    "summary": "3302 stars | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, eve",
+    "summary": "4283 stars | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, eve",
     "source": "GitHub Trending",
     "url": "https://github.com/tamaratran/fast-jev-compaction",
     "date": "2026-09-17",
@@ -179,11 +155,24 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 15
+    "id": 13
+  },
+  {
+    "title": "robbietilton/Compositor - The Photoshop alternative for Mac",
+    "summary": "2537 stars | Swift | The Photoshop alternative for Mac",
+    "source": "GitHub Trending",
+    "url": "https://github.com/robbietilton/Compositor",
+    "date": "2026-09-16",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 14
   },
   {
     "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated wi",
-    "summary": "1608 stars | Python | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "summary": "1957 stars | Python | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
     "source": "GitHub Trending",
     "url": "https://github.com/TheoLeeCJ/SemIf",
     "date": "2026-09-16",
@@ -192,11 +181,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 16
+    "id": 15
   },
   {
     "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and sta",
-    "summary": "1052 stars | Python | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+    "summary": "1579 stars | Python | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
     "source": "GitHub Trending",
     "url": "https://github.com/mcncarl/jianying-headless",
     "date": "2026-09-15",
@@ -205,33 +194,20 @@
       "Python"
     ],
     "hot": true,
-    "id": 17
+    "id": 16
   },
   {
-    "title": "vinnylarouge/jevlike - No description",
-    "summary": "897 stars | Python | ",
+    "title": "NandhaKishorM/laya - No description",
+    "summary": "1354 stars | Python | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/vinnylarouge/jevlike",
-    "date": "2026-09-16",
+    "url": "https://github.com/NandhaKishorM/laya",
+    "date": "2026-09-18",
     "tags": [
       "GitHub",
       "Python"
     ],
     "hot": true,
-    "id": 18
-  },
-  {
-    "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-    "summary": "883 stars | TypeScript | One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/jarrodwatts/jev-trader",
-    "date": "2026-09-16",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 19
+    "id": 17
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -244,7 +220,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 18
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -257,7 +233,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -270,7 +246,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "The Pulse: tech companies move to open AI models",
@@ -283,7 +259,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
@@ -296,7 +272,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 22
   },
   {
     "title": "How software engineering is changing: an essay challenge",
@@ -309,7 +285,177 @@
       "Career"
     ],
     "hot": false,
+    "id": 23
+  },
+  {
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "summary": "540 points | 263 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "date": "2026-09-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 24
+  },
+  {
+    "title": "Cloudflare Quick Tunnels",
+    "summary": "578 points | 250 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://try.cloudflare.com/",
+    "date": "2026-09-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 25
+  },
+  {
+    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+    "summary": "164 points | 78 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://cactuscompute.com/needle",
+    "date": "2026-09-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 26
+  },
+  {
+    "title": "OpenJev",
+    "summary": "557 points | 245 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openjev.com/",
+    "date": "2026-09-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+    "summary": "514 points | 182 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://code.claude.com/docs/en/changelog",
+    "date": "2026-09-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+    "summary": "8 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://liveworld.info/",
+    "date": "2026-09-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "AI Class by Kanary",
+    "summary": "New product launch on Product Hunt: AI Class by Kanary",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ai-class-by-kanary",
+    "date": "2026-09-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Sutura",
+    "summary": "New product launch on Product Hunt: Sutura",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/sutura",
+    "date": "2026-09-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "PC Anatomy",
+    "summary": "New product launch on Product Hunt: PC Anatomy",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pc-anatomy",
+    "date": "2026-09-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "OpenAlgo Charts",
+    "summary": "New product launch on Product Hunt: OpenAlgo Charts",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openalgo-charts",
+    "date": "2026-09-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Unfetch.com",
+    "summary": "New product launch on Product Hunt: Unfetch.com",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/unfetch-com",
+    "date": "2026-09-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Galactic Receipt Scanner",
+    "summary": "New product launch on Product Hunt: Galactic Receipt Scanner",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/galactic-receipt-scanner",
+    "date": "2026-09-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "vinnylarouge/jevlike - No description",
+    "summary": "897 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/vinnylarouge/jevlike",
+    "date": "2026-09-16",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 36
+  },
+  {
+    "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+    "summary": "883 stars | TypeScript | One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/jarrodwatts/jev-trader",
+    "date": "2026-09-16",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 37
   },
   {
     "title": "Astra for Law",
@@ -321,7 +467,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 38
   },
   {
     "title": "Hister: A private search engine for the pages you visit and the files you keep",
@@ -333,7 +479,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 39
   },
   {
     "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
@@ -345,7 +491,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 40
   },
   {
     "title": "CCC invites all model citizens to 40C3",
@@ -357,7 +503,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 41
   },
   {
     "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
@@ -369,7 +515,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 42
   },
   {
     "title": "Show HN: Share your AI Setup, Learn from others",
@@ -381,7 +527,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 43
   },
   {
     "title": "Pitchfire for Startups",
@@ -393,7 +539,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 44
   },
   {
     "title": "S-Roll",
@@ -405,7 +551,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 45
   },
   {
     "title": "Amy by Jellyfish",
@@ -417,7 +563,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 46
   },
   {
     "title": "NovaSynth by Noveum",
@@ -429,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 47
   },
   {
     "title": "Bitrise Remote Dev Environments",
@@ -441,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 48
   },
   {
     "title": "MacSentinel",
@@ -453,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 49
   },
   {
     "title": "Chuloo/mural - The language app you eventually delete. A native iPhone companion for learning t",
@@ -466,7 +612,7 @@
       "Kotlin"
     ],
     "hot": true,
-    "id": 38
+    "id": 50
   },
   {
     "title": "yifanzhang-pro/recurrent-looped-tranformer - Official Project Page for Recurrent Looped Transformer (RLT)",
@@ -479,7 +625,7 @@
       "HTML"
     ],
     "hot": true,
-    "id": 39
+    "id": 51
   },
   {
     "title": "TheoLeeCJ/openjev - Can we run something like Jev on a 3090 at home?",
@@ -492,7 +638,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 40
+    "id": 52
   },
   {
     "title": "zjwzcx/Awesome-Astra-Embodied-AI - GPT-6 Astra for embodied AI and robotics.",
@@ -505,7 +651,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 41
+    "id": 53
   },
   {
     "title": "agentverse-os/AgentVerse-OS - Personal cloud OS for a developer and their AI agents on a single server. One-co",
@@ -518,7 +664,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 42
+    "id": 54
   },
   {
     "title": "Nvidia announces native GPU programming in Rust",
@@ -530,7 +676,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 55
   },
   {
     "title": "Training a 4B model to produce 81% faster query plans than Postgres",
@@ -542,7 +688,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 56
   },
   {
     "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
@@ -554,7 +700,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 45
+    "id": 57
   },
   {
     "title": "Small programming tricks",
@@ -566,7 +712,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 46
+    "id": 58
   },
   {
     "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -578,7 +724,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 47
+    "id": 59
   },
   {
     "title": "Hackers Got Inside a Flock Camera",
@@ -586,153 +732,6 @@
     "source": "Hacker News",
     "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
     "date": "2026-09-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Thread",
-    "summary": "New product launch on Product Hunt: Thread",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/thread-ai-journal-memory",
-    "date": "2026-09-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "CreatorHat",
-    "summary": "New product launch on Product Hunt: CreatorHat",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/creatorhat",
-    "date": "2026-09-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "PeakHour 6",
-    "summary": "New product launch on Product Hunt: PeakHour 6",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/peak-hour",
-    "date": "2026-09-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Convo",
-    "summary": "New product launch on Product Hunt: Convo",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/convo-7",
-    "date": "2026-09-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "flat.social",
-    "summary": "New product launch on Product Hunt: flat.social",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/flat-social",
-    "date": "2026-09-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Project Feed",
-    "summary": "New product launch on Product Hunt: Project Feed",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/project-feed",
-    "date": "2026-09-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "ai-sucks-butt/ai-sucks-butt - If you think AI sucks, star the repo.",
-    "summary": "1860 stars | Python | If you think AI sucks, star the repo.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-    "date": "2026-09-14",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "kruzovic7/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Clau",
-    "summary": "826 stars | Python | Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/kruzovic7/ai-data-extractor",
-    "date": "2026-09-11",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "eternityspring/reelbench-skills - Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-    "summary": "709 stars | HTML | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-    "source": "GitHub Trending",
-    "url": "https://github.com/eternityspring/reelbench-skills",
-    "date": "2026-09-11",
-    "tags": [
-      "GitHub",
-      "HTML"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Introducing System One Models and Jev",
-    "summary": "792 points | 259 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "date": "2026-09-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "An Update on Wayback Machine Access",
-    "summary": "392 points | 214 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "date": "2026-09-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "summary": "306 points | 190 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "date": "2026-09-15",
     "tags": [
       "HN"
     ],
