@@ -1,10 +1,10 @@
 [
   {
-    "title": "F-Droid 2.0",
-    "summary": "955 points | 265 comments on Hacker News",
+    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+    "summary": "343 points | 100 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-    "date": "2026-09-24",
+    "url": "https://ollaya.dev/",
+    "date": "2026-09-25",
     "tags": [
       "HN"
     ],
@@ -12,23 +12,23 @@
     "id": 1
   },
   {
-    "title": "Show HN: Make cursed fonts like Times New Bastard",
-    "summary": "496 points | 68 comments on Hacker News",
+    "title": "Show HN: Jev Plays Pokémon Red",
+    "summary": "158 points | 68 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://bastardica.mitpit.com",
-    "date": "2026-09-23",
+    "url": "https://jev-pokemon.vercel.app/",
+    "date": "2026-09-25",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 2
   },
   {
-    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-    "summary": "203 points | 82 comments on Hacker News",
+    "title": "Platform-independent SIMD in Go",
+    "summary": "363 points | 134 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/devdotfast/whiteboard",
-    "date": "2026-09-24",
+    "url": "https://go.dev/blog/simd-experiment",
+    "date": "2026-09-25",
     "tags": [
       "HN"
     ],
@@ -36,70 +36,70 @@
     "id": 3
   },
   {
-    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-    "summary": "132 points | 30 comments on Hacker News",
+    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+    "summary": "313 points | 101 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://koi.rest",
-    "date": "2026-09-24",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 4
-  },
-  {
-    "title": "Two-tier encryption in the UK",
-    "summary": "387 points | 375 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-    "date": "2026-09-24",
+    "url": "https://github.com/git-bug/git-bug",
+    "date": "2026-09-25",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 4
+  },
+  {
+    "title": "Show HN: A game about fake news and memes",
+    "summary": "8 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://unspin.app/",
+    "date": "2026-09-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 5
   },
   {
-    "title": "LockLines",
-    "summary": "New product launch on Product Hunt: LockLines",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/locklines",
-    "date": "2026-09-23",
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "summary": "392 points | 704 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "date": "2026-09-25",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Hookest",
-    "summary": "New product launch on Product Hunt: Hookest",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hookest",
-    "date": "2026-09-07",
+    "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+    "summary": "11 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://hackeratlas.com/",
+    "date": "2026-09-25",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Scholé Learn by Building",
-    "summary": "New product launch on Product Hunt: Scholé Learn by Building",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/schole-2",
-    "date": "2026-09-13",
+    "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+    "summary": "8 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.gptbeyond.com/try?home=1",
+    "date": "2026-09-25",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "CtrlOps 1.0",
-    "summary": "New product launch on Product Hunt: CtrlOps 1.0",
+    "title": "TourKit",
+    "summary": "New product launch on Product Hunt: TourKit",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ctrlops",
+    "url": "https://www.producthunt.com/products/tourkit",
     "date": "2026-09-22",
     "tags": [
       "Product Launch"
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "minimi 2.0",
-    "summary": "New product launch on Product Hunt: minimi 2.0",
+    "title": "Designeer",
+    "summary": "New product launch on Product Hunt: Designeer",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/shram",
-    "date": "2026-09-18",
+    "url": "https://www.producthunt.com/products/designeer",
+    "date": "2026-09-21",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Opaline",
-    "summary": "New product launch on Product Hunt: Opaline",
+    "title": "LaterOn v2: The agentic email plaftform",
+    "summary": "New product launch on Product Hunt: LaterOn v2: The agentic email plaftform",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rudel",
-    "date": "2026-09-22",
+    "url": "https://www.producthunt.com/products/lateron-email",
+    "date": "2026-09-23",
     "tags": [
       "Product Launch"
     ],
@@ -132,8 +132,44 @@
     "id": 11
   },
   {
+    "title": "Bleetz Network",
+    "summary": "New product launch on Product Hunt: Bleetz Network",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/bleetz-network",
+    "date": "2026-09-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 12
+  },
+  {
+    "title": "Wand",
+    "summary": "New product launch on Product Hunt: Wand",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/wand-6",
+    "date": "2026-09-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 13
+  },
+  {
+    "title": "Howseen AI",
+    "summary": "New product launch on Product Hunt: Howseen AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/howseen-ai",
+    "date": "2026-09-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "zai-org/ZCode - Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-    "summary": "6718 stars | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "summary": "6777 stars | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible.",
     "source": "GitHub Trending",
     "url": "https://github.com/zai-org/ZCode",
     "date": "2026-09-20",
@@ -142,24 +178,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 12
-  },
-  {
-    "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M",
-    "summary": "6227 stars | Python | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/mizorewww/laya-mlx",
-    "date": "2026-09-19",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 13
+    "id": 15
   },
   {
     "title": "jev-chat/jev-chat-jarvis - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-    "summary": "6120 stars | Kotlin | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "summary": "6518 stars | Kotlin | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
     "source": "GitHub Trending",
     "url": "https://github.com/jev-chat/jev-chat-jarvis",
     "date": "2026-09-21",
@@ -168,11 +191,11 @@
       "Kotlin"
     ],
     "hot": true,
-    "id": 14
+    "id": 16
   },
   {
     "title": "unreallabsai/unreal-agent - Async-first agent harness",
-    "summary": "1881 stars | Go | Async-first agent harness",
+    "summary": "1940 stars | Go | Async-first agent harness",
     "source": "GitHub Trending",
     "url": "https://github.com/unreallabsai/unreal-agent",
     "date": "2026-09-21",
@@ -181,33 +204,46 @@
       "Go"
     ],
     "hot": true,
-    "id": 15
-  },
-  {
-    "title": "mizorewww/laya-coreml - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ",
-    "summary": "1440 stars | Python | Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/mizorewww/laya-coreml",
-    "date": "2026-09-19",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "newliver666/apk-reverse - Suitable for Android APK reverse engineering analysis",
-    "summary": "1418 stars | Python | Suitable for Android APK reverse engineering analysis",
-    "source": "GitHub Trending",
-    "url": "https://github.com/newliver666/apk-reverse",
-    "date": "2026-09-19",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
     "id": 17
+  },
+  {
+    "title": "driceroland/Search - A small, fast WebKit browser for macOS, by Office Commun.",
+    "summary": "1838 stars | Swift | A small, fast WebKit browser for macOS, by Office Commun.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/driceroland/Search",
+    "date": "2026-09-20",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "Contrastive-LM/CLM - No description",
+    "summary": "1282 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Contrastive-LM/CLM",
+    "date": "2026-09-23",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "deepopen-com/deepopen - 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System",
+    "summary": "1020 stars | Python | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/deepopen-com/deepopen",
+    "date": "2026-09-21",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -220,7 +256,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 18
+    "id": 21
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -233,7 +269,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 19
+    "id": 22
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -246,7 +282,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 23
   },
   {
     "title": "The Pulse: a new trend of CPU shortages",
@@ -259,7 +295,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 21
+    "id": 24
   },
   {
     "title": "The Pulse: tech companies move to open AI models",
@@ -272,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 22
+    "id": 25
   },
   {
     "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
@@ -285,7 +321,178 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 26
+  },
+  {
+    "title": "F-Droid 2.0",
+    "summary": "955 points | 265 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "date": "2026-09-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Make cursed fonts like Times New Bastard",
+    "summary": "496 points | 68 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bastardica.mitpit.com",
+    "date": "2026-09-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+    "summary": "203 points | 82 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/devdotfast/whiteboard",
+    "date": "2026-09-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+    "summary": "132 points | 30 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://koi.rest",
+    "date": "2026-09-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Two-tier encryption in the UK",
+    "summary": "387 points | 375 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+    "date": "2026-09-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "LockLines",
+    "summary": "New product launch on Product Hunt: LockLines",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/locklines",
+    "date": "2026-09-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Hookest",
+    "summary": "New product launch on Product Hunt: Hookest",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/hookest",
+    "date": "2026-09-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Scholé Learn by Building",
+    "summary": "New product launch on Product Hunt: Scholé Learn by Building",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/schole-2",
+    "date": "2026-09-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "CtrlOps 1.0",
+    "summary": "New product launch on Product Hunt: CtrlOps 1.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ctrlops",
+    "date": "2026-09-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "minimi 2.0",
+    "summary": "New product launch on Product Hunt: minimi 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/shram",
+    "date": "2026-09-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Opaline",
+    "summary": "New product launch on Product Hunt: Opaline",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rudel",
+    "date": "2026-09-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "mizorewww/laya-mlx - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M",
+    "summary": "6227 stars | Python | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/mizorewww/laya-mlx",
+    "date": "2026-09-19",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 38
+  },
+  {
+    "title": "mizorewww/laya-coreml - Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ",
+    "summary": "1440 stars | Python | Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/mizorewww/laya-coreml",
+    "date": "2026-09-19",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "newliver666/apk-reverse - Suitable for Android APK reverse engineering analysis",
+    "summary": "1418 stars | Python | Suitable for Android APK reverse engineering analysis",
+    "source": "GitHub Trending",
+    "url": "https://github.com/newliver666/apk-reverse",
+    "date": "2026-09-19",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -297,7 +504,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 24
+    "id": 41
   },
   {
     "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
@@ -309,7 +516,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 25
+    "id": 42
   },
   {
     "title": "Fixing the Portobello Police Station Clock",
@@ -321,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 43
   },
   {
     "title": "We just shipped support for the ugliest part of HTTP: Vary",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Italian parliament votes for return to nuclear energy",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Show HN: Combinators in Array Languages",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 47
   },
   {
     "title": "I don't want the details",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Pactto",
@@ -393,7 +600,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Claude Opus 5.5",
@@ -405,7 +612,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 50
   },
   {
     "title": "GBrain",
@@ -417,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 51
   },
   {
     "title": "Lightmeter",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Solid",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "RankControl",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "NandhaKishorM/laya - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no deci",
@@ -466,7 +673,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 38
+    "id": 55
   },
   {
     "title": "bespokelabsai/nimble - Local typed decisions, contrastive data curation, and model evaluation.",
@@ -479,7 +686,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 39
+    "id": 56
   },
   {
     "title": "How software engineering is changing: an essay challenge",
@@ -492,7 +699,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "GPT-6 Sol and Luna",
@@ -504,7 +711,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "Claude Opus 5.5",
@@ -516,7 +723,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
@@ -524,212 +731,6 @@
     "source": "Hacker News",
     "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
     "date": "2026-09-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-    "summary": "562 points | 360 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-    "date": "2026-09-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-    "summary": "433 points | 223 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-    "date": "2026-09-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-    "summary": "65 points | 17 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://benchmarkheaven.com/jev-models",
-    "date": "2026-09-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-    "summary": "623 points | 461 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-    "date": "2026-09-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Show HN: Training a model to identify AI web content from structure alone",
-    "summary": "42 points | 9 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2609.15369",
-    "date": "2026-09-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Clueso MCP",
-    "summary": "New product launch on Product Hunt: Clueso MCP",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clueso",
-    "date": "2026-09-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "PixelCrew",
-    "summary": "New product launch on Product Hunt: PixelCrew",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pixelcrew",
-    "date": "2026-09-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Robot Voice Bridge",
-    "summary": "New product launch on Product Hunt: Robot Voice Bridge",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/robot-voice-bridge",
-    "date": "2026-09-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "SereneDB",
-    "summary": "New product launch on Product Hunt: SereneDB",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/serenedb-krummelanke",
-    "date": "2026-09-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "WeWeb MCP",
-    "summary": "New product launch on Product Hunt: WeWeb MCP",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/weweb-io",
-    "date": "2026-07-06",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Contextberg",
-    "summary": "New product launch on Product Hunt: Contextberg",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/contextberg",
-    "date": "2026-08-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "tamaratran/fast-jev-compaction - Claude Code plugin that replaces the compaction summary with Jev decisions: ever",
-    "summary": "6324 stars | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, eve",
-    "source": "GitHub Trending",
-    "url": "https://github.com/tamaratran/fast-jev-compaction",
-    "date": "2026-09-17",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "jaredpalmer/kev - tiny Jev-like family of decision models built on top of Qwen3.5 you can train an",
-    "summary": "4369 stars | Python | tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-    "source": "GitHub Trending",
-    "url": "https://github.com/jaredpalmer/kev",
-    "date": "2026-09-17",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Xiaomi MiMo v2.6",
-    "summary": "559 points | 283 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mimo.xiaomi.com/mimo-v2-6",
-    "date": "2026-09-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "What Sun got wrong",
-    "summary": "503 points | 294 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-    "date": "2026-09-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Attention is all you have",
-    "summary": "588 points | 178 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://alicegg.tech/2026/09/21/attention",
-    "date": "2026-09-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "NASA’s Mars Sample Return mission is dead",
-    "summary": "316 points | 251 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-    "date": "2026-09-21",
     "tags": [
       "HN"
     ],
