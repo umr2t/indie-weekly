@@ -1,10 +1,10 @@
 [
   {
-    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-    "summary": "315 points | 128 comments on Hacker News",
+    "title": "America.gov",
+    "summary": "379 points | 306 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/firelex/jeff",
-    "date": "2026-09-28",
+    "url": "https://america.gov/",
+    "date": "2026-09-29",
     "tags": [
       "HN"
     ],
@@ -12,23 +12,23 @@
     "id": 1
   },
   {
-    "title": "Pirating the Pirates",
-    "summary": "434 points | 231 comments on Hacker News",
+    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+    "summary": "123 points | 32 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-    "date": "2026-09-28",
+    "url": "https://space.bl2.net/",
+    "date": "2026-09-29",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 2
   },
   {
-    "title": "Sonnet 5.5",
-    "summary": "615 points | 420 comments on Hacker News",
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "summary": "807 points | 745 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.anthropic.com/claude-sonnet-5-5",
-    "date": "2026-09-28",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "date": "2026-09-29",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-    "summary": "306 points | 185 comments on Hacker News",
+    "title": "How Delhi cut electricity loss from 50 to 5 percent",
+    "summary": "447 points | 261 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.thisamericanlife.org/897/transcript",
-    "date": "2026-09-28",
+    "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+    "date": "2026-09-29",
     "tags": [
       "HN"
     ],
@@ -48,23 +48,23 @@
     "id": 4
   },
   {
-    "title": "It's Time to Investigate the AI Labs",
-    "summary": "326 points | 124 comments on Hacker News",
+    "title": "Show HN: A working 3D model of an Enigma machine",
+    "summary": "36 points | 3 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-    "date": "2026-09-28",
+    "url": "https://enigma.design",
+    "date": "2026-09-29",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-    "summary": "135 points | 82 comments on Hacker News",
+    "title": "Show HN: NSL – WSL for Linux",
+    "summary": "88 points | 64 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://hn.watch/",
-    "date": "2026-09-28",
+    "url": "https://frostyard.github.io/nsl/",
+    "date": "2026-09-29",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Cf: The Agentic CLI for the Cloudflare API",
-    "summary": "129 points | 56 comments on Hacker News",
+    "title": "Everybody’s home. No one’s coming over",
+    "summary": "739 points | 671 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-    "date": "2026-09-28",
+    "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+    "date": "2026-09-29",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Show HN: Destroy Any Website with Stickman",
-    "summary": "113 points | 28 comments on Hacker News",
+    "title": "Dots: Always-on agents",
+    "summary": "471 points | 357 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://destroy.spritefusion.com/",
-    "date": "2026-09-28",
+    "url": "https://openai.com/index/introducing-dots/",
+    "date": "2026-09-29",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "Lattice",
-    "summary": "New product launch on Product Hunt: Lattice",
+    "title": "LUCI Desktop",
+    "summary": "New product launch on Product Hunt: LUCI Desktop",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lattice-11",
-    "date": "2026-09-27",
+    "url": "https://www.producthunt.com/products/luci-desktop",
+    "date": "2026-09-20",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "vantage.ai",
-    "summary": "New product launch on Product Hunt: vantage.ai",
+    "title": "ZenABM ",
+    "summary": "New product launch on Product Hunt: ZenABM ",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/vantage-ai-2",
-    "date": "2026-09-26",
+    "url": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot",
+    "date": "2026-09-25",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "MCP Connectors by Databox",
-    "summary": "New product launch on Product Hunt: MCP Connectors by Databox",
+    "title": "Timeful",
+    "summary": "New product launch on Product Hunt: Timeful",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/databox",
-    "date": "2026-09-18",
+    "url": "https://www.producthunt.com/products/timeful",
+    "date": "2026-09-28",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Zerg Router",
-    "summary": "New product launch on Product Hunt: Zerg Router",
+    "title": "FFFFinder",
+    "summary": "New product launch on Product Hunt: FFFFinder",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/zerg-router",
-    "date": "2026-09-25",
+    "url": "https://www.producthunt.com/products/ffffinder",
+    "date": "2026-09-26",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Stash",
-    "summary": "New product launch on Product Hunt: Stash",
+    "title": "Hopscotch AI",
+    "summary": "New product launch on Product Hunt: Hopscotch AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/stash-24",
-    "date": "2026-09-25",
+    "url": "https://www.producthunt.com/products/hopscotch-7",
+    "date": "2026-09-21",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Mochi",
-    "summary": "New product launch on Product Hunt: Mochi",
+    "title": "ColdIQ x Slack ",
+    "summary": "New product launch on Product Hunt: ColdIQ x Slack ",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mochi-6",
-    "date": "2026-09-27",
+    "url": "https://www.producthunt.com/products/coldiq-x-slack",
+    "date": "2026-09-23",
     "tags": [
       "Product Launch"
     ],
@@ -168,34 +168,21 @@
     "id": 14
   },
   {
-    "title": "Contrastive-LM/CLM - No description",
-    "summary": "2302 stars | Python | ",
+    "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "summary": "3322 stars | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "source": "GitHub Trending",
-    "url": "https://github.com/Contrastive-LM/CLM",
-    "date": "2026-09-23",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "date": "2026-09-28",
     "tags": [
       "GitHub",
-      "Python"
+      "TypeScript"
     ],
     "hot": true,
     "id": 15
   },
   {
-    "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU",
-    "summary": "1829 stars | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/tobi/disktree",
-    "date": "2026-09-24",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "mexicat/pdoom-video - Code-rendered music video for \"I'm Upping My P(doom)\"",
-    "summary": "1789 stars | TypeScript | Code-rendered music video for \"I'm Upping My P(doom)\"",
+    "summary": "1988 stars | TypeScript | Code-rendered music video for \"I'm Upping My P(doom)\"",
     "source": "GitHub Trending",
     "url": "https://github.com/mexicat/pdoom-video",
     "date": "2026-09-24",
@@ -204,24 +191,37 @@
       "TypeScript"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "tobi/disktree - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU",
+    "summary": "1915 stars | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/tobi/disktree",
+    "date": "2026-09-24",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
     "id": 17
   },
   {
-    "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the",
-    "summary": "1648 stars | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "title": "Niko1221/Strata - Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Window",
+    "summary": "1833 stars | C++ | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
     "source": "GitHub Trending",
-    "url": "https://github.com/yetone/magpie",
-    "date": "2026-09-23",
+    "url": "https://github.com/Niko1221/Strata",
+    "date": "2026-09-24",
     "tags": [
       "GitHub",
-      "Go"
+      "C++"
     ],
     "hot": true,
     "id": 18
   },
   {
     "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to disco",
-    "summary": "1471 stars | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "summary": "1786 stars | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
     "source": "GitHub Trending",
     "url": "https://github.com/dzhng/jevgrep",
     "date": "2026-09-26",
@@ -233,14 +233,14 @@
     "id": 19
   },
   {
-    "title": "Niko1221/Strata - Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Window",
-    "summary": "1126 stars | C++ | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+    "summary": "1055 stars | Python | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
     "source": "GitHub Trending",
-    "url": "https://github.com/Niko1221/Strata",
-    "date": "2026-09-24",
+    "url": "https://github.com/firelex/jeff",
+    "date": "2026-09-28",
     "tags": [
       "GitHub",
-      "C++"
+      "Python"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,188 @@
     "id": 26
   },
   {
+    "title": "Pirating the Pirates",
+    "summary": "434 points | 231 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+    "date": "2026-09-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Sonnet 5.5",
+    "summary": "615 points | 420 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "date": "2026-09-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+    "summary": "306 points | 185 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.thisamericanlife.org/897/transcript",
+    "date": "2026-09-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "It's Time to Investigate the AI Labs",
+    "summary": "326 points | 124 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "date": "2026-09-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "summary": "135 points | 82 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://hn.watch/",
+    "date": "2026-09-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Cf: The Agentic CLI for the Cloudflare API",
+    "summary": "129 points | 56 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+    "date": "2026-09-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Destroy Any Website with Stickman",
+    "summary": "113 points | 28 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://destroy.spritefusion.com/",
+    "date": "2026-09-28",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Lattice",
+    "summary": "New product launch on Product Hunt: Lattice",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lattice-11",
+    "date": "2026-09-27",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "vantage.ai",
+    "summary": "New product launch on Product Hunt: vantage.ai",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vantage-ai-2",
+    "date": "2026-09-26",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "MCP Connectors by Databox",
+    "summary": "New product launch on Product Hunt: MCP Connectors by Databox",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/databox",
+    "date": "2026-09-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Zerg Router",
+    "summary": "New product launch on Product Hunt: Zerg Router",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/zerg-router",
+    "date": "2026-09-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Stash",
+    "summary": "New product launch on Product Hunt: Stash",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/stash-24",
+    "date": "2026-09-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Mochi",
+    "summary": "New product launch on Product Hunt: Mochi",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mochi-6",
+    "date": "2026-09-27",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Contrastive-LM/CLM - No description",
+    "summary": "2302 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Contrastive-LM/CLM",
+    "date": "2026-09-23",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "yetone/magpie - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the",
+    "summary": "1648 stars | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/yetone/magpie",
+    "date": "2026-09-23",
+    "tags": [
+      "GitHub",
+      "Go"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
     "title": "When did Google get so weird?",
     "summary": "817 points | 432 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 42
   },
   {
     "title": "Ember-1",
@@ -345,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
@@ -357,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 44
   },
   {
     "title": "Show HN: Panda, the world's first personal AI computer",
@@ -369,7 +551,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 45
   },
   {
     "title": "Flip Fluid on Flip Dots",
@@ -381,7 +563,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Clicks Communicator",
@@ -393,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 47
   },
   {
     "title": "Cuey",
@@ -405,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Harmony",
@@ -417,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "KiwiDesk",
@@ -429,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "GPT-6 Sol & Luna",
@@ -441,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Superhuman Go",
@@ -453,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "JohnHeibel/PDoomVideo - Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
@@ -466,7 +648,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 38
+    "id": 53
   },
   {
     "title": "mikehasa/golive-skill - Take your agent-built product live: hosting, database, domain, email, payments —",
@@ -479,7 +661,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 39
+    "id": 54
   },
   {
     "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
@@ -491,7 +673,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 55
   },
   {
     "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
@@ -503,7 +685,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 56
   },
   {
     "title": "Fifteen years later, the Apple Cards origin story",
@@ -515,7 +697,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
@@ -527,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 58
   },
   {
     "title": "Chit",
@@ -539,195 +721,13 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 44
+    "id": 59
   },
   {
     "title": "Hemory",
     "summary": "New product launch on Product Hunt: Hemory",
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/hemory",
-    "date": "2026-09-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Eclatira",
-    "summary": "New product launch on Product Hunt: Eclatira",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/eclatira",
-    "date": "2026-08-31",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Kleanly",
-    "summary": "New product launch on Product Hunt: Kleanly",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kleanly",
-    "date": "2026-09-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "SOUND",
-    "summary": "New product launch on Product Hunt: SOUND",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/sound",
-    "date": "2026-09-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Psst",
-    "summary": "New product launch on Product Hunt: Psst",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/psst-3",
-    "date": "2026-09-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "jev-chat/jev-chat-jarvis - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-    "summary": "6678 stars | Kotlin | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/jev-chat/jev-chat-jarvis",
-    "date": "2026-09-21",
-    "tags": [
-      "GitHub",
-      "Kotlin"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "unreallabsai/unreal-agent - Async-first agent harness",
-    "summary": "1969 stars | Go | Async-first agent harness",
-    "source": "GitHub Trending",
-    "url": "https://github.com/unreallabsai/unreal-agent",
-    "date": "2026-09-21",
-    "tags": [
-      "GitHub",
-      "Go"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-    "summary": "343 points | 100 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://ollaya.dev/",
-    "date": "2026-09-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Show HN: Jev Plays Pokémon Red",
-    "summary": "158 points | 68 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://jev-pokemon.vercel.app/",
-    "date": "2026-09-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Platform-independent SIMD in Go",
-    "summary": "363 points | 134 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://go.dev/blog/simd-experiment",
-    "date": "2026-09-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-    "summary": "313 points | 101 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/git-bug/git-bug",
-    "date": "2026-09-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Show HN: A game about fake news and memes",
-    "summary": "8 points | 3 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://unspin.app/",
-    "date": "2026-09-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-    "summary": "392 points | 704 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-    "date": "2026-09-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-    "summary": "11 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://hackeratlas.com/",
-    "date": "2026-09-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-    "summary": "8 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.gptbeyond.com/try?home=1",
-    "date": "2026-09-25",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "TourKit",
-    "summary": "New product launch on Product Hunt: TourKit",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tourkit",
     "date": "2026-09-22",
     "tags": [
       "Product Launch"
