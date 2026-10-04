@@ -1,10 +1,10 @@
 [
   {
-    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-    "summary": "526 points | 232 comments on Hacker News",
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "summary": "533 points | 304 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-    "date": "2026-10-01",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "date": "2026-10-03",
     "tags": [
       "HN"
     ],
@@ -12,95 +12,95 @@
     "id": 1
   },
   {
-    "title": "Mike Tomlin spent 12 years building a Minecraft city",
-    "summary": "308 points | 83 comments on Hacker News",
+    "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+    "summary": "37 points | 13 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-    "date": "2026-10-01",
+    "url": "https://thoreaubasic.com/",
+    "date": "2026-10-03",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 2
   },
   {
-    "title": "Apple Pass Designer",
-    "summary": "329 points | 222 comments on Hacker News",
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "summary": "80 points | 30 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://developer.apple.com/pass-designer/",
-    "date": "2026-10-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 3
-  },
-  {
-    "title": "Every SaaS business will become a harness around a model",
-    "summary": "104 points | 75 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+    "url": "https://pipod.dev/",
     "date": "2026-10-02",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 3
+  },
+  {
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "summary": "339 points | 208 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "date": "2026-10-03",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Show HN: Made an open-source Lego AI generator",
-    "summary": "73 points | 41 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/anteloc/ldraw-nova",
-    "date": "2026-10-02",
+    "title": "miso.com",
+    "summary": "New product launch on Product Hunt: miso.com",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/miso-com",
+    "date": "2026-09-18",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 5
   },
   {
-    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "summary": "209 points | 68 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://stillwet.art/",
-    "date": "2026-10-02",
+    "title": "Thanor AI",
+    "summary": "New product launch on Product Hunt: Thanor AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/thanor-ai",
+    "date": "2026-09-30",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
-    "summary": "47 points | 11 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-    "date": "2026-10-02",
+    "title": "bmux",
+    "summary": "New product launch on Product Hunt: bmux",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/bmux",
+    "date": "2026-10-01",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
-    "summary": "71 points | 8 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/kitao/pyxel",
-    "date": "2026-10-01",
+    "title": "MacCam",
+    "summary": "New product launch on Product Hunt: MacCam",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/maccam",
+    "date": "2026-09-25",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 8
   },
   {
-    "title": "Teachoo",
-    "summary": "New product launch on Product Hunt: Teachoo",
+    "title": "Reassign",
+    "summary": "New product launch on Product Hunt: Reassign",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/teachoo-2",
-    "date": "2026-09-15",
+    "url": "https://www.producthunt.com/products/reassign",
+    "date": "2026-10-02",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Gauth Unlimited Digital Canvas ",
-    "summary": "New product launch on Product Hunt: Gauth Unlimited Digital Canvas ",
+    "title": "Muse Gadgets",
+    "summary": "New product launch on Product Hunt: Muse Gadgets",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gauth-ai-course",
-    "date": "2026-09-29",
+    "url": "https://www.producthunt.com/products/muse-22",
+    "date": "2026-10-03",
     "tags": [
       "Product Launch"
     ],
@@ -120,56 +120,8 @@
     "id": 10
   },
   {
-    "title": "Clef",
-    "summary": "New product launch on Product Hunt: Clef",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cloudflare-clef",
-    "date": "2026-10-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 11
-  },
-  {
-    "title": "Earlyn",
-    "summary": "New product launch on Product Hunt: Earlyn",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/earlyn",
-    "date": "2026-10-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 12
-  },
-  {
-    "title": "GitSync",
-    "summary": "New product launch on Product Hunt: GitSync",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gitsync",
-    "date": "2026-10-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Codync",
-    "summary": "New product launch on Product Hunt: Codync",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/codync",
-    "date": "2026-10-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "summary": "4985 stars | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "summary": "5456 stars | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
     "source": "GitHub Trending",
     "url": "https://github.com/KKKKhazix/AIHOT",
     "date": "2026-09-28",
@@ -178,37 +130,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 15
-  },
-  {
-    "title": "Louis-CFM/coucou - A tiny friend that lives in your notch (macOS) or at the top of your screen (Win",
-    "summary": "2999 stars | Swift | A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigr",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Louis-CFM/coucou",
-    "date": "2026-09-27",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does no",
-    "summary": "2505 stars | Python | Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/feder-cr/dots",
-    "date": "2026-09-29",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 11
   },
   {
     "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod",
-    "summary": "2169 stars | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testi",
+    "summary": "2653 stars | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testi",
     "source": "GitHub Trending",
     "url": "https://github.com/rehan-remade/universal-modder",
     "date": "2026-09-30",
@@ -217,11 +143,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
+    "id": 12
   },
   {
     "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
-    "summary": "1522 stars | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack.",
+    "summary": "2585 stars | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack.",
     "source": "GitHub Trending",
     "url": "https://github.com/CopilotKit/OpenDots",
     "date": "2026-09-29",
@@ -230,20 +156,46 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 19
+    "id": 13
   },
   {
-    "title": "yihui-dev/awesome-opus5-5-videos - A growing collection of viral videos made with Claude Opus 5.5 and the prompts b",
-    "summary": "1435 stars | Unknown | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+    "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does no",
+    "summary": "2575 stars | Python | Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
     "source": "GitHub Trending",
-    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
-    "date": "2026-09-27",
+    "url": "https://github.com/feder-cr/dots",
+    "date": "2026-09-29",
     "tags": [
       "GitHub",
-      "Code"
+      "Python"
     ],
     "hot": true,
-    "id": 20
+    "id": 14
+  },
+  {
+    "title": "wy51ai/floorplan-3d - No description",
+    "summary": "1363 stars | HTML | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/wy51ai/floorplan-3d",
+    "date": "2026-09-29",
+    "tags": [
+      "GitHub",
+      "HTML"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
+    "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks betwe",
+    "summary": "1351 stars | Python | Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hard",
+    "source": "GitHub Trending",
+    "url": "https://github.com/firelex/jeff",
+    "date": "2026-09-28",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 16
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +208,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 17
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +221,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 18
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +234,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 19
   },
   {
     "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
@@ -295,7 +247,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 20
   },
   {
     "title": "The Pulse: a new trend of CPU shortages",
@@ -308,7 +260,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 21
   },
   {
     "title": "The Pulse: tech companies move to open AI models",
@@ -321,7 +273,201 @@
       "Career"
     ],
     "hot": false,
+    "id": 22
+  },
+  {
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "summary": "526 points | 232 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "date": "2026-10-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 23
+  },
+  {
+    "title": "Mike Tomlin spent 12 years building a Minecraft city",
+    "summary": "308 points | 83 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+    "date": "2026-10-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 24
+  },
+  {
+    "title": "Apple Pass Designer",
+    "summary": "329 points | 222 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://developer.apple.com/pass-designer/",
+    "date": "2026-10-02",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Every SaaS business will become a harness around a model",
+    "summary": "104 points | 75 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+    "date": "2026-10-02",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 26
+  },
+  {
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "summary": "73 points | 41 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "date": "2026-10-02",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "summary": "209 points | 68 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://stillwet.art/",
+    "date": "2026-10-02",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+    "summary": "47 points | 11 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+    "date": "2026-10-02",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+    "summary": "71 points | 8 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/kitao/pyxel",
+    "date": "2026-10-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Teachoo",
+    "summary": "New product launch on Product Hunt: Teachoo",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/teachoo-2",
+    "date": "2026-09-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Gauth Unlimited Digital Canvas ",
+    "summary": "New product launch on Product Hunt: Gauth Unlimited Digital Canvas ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/gauth-ai-course",
+    "date": "2026-09-29",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Clef",
+    "summary": "New product launch on Product Hunt: Clef",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cloudflare-clef",
+    "date": "2026-10-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Earlyn",
+    "summary": "New product launch on Product Hunt: Earlyn",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/earlyn",
+    "date": "2026-10-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "GitSync",
+    "summary": "New product launch on Product Hunt: GitSync",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/gitsync",
+    "date": "2026-10-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Codync",
+    "summary": "New product launch on Product Hunt: Codync",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/codync",
+    "date": "2026-10-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Louis-CFM/coucou - A tiny friend that lives in your notch (macOS) or at the top of your screen (Win",
+    "summary": "2999 stars | Swift | A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigr",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "date": "2026-09-27",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 37
+  },
+  {
+    "title": "yihui-dev/awesome-opus5-5-videos - A growing collection of viral videos made with Claude Opus 5.5 and the prompts b",
+    "summary": "1435 stars | Unknown | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+    "date": "2026-09-27",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 38
   },
   {
     "title": "Pi 1.0",
@@ -333,7 +479,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 39
   },
   {
     "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
@@ -345,7 +491,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 40
   },
   {
     "title": "StreetComplete on iOS is now in public beta",
@@ -357,7 +503,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 41
   },
   {
     "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
@@ -369,7 +515,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 42
   },
   {
     "title": "Scape",
@@ -381,7 +527,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 43
   },
   {
     "title": "DSH Desktop",
@@ -393,7 +539,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 44
   },
   {
     "title": "Helo",
@@ -405,7 +551,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 45
   },
   {
     "title": "AuthMonster",
@@ -417,7 +563,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 46
   },
   {
     "title": "UTTER IN",
@@ -429,7 +575,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 47
   },
   {
     "title": "ChainSnip",
@@ -441,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 48
   },
   {
     "title": "dzhng/jevgrep - Find code by asking what it does. A CLI for coding agents that uses Jev to disco",
@@ -454,7 +600,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 37
+    "id": 49
   },
   {
     "title": "kaankiziltug/logo-design-skill - A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age",
@@ -467,7 +613,7 @@
       "HTML"
     ],
     "hot": true,
-    "id": 38
+    "id": 50
   },
   {
     "title": "Gemini 4 Argon",
@@ -479,7 +625,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 39
+    "id": 51
   },
   {
     "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
@@ -491,7 +637,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 40
+    "id": 52
   },
   {
     "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
@@ -503,7 +649,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 53
   },
   {
     "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
@@ -515,7 +661,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 54
   },
   {
     "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
@@ -527,7 +673,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
+    "id": 55
   },
   {
     "title": "Squint",
@@ -539,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 44
+    "id": 56
   },
   {
     "title": "Macaly Cloud",
@@ -551,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 45
+    "id": 57
   },
   {
     "title": "NotchDodo",
@@ -563,7 +709,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 46
+    "id": 58
   },
   {
     "title": "Speek",
@@ -575,7 +721,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 47
+    "id": 59
   },
   {
     "title": "Datastory",
@@ -583,152 +729,6 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/datastory-data-visualization-platform",
     "date": "2026-09-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "m’kay",
-    "summary": "New product launch on Product Hunt: m’kay",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/m-kay",
-    "date": "2026-09-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "firelex/jeff - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
-    "summary": "1197 stars | Python | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
-    "source": "GitHub Trending",
-    "url": "https://github.com/firelex/jeff",
-    "date": "2026-09-28",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
-    "summary": "An in-depth report by Reuters details how Meta’s leadership decided to slash team sizes by 60%. Zuckerberg changed his mind, and now the company is stuck with low morale and culture turned mercenary.",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/",
-    "date": "2026-09-03",
-    "tags": [
-      "Tech",
-      "Career"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "America.gov",
-    "summary": "379 points | 306 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://america.gov/",
-    "date": "2026-09-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-    "summary": "123 points | 32 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://space.bl2.net/",
-    "date": "2026-09-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-    "summary": "807 points | 745 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-    "date": "2026-09-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "How Delhi cut electricity loss from 50 to 5 percent",
-    "summary": "447 points | 261 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-    "date": "2026-09-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Show HN: A working 3D model of an Enigma machine",
-    "summary": "36 points | 3 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://enigma.design",
-    "date": "2026-09-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Show HN: NSL – WSL for Linux",
-    "summary": "88 points | 64 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://frostyard.github.io/nsl/",
-    "date": "2026-09-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Everybody’s home. No one’s coming over",
-    "summary": "739 points | 671 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-    "date": "2026-09-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Dots: Always-on agents",
-    "summary": "471 points | 357 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/introducing-dots/",
-    "date": "2026-09-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "LUCI Desktop",
-    "summary": "New product launch on Product Hunt: LUCI Desktop",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/luci-desktop",
-    "date": "2026-09-20",
     "tags": [
       "Product Launch"
     ],
