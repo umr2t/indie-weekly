@@ -1,10 +1,10 @@
 [
   {
-    "title": "Beam: Reflection's 501B open-weight model",
-    "summary": "347 points | 104 comments on Hacker News",
+    "title": "Sharing AI progress in mathematics",
+    "summary": "501 points | 415 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://reflection.ai/blog/introducing-beam",
-    "date": "2026-10-05",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "date": "2026-10-06",
     "tags": [
       "HN"
     ],
@@ -12,35 +12,35 @@
     "id": 1
   },
   {
-    "title": "Example.com just launched the biggest redesign in decades",
-    "summary": "115 points | 69 comments on Hacker News",
+    "title": "Mistral Large 4",
+    "summary": "1617 points | 972 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-    "date": "2026-10-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 2
-  },
-  {
-    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "summary": "325 points | 222 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-    "date": "2026-10-05",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "date": "2026-10-06",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 2
+  },
+  {
+    "title": "Decisions API is in public beta",
+    "summary": "167 points | 67 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://developers.openai.com/api/docs/guides/decisions",
+    "date": "2026-10-06",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
     "id": 3
   },
   {
-    "title": "Web Search API",
-    "summary": "498 points | 229 comments on Hacker News",
+    "title": "Nobel Prize in Physics 2026: Francis Halzen",
+    "summary": "535 points | 184 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-    "date": "2026-10-05",
+    "url": "https://www.nobelprize.org/prizes/physics/2026/",
+    "date": "2026-10-06",
     "tags": [
       "HN"
     ],
@@ -48,47 +48,47 @@
     "id": 4
   },
   {
-    "title": "Anthropic reported diary entry to police, woman faces felony charge",
-    "summary": "589 points | 484 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "title": "Customer Service AI for Etsy",
+    "summary": "New product launch on Product Hunt: Customer Service AI for Etsy",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
     "date": "2026-10-05",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-    "summary": "35 points | 4 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/dfd-tud/deda",
-    "date": "2026-10-04",
+    "title": "Ari Helper 7",
+    "summary": "New product launch on Product Hunt: Ari Helper 7",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ari-helper",
+    "date": "2026-09-22",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 6
   },
   {
-    "title": "Show HN: Photoc – Command-line tools for photographers",
-    "summary": "5 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/ahmetomerv/photoc",
-    "date": "2026-10-03",
+    "title": "Patchcord",
+    "summary": "New product launch on Product Hunt: Patchcord",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/patchcord-2",
+    "date": "2026-10-04",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
     "hot": false,
     "id": 7
   },
   {
-    "title": "Spira Maxima",
-    "summary": "New product launch on Product Hunt: Spira Maxima",
+    "title": "The Sentient World",
+    "summary": "New product launch on Product Hunt: The Sentient World",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/spira-ai",
-    "date": "2026-10-05",
+    "url": "https://www.producthunt.com/products/the-sentient-world",
+    "date": "2026-10-04",
     "tags": [
       "Product Launch"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Unscary AI",
-    "summary": "New product launch on Product Hunt: Unscary AI",
+    "title": "Aster by AsterWise",
+    "summary": "New product launch on Product Hunt: Aster by AsterWise",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/unscary-ai",
-    "date": "2026-10-03",
+    "url": "https://www.producthunt.com/products/aster-by-asterwise",
+    "date": "2026-10-02",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Pilot5 Legal",
-    "summary": "New product launch on Product Hunt: Pilot5 Legal",
+    "title": "Lecta",
+    "summary": "New product launch on Product Hunt: Lecta",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pilot5-ai",
-    "date": "2026-10-04",
+    "url": "https://www.producthunt.com/products/lecta",
+    "date": "2026-10-05",
     "tags": [
       "Product Launch"
     ],
@@ -120,83 +120,21 @@
     "id": 10
   },
   {
-    "title": "Web Search API",
-    "summary": "New product launch on Product Hunt: Web Search API",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cloudflare",
-    "date": "2026-10-04",
+    "title": "openai/math - No description",
+    "summary": "3035 stars | Lean | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/openai/math",
+    "date": "2026-10-06",
     "tags": [
-      "Product Launch"
+      "GitHub",
+      "Lean"
     ],
-    "hot": false,
+    "hot": true,
     "id": 11
   },
   {
-    "title": "DailyHelm",
-    "summary": "New product launch on Product Hunt: DailyHelm",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dailyhelm",
-    "date": "2026-09-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 12
-  },
-  {
-    "title": "HyperFrames Studio (Desktop)",
-    "summary": "New product launch on Product Hunt: HyperFrames Studio (Desktop)",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/heygen",
-    "date": "2026-10-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod",
-    "summary": "3886 stars | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testi",
-    "source": "GitHub Trending",
-    "url": "https://github.com/rehan-remade/universal-modder",
-    "date": "2026-09-30",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 14
-  },
-  {
-    "title": "storytold/photocraft - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-    "summary": "2188 stars | Rust | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-    "source": "GitHub Trending",
-    "url": "https://github.com/storytold/photocraft",
-    "date": "2026-09-30",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
-    "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese",
-    "summary": "1528 stars | Python | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-    "source": "GitHub Trending",
-    "url": "https://github.com/nanaism/yomiyasu",
-    "date": "2026-09-30",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page",
-    "summary": "1509 stars | JavaScript | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "summary": "1806 stars | JavaScript | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
     "source": "GitHub Trending",
     "url": "https://github.com/QingYunA/answer-me-with-html",
     "date": "2026-10-02",
@@ -205,11 +143,11 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 17
+    "id": 12
   },
   {
     "title": "kargulstudio/sales-crm - No description",
-    "summary": "1475 stars | TypeScript | ",
+    "summary": "1590 stars | TypeScript | ",
     "source": "GitHub Trending",
     "url": "https://github.com/kargulstudio/sales-crm",
     "date": "2026-10-04",
@@ -218,11 +156,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 18
+    "id": 13
   },
   {
     "title": "facebookincubator/muse-gadget-sdk - Open source SDK to build Muse gadgets",
-    "summary": "1448 stars | C | Open source SDK to build Muse gadgets",
+    "summary": "1564 stars | C | Open source SDK to build Muse gadgets",
     "source": "GitHub Trending",
     "url": "https://github.com/facebookincubator/muse-gadget-sdk",
     "date": "2026-10-02",
@@ -231,7 +169,33 @@
       "C"
     ],
     "hot": true,
-    "id": 19
+    "id": 14
+  },
+  {
+    "title": "deadinside28/bloodborne_pc - No description",
+    "summary": "1287 stars | C++ | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/deadinside28/bloodborne_pc",
+    "date": "2026-10-01",
+    "tags": [
+      "GitHub",
+      "C++"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
+    "title": "storytold/effectcraft - No description",
+    "summary": "882 stars | Rust | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/storytold/effectcraft",
+    "date": "2026-10-01",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 16
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -244,7 +208,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 20
+    "id": 17
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -257,7 +221,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 18
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -270,7 +234,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 19
   },
   {
     "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
@@ -283,7 +247,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 23
+    "id": 20
   },
   {
     "title": "The Pulse: a new trend of CPU shortages",
@@ -296,7 +260,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 21
   },
   {
     "title": "The Pulse: tech companies move to open AI models",
@@ -309,7 +273,202 @@
       "Career"
     ],
     "hot": false,
+    "id": 22
+  },
+  {
+    "title": "Beam: Reflection's 501B open-weight model",
+    "summary": "347 points | 104 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "date": "2026-10-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 23
+  },
+  {
+    "title": "Example.com just launched the biggest redesign in decades",
+    "summary": "115 points | 69 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "date": "2026-10-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "summary": "325 points | 222 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "date": "2026-10-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 25
+  },
+  {
+    "title": "Web Search API",
+    "summary": "498 points | 229 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "date": "2026-10-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 26
+  },
+  {
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "summary": "589 points | 484 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "date": "2026-10-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+    "summary": "35 points | 4 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/dfd-tud/deda",
+    "date": "2026-10-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "Show HN: Photoc – Command-line tools for photographers",
+    "summary": "5 points | 2 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/ahmetomerv/photoc",
+    "date": "2026-10-03",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Spira Maxima",
+    "summary": "New product launch on Product Hunt: Spira Maxima",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/spira-ai",
+    "date": "2026-10-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Unscary AI",
+    "summary": "New product launch on Product Hunt: Unscary AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/unscary-ai",
+    "date": "2026-10-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Pilot5 Legal",
+    "summary": "New product launch on Product Hunt: Pilot5 Legal",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pilot5-ai",
+    "date": "2026-10-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Web Search API",
+    "summary": "New product launch on Product Hunt: Web Search API",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cloudflare",
+    "date": "2026-10-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "DailyHelm",
+    "summary": "New product launch on Product Hunt: DailyHelm",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/dailyhelm",
+    "date": "2026-09-29",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "HyperFrames Studio (Desktop)",
+    "summary": "New product launch on Product Hunt: HyperFrames Studio (Desktop)",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/heygen",
+    "date": "2026-10-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "rehan-remade/universal-modder - Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod",
+    "summary": "3886 stars | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testi",
+    "source": "GitHub Trending",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "date": "2026-09-30",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 36
+  },
+  {
+    "title": "storytold/photocraft - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+    "summary": "2188 stars | Rust | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+    "source": "GitHub Trending",
+    "url": "https://github.com/storytold/photocraft",
+    "date": "2026-09-30",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 37
+  },
+  {
+    "title": "nanaism/yomiyasu - AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese",
+    "summary": "1528 stars | Python | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "source": "GitHub Trending",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "date": "2026-09-30",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 38
   },
   {
     "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -321,7 +480,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 39
   },
   {
     "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
@@ -333,7 +492,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 40
   },
   {
     "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
@@ -345,7 +504,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 41
   },
   {
     "title": "Show HN: AI search for every photo and every frame of video on macOS",
@@ -357,7 +516,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 42
   },
   {
     "title": "Treachery in the Rodin Museum 3D scan verdict",
@@ -369,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 43
   },
   {
     "title": "DocsAlot MCP Connector",
@@ -381,7 +540,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 31
+    "id": 44
   },
   {
     "title": "TinyFolder",
@@ -393,7 +552,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 45
   },
   {
     "title": "Gemini 4 Argon",
@@ -405,7 +564,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 46
   },
   {
     "title": "Rival Workshop",
@@ -417,7 +576,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 47
   },
   {
     "title": "Sente",
@@ -429,7 +588,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 48
   },
   {
     "title": "LaunchReel",
@@ -441,7 +600,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 49
   },
   {
     "title": "CopilotKit/OpenDots - Your always-on AI coworkers that move between text, calls, and Slack.",
@@ -454,7 +613,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 37
+    "id": 50
   },
   {
     "title": "feder-cr/dots - Open-source dots for the web: an AI agent with its own browser, one that does no",
@@ -467,7 +626,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 38
+    "id": 51
   },
   {
     "title": "wy51ai/floorplan-3d - No description",
@@ -480,7 +639,7 @@
       "HTML"
     ],
     "hot": true,
-    "id": 39
+    "id": 52
   },
   {
     "title": "Kolibri: A Sovereign Open-Weight Model",
@@ -492,7 +651,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 40
+    "id": 53
   },
   {
     "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
@@ -504,7 +663,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 41
+    "id": 54
   },
   {
     "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
@@ -516,7 +675,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 42
+    "id": 55
   },
   {
     "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
@@ -528,7 +687,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 56
   },
   {
     "title": "miso.com",
@@ -540,7 +699,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 44
+    "id": 57
   },
   {
     "title": "Thanor AI",
@@ -552,7 +711,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 45
+    "id": 58
   },
   {
     "title": "bmux",
@@ -564,7 +723,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 46
+    "id": 59
   },
   {
     "title": "MacCam",
@@ -572,164 +731,6 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/maccam",
     "date": "2026-09-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Reassign",
-    "summary": "New product launch on Product Hunt: Reassign",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/reassign",
-    "date": "2026-10-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Muse Gadgets",
-    "summary": "New product launch on Product Hunt: Muse Gadgets",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/muse-22",
-    "date": "2026-10-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "KKKKhazix/AIHOT - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "summary": "5456 stars | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/KKKKhazix/AIHOT",
-    "date": "2026-09-28",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "firelex/jeff - Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks betwe",
-    "summary": "1351 stars | Python | Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hard",
-    "source": "GitHub Trending",
-    "url": "https://github.com/firelex/jeff",
-    "date": "2026-09-28",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-    "summary": "526 points | 232 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-    "date": "2026-10-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Mike Tomlin spent 12 years building a Minecraft city",
-    "summary": "308 points | 83 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-    "date": "2026-10-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Apple Pass Designer",
-    "summary": "329 points | 222 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://developer.apple.com/pass-designer/",
-    "date": "2026-10-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Every SaaS business will become a harness around a model",
-    "summary": "104 points | 75 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-    "date": "2026-10-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Show HN: Made an open-source Lego AI generator",
-    "summary": "73 points | 41 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/anteloc/ldraw-nova",
-    "date": "2026-10-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "summary": "209 points | 68 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://stillwet.art/",
-    "date": "2026-10-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
-    "summary": "47 points | 11 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-    "date": "2026-10-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
-    "summary": "71 points | 8 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/kitao/pyxel",
-    "date": "2026-10-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 59
-  },
-  {
-    "title": "Teachoo",
-    "summary": "New product launch on Product Hunt: Teachoo",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/teachoo-2",
-    "date": "2026-09-15",
     "tags": [
       "Product Launch"
     ],
