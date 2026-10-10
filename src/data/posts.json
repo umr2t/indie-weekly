@@ -1,10 +1,10 @@
 [
   {
-    "title": "Whistle: Speech to Text in 16.9 MB",
-    "summary": "597 points | 132 comments on Hacker News",
+    "title": "Cloudflare acquires Deno",
+    "summary": "1094 points | 569 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://cactuscompute.com/blog/whistle",
-    "date": "2026-10-08",
+    "url": "https://deno.com/blog/cloudflare",
+    "date": "2026-10-09",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Theranos.world",
-    "summary": "322 points | 123 comments on Hacker News",
+    "title": "Triple-A Minesweeper",
+    "summary": "712 points | 136 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theranos.world/",
-    "date": "2026-10-08",
+    "url": "https://minesweeper.mikelacher.com/",
+    "date": "2026-10-09",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-    "summary": "473 points | 300 comments on Hacker News",
+    "title": "Our $445M Series D",
+    "summary": "606 points | 272 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-    "date": "2026-10-07",
+    "url": "https://oxide.computer/blog/our-445m-series-d",
+    "date": "2026-10-09",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-    "summary": "449 points | 75 comments on Hacker News",
+    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+    "summary": "226 points | 29 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-    "date": "2026-10-07",
+    "url": "https://carrierexplode.com/",
+    "date": "2026-10-09",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "summary": "472 points | 406 comments on Hacker News",
+    "title": "Sorry, I'm in a meeting",
+    "summary": "793 points | 244 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-    "date": "2026-10-08",
+    "url": "https://iminafleeting.com/",
+    "date": "2026-10-09",
     "tags": [
       "HN"
     ],
@@ -60,22 +60,22 @@
     "id": 5
   },
   {
-    "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
-    "summary": "32 points | 4 comments on Hacker News",
+    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+    "summary": "455 points | 248 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://svg-spark.vercel.app/",
-    "date": "2026-10-08",
+    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+    "date": "2026-10-09",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-    "summary": "23 points | 3 comments on Hacker News",
+    "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+    "summary": "74 points | 29 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/edrisranjbar/lifeos",
+    "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
     "date": "2026-10-09",
     "tags": [
       "HN"
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-    "summary": "124 points | 21 comments on Hacker News",
+    "title": "Has the Autonomous Trucking Revolution Arrived?",
+    "summary": "10 points | 7 comments on Hacker News",
     "source": "Hacker News",
-    "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-    "date": "2026-10-08",
+    "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+    "date": "2026-10-09",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "OpenSwarm",
-    "summary": "New product launch on Product Hunt: OpenSwarm",
+    "title": "Playground by Google Labs",
+    "summary": "New product launch on Product Hunt: Playground by Google Labs",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openswarm-3",
-    "date": "2026-10-05",
+    "url": "https://www.producthunt.com/products/google-labs",
+    "date": "2026-10-08",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Typeling",
-    "summary": "New product launch on Product Hunt: Typeling",
+    "title": "Busabase",
+    "summary": "New product launch on Product Hunt: Busabase",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/typeling",
-    "date": "2026-10-07",
+    "url": "https://www.producthunt.com/products/busabase",
+    "date": "2026-07-06",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "OpenSEO",
-    "summary": "New product launch on Product Hunt: OpenSEO",
+    "title": "Gemini Agent for Google Cloud",
+    "summary": "New product launch on Product Hunt: Gemini Agent for Google Cloud",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openseo",
-    "date": "2026-10-07",
+    "url": "https://www.producthunt.com/products/google",
+    "date": "2026-10-08",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Ahem! Unmissable Meeting Reminders",
-    "summary": "New product launch on Product Hunt: Ahem! Unmissable Meeting Reminders",
+    "title": "Zernio",
+    "summary": "New product launch on Product Hunt: Zernio",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ahem-calendar-overlay",
-    "date": "2026-10-05",
+    "url": "https://www.producthunt.com/products/zernio",
+    "date": "2026-10-07",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "aegis",
-    "summary": "New product launch on Product Hunt: aegis",
+    "title": "Pine Computer",
+    "summary": "New product launch on Product Hunt: Pine Computer",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/aegis-14",
-    "date": "2026-10-07",
+    "url": "https://www.producthunt.com/products/pine-computer",
+    "date": "2026-10-08",
     "tags": [
       "Product Launch"
     ],
@@ -156,10 +156,10 @@
     "id": 13
   },
   {
-    "title": "pmtui",
-    "summary": "New product launch on Product Hunt: pmtui",
+    "title": "Thravik",
+    "summary": "New product launch on Product Hunt: Thravik",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pmtui",
+    "url": "https://www.producthunt.com/products/thravik",
     "date": "2026-10-08",
     "tags": [
       "Product Launch"
@@ -169,7 +169,7 @@
   },
   {
     "title": "openai/math - No description",
-    "summary": "12264 stars | Lean | ",
+    "summary": "13155 stars | Lean | ",
     "source": "GitHub Trending",
     "url": "https://github.com/openai/math",
     "date": "2026-10-06",
@@ -182,7 +182,7 @@
   },
   {
     "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-    "summary": "2530 stars | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+    "summary": "2924 stars | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
     "source": "GitHub Trending",
     "url": "https://github.com/alchaincyf/huashu-art-motion",
     "date": "2026-10-06",
@@ -194,23 +194,23 @@
     "id": 16
   },
   {
-    "title": "kargulstudio/sales-crm - No description",
-    "summary": "1659 stars | TypeScript | ",
+    "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+    "summary": "2308 stars | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
     "source": "GitHub Trending",
-    "url": "https://github.com/kargulstudio/sales-crm",
-    "date": "2026-10-04",
+    "url": "https://github.com/mhtsec/ARTEX",
+    "date": "2026-10-08",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "Go"
     ],
     "hot": true,
     "id": 17
   },
   {
-    "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore)",
-    "summary": "1212 stars | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+    "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "summary": "1965 stars | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
     "source": "GitHub Trending",
-    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "url": "https://github.com/storytold/wordcraft",
     "date": "2026-10-07",
     "tags": [
       "GitHub",
@@ -220,27 +220,27 @@
     "id": 18
   },
   {
-    "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, t",
-    "summary": "1117 stars | Python | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore)",
+    "summary": "1929 stars | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
     "source": "GitHub Trending",
-    "url": "https://github.com/Jakeschincariol/replica-skill",
-    "date": "2026-10-03",
+    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "date": "2026-10-07",
     "tags": [
       "GitHub",
-      "Python"
+      "Rust"
     ],
     "hot": true,
     "id": 19
   },
   {
-    "title": "alejandrobujan/tendedero - Screenshots, hung out to dry. A tiny native macOS app that hangs every screensho",
-    "summary": "1046 stars | Swift | Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+    "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+    "summary": "1917 stars | Python | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
     "source": "GitHub Trending",
-    "url": "https://github.com/alejandrobujan/tendedero",
-    "date": "2026-10-07",
+    "url": "https://github.com/zhongerxin/iPhone-use",
+    "date": "2026-10-06",
     "tags": [
       "GitHub",
-      "Swift"
+      "Python"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,213 @@
     "id": 26
   },
   {
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "summary": "597 points | 132 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "date": "2026-10-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Theranos.world",
+    "summary": "322 points | 123 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theranos.world/",
+    "date": "2026-10-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "summary": "473 points | 300 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+    "date": "2026-10-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+    "summary": "449 points | 75 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+    "date": "2026-10-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "summary": "472 points | 406 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+    "date": "2026-10-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+    "summary": "32 points | 4 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://svg-spark.vercel.app/",
+    "date": "2026-10-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+    "summary": "23 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/edrisranjbar/lifeos",
+    "date": "2026-10-09",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+    "summary": "124 points | 21 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+    "date": "2026-10-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "OpenSwarm",
+    "summary": "New product launch on Product Hunt: OpenSwarm",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openswarm-3",
+    "date": "2026-10-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Typeling",
+    "summary": "New product launch on Product Hunt: Typeling",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/typeling",
+    "date": "2026-10-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "OpenSEO",
+    "summary": "New product launch on Product Hunt: OpenSEO",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openseo",
+    "date": "2026-10-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Ahem! Unmissable Meeting Reminders",
+    "summary": "New product launch on Product Hunt: Ahem! Unmissable Meeting Reminders",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ahem-calendar-overlay",
+    "date": "2026-10-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "aegis",
+    "summary": "New product launch on Product Hunt: aegis",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/aegis-14",
+    "date": "2026-10-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "pmtui",
+    "summary": "New product launch on Product Hunt: pmtui",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pmtui",
+    "date": "2026-10-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "kargulstudio/sales-crm - No description",
+    "summary": "1659 stars | TypeScript | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/kargulstudio/sales-crm",
+    "date": "2026-10-04",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "Jakeschincariol/replica-skill - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, t",
+    "summary": "1117 stars | Python | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Jakeschincariol/replica-skill",
+    "date": "2026-10-03",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "alejandrobujan/tendedero - Screenshots, hung out to dry. A tiny native macOS app that hangs every screensho",
+    "summary": "1046 stars | Swift | Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/alejandrobujan/tendedero",
+    "date": "2026-10-07",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
     "title": "Claude Haiku 5.5",
     "summary": "723 points | 366 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Margaret Hamilton has died",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 46
   },
   {
     "title": "GPT‑6 and Intelligent UI for everyone",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 47
   },
   {
     "title": "Shipping JPEG XL in Chrome",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Sharing AI progress in mathematics",
@@ -393,7 +600,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Animated ASCII Art for Web Pages",
@@ -405,7 +612,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 50
   },
   {
     "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
@@ -417,7 +624,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 51
   },
   {
     "title": "Pegasus 1.6 by TwelveLabs",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Introducing Video Editor in Manus 2.0",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Supademo AI Demo Agent",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "Ownfeed",
@@ -465,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "Featherweight Dictation",
@@ -477,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "Reika",
@@ -489,7 +696,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "QingYunA/answer-me-with-html - Answer me with HTML — an agent skill that answers hard questions with a one-page",
@@ -502,7 +709,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "facebookincubator/muse-gadget-sdk - Open source SDK to build Muse gadgets",
@@ -515,7 +722,7 @@
       "C"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "mizorewww/x_gift_bot - X Premium gift CLI and redemption site",
@@ -526,213 +733,6 @@
     "tags": [
       "GitHub",
       "Go"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "The Pulse: tech companies move to open AI models",
-    "summary": "Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.",
-    "source": "Pragmatic Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/",
-    "date": "2026-09-10",
-    "tags": [
-      "Tech",
-      "Career"
-    ],
-    "hot": false,
-    "id": 44
-  },
-  {
-    "title": "Mistral Large 4",
-    "summary": "1617 points | 972 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mistral.ai/news/mistral-large-4/\\",
-    "date": "2026-10-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Decisions API is in public beta",
-    "summary": "167 points | 67 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://developers.openai.com/api/docs/guides/decisions",
-    "date": "2026-10-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Nobel Prize in Physics 2026: Francis Halzen",
-    "summary": "535 points | 184 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.nobelprize.org/prizes/physics/2026/",
-    "date": "2026-10-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Customer Service AI for Etsy",
-    "summary": "New product launch on Product Hunt: Customer Service AI for Etsy",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
-    "date": "2026-10-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Ari Helper 7",
-    "summary": "New product launch on Product Hunt: Ari Helper 7",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ari-helper",
-    "date": "2026-09-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Patchcord",
-    "summary": "New product launch on Product Hunt: Patchcord",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/patchcord-2",
-    "date": "2026-10-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "The Sentient World",
-    "summary": "New product launch on Product Hunt: The Sentient World",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/the-sentient-world",
-    "date": "2026-10-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Aster by AsterWise",
-    "summary": "New product launch on Product Hunt: Aster by AsterWise",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/aster-by-asterwise",
-    "date": "2026-10-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Lecta",
-    "summary": "New product launch on Product Hunt: Lecta",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lecta",
-    "date": "2026-10-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "deadinside28/bloodborne_pc - No description",
-    "summary": "1287 stars | C++ | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/deadinside28/bloodborne_pc",
-    "date": "2026-10-01",
-    "tags": [
-      "GitHub",
-      "C++"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "storytold/effectcraft - No description",
-    "summary": "882 stars | Rust | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/storytold/effectcraft",
-    "date": "2026-10-01",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Beam: Reflection's 501B open-weight model",
-    "summary": "347 points | 104 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://reflection.ai/blog/introducing-beam",
-    "date": "2026-10-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Example.com just launched the biggest redesign in decades",
-    "summary": "115 points | 69 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-    "date": "2026-10-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "summary": "325 points | 222 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-    "date": "2026-10-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Web Search API",
-    "summary": "498 points | 229 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-    "date": "2026-10-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Anthropic reported diary entry to police, woman faces felony charge",
-    "summary": "589 points | 484 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-    "date": "2026-10-05",
-    "tags": [
-      "HN"
     ],
     "hot": true,
     "id": 60
