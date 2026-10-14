@@ -1,10 +1,10 @@
 [
   {
-    "title": "GLM-Legal",
-    "summary": "476 points | 274 comments on Hacker News",
+    "title": "Gemini 4 Argon",
+    "summary": "1041 points | 766 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://z.ai/blog/glm-legal",
-    "date": "2026-10-12",
+    "url": "https://deepmind.google/models/gemini/",
+    "date": "2026-10-13",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "A Modern Web App in C",
-    "summary": "444 points | 178 comments on Hacker News",
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "summary": "298 points | 90 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-    "date": "2026-10-12",
+    "url": "https://guitoro.com/",
+    "date": "2026-10-13",
     "tags": [
       "HN"
     ],
@@ -24,10 +24,10 @@
     "id": 2
   },
   {
-    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-    "summary": "506 points | 700 comments on Hacker News",
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "summary": "463 points | 340 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
     "date": "2026-10-12",
     "tags": [
       "HN"
@@ -36,23 +36,23 @@
     "id": 3
   },
   {
-    "title": "AI is a tool and using it well takes skill",
-    "summary": "276 points | 233 comments on Hacker News",
+    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+    "summary": "61 points | 31 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-    "date": "2026-10-12",
+    "url": "https://pulseos.finance",
+    "date": "2026-10-13",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-    "summary": "494 points | 255 comments on Hacker News",
+    "title": "Redesigning source control at Anthropic",
+    "summary": "568 points | 538 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/openai/codex/issues/48195",
-    "date": "2026-10-12",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "date": "2026-10-13",
     "tags": [
       "HN"
     ],
@@ -60,35 +60,35 @@
     "id": 5
   },
   {
-    "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
-    "summary": "42 points | 14 comments on Hacker News",
+    "title": "Apple HomeView",
+    "summary": "676 points | 786 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://brickbrag.com/",
-    "date": "2026-10-12",
+    "url": "https://www.apple.com/apple-homeview/",
+    "date": "2026-10-13",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-    "summary": "28 points | 16 comments on Hacker News",
+    "title": "Thunderbird for iOS",
+    "summary": "354 points | 157 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/andrewfader/blokkily",
-    "date": "2026-10-12",
+    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "date": "2026-10-13",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Muse Wonder",
-    "summary": "567 points | 310 comments on Hacker News",
+    "title": "Firefox Enterprise",
+    "summary": "658 points | 268 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://research.meta.ai/blog/muse-wonder",
-    "date": "2026-10-12",
+    "url": "https://www.firefox.com/en-US/enterprise/",
+    "date": "2026-10-13",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Cube Forms",
-    "summary": "New product launch on Product Hunt: Cube Forms",
+    "title": "OpenFlowKit 2",
+    "summary": "New product launch on Product Hunt: OpenFlowKit 2",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cube-forms",
-    "date": "2026-10-11",
+    "url": "https://www.producthunt.com/products/openflowkit",
+    "date": "2026-10-13",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Scrape Anything by Context.dev",
-    "summary": "New product launch on Product Hunt: Scrape Anything by Context.dev",
+    "title": "Genchi",
+    "summary": "New product launch on Product Hunt: Genchi",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/context-dev",
-    "date": "2026-10-11",
+    "url": "https://www.producthunt.com/products/genchi",
+    "date": "2026-10-08",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Milepost",
-    "summary": "New product launch on Product Hunt: Milepost",
+    "title": "Xiryn",
+    "summary": "New product launch on Product Hunt: Xiryn",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/milepost-2",
-    "date": "2026-09-30",
+    "url": "https://www.producthunt.com/products/xiryn",
+    "date": "2026-10-12",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Manifold MCP",
-    "summary": "New product launch on Product Hunt: Manifold MCP",
+    "title": "PostNitro for Agents",
+    "summary": "New product launch on Product Hunt: PostNitro for Agents",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/manifold-mcp",
-    "date": "2026-10-11",
+    "url": "https://www.producthunt.com/products/postnitro",
+    "date": "2026-10-07",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "SquadRoom",
-    "summary": "New product launch on Product Hunt: SquadRoom",
+    "title": "CLI Manager",
+    "summary": "New product launch on Product Hunt: CLI Manager",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/squadroom",
-    "date": "2026-10-07",
+    "url": "https://www.producthunt.com/products/cli-manager",
+    "date": "2026-10-10",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Ancher 2.0",
-    "summary": "New product launch on Product Hunt: Ancher 2.0",
+    "title": "Google Fitbit Edge",
+    "summary": "New product launch on Product Hunt: Google Fitbit Edge",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ancher-ai",
-    "date": "2026-10-01",
+    "url": "https://www.producthunt.com/products/google-fit-2",
+    "date": "2026-10-12",
     "tags": [
       "Product Launch"
     ],
@@ -168,21 +168,8 @@
     "id": 14
   },
   {
-    "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-    "summary": "9457 stars | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-    "source": "GitHub Trending",
-    "url": "https://github.com/storytold/wordcraft",
-    "date": "2026-10-07",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of rea",
-    "summary": "6579 stars | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and ",
+    "summary": "8346 stars | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and ",
     "source": "GitHub Trending",
     "url": "https://github.com/wheresryan22/anatomy",
     "date": "2026-10-08",
@@ -191,24 +178,11 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur",
-    "summary": "3929 stars | Rust | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/storytold/gridcraft",
-    "date": "2026-10-07",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 15
   },
   {
     "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-    "summary": "3648 stars | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+    "summary": "3895 stars | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
     "source": "GitHub Trending",
     "url": "https://github.com/mhtsec/ARTEX",
     "date": "2026-10-08",
@@ -217,14 +191,40 @@
       "Go"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "t4t5/omdrop-owl - airdrop for non-apple devices",
+    "summary": "2595 stars | Shell | airdrop for non-apple devices",
+    "source": "GitHub Trending",
+    "url": "https://github.com/t4t5/omdrop-owl",
+    "date": "2026-10-08",
+    "tags": [
+      "GitHub",
+      "Shell"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "ARahim3/DigUp - Search your Mac by what's in your files: photos, PDFs, recordings, videos and co",
+    "summary": "2507 stars | Swift | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ARahim3/DigUp",
+    "date": "2026-10-08",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
     "id": 18
   },
   {
-    "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCA",
-    "summary": "3570 stars | Rust | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+    "title": "storytold/craft-launcher - The Craft App Launcher",
+    "summary": "2333 stars | Rust | The Craft App Launcher",
     "source": "GitHub Trending",
-    "url": "https://github.com/storytold/cadcraft",
-    "date": "2026-10-07",
+    "url": "https://github.com/storytold/craft-launcher",
+    "date": "2026-10-09",
     "tags": [
       "GitHub",
       "Rust"
@@ -233,11 +233,11 @@
     "id": 19
   },
   {
-    "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore)",
-    "summary": "2774 stars | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+    "title": "liseami/CCBaga - No description",
+    "summary": "2072 stars | Rust | ",
     "source": "GitHub Trending",
-    "url": "https://github.com/nullmoth/nvidia-macos-driver",
-    "date": "2026-10-07",
+    "url": "https://github.com/liseami/CCBaga",
+    "date": "2026-10-11",
     "tags": [
       "GitHub",
       "Rust"
@@ -324,6 +324,226 @@
     "id": 26
   },
   {
+    "title": "GLM-Legal",
+    "summary": "476 points | 274 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://z.ai/blog/glm-legal",
+    "date": "2026-10-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "A Modern Web App in C",
+    "summary": "444 points | 178 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+    "date": "2026-10-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+    "summary": "506 points | 700 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+    "date": "2026-10-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "AI is a tool and using it well takes skill",
+    "summary": "276 points | 233 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "date": "2026-10-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "summary": "494 points | 255 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "date": "2026-10-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+    "summary": "42 points | 14 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://brickbrag.com/",
+    "date": "2026-10-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+    "summary": "28 points | 16 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/andrewfader/blokkily",
+    "date": "2026-10-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Muse Wonder",
+    "summary": "567 points | 310 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "date": "2026-10-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Cube Forms",
+    "summary": "New product launch on Product Hunt: Cube Forms",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cube-forms",
+    "date": "2026-10-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Scrape Anything by Context.dev",
+    "summary": "New product launch on Product Hunt: Scrape Anything by Context.dev",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/context-dev",
+    "date": "2026-10-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Milepost",
+    "summary": "New product launch on Product Hunt: Milepost",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/milepost-2",
+    "date": "2026-09-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Manifold MCP",
+    "summary": "New product launch on Product Hunt: Manifold MCP",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/manifold-mcp",
+    "date": "2026-10-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "SquadRoom",
+    "summary": "New product launch on Product Hunt: SquadRoom",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/squadroom",
+    "date": "2026-10-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Ancher 2.0",
+    "summary": "New product launch on Product Hunt: Ancher 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/ancher-ai",
+    "date": "2026-10-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "summary": "9457 stars | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "source": "GitHub Trending",
+    "url": "https://github.com/storytold/wordcraft",
+    "date": "2026-10-07",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur",
+    "summary": "3929 stars | Rust | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/storytold/gridcraft",
+    "date": "2026-10-07",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCA",
+    "summary": "3570 stars | Rust | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+    "source": "GitHub Trending",
+    "url": "https://github.com/storytold/cadcraft",
+    "date": "2026-10-07",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
+    "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore)",
+    "summary": "2774 stars | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "date": "2026-10-07",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 44
+  },
+  {
     "title": "Total Annihilation, rebuilt for modern computers",
     "summary": "387 points | 164 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +553,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 45
   },
   {
     "title": "Terence Tao: Math 2.0 [pdf]",
@@ -345,7 +565,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 46
   },
   {
     "title": "Local Indexing to reduce tool calling and token usage",
@@ -357,7 +577,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 47
   },
   {
     "title": "Passkeys are a trap",
@@ -369,7 +589,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 48
   },
   {
     "title": "NYC's \"Click to Cancel\" rule is now in effect",
@@ -381,7 +601,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 49
   },
   {
     "title": "HashiCorp archives the Boundary open source repo",
@@ -393,7 +613,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 50
   },
   {
     "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
@@ -405,7 +625,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 51
   },
   {
     "title": "NewMinecraftServers",
@@ -417,7 +637,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 52
   },
   {
     "title": "Ayven",
@@ -429,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 53
   },
   {
     "title": "Farol",
@@ -441,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 54
   },
   {
     "title": "Pickle Sensei",
@@ -453,7 +673,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 55
   },
   {
     "title": "Edgee Mod for Claude Code",
@@ -465,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 56
   },
   {
     "title": "DevTerminal",
@@ -477,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 57
   },
   {
     "title": "openai/math - No description",
@@ -490,7 +710,7 @@
       "Lean"
     ],
     "hot": true,
-    "id": 40
+    "id": 58
   },
   {
     "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
@@ -503,7 +723,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 59
   },
   {
     "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
@@ -514,222 +734,6 @@
     "tags": [
       "GitHub",
       "Python"
-    ],
-    "hot": true,
-    "id": 42
-  },
-  {
-    "title": "WallHop – 12ft.io is gone, so I built a replacement",
-    "summary": "103 points | 51 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://wallhop.io/",
-    "date": "2026-10-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 43
-  },
-  {
-    "title": "2D Vehicles",
-    "summary": "369 points | 84 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://patkerr.co.uk/2d-vehicles/",
-    "date": "2026-10-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-    "summary": "14 points | 1 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/moritzwilksch/diffle",
-    "date": "2026-10-08",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Grieving the loss of details",
-    "summary": "358 points | 282 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-    "date": "2026-10-06",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "summary": "127 points | 84 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-    "date": "2026-10-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-    "summary": "317 points | 75 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-    "date": "2026-10-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-    "summary": "423 points | 272 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-    "date": "2026-10-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Lune",
-    "summary": "New product launch on Product Hunt: Lune",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lune-research",
-    "date": "2026-10-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Claude Dashboards & Motion",
-    "summary": "New product launch on Product Hunt: Claude Dashboards & Motion",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/claude-dashboards-motion",
-    "date": "2026-10-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Maildun for Mac",
-    "summary": "New product launch on Product Hunt: Maildun for Mac",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/maildun-for-mac",
-    "date": "2026-10-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Skymir",
-    "summary": "New product launch on Product Hunt: Skymir",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/skymir",
-    "date": "2026-09-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Kitbar",
-    "summary": "New product launch on Product Hunt: Kitbar",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kitbar",
-    "date": "2026-10-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "PocketWebTools for Mac",
-    "summary": "New product launch on Product Hunt: PocketWebTools for Mac",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pocketwebtools",
-    "date": "2026-10-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Cloudflare acquires Deno",
-    "summary": "1094 points | 569 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://deno.com/blog/cloudflare",
-    "date": "2026-10-09",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Triple-A Minesweeper",
-    "summary": "712 points | 136 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://minesweeper.mikelacher.com/",
-    "date": "2026-10-09",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Our $445M Series D",
-    "summary": "606 points | 272 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://oxide.computer/blog/our-445m-series-d",
-    "date": "2026-10-09",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-    "summary": "226 points | 29 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://carrierexplode.com/",
-    "date": "2026-10-09",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Sorry, I'm in a meeting",
-    "summary": "793 points | 244 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://iminafleeting.com/",
-    "date": "2026-10-09",
-    "tags": [
-      "HN"
     ],
     "hot": true,
     "id": 60
