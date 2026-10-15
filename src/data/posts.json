@@ -1,10 +1,10 @@
 [
   {
-    "title": "Gemini 4 Argon",
-    "summary": "1041 points | 766 comments on Hacker News",
+    "title": "Things to know when you get cancer",
+    "summary": "816 points | 208 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://deepmind.google/models/gemini/",
-    "date": "2026-10-13",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "date": "2026-10-14",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-    "summary": "298 points | 90 comments on Hacker News",
+    "title": "OpenCode 2.0",
+    "summary": "318 points | 134 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://guitoro.com/",
-    "date": "2026-10-13",
+    "url": "https://anoma.ly/notes/opencode-2-0/",
+    "date": "2026-10-14",
     "tags": [
       "HN"
     ],
@@ -24,10 +24,10 @@
     "id": 2
   },
   {
-    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-    "summary": "463 points | 340 comments on Hacker News",
+    "title": "Do dentists know what they're doing?",
+    "summary": "431 points | 329 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "url": "https://mapwriting.substack.com/p/dentists",
     "date": "2026-10-12",
     "tags": [
       "HN"
@@ -36,47 +36,47 @@
     "id": 3
   },
   {
-    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "summary": "61 points | 31 comments on Hacker News",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "summary": "839 points | 452 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://pulseos.finance",
-    "date": "2026-10-13",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "date": "2026-10-14",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 4
+  },
+  {
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "summary": "115 points | 30 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://petal.live/",
+    "date": "2026-10-14",
     "tags": [
       "HN"
     ],
     "hot": false,
-    "id": 4
-  },
-  {
-    "title": "Redesigning source control at Anthropic",
-    "summary": "568 points | 538 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "date": "2026-10-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 5
   },
   {
-    "title": "Apple HomeView",
-    "summary": "676 points | 786 comments on Hacker News",
+    "title": "Catch a Bird – I made it for my own sanity",
+    "summary": "3 points | 2 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.apple.com/apple-homeview/",
-    "date": "2026-10-13",
+    "url": "https://catchabird.com",
+    "date": "2026-10-12",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "Thunderbird for iOS",
-    "summary": "354 points | 157 comments on Hacker News",
+    "title": "Passkeys are not a trap",
+    "summary": "500 points | 665 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-    "date": "2026-10-13",
+    "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+    "date": "2026-10-14",
     "tags": [
       "HN"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "Firefox Enterprise",
-    "summary": "658 points | 268 comments on Hacker News",
+    "title": "How Amazon pushes up prices all across the Internet",
+    "summary": "722 points | 594 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.firefox.com/en-US/enterprise/",
-    "date": "2026-10-13",
+    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+    "date": "2026-10-14",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "OpenFlowKit 2",
-    "summary": "New product launch on Product Hunt: OpenFlowKit 2",
+    "title": "Confidence by Spotify ",
+    "summary": "New product launch on Product Hunt: Confidence by Spotify ",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openflowkit",
-    "date": "2026-10-13",
+    "url": "https://www.producthunt.com/products/spotify",
+    "date": "2026-10-12",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Genchi",
-    "summary": "New product launch on Product Hunt: Genchi",
+    "title": "AURORA Lifeline",
+    "summary": "New product launch on Product Hunt: AURORA Lifeline",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/genchi",
-    "date": "2026-10-08",
+    "url": "https://www.producthunt.com/products/aurora-lifeline",
+    "date": "2026-10-13",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Xiryn",
-    "summary": "New product launch on Product Hunt: Xiryn",
+    "title": "Reason",
+    "summary": "New product launch on Product Hunt: Reason",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/xiryn",
-    "date": "2026-10-12",
+    "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+    "date": "2026-10-04",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "PostNitro for Agents",
-    "summary": "New product launch on Product Hunt: PostNitro for Agents",
+    "title": "AdAnt 2.0",
+    "summary": "New product launch on Product Hunt: AdAnt 2.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/postnitro",
-    "date": "2026-10-07",
+    "url": "https://www.producthunt.com/products/adant-ai",
+    "date": "2026-10-13",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "CLI Manager",
-    "summary": "New product launch on Product Hunt: CLI Manager",
+    "title": "Tiden",
+    "summary": "New product launch on Product Hunt: Tiden",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cli-manager",
-    "date": "2026-10-10",
+    "url": "https://www.producthunt.com/products/tiden",
+    "date": "2026-10-09",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Google Fitbit Edge",
-    "summary": "New product launch on Product Hunt: Google Fitbit Edge",
+    "title": "Hindsight 1.0 + Memlake",
+    "summary": "New product launch on Product Hunt: Hindsight 1.0 + Memlake",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google-fit-2",
-    "date": "2026-10-12",
+    "url": "https://www.producthunt.com/products/vectorize",
+    "date": "2026-10-13",
     "tags": [
       "Product Launch"
     ],
@@ -168,60 +168,8 @@
     "id": 14
   },
   {
-    "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of rea",
-    "summary": "8346 stars | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/wheresryan22/anatomy",
-    "date": "2026-10-08",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
-    "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-    "summary": "3895 stars | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-    "source": "GitHub Trending",
-    "url": "https://github.com/mhtsec/ARTEX",
-    "date": "2026-10-08",
-    "tags": [
-      "GitHub",
-      "Go"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "t4t5/omdrop-owl - airdrop for non-apple devices",
-    "summary": "2595 stars | Shell | airdrop for non-apple devices",
-    "source": "GitHub Trending",
-    "url": "https://github.com/t4t5/omdrop-owl",
-    "date": "2026-10-08",
-    "tags": [
-      "GitHub",
-      "Shell"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
-    "title": "ARahim3/DigUp - Search your Mac by what's in your files: photos, PDFs, recordings, videos and co",
-    "summary": "2507 stars | Swift | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ARahim3/DigUp",
-    "date": "2026-10-08",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
     "title": "storytold/craft-launcher - The Craft App Launcher",
-    "summary": "2333 stars | Rust | The Craft App Launcher",
+    "summary": "2665 stars | Rust | The Craft App Launcher",
     "source": "GitHub Trending",
     "url": "https://github.com/storytold/craft-launcher",
     "date": "2026-10-09",
@@ -230,17 +178,69 @@
       "Rust"
     ],
     "hot": true,
-    "id": 19
+    "id": 15
   },
   {
     "title": "liseami/CCBaga - No description",
-    "summary": "2072 stars | Rust | ",
+    "summary": "2260 stars | Rust | ",
     "source": "GitHub Trending",
     "url": "https://github.com/liseami/CCBaga",
     "date": "2026-10-11",
     "tags": [
       "GitHub",
       "Rust"
+    ],
+    "hot": true,
+    "id": 16
+  },
+  {
+    "title": "jhaizhou-ops/d2r-mobile - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the ",
+    "summary": "2201 stars | C | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch",
+    "source": "GitHub Trending",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "date": "2026-10-12",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, ",
+    "summary": "2106 stars | C | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "date": "2026-10-11",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud",
+    "summary": "1271 stars | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "date": "2026-10-13",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "shaongitbd/doory - Open source canva alternative",
+    "summary": "1208 stars | TypeScript | Open source canva alternative",
+    "source": "GitHub Trending",
+    "url": "https://github.com/shaongitbd/doory",
+    "date": "2026-10-10",
+    "tags": [
+      "GitHub",
+      "TypeScript"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,226 @@
     "id": 26
   },
   {
+    "title": "Gemini 4 Argon",
+    "summary": "1041 points | 766 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://deepmind.google/models/gemini/",
+    "date": "2026-10-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "summary": "298 points | 90 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://guitoro.com/",
+    "date": "2026-10-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "summary": "463 points | 340 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "date": "2026-10-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+    "summary": "61 points | 31 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://pulseos.finance",
+    "date": "2026-10-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Redesigning source control at Anthropic",
+    "summary": "568 points | 538 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "date": "2026-10-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Apple HomeView",
+    "summary": "676 points | 786 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.apple.com/apple-homeview/",
+    "date": "2026-10-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Thunderbird for iOS",
+    "summary": "354 points | 157 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "date": "2026-10-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Firefox Enterprise",
+    "summary": "658 points | 268 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.firefox.com/en-US/enterprise/",
+    "date": "2026-10-13",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "OpenFlowKit 2",
+    "summary": "New product launch on Product Hunt: OpenFlowKit 2",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openflowkit",
+    "date": "2026-10-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Genchi",
+    "summary": "New product launch on Product Hunt: Genchi",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/genchi",
+    "date": "2026-10-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Xiryn",
+    "summary": "New product launch on Product Hunt: Xiryn",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/xiryn",
+    "date": "2026-10-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "PostNitro for Agents",
+    "summary": "New product launch on Product Hunt: PostNitro for Agents",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/postnitro",
+    "date": "2026-10-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "CLI Manager",
+    "summary": "New product launch on Product Hunt: CLI Manager",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cli-manager",
+    "date": "2026-10-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Google Fitbit Edge",
+    "summary": "New product launch on Product Hunt: Google Fitbit Edge",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/google-fit-2",
+    "date": "2026-10-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of rea",
+    "summary": "8346 stars | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/wheresryan22/anatomy",
+    "date": "2026-10-08",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+    "summary": "3895 stars | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+    "source": "GitHub Trending",
+    "url": "https://github.com/mhtsec/ARTEX",
+    "date": "2026-10-08",
+    "tags": [
+      "GitHub",
+      "Go"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "t4t5/omdrop-owl - airdrop for non-apple devices",
+    "summary": "2595 stars | Shell | airdrop for non-apple devices",
+    "source": "GitHub Trending",
+    "url": "https://github.com/t4t5/omdrop-owl",
+    "date": "2026-10-08",
+    "tags": [
+      "GitHub",
+      "Shell"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
+    "title": "ARahim3/DigUp - Search your Mac by what's in your files: photos, PDFs, recordings, videos and co",
+    "summary": "2507 stars | Swift | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ARahim3/DigUp",
+    "date": "2026-10-08",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 44
+  },
+  {
     "title": "GLM-Legal",
     "summary": "476 points | 274 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +553,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 45
   },
   {
     "title": "A Modern Web App in C",
@@ -345,7 +565,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 46
   },
   {
     "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
@@ -357,7 +577,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 47
   },
   {
     "title": "AI is a tool and using it well takes skill",
@@ -369,7 +589,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 48
   },
   {
     "title": "Codex CLI installs a persistent, self-updating background daemon by default",
@@ -381,7 +601,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 49
   },
   {
     "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
@@ -393,7 +613,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 50
   },
   {
     "title": "Show HN: An experimental pattern-first DAW that supports MCP",
@@ -405,7 +625,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 51
   },
   {
     "title": "Muse Wonder",
@@ -417,7 +637,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 52
   },
   {
     "title": "Cube Forms",
@@ -429,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 53
   },
   {
     "title": "Scrape Anything by Context.dev",
@@ -441,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 54
   },
   {
     "title": "Milepost",
@@ -453,7 +673,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 55
   },
   {
     "title": "Manifold MCP",
@@ -465,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 56
   },
   {
     "title": "SquadRoom",
@@ -477,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 57
   },
   {
     "title": "Ancher 2.0",
@@ -489,7 +709,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 58
   },
   {
     "title": "storytold/wordcraft - An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
@@ -502,7 +722,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 41
+    "id": 59
   },
   {
     "title": "storytold/gridcraft - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur",
@@ -513,227 +733,6 @@
     "tags": [
       "GitHub",
       "Rust"
-    ],
-    "hot": true,
-    "id": 42
-  },
-  {
-    "title": "storytold/cadcraft - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCA",
-    "summary": "3570 stars | Rust | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-    "source": "GitHub Trending",
-    "url": "https://github.com/storytold/cadcraft",
-    "date": "2026-10-07",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "nullmoth/nvidia-macos-driver - Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore)",
-    "summary": "2774 stars | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/nullmoth/nvidia-macos-driver",
-    "date": "2026-10-07",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Total Annihilation, rebuilt for modern computers",
-    "summary": "387 points | 164 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://nanolathe.gg",
-    "date": "2026-10-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Terence Tao: Math 2.0 [pdf]",
-    "summary": "330 points | 382 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-    "date": "2026-10-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Local Indexing to reduce tool calling and token usage",
-    "summary": "32 points | 3 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tedhaley.ca/pensieve/",
-    "date": "2026-10-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Passkeys are a trap",
-    "summary": "322 points | 182 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-    "date": "2026-10-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "NYC's \"Click to Cancel\" rule is now in effect",
-    "summary": "376 points | 185 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.nyc.gov/main/click-to-cancel",
-    "date": "2026-10-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "HashiCorp archives the Boundary open source repo",
-    "summary": "48 points | 7 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/hashicorp/boundary",
-    "date": "2026-10-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-    "summary": "162 points | 94 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://betterwispr.com/",
-    "date": "2026-10-11",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "NewMinecraftServers",
-    "summary": "New product launch on Product Hunt: NewMinecraftServers",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/newminecraftservers",
-    "date": "2026-10-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Ayven",
-    "summary": "New product launch on Product Hunt: Ayven",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/ayven",
-    "date": "2026-09-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Farol",
-    "summary": "New product launch on Product Hunt: Farol",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/farol-3",
-    "date": "2026-10-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Pickle Sensei",
-    "summary": "New product launch on Product Hunt: Pickle Sensei",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pickle-sensei-dink-coach",
-    "date": "2026-10-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Edgee Mod for Claude Code",
-    "summary": "New product launch on Product Hunt: Edgee Mod for Claude Code",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/edgee",
-    "date": "2026-10-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "DevTerminal",
-    "summary": "New product launch on Product Hunt: DevTerminal",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/devterminal",
-    "date": "2026-10-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "openai/math - No description",
-    "summary": "14120 stars | Lean | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/openai/math",
-    "date": "2026-10-06",
-    "tags": [
-      "GitHub",
-      "Lean"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "alchaincyf/huashu-art-motion - 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-    "summary": "3406 stars | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/alchaincyf/huashu-art-motion",
-    "date": "2026-10-06",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "zhongerxin/iPhone-use - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-    "summary": "3117 stars | Python | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/zhongerxin/iPhone-use",
-    "date": "2026-10-06",
-    "tags": [
-      "GitHub",
-      "Python"
     ],
     "hot": true,
     "id": 60
