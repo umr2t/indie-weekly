@@ -1,10 +1,10 @@
 [
   {
-    "title": "Muse Spark Open",
-    "summary": "619 points | 356 comments on Hacker News",
+    "title": "Tesla Roadster",
+    "summary": "1192 points | 2157 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://research.meta.ai/blog/muse-spark-open",
-    "date": "2026-10-15",
+    "url": "https://www.tesla.com/roadster",
+    "date": "2026-10-16",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Neural networks are clean",
-    "summary": "505 points | 198 comments on Hacker News",
+    "title": "Claude reveals ECDSA curve origins",
+    "summary": "685 points | 273 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://already-clean.goodfire.com/",
-    "date": "2026-10-15",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "date": "2026-10-16",
     "tags": [
       "HN"
     ],
@@ -24,83 +24,83 @@
     "id": 2
   },
   {
-    "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-    "summary": "30 points | 3 comments on Hacker News",
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "summary": "404 points | 337 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-    "date": "2026-10-15",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "date": "2026-10-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 3
+  },
+  {
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "summary": "186 points | 87 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "date": "2026-10-16",
     "tags": [
       "HN"
     ],
     "hot": false,
-    "id": 3
-  },
-  {
-    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-    "summary": "238 points | 106 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-    "date": "2026-10-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 4
   },
   {
-    "title": "Wayland desktop for Linux with skeuomorphic design",
-    "summary": "508 points | 201 comments on Hacker News",
+    "title": "I built the RealWorld app in Lean 4",
+    "summary": "7 points | 2 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/fyzugx/DEsk",
-    "date": "2026-10-15",
+    "url": "https://leangineer.com/blog/realworld-in-lean/",
+    "date": "2026-10-14",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Jev meets the Trolley Problem",
-    "summary": "309 points | 149 comments on Hacker News",
+    "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+    "summary": "59 points | 58 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://zachlandes.com/trolley-problem/",
-    "date": "2026-10-15",
+    "url": "https://wonderhop.io/en/",
+    "date": "2026-10-13",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-    "summary": "393 points | 558 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-    "date": "2026-10-15",
+    "title": "Palomino",
+    "summary": "New product launch on Product Hunt: Palomino",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/palomino",
+    "date": "2026-10-11",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "Show HN: Unfenced – Land for sale that borders public land",
-    "summary": "260 points | 183 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://unfenced.land/",
-    "date": "2026-10-15",
+    "title": "Helicon",
+    "summary": "New product launch on Product Hunt: Helicon",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/helicon",
+    "date": "2026-10-09",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Brussle",
-    "summary": "New product launch on Product Hunt: Brussle",
+    "title": "Firefox Enterprise",
+    "summary": "New product launch on Product Hunt: Firefox Enterprise",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/brussle-2",
-    "date": "2026-10-15",
+    "url": "https://www.producthunt.com/products/mozilla",
+    "date": "2026-10-13",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "SuperLocalMemory",
-    "summary": "New product launch on Product Hunt: SuperLocalMemory",
+    "title": "Fish Audio Drama 3",
+    "summary": "New product launch on Product Hunt: Fish Audio Drama 3",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/superlocalmemory-v2",
-    "date": "2026-10-13",
+    "url": "https://www.producthunt.com/products/fish-speech",
+    "date": "2026-10-14",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "CinemaLut",
-    "summary": "New product launch on Product Hunt: CinemaLut",
+    "title": "DOYT",
+    "summary": "New product launch on Product Hunt: DOYT",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cinemalut",
-    "date": "2026-10-14",
+    "url": "https://www.producthunt.com/products/doyt",
+    "date": "2026-10-15",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Backdrop",
-    "summary": "New product launch on Product Hunt: Backdrop",
+    "title": "Skisso",
+    "summary": "New product launch on Product Hunt: Skisso",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backdrop",
-    "date": "2026-10-13",
+    "url": "https://www.producthunt.com/products/skisso-design-on-the-live-product",
+    "date": "2026-10-15",
     "tags": [
       "Product Launch"
     ],
@@ -144,32 +144,8 @@
     "id": 12
   },
   {
-    "title": "Fwrd",
-    "summary": "New product launch on Product Hunt: Fwrd",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fwrd",
-    "date": "2026-10-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "Talanoa",
-    "summary": "New product launch on Product Hunt: Talanoa",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/talanoa-2",
-    "date": "2026-10-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "jhaizhou-ops/d2r-mobile - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the ",
-    "summary": "3175 stars | C | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch",
+    "summary": "3541 stars | C | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch",
     "source": "GitHub Trending",
     "url": "https://github.com/jhaizhou-ops/d2r-mobile",
     "date": "2026-10-12",
@@ -178,11 +154,11 @@
       "C"
     ],
     "hot": true,
-    "id": 15
+    "id": 13
   },
   {
     "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, ",
-    "summary": "2498 stars | C | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "summary": "2863 stars | C | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
     "source": "GitHub Trending",
     "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
     "date": "2026-10-11",
@@ -191,24 +167,11 @@
       "C"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "liseami/CCBaga - No description",
-    "summary": "2342 stars | Rust | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/liseami/CCBaga",
-    "date": "2026-10-11",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 14
   },
   {
     "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud",
-    "summary": "2066 stars | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "summary": "2526 stars | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
     "source": "GitHub Trending",
     "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
     "date": "2026-10-13",
@@ -217,11 +180,24 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
+    "id": 15
+  },
+  {
+    "title": "liseami/CCBaga - No description",
+    "summary": "2403 stars | Rust | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/liseami/CCBaga",
+    "date": "2026-10-11",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 16
   },
   {
     "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
-    "summary": "1328 stars | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch.",
+    "summary": "1750 stars | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch.",
     "source": "GitHub Trending",
     "url": "https://github.com/HeyPuter/everything",
     "date": "2026-10-13",
@@ -230,20 +206,20 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 19
+    "id": 17
   },
   {
-    "title": "shaongitbd/doory - Open source canva alternative",
-    "summary": "1313 stars | TypeScript | Open source canva alternative",
+    "title": "ahwootech/BRUTAL - A free, open source C# framework for making games, or your own game engine. Dire",
+    "summary": "1575 stars | C# | A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Ki",
     "source": "GitHub Trending",
-    "url": "https://github.com/shaongitbd/doory",
-    "date": "2026-10-10",
+    "url": "https://github.com/ahwootech/BRUTAL",
+    "date": "2026-10-14",
     "tags": [
       "GitHub",
-      "TypeScript"
+      "C#"
     ],
     "hot": true,
-    "id": 20
+    "id": 18
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +232,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 19
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +245,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 20
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +258,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 21
   },
   {
     "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
@@ -295,7 +271,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 22
   },
   {
     "title": "The Pulse: Firebase’s global outage & poor response",
@@ -308,7 +284,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 23
   },
   {
     "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
@@ -321,7 +297,188 @@
       "Career"
     ],
     "hot": false,
+    "id": 24
+  },
+  {
+    "title": "Muse Spark Open",
+    "summary": "619 points | 356 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "date": "2026-10-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Neural networks are clean",
+    "summary": "505 points | 198 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://already-clean.goodfire.com/",
+    "date": "2026-10-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+    "summary": "30 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+    "date": "2026-10-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 27
+  },
+  {
+    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+    "summary": "238 points | 106 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+    "date": "2026-10-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "summary": "508 points | 201 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/fyzugx/DEsk",
+    "date": "2026-10-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Jev meets the Trolley Problem",
+    "summary": "309 points | 149 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://zachlandes.com/trolley-problem/",
+    "date": "2026-10-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+    "summary": "393 points | 558 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "date": "2026-10-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Unfenced – Land for sale that borders public land",
+    "summary": "260 points | 183 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://unfenced.land/",
+    "date": "2026-10-15",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Brussle",
+    "summary": "New product launch on Product Hunt: Brussle",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/brussle-2",
+    "date": "2026-10-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "SuperLocalMemory",
+    "summary": "New product launch on Product Hunt: SuperLocalMemory",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/superlocalmemory-v2",
+    "date": "2026-10-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "CinemaLut",
+    "summary": "New product launch on Product Hunt: CinemaLut",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cinemalut",
+    "date": "2026-10-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Backdrop",
+    "summary": "New product launch on Product Hunt: Backdrop",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/backdrop",
+    "date": "2026-10-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Fwrd",
+    "summary": "New product launch on Product Hunt: Fwrd",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/fwrd",
+    "date": "2026-10-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Talanoa",
+    "summary": "New product launch on Product Hunt: Talanoa",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/talanoa-2",
+    "date": "2026-10-01",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "shaongitbd/doory - Open source canva alternative",
+    "summary": "1313 stars | TypeScript | Open source canva alternative",
+    "source": "GitHub Trending",
+    "url": "https://github.com/shaongitbd/doory",
+    "date": "2026-10-10",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 39
   },
   {
     "title": "Things to know when you get cancer",
@@ -333,7 +490,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 40
   },
   {
     "title": "OpenCode 2.0",
@@ -345,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 41
   },
   {
     "title": "Do dentists know what they're doing?",
@@ -357,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 42
   },
   {
     "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
@@ -369,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 43
   },
   {
     "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
@@ -381,7 +538,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 44
   },
   {
     "title": "Catch a Bird – I made it for my own sanity",
@@ -393,7 +550,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 45
   },
   {
     "title": "Passkeys are not a trap",
@@ -405,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 46
   },
   {
     "title": "How Amazon pushes up prices all across the Internet",
@@ -417,7 +574,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 47
   },
   {
     "title": "Confidence by Spotify ",
@@ -429,7 +586,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 48
   },
   {
     "title": "AURORA Lifeline",
@@ -441,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 49
   },
   {
     "title": "Reason",
@@ -453,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 50
   },
   {
     "title": "AdAnt 2.0",
@@ -465,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 51
   },
   {
     "title": "Tiden",
@@ -477,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 52
   },
   {
     "title": "Hindsight 1.0 + Memlake",
@@ -489,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 53
   },
   {
     "title": "storytold/craft-launcher - The Craft App Launcher",
@@ -502,7 +659,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 41
+    "id": 54
   },
   {
     "title": "The Pulse: a new trend of CPU shortages",
@@ -515,7 +672,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 42
+    "id": 55
   },
   {
     "title": "Gemini 4 Argon",
@@ -527,7 +684,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 56
   },
   {
     "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
@@ -539,7 +696,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 57
   },
   {
     "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
@@ -551,7 +708,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 58
   },
   {
     "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
@@ -563,7 +720,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 46
+    "id": 59
   },
   {
     "title": "Redesigning source control at Anthropic",
@@ -573,166 +730,6 @@
     "date": "2026-10-13",
     "tags": [
       "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Apple HomeView",
-    "summary": "676 points | 786 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.apple.com/apple-homeview/",
-    "date": "2026-10-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Thunderbird for iOS",
-    "summary": "354 points | 157 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-    "date": "2026-10-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Firefox Enterprise",
-    "summary": "658 points | 268 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.firefox.com/en-US/enterprise/",
-    "date": "2026-10-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "OpenFlowKit 2",
-    "summary": "New product launch on Product Hunt: OpenFlowKit 2",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openflowkit",
-    "date": "2026-10-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Genchi",
-    "summary": "New product launch on Product Hunt: Genchi",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/genchi",
-    "date": "2026-10-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Xiryn",
-    "summary": "New product launch on Product Hunt: Xiryn",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/xiryn",
-    "date": "2026-10-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "PostNitro for Agents",
-    "summary": "New product launch on Product Hunt: PostNitro for Agents",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/postnitro",
-    "date": "2026-10-07",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "CLI Manager",
-    "summary": "New product launch on Product Hunt: CLI Manager",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cli-manager",
-    "date": "2026-10-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Google Fitbit Edge",
-    "summary": "New product launch on Product Hunt: Google Fitbit Edge",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google-fit-2",
-    "date": "2026-10-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "wheresryan22/anatomy - An agent skill for creating detailed, interactive isometric illustrations of rea",
-    "summary": "8346 stars | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/wheresryan22/anatomy",
-    "date": "2026-10-08",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "mhtsec/ARTEX - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-    "summary": "3895 stars | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-    "source": "GitHub Trending",
-    "url": "https://github.com/mhtsec/ARTEX",
-    "date": "2026-10-08",
-    "tags": [
-      "GitHub",
-      "Go"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "t4t5/omdrop-owl - airdrop for non-apple devices",
-    "summary": "2595 stars | Shell | airdrop for non-apple devices",
-    "source": "GitHub Trending",
-    "url": "https://github.com/t4t5/omdrop-owl",
-    "date": "2026-10-08",
-    "tags": [
-      "GitHub",
-      "Shell"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "ARahim3/DigUp - Search your Mac by what's in your files: photos, PDFs, recordings, videos and co",
-    "summary": "2507 stars | Swift | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ARahim3/DigUp",
-    "date": "2026-10-08",
-    "tags": [
-      "GitHub",
-      "Swift"
     ],
     "hot": true,
     "id": 60
