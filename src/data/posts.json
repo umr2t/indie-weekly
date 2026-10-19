@@ -1,10 +1,10 @@
 [
   {
-    "title": "Bleached corals thrive within days when touching healthy neighbour",
-    "summary": "329 points | 72 comments on Hacker News",
+    "title": "Someone behind the software",
+    "summary": "318 points | 136 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.nature.com/articles/d41586-026-03266-x",
-    "date": "2026-10-16",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "date": "2026-10-18",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "summary": "701 points | 591 comments on Hacker News",
+    "title": "RepRapMicron",
+    "summary": "334 points | 54 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "date": "2026-10-17",
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "date": "2026-10-18",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Show HN: High-quality duck audio synthesizer",
-    "summary": "86 points | 24 comments on Hacker News",
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "summary": "43 points | 30 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://celphase.github.io/duck-pond/",
-    "date": "2026-10-17",
+    "url": "https://github.com/finereli/whatsapp-mcp",
+    "date": "2026-10-18",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "You could have invented transformers from memory",
-    "summary": "505 points | 117 comments on Hacker News",
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "summary": "551 points | 258 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://alexwang.ai/posts/associative-memory/",
-    "date": "2026-10-16",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "date": "2026-10-18",
     "tags": [
       "HN"
     ],
@@ -48,59 +48,59 @@
     "id": 4
   },
   {
-    "title": "Solar surpasses nuclear power globally for first time",
-    "summary": "484 points | 309 comments on Hacker News",
+    "title": "I built a programming language that LLMs can't use",
+    "summary": "82 points | 69 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "url": "https://blog.picheta.me/post/killswitch-lang/",
     "date": "2026-10-17",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-    "summary": "124 points | 12 comments on Hacker News",
+    "title": "Namecheap just seized and disabled all my domains",
+    "summary": "444 points | 207 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/mikroverk/esp32sim",
-    "date": "2026-10-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 6
-  },
-  {
-    "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
-    "summary": "46 points | 8 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/Kapendev/parin",
-    "date": "2026-10-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 7
-  },
-  {
-    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "summary": "253 points | 77 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://llmspeed.dev/",
-    "date": "2026-10-17",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "date": "2026-10-18",
     "tags": [
       "HN"
     ],
     "hot": true,
+    "id": 6
+  },
+  {
+    "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+    "summary": "368 points | 521 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+    "date": "2026-10-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 7
+  },
+  {
+    "title": "Vampire Crawlers™",
+    "summary": "New product launch on Product Hunt: Vampire Crawlers™",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/vampire-crawlers",
+    "date": "2026-10-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Earnote",
-    "summary": "New product launch on Product Hunt: Earnote",
+    "title": "MeetPaw",
+    "summary": "New product launch on Product Hunt: MeetPaw",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/earnote",
-    "date": "2026-10-08",
+    "url": "https://www.producthunt.com/products/meetpaw",
+    "date": "2026-10-15",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Unfenced",
-    "summary": "New product launch on Product Hunt: Unfenced",
+    "title": "MyLens",
+    "summary": "New product launch on Product Hunt: MyLens",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/unfenced",
-    "date": "2026-10-13",
+    "url": "https://www.producthunt.com/products/mylens-ai",
+    "date": "2026-10-16",
     "tags": [
       "Product Launch"
     ],
@@ -120,10 +120,10 @@
     "id": 10
   },
   {
-    "title": "Caldera",
-    "summary": "New product launch on Product Hunt: Caldera",
+    "title": "shim-cli",
+    "summary": "New product launch on Product Hunt: shim-cli",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/caldera",
+    "url": "https://www.producthunt.com/products/shim-cli",
     "date": "2026-10-12",
     "tags": [
       "Product Launch"
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "GPU Terminal by Context.dev",
-    "summary": "New product launch on Product Hunt: GPU Terminal by Context.dev",
+    "title": "Krea 3",
+    "summary": "New product launch on Product Hunt: Krea 3",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/context-dev",
-    "date": "2026-10-17",
+    "url": "https://www.producthunt.com/products/krea",
+    "date": "2026-10-16",
     "tags": [
       "Product Launch"
     ],
@@ -144,10 +144,10 @@
     "id": 12
   },
   {
-    "title": "Draper",
-    "summary": "New product launch on Product Hunt: Draper",
+    "title": "SpeechFast",
+    "summary": "New product launch on Product Hunt: SpeechFast",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/draper",
+    "url": "https://www.producthunt.com/products/speechfast",
     "date": "2026-10-16",
     "tags": [
       "Product Launch"
@@ -156,33 +156,8 @@
     "id": 13
   },
   {
-    "title": "Notion: Context for your agents",
-    "summary": "New product launch on Product Hunt: Notion: Context for your agents",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notion",
-    "date": "2026-10-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
-    "title": "jhaizhou-ops/d2r-mobile - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the ",
-    "summary": "3714 stars | C | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch",
-    "source": "GitHub Trending",
-    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-    "date": "2026-10-12",
-    "tags": [
-      "GitHub",
-      "C"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud",
-    "summary": "2646 stars | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "summary": "2880 stars | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
     "source": "GitHub Trending",
     "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
     "date": "2026-10-13",
@@ -191,11 +166,24 @@
       "Python"
     ],
     "hot": true,
-    "id": 16
+    "id": 14
+  },
+  {
+    "title": "feder-cr/git-ai - Git designed for AI agents.",
+    "summary": "2301 stars | Go | Git designed for AI agents.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/feder-cr/git-ai",
+    "date": "2026-10-15",
+    "tags": [
+      "GitHub",
+      "Go"
+    ],
+    "hot": true,
+    "id": 15
   },
   {
     "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
-    "summary": "2055 stars | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch.",
+    "summary": "2222 stars | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch.",
     "source": "GitHub Trending",
     "url": "https://github.com/HeyPuter/everything",
     "date": "2026-10-13",
@@ -204,11 +192,24 @@
       "JavaScript"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "Gathin23/tv-vibehack - Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvO",
+    "summary": "2113 stars | Java | Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Gathin23/tv-vibehack",
+    "date": "2026-10-17",
+    "tags": [
+      "GitHub",
+      "Java"
+    ],
+    "hot": true,
     "id": 17
   },
   {
     "title": "ahwootech/BRUTAL - A free, open source C# framework for making games, or your own game engine. Dire",
-    "summary": "1796 stars | C# | A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Ki",
+    "summary": "1906 stars | C# | A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Ki",
     "source": "GitHub Trending",
     "url": "https://github.com/ahwootech/BRUTAL",
     "date": "2026-10-14",
@@ -220,21 +221,8 @@
     "id": 18
   },
   {
-    "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
-    "summary": "1738 stars | TypeScript | A design system for AI applications. Material, physical, tactile, technical.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/deeplethe/solid-glass",
-    "date": "2026-10-12",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 19
-  },
-  {
     "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-    "summary": "1679 stars | TypeScript | Turn your regular JavaScript code into a neural net.",
+    "summary": "1733 stars | TypeScript | Turn your regular JavaScript code into a neural net.",
     "source": "GitHub Trending",
     "url": "https://github.com/chenglou/handwired",
     "date": "2026-10-15",
@@ -243,7 +231,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 20
+    "id": 19
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +244,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 20
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +257,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 21
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +270,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 22
   },
   {
     "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
@@ -295,7 +283,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 23
   },
   {
     "title": "The Pulse: Firebase’s global outage & poor response",
@@ -308,7 +296,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 24
   },
   {
     "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
@@ -321,7 +309,201 @@
       "Career"
     ],
     "hot": false,
+    "id": 25
+  },
+  {
+    "title": "Bleached corals thrive within days when touching healthy neighbour",
+    "summary": "329 points | 72 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.nature.com/articles/d41586-026-03266-x",
+    "date": "2026-10-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "summary": "701 points | 591 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "date": "2026-10-17",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Show HN: High-quality duck audio synthesizer",
+    "summary": "86 points | 24 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://celphase.github.io/duck-pond/",
+    "date": "2026-10-17",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 28
+  },
+  {
+    "title": "You could have invented transformers from memory",
+    "summary": "505 points | 117 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "date": "2026-10-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Solar surpasses nuclear power globally for first time",
+    "summary": "484 points | 309 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "date": "2026-10-17",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+    "summary": "124 points | 12 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/mikroverk/esp32sim",
+    "date": "2026-10-17",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+    "summary": "46 points | 8 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/Kapendev/parin",
+    "date": "2026-10-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "summary": "253 points | 77 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://llmspeed.dev/",
+    "date": "2026-10-17",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Earnote",
+    "summary": "New product launch on Product Hunt: Earnote",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/earnote",
+    "date": "2026-10-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Unfenced",
+    "summary": "New product launch on Product Hunt: Unfenced",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/unfenced",
+    "date": "2026-10-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Caldera",
+    "summary": "New product launch on Product Hunt: Caldera",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/caldera",
+    "date": "2026-10-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "GPU Terminal by Context.dev",
+    "summary": "New product launch on Product Hunt: GPU Terminal by Context.dev",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/context-dev",
+    "date": "2026-10-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Draper",
+    "summary": "New product launch on Product Hunt: Draper",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/draper",
+    "date": "2026-10-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Notion: Context for your agents",
+    "summary": "New product launch on Product Hunt: Notion: Context for your agents",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/notion",
+    "date": "2026-10-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "jhaizhou-ops/d2r-mobile - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the ",
+    "summary": "3714 stars | C | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch",
+    "source": "GitHub Trending",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "date": "2026-10-12",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
+    "summary": "1738 stars | TypeScript | A design system for AI applications. Material, physical, tactile, technical.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "date": "2026-10-12",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 41
   },
   {
     "title": "Tesla Roadster",
@@ -333,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 42
   },
   {
     "title": "Claude reveals ECDSA curve origins",
@@ -345,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
@@ -357,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 44
   },
   {
     "title": "Show HN: Gemini 4 Argon plays StarCraft",
@@ -369,7 +551,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 45
   },
   {
     "title": "I built the RealWorld app in Lean 4",
@@ -381,7 +563,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
@@ -393,7 +575,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 47
   },
   {
     "title": "Palomino",
@@ -405,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Helicon",
@@ -417,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Firefox Enterprise",
@@ -429,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "Fish Audio Drama 3",
@@ -441,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "DOYT",
@@ -453,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "Skisso",
@@ -465,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "onehumanbeing/esp32-iphone-agent - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, ",
@@ -478,7 +660,7 @@
       "C"
     ],
     "hot": true,
-    "id": 39
+    "id": 54
   },
   {
     "title": "liseami/CCBaga - No description",
@@ -491,7 +673,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 40
+    "id": 55
   },
   {
     "title": "Muse Spark Open",
@@ -503,7 +685,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "Neural networks are clean",
@@ -515,7 +697,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
@@ -527,7 +709,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 43
+    "id": 58
   },
   {
     "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
@@ -539,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 59
   },
   {
     "title": "Wayland desktop for Linux with skeuomorphic design",
@@ -551,187 +733,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Jev meets the Trolley Problem",
-    "summary": "309 points | 149 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://zachlandes.com/trolley-problem/",
-    "date": "2026-10-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-    "summary": "393 points | 558 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-    "date": "2026-10-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Show HN: Unfenced – Land for sale that borders public land",
-    "summary": "260 points | 183 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://unfenced.land/",
-    "date": "2026-10-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Brussle",
-    "summary": "New product launch on Product Hunt: Brussle",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/brussle-2",
-    "date": "2026-10-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "SuperLocalMemory",
-    "summary": "New product launch on Product Hunt: SuperLocalMemory",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/superlocalmemory-v2",
-    "date": "2026-10-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "CinemaLut",
-    "summary": "New product launch on Product Hunt: CinemaLut",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cinemalut",
-    "date": "2026-10-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Backdrop",
-    "summary": "New product launch on Product Hunt: Backdrop",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backdrop",
-    "date": "2026-10-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Fwrd",
-    "summary": "New product launch on Product Hunt: Fwrd",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fwrd",
-    "date": "2026-10-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Talanoa",
-    "summary": "New product launch on Product Hunt: Talanoa",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/talanoa-2",
-    "date": "2026-10-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "shaongitbd/doory - Open source canva alternative",
-    "summary": "1313 stars | TypeScript | Open source canva alternative",
-    "source": "GitHub Trending",
-    "url": "https://github.com/shaongitbd/doory",
-    "date": "2026-10-10",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Things to know when you get cancer",
-    "summary": "816 points | 208 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-    "date": "2026-10-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "OpenCode 2.0",
-    "summary": "318 points | 134 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://anoma.ly/notes/opencode-2-0/",
-    "date": "2026-10-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Do dentists know what they're doing?",
-    "summary": "431 points | 329 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mapwriting.substack.com/p/dentists",
-    "date": "2026-10-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-    "summary": "839 points | 452 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "date": "2026-10-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "summary": "115 points | 30 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://petal.live/",
-    "date": "2026-10-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
