@@ -1,10 +1,10 @@
 [
   {
-    "title": "MiniMax M3.1 Flash",
-    "summary": "389 points | 168 comments on Hacker News",
+    "title": "Show HN: SimCity, but with Permits",
+    "summary": "586 points | 294 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.minimax.io/blog/minimax-m31f",
-    "date": "2026-10-19",
+    "url": "https://permit.petercai.com/",
+    "date": "2026-10-20",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "I built a drone with only one motor [video]",
-    "summary": "400 points | 85 comments on Hacker News",
+    "title": "Voxtral 3",
+    "summary": "535 points | 143 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-    "date": "2026-10-19",
+    "url": "https://mistral.ai/news/voxtral-3/",
+    "date": "2026-10-20",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Wine ported to OpenBSD",
-    "summary": "508 points | 170 comments on Hacker News",
+    "title": "EMudhra Intermediate CA Compromise",
+    "summary": "661 points | 340 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-    "date": "2026-10-19",
+    "url": "https://emudhra.we-have-a-problem.com/",
+    "date": "2026-10-20",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "It's still ok to enjoy programming",
-    "summary": "453 points | 424 comments on Hacker News",
+    "title": "Apple broke an essential presentation feature of iPads",
+    "summary": "499 points | 255 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-    "date": "2026-10-17",
+    "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+    "date": "2026-10-20",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Timestral: Mistral's time-series foundation models",
-    "summary": "556 points | 104 comments on Hacker News",
+    "title": "Ofcom concedes defeat in 4chan case",
+    "summary": "336 points | 254 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://mistral.ai/news/timestral/",
-    "date": "2026-10-19",
+    "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+    "date": "2026-10-20",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Starcraft: Ashfall",
-    "summary": "329 points | 112 comments on Hacker News",
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "summary": "2144 points | 837 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://starcraft-shooter-2026.pages.dev/",
-    "date": "2026-10-19",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "date": "2026-10-20",
     "tags": [
       "HN"
     ],
@@ -72,11 +72,11 @@
     "id": 6
   },
   {
-    "title": "Alternatives to animal testing are finally taking off",
-    "summary": "323 points | 97 comments on Hacker News",
+    "title": "Tsrs: A Port of TypeScript to Rust",
+    "summary": "349 points | 172 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-    "date": "2026-10-19",
+    "url": "https://blog.cloudflare.com/typescript-rust-port/",
+    "date": "2026-10-20",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Lookout (for Slack)",
-    "summary": "New product launch on Product Hunt: Lookout (for Slack)",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lookout-for-slack",
-    "date": "2026-10-17",
+    "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+    "summary": "343 points | 172 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+    "date": "2026-10-20",
     "tags": [
-      "Product Launch"
+      "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "Kai Resolve by Gleap",
-    "summary": "New product launch on Product Hunt: Kai Resolve by Gleap",
+    "title": "call4me",
+    "summary": "New product launch on Product Hunt: call4me",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gleap",
-    "date": "2026-10-12",
+    "url": "https://www.producthunt.com/products/call4me",
+    "date": "2026-10-19",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Switch Lab",
-    "summary": "New product launch on Product Hunt: Switch Lab",
+    "title": "Stage",
+    "summary": "New product launch on Product Hunt: Stage",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/switch-lab",
-    "date": "2026-10-18",
+    "url": "https://www.producthunt.com/products/stage-9",
+    "date": "2026-10-19",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "walkai-talkai",
-    "summary": "New product launch on Product Hunt: walkai-talkai",
+    "title": "The New Beings",
+    "summary": "New product launch on Product Hunt: The New Beings",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/walkai-talkai",
-    "date": "2026-10-17",
+    "url": "https://www.producthunt.com/products/the-new-beings",
+    "date": "2026-10-19",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Framefields",
-    "summary": "New product launch on Product Hunt: Framefields",
+    "title": "Sorcerer",
+    "summary": "New product launch on Product Hunt: Sorcerer",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/framefields",
-    "date": "2026-10-16",
+    "url": "https://www.producthunt.com/products/sorcerer",
+    "date": "2026-10-19",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "CoolDock",
-    "summary": "New product launch on Product Hunt: CoolDock",
+    "title": "Portlivo",
+    "summary": "New product launch on Product Hunt: Portlivo",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cooldock-2",
-    "date": "2026-10-17",
+    "url": "https://www.producthunt.com/products/portlivo",
+    "date": "2026-10-18",
     "tags": [
       "Product Launch"
     ],
@@ -156,8 +156,20 @@
     "id": 13
   },
   {
+    "title": "/dev/null",
+    "summary": "New product launch on Product Hunt: /dev/null",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/dev-null",
+    "date": "2026-10-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 14
+  },
+  {
     "title": "Gathin23/cleanyourtv - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-    "summary": "5694 stars | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "summary": "12348 stars | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
     "source": "GitHub Trending",
     "url": "https://github.com/Gathin23/cleanyourtv",
     "date": "2026-10-17",
@@ -166,37 +178,11 @@
       "Java"
     ],
     "hot": true,
-    "id": 14
-  },
-  {
-    "title": "feder-cr/git-ai - Git designed for AI agents.",
-    "summary": "2461 stars | Go | Git designed for AI agents.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/feder-cr/git-ai",
-    "date": "2026-10-15",
-    "tags": [
-      "GitHub",
-      "Go"
-    ],
-    "hot": true,
     "id": 15
   },
   {
-    "title": "ahwootech/BRUTAL - A free, open source C# framework for making games, or your own game engine. Dire",
-    "summary": "1997 stars | C# | A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Ki",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ahwootech/BRUTAL",
-    "date": "2026-10-14",
-    "tags": [
-      "GitHub",
-      "C#"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "ly05010419/MacNativeGames - No description",
-    "summary": "1828 stars | C | ",
+    "summary": "2891 stars | C | ",
     "source": "GitHub Trending",
     "url": "https://github.com/ly05010419/MacNativeGames",
     "date": "2026-10-17",
@@ -205,30 +191,43 @@
       "C"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc",
+    "summary": "1964 stars | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "date": "2026-10-15",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 17
   },
   {
+    "title": "simbasjungles/free-my-tv - A fast, ad-free home screen for Google TV. Open source, built with Claude Code. ",
+    "summary": "1865 stars | Java | A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/simbasjungles/free-my-tv",
+    "date": "2026-10-19",
+    "tags": [
+      "GitHub",
+      "Java"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
     "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-    "summary": "1816 stars | TypeScript | Turn your regular JavaScript code into a neural net.",
+    "summary": "1853 stars | TypeScript | Turn your regular JavaScript code into a neural net.",
     "source": "GitHub Trending",
     "url": "https://github.com/chenglou/handwired",
     "date": "2026-10-15",
     "tags": [
       "GitHub",
       "TypeScript"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
-    "title": "Supermedo/uncharted_pc - Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed",
-    "summary": "1594 stars | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Supermedo/uncharted_pc",
-    "date": "2026-10-15",
-    "tags": [
-      "GitHub",
-      "C++"
     ],
     "hot": true,
     "id": 19
@@ -312,6 +311,201 @@
     "id": 25
   },
   {
+    "title": "MiniMax M3.1 Flash",
+    "summary": "389 points | 168 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.minimax.io/blog/minimax-m31f",
+    "date": "2026-10-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 26
+  },
+  {
+    "title": "I built a drone with only one motor [video]",
+    "summary": "400 points | 85 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+    "date": "2026-10-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Wine ported to OpenBSD",
+    "summary": "508 points | 170 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "date": "2026-10-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "It's still ok to enjoy programming",
+    "summary": "453 points | 424 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+    "date": "2026-10-17",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Timestral: Mistral's time-series foundation models",
+    "summary": "556 points | 104 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mistral.ai/news/timestral/",
+    "date": "2026-10-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Starcraft: Ashfall",
+    "summary": "329 points | 112 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://starcraft-shooter-2026.pages.dev/",
+    "date": "2026-10-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Alternatives to animal testing are finally taking off",
+    "summary": "323 points | 97 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+    "date": "2026-10-19",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Lookout (for Slack)",
+    "summary": "New product launch on Product Hunt: Lookout (for Slack)",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/lookout-for-slack",
+    "date": "2026-10-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Kai Resolve by Gleap",
+    "summary": "New product launch on Product Hunt: Kai Resolve by Gleap",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/gleap",
+    "date": "2026-10-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Switch Lab",
+    "summary": "New product launch on Product Hunt: Switch Lab",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/switch-lab",
+    "date": "2026-10-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "walkai-talkai",
+    "summary": "New product launch on Product Hunt: walkai-talkai",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/walkai-talkai",
+    "date": "2026-10-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Framefields",
+    "summary": "New product launch on Product Hunt: Framefields",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/framefields",
+    "date": "2026-10-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "CoolDock",
+    "summary": "New product launch on Product Hunt: CoolDock",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/cooldock-2",
+    "date": "2026-10-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "feder-cr/git-ai - Git designed for AI agents.",
+    "summary": "2461 stars | Go | Git designed for AI agents.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/feder-cr/git-ai",
+    "date": "2026-10-15",
+    "tags": [
+      "GitHub",
+      "Go"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "ahwootech/BRUTAL - A free, open source C# framework for making games, or your own game engine. Dire",
+    "summary": "1997 stars | C# | A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Ki",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ahwootech/BRUTAL",
+    "date": "2026-10-14",
+    "tags": [
+      "GitHub",
+      "C#"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "Supermedo/uncharted_pc - Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed",
+    "summary": "1594 stars | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Supermedo/uncharted_pc",
+    "date": "2026-10-15",
+    "tags": [
+      "GitHub",
+      "C++"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
     "title": "Someone behind the software",
     "summary": "318 points | 136 comments on Hacker News",
     "source": "Hacker News",
@@ -321,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 26
+    "id": 42
   },
   {
     "title": "RepRapMicron",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Show HN: WhatsApp MCP running free on Cloudflare",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 44
   },
   {
     "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "I built a programming language that LLMs can't use",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Namecheap just seized and disabled all my domains",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 47
   },
   {
     "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
@@ -393,7 +587,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Vampire Crawlers™",
@@ -405,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "MeetPaw",
@@ -417,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "MyLens",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "shim-cli",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Krea 3",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "SpeechFast",
@@ -465,7 +659,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud",
@@ -478,7 +672,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
@@ -491,7 +685,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Gathin23/tv-vibehack - Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvO",
@@ -504,7 +698,7 @@
       "Java"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "Bleached corals thrive within days when touching healthy neighbour",
@@ -516,7 +710,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "DeepSeek-v4.1-Flash-1017",
@@ -528,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Show HN: High-quality duck audio synthesizer",
@@ -540,200 +734,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
-  },
-  {
-    "title": "You could have invented transformers from memory",
-    "summary": "505 points | 117 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://alexwang.ai/posts/associative-memory/",
-    "date": "2026-10-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Solar surpasses nuclear power globally for first time",
-    "summary": "484 points | 309 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-    "date": "2026-10-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-    "summary": "124 points | 12 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/mikroverk/esp32sim",
-    "date": "2026-10-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
-    "summary": "46 points | 8 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/Kapendev/parin",
-    "date": "2026-10-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "summary": "253 points | 77 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://llmspeed.dev/",
-    "date": "2026-10-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Earnote",
-    "summary": "New product launch on Product Hunt: Earnote",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/earnote",
-    "date": "2026-10-08",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Unfenced",
-    "summary": "New product launch on Product Hunt: Unfenced",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/unfenced",
-    "date": "2026-10-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Caldera",
-    "summary": "New product launch on Product Hunt: Caldera",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/caldera",
-    "date": "2026-10-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "GPU Terminal by Context.dev",
-    "summary": "New product launch on Product Hunt: GPU Terminal by Context.dev",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/context-dev",
-    "date": "2026-10-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Draper",
-    "summary": "New product launch on Product Hunt: Draper",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/draper",
-    "date": "2026-10-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Notion: Context for your agents",
-    "summary": "New product launch on Product Hunt: Notion: Context for your agents",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notion",
-    "date": "2026-10-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "jhaizhou-ops/d2r-mobile - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the ",
-    "summary": "3714 stars | C | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch",
-    "source": "GitHub Trending",
-    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-    "date": "2026-10-12",
-    "tags": [
-      "GitHub",
-      "C"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "deeplethe/solid-glass - A design system for AI applications. Material, physical, tactile, technical.",
-    "summary": "1738 stars | TypeScript | A design system for AI applications. Material, physical, tactile, technical.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/deeplethe/solid-glass",
-    "date": "2026-10-12",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Tesla Roadster",
-    "summary": "1192 points | 2157 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.tesla.com/roadster",
-    "date": "2026-10-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Claude reveals ECDSA curve origins",
-    "summary": "685 points | 273 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "date": "2026-10-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "summary": "404 points | 337 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "date": "2026-10-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
