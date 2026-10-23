@@ -1,10 +1,10 @@
 [
   {
-    "title": "Railway Security Disclosure",
-    "summary": "320 points | 157 comments on Hacker News",
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "summary": "1013 points | 365 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "date": "2026-10-21",
+    "url": "https://quad9.net/news/blog/au-revoir-france/",
+    "date": "2026-10-22",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Today's PHP security release, and how we're strengthening security",
-    "summary": "685 points | 336 comments on Hacker News",
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "summary": "311 points | 162 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-    "date": "2026-10-21",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "date": "2026-10-22",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "summary": "440 points | 147 comments on Hacker News",
+    "title": "Woman faces six years in prison over Cash App account she never opened",
+    "summary": "514 points | 532 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "date": "2026-10-21",
+    "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+    "date": "2026-10-22",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "summary": "390 points | 241 comments on Hacker News",
+    "title": "Run full iOS 16.5 firmware on Android Devices",
+    "summary": "329 points | 126 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "date": "2026-10-21",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "date": "2026-10-22",
     "tags": [
       "HN"
     ],
@@ -48,23 +48,23 @@
     "id": 4
   },
   {
-    "title": "The era of speedball capitalism has dawned",
-    "summary": "22 points | 5 comments on Hacker News",
+    "title": "Jailbreaking the Switch 2",
+    "summary": "730 points | 254 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
     "date": "2026-10-22",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-    "summary": "367 points | 47 comments on Hacker News",
+    "title": "What Is Gridifcation",
+    "summary": "408 points | 202 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-    "date": "2026-10-21",
+    "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+    "date": "2026-10-19",
     "tags": [
       "HN"
     ],
@@ -72,11 +72,11 @@
     "id": 6
   },
   {
-    "title": "EA is shutting down BioWare",
-    "summary": "537 points | 323 comments on Hacker News",
+    "title": "eMudhra to exit global SSL/TLS certificate business",
+    "summary": "940 points | 634 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-    "date": "2026-10-21",
+    "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+    "date": "2026-10-22",
     "tags": [
       "HN"
     ],
@@ -84,10 +84,10 @@
     "id": 7
   },
   {
-    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-    "summary": "172 points | 84 comments on Hacker News",
+    "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+    "summary": "82 points | 22 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "url": "https://uberblok.storagebits.workers.dev/",
     "date": "2026-10-21",
     "tags": [
       "HN"
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Needle",
-    "summary": "New product launch on Product Hunt: Needle",
+    "title": "Teclo",
+    "summary": "New product launch on Product Hunt: Teclo",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/needle-3",
-    "date": "2026-10-09",
+    "url": "https://www.producthunt.com/products/teclo",
+    "date": "2026-10-21",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Hotly",
-    "summary": "New product launch on Product Hunt: Hotly",
+    "title": "Tetriz Engg Intelligence + Connectors",
+    "summary": "New product launch on Product Hunt: Tetriz Engg Intelligence + Connectors",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hotly",
-    "date": "2026-10-20",
+    "url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
+    "date": "2026-10-22",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Woven Video",
-    "summary": "New product launch on Product Hunt: Woven Video",
+    "title": "Causo",
+    "summary": "New product launch on Product Hunt: Causo",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/woven-video",
-    "date": "2026-10-20",
+    "url": "https://www.producthunt.com/products/causo",
+    "date": "2026-10-19",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "UseIt Studio",
-    "summary": "New product launch on Product Hunt: UseIt Studio",
+    "title": "Claude Duet",
+    "summary": "New product launch on Product Hunt: Claude Duet",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
-    "date": "2026-10-14",
+    "url": "https://www.producthunt.com/products/claude",
+    "date": "2026-10-21",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "NativeShip",
-    "summary": "New product launch on Product Hunt: NativeShip",
+    "title": "Concierge by Juniors AI",
+    "summary": "New product launch on Product Hunt: Concierge by Juniors AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nativeship",
-    "date": "2026-10-08",
+    "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+    "date": "2026-10-11",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Notion Auto",
-    "summary": "New product launch on Product Hunt: Notion Auto",
+    "title": "ElevenLabs Realtime Translation",
+    "summary": "New product launch on Product Hunt: ElevenLabs Realtime Translation",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notion-99",
-    "date": "2026-10-20",
+    "url": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
+    "date": "2026-10-21",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "Gathin23/cleanyourtv - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-    "summary": "19578 stars | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "summary": "24363 stars | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
     "source": "GitHub Trending",
     "url": "https://github.com/Gathin23/cleanyourtv",
     "date": "2026-10-17",
@@ -181,21 +181,8 @@
     "id": 15
   },
   {
-    "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-    "summary": "18090 stars | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-    "source": "GitHub Trending",
-    "url": "https://github.com/deepseek-ai/DeepInfer",
-    "date": "2026-10-16",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "ly05010419/MacNativeGames - No description",
-    "summary": "3915 stars | C | ",
+    "summary": "4512 stars | C | ",
     "source": "GitHub Trending",
     "url": "https://github.com/ly05010419/MacNativeGames",
     "date": "2026-10-17",
@@ -204,11 +191,11 @@
       "C"
     ],
     "hot": true,
-    "id": 17
+    "id": 16
   },
   {
     "title": "simbasjungles/free-my-tv - A fast, ad-free home screen for Google TV. Open source, built with Claude Code. ",
-    "summary": "2768 stars | Java | A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+    "summary": "3475 stars | Java | A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
     "source": "GitHub Trending",
     "url": "https://github.com/simbasjungles/free-my-tv",
     "date": "2026-10-19",
@@ -217,11 +204,11 @@
       "Java"
     ],
     "hot": true,
-    "id": 18
+    "id": 17
   },
   {
     "title": "pengchujin/aerial-tv - 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X",
-    "summary": "2198 stars | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "summary": "3180 stars | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "source": "GitHub Trending",
     "url": "https://github.com/pengchujin/aerial-tv",
     "date": "2026-10-20",
@@ -230,17 +217,30 @@
       "Kotlin"
     ],
     "hot": true,
-    "id": 19
+    "id": 18
   },
   {
-    "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
-    "summary": "1999 stars | Python | 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+    "title": "xiaoyang111222/cn-math-taxonomy - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+    "summary": "2213 stars | Python | 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
     "source": "GitHub Trending",
     "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
     "date": "2026-10-18",
     "tags": [
       "GitHub",
       "Python"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "tek-sys-hub/Rubix-lang - The 100% Pure x86-64 Assembly Systems Language",
+    "summary": "1902 stars | Assembly | The 100% Pure x86-64 Assembly Systems Language",
+    "source": "GitHub Trending",
+    "url": "https://github.com/tek-sys-hub/Rubix-lang",
+    "date": "2026-10-19",
+    "tags": [
+      "GitHub",
+      "Assembly"
     ],
     "hot": true,
     "id": 20
@@ -285,6 +285,19 @@
     "id": 23
   },
   {
+    "title": "The Pulse: Anthropic builds its own source control system",
+    "summary": "Git had too many performance problems at 30,000 PRs per day, so Anthropic built its own. I talked with the team, including asking why they didn’t open source its new system, ‘Scion.’",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/",
+    "date": "2026-10-22",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
     "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
     "summary": "Ramp and Stripe built platforms for non-engineers to build internal websites and tools with, and both are taking off in those workplaces. I expect more companies to do the same.",
     "source": "Pragmatic Engineer",
@@ -295,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
   },
   {
     "title": "The Pulse: Firebase’s global outage & poor response",
@@ -308,7 +321,188 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 26
+  },
+  {
+    "title": "Railway Security Disclosure",
+    "summary": "320 points | 157 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "date": "2026-10-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "summary": "685 points | 336 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "date": "2026-10-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "summary": "440 points | 147 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "date": "2026-10-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "summary": "390 points | 241 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "date": "2026-10-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "The era of speedball capitalism has dawned",
+    "summary": "22 points | 5 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
+    "date": "2026-10-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+    "summary": "367 points | 47 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "date": "2026-10-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "EA is shutting down BioWare",
+    "summary": "537 points | 323 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "date": "2026-10-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "summary": "172 points | 84 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "date": "2026-10-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Needle",
+    "summary": "New product launch on Product Hunt: Needle",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/needle-3",
+    "date": "2026-10-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Hotly",
+    "summary": "New product launch on Product Hunt: Hotly",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/hotly",
+    "date": "2026-10-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Woven Video",
+    "summary": "New product launch on Product Hunt: Woven Video",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/woven-video",
+    "date": "2026-10-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "UseIt Studio",
+    "summary": "New product launch on Product Hunt: UseIt Studio",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
+    "date": "2026-10-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "NativeShip",
+    "summary": "New product launch on Product Hunt: NativeShip",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nativeship",
+    "date": "2026-10-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Notion Auto",
+    "summary": "New product launch on Product Hunt: Notion Auto",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/notion-99",
+    "date": "2026-10-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "summary": "18090 stars | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "source": "GitHub Trending",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "date": "2026-10-16",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
   },
   {
     "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
@@ -321,7 +515,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 26
+    "id": 42
   },
   {
     "title": "Show HN: SimCity, but with Permits",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Voxtral 3",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 44
   },
   {
     "title": "EMudhra Intermediate CA Compromise",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Apple broke an essential presentation feature of iPads",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Ofcom concedes defeat in 4chan case",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Tsrs: A Port of TypeScript to Rust",
@@ -393,7 +587,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Google Cloud outage affects almost all banking and other operations in Europe",
@@ -405,7 +599,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 49
   },
   {
     "title": "call4me",
@@ -417,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "Stage",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "The New Beings",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Sorcerer",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "Portlivo",
@@ -465,7 +659,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "/dev/null",
@@ -477,7 +671,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 55
   },
   {
     "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc",
@@ -490,7 +684,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -503,7 +697,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "MiniMax M3.1 Flash",
@@ -515,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "I built a drone with only one motor [video]",
@@ -527,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Wine ported to OpenBSD",
@@ -539,201 +733,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
-  },
-  {
-    "title": "It's still ok to enjoy programming",
-    "summary": "453 points | 424 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-    "date": "2026-10-17",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Timestral: Mistral's time-series foundation models",
-    "summary": "556 points | 104 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://mistral.ai/news/timestral/",
-    "date": "2026-10-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Starcraft: Ashfall",
-    "summary": "329 points | 112 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://starcraft-shooter-2026.pages.dev/",
-    "date": "2026-10-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Alternatives to animal testing are finally taking off",
-    "summary": "323 points | 97 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-    "date": "2026-10-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Lookout (for Slack)",
-    "summary": "New product launch on Product Hunt: Lookout (for Slack)",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/lookout-for-slack",
-    "date": "2026-10-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Kai Resolve by Gleap",
-    "summary": "New product launch on Product Hunt: Kai Resolve by Gleap",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gleap",
-    "date": "2026-10-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Switch Lab",
-    "summary": "New product launch on Product Hunt: Switch Lab",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/switch-lab",
-    "date": "2026-10-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "walkai-talkai",
-    "summary": "New product launch on Product Hunt: walkai-talkai",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/walkai-talkai",
-    "date": "2026-10-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Framefields",
-    "summary": "New product launch on Product Hunt: Framefields",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/framefields",
-    "date": "2026-10-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "CoolDock",
-    "summary": "New product launch on Product Hunt: CoolDock",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cooldock-2",
-    "date": "2026-10-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "feder-cr/git-ai - Git designed for AI agents.",
-    "summary": "2461 stars | Go | Git designed for AI agents.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/feder-cr/git-ai",
-    "date": "2026-10-15",
-    "tags": [
-      "GitHub",
-      "Go"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "ahwootech/BRUTAL - A free, open source C# framework for making games, or your own game engine. Dire",
-    "summary": "1997 stars | C# | A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Ki",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ahwootech/BRUTAL",
-    "date": "2026-10-14",
-    "tags": [
-      "GitHub",
-      "C#"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Supermedo/uncharted_pc - Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed",
-    "summary": "1594 stars | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Supermedo/uncharted_pc",
-    "date": "2026-10-15",
-    "tags": [
-      "GitHub",
-      "C++"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Someone behind the software",
-    "summary": "318 points | 136 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-    "date": "2026-10-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "RepRapMicron",
-    "summary": "334 points | 54 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-    "date": "2026-10-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "summary": "43 points | 30 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/finereli/whatsapp-mcp",
-    "date": "2026-10-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
