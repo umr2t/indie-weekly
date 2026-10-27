@@ -1,10 +1,10 @@
 [
   {
-    "title": "Dolly Parton's Imagination Library",
-    "summary": "390 points | 68 comments on Hacker News",
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "summary": "533 points | 224 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://imaginationlibrary.com/",
-    "date": "2026-10-25",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "date": "2026-10-26",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-    "summary": "443 points | 210 comments on Hacker News",
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "summary": "342 points | 136 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://lynchlab.net/llm-skin-cancer",
-    "date": "2026-10-25",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "date": "2026-10-26",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-    "summary": "392 points | 197 comments on Hacker News",
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "summary": "578 points | 83 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://talkweb.eu/openweb/4558/",
-    "date": "2026-10-25",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "date": "2026-10-26",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-    "summary": "394 points | 105 comments on Hacker News",
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "summary": "315 points | 194 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-    "date": "2026-10-25",
+    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "date": "2026-10-26",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "We should be more ambitious with the software we build",
-    "summary": "746 points | 695 comments on Hacker News",
+    "title": "CSS-Tricks has a new owner",
+    "summary": "393 points | 90 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://danluu.com/ambitious/",
-    "date": "2026-10-24",
+    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "date": "2026-10-26",
     "tags": [
       "HN"
     ],
@@ -60,35 +60,35 @@
     "id": 5
   },
   {
-    "title": "Reverse engineering a Beyblade launch tracker",
-    "summary": "35 points | 4 comments on Hacker News",
+    "title": "GPT-6.1 Terra",
+    "summary": "522 points | 329 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
-    "date": "2026-10-23",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "date": "2026-10-26",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-    "summary": "46 points | 23 comments on Hacker News",
+    "title": "Anthropic S-1",
+    "summary": "1496 points | 1463 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://huggingface.co/destined/hurston-1",
-    "date": "2026-10-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "date": "2026-10-26",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Root shell on Samsung TV",
-    "summary": "772 points | 585 comments on Hacker News",
+    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "summary": "791 points | 703 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-    "date": "2026-10-24",
+    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+    "date": "2026-10-26",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Specsight",
-    "summary": "New product launch on Product Hunt: Specsight",
+    "title": "Strawberry 1.0",
+    "summary": "100h/week Discussion | Link",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/specsight",
-    "date": "2026-10-18",
+    "url": "https://www.producthunt.com/products/strawberry",
+    "date": "2026-10-12",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Clips by Plastic",
-    "summary": "New product launch on Product Hunt: Clips by Plastic",
+    "title": "omerta",
+    "summary": "New product launch on Product Hunt: omerta",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clips-by-plastic",
-    "date": "2026-10-17",
+    "url": "https://www.producthunt.com/products/omerta",
+    "date": "2026-10-25",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Papermark Data Rooms",
-    "summary": "New product launch on Product Hunt: Papermark Data Rooms",
+    "title": "ManyAgents",
+    "summary": "New product launch on Product Hunt: ManyAgents",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/papermark-2",
-    "date": "2026-10-24",
+    "url": "https://www.producthunt.com/products/manyagents",
+    "date": "2026-10-25",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Yourcast 2.0",
-    "summary": "New product launch on Product Hunt: Yourcast 2.0",
+    "title": "Flipcorder",
+    "summary": "New product launch on Product Hunt: Flipcorder",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/yourcast",
-    "date": "2026-10-24",
+    "url": "https://www.producthunt.com/products/flipcorder",
+    "date": "2026-10-10",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Badgey",
-    "summary": "New product launch on Product Hunt: Badgey",
+    "title": "Kiwi",
+    "summary": "New product launch on Product Hunt: Kiwi",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/badgey",
-    "date": "2026-10-08",
+    "url": "https://www.producthunt.com/products/kiwi-7",
+    "date": "2026-10-24",
     "tags": [
       "Product Launch"
     ],
@@ -156,10 +156,10 @@
     "id": 13
   },
   {
-    "title": "Llama Windows",
-    "summary": "New product launch on Product Hunt: Llama Windows",
+    "title": "2G",
+    "summary": "New product launch on Product Hunt: 2G",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/llama-windows",
+    "url": "https://www.producthunt.com/products/2g",
     "date": "2026-10-24",
     "tags": [
       "Product Launch"
@@ -168,21 +168,8 @@
     "id": 14
   },
   {
-    "title": "pengchujin/aerial-tv - 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X",
-    "summary": "5067 stars | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/pengchujin/aerial-tv",
-    "date": "2026-10-20",
-    "tags": [
-      "GitHub",
-      "Kotlin"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "JustAResearcher/gpu-unlock-ada - GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa",
-    "summary": "2702 stars | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "summary": "3887 stars | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
     "source": "GitHub Trending",
     "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
     "date": "2026-10-23",
@@ -191,11 +178,24 @@
       "C"
     ],
     "hot": true,
+    "id": 15
+  },
+  {
+    "title": "wesbos/3d-model-anything - Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor",
+    "summary": "2083 stars | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/wesbos/3d-model-anything",
+    "date": "2026-10-21",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
     "id": 16
   },
   {
     "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t",
-    "summary": "1944 stars | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted",
+    "summary": "2061 stars | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted",
     "source": "GitHub Trending",
     "url": "https://github.com/xevrion/hatchzip",
     "date": "2026-10-21",
@@ -207,21 +207,21 @@
     "id": 17
   },
   {
-    "title": "wesbos/3d-model-anything - Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor",
-    "summary": "1936 stars | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+    "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "summary": "2047 stars | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
     "source": "GitHub Trending",
-    "url": "https://github.com/wesbos/3d-model-anything",
-    "date": "2026-10-21",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "date": "2026-10-24",
     "tags": [
       "GitHub",
-      "Swift"
+      "Python"
     ],
     "hot": true,
     "id": 18
   },
   {
     "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec",
-    "summary": "1792 stars | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "summary": "1834 stars | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
     "source": "GitHub Trending",
     "url": "https://github.com/ikow/php2shell-poc",
     "date": "2026-10-21",
@@ -233,14 +233,14 @@
     "id": 19
   },
   {
-    "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news,",
-    "summary": "1648 stars | Python | 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+    "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and",
+    "summary": "1781 stars | TypeScript | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
     "source": "GitHub Trending",
-    "url": "https://github.com/Jakeschincariol/day-trader-skill",
-    "date": "2026-10-20",
+    "url": "https://github.com/designfuchen/word-atlas",
+    "date": "2026-10-25",
     "tags": [
       "GitHub",
-      "Python"
+      "TypeScript"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,200 @@
     "id": 26
   },
   {
+    "title": "Dolly Parton's Imagination Library",
+    "summary": "390 points | 68 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://imaginationlibrary.com/",
+    "date": "2026-10-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "summary": "443 points | 210 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "date": "2026-10-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "summary": "392 points | 197 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://talkweb.eu/openweb/4558/",
+    "date": "2026-10-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+    "summary": "394 points | 105 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+    "date": "2026-10-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "We should be more ambitious with the software we build",
+    "summary": "746 points | 695 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://danluu.com/ambitious/",
+    "date": "2026-10-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Reverse engineering a Beyblade launch tracker",
+    "summary": "35 points | 4 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+    "date": "2026-10-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "summary": "46 points | 23 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/destined/hurston-1",
+    "date": "2026-10-25",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Root shell on Samsung TV",
+    "summary": "772 points | 585 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+    "date": "2026-10-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Specsight",
+    "summary": "New product launch on Product Hunt: Specsight",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/specsight",
+    "date": "2026-10-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Clips by Plastic",
+    "summary": "New product launch on Product Hunt: Clips by Plastic",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/clips-by-plastic",
+    "date": "2026-10-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Papermark Data Rooms",
+    "summary": "New product launch on Product Hunt: Papermark Data Rooms",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/papermark-2",
+    "date": "2026-10-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Yourcast 2.0",
+    "summary": "New product launch on Product Hunt: Yourcast 2.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/yourcast",
+    "date": "2026-10-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Badgey",
+    "summary": "New product launch on Product Hunt: Badgey",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/badgey",
+    "date": "2026-10-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Llama Windows",
+    "summary": "New product launch on Product Hunt: Llama Windows",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/llama-windows",
+    "date": "2026-10-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "pengchujin/aerial-tv - 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X",
+    "summary": "5067 stars | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/pengchujin/aerial-tv",
+    "date": "2026-10-20",
+    "tags": [
+      "GitHub",
+      "Kotlin"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news,",
+    "summary": "1648 stars | Python | 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "date": "2026-10-20",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
     "title": "Show HN: Steal My Bitcoin",
     "summary": "410 points | 248 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "I Built a Stereo Vision Board for Hardware Hackers",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "No signs of AI payoff outside the tech sector",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Bringing uv and ty together",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Penta",
@@ -393,7 +587,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 32
+    "id": 48
   },
   {
     "title": "LinkIntel",
@@ -405,7 +599,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 33
+    "id": 49
   },
   {
     "title": "1Password for Agents",
@@ -417,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 50
   },
   {
     "title": "zCAD AI",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "Basedash Scheduled CSV Exports",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "Shedi",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "simbasjungles/free-my-tv - A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One butto",
@@ -466,7 +660,7 @@
       "Java"
     ],
     "hot": true,
-    "id": 38
+    "id": 54
   },
   {
     "title": "JoasASantos/REA-Prompts - REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out ",
@@ -479,7 +673,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 39
+    "id": 55
   },
   {
     "title": "EthanArbuckle/fairplay-decrypt - Offline FairPlay App Store IPA decryption with independent key derivation",
@@ -492,7 +686,7 @@
       "C"
     ],
     "hot": true,
-    "id": 40
+    "id": 56
   },
   {
     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
@@ -504,7 +698,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "Apple Music 404 Not Found",
@@ -516,7 +710,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "Today, we hacked what we'd set out to hack: the iPhone",
@@ -528,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Canadians are running out of time to oppose Bill C-22",
@@ -536,199 +730,6 @@
     "source": "Hacker News",
     "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
     "date": "2026-10-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "summary": "40 points | 6 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://corgi.computer/",
-    "date": "2026-10-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "Show HN: Impossible Machines: declaratively program the physical world",
-    "summary": "67 points | 17 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.impossiblemachines.xyz",
-    "date": "2026-10-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Show HN: Swurf – Swipe through the real web",
-    "summary": "60 points | 29 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://swurf.org/",
-    "date": "2026-10-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Product Hunt Visual Launch Editor",
-    "summary": "New product launch on Product Hunt: Product Hunt Visual Launch Editor",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/producthunt",
-    "date": "2026-10-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "MOVO AI",
-    "summary": "New product launch on Product Hunt: MOVO AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/movo-ai",
-    "date": "2026-09-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Gerty",
-    "summary": "New product launch on Product Hunt: Gerty",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gerty",
-    "date": "2026-10-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Dots",
-    "summary": "New product launch on Product Hunt: Dots",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dots-7",
-    "date": "2026-10-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Peras",
-    "summary": "New product launch on Product Hunt: Peras",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/peras",
-    "date": "2026-10-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Termi Protocol",
-    "summary": "New product launch on Product Hunt: Termi Protocol",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/termi-protocol",
-    "date": "2026-10-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "xiaoyang111222/cn-math-taxonomy - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-    "summary": "2843 stars | Python | 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-    "date": "2026-10-18",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "Quad9 (DNS Resolver) to Exit France",
-    "summary": "1013 points | 365 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://quad9.net/news/blog/au-revoir-france/",
-    "date": "2026-10-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "summary": "311 points | 162 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/NVIDIA/OpenShell",
-    "date": "2026-10-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Woman faces six years in prison over Cash App account she never opened",
-    "summary": "514 points | 532 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-    "date": "2026-10-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Run full iOS 16.5 firmware on Android Devices",
-    "summary": "329 points | 126 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-    "date": "2026-10-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Jailbreaking the Switch 2",
-    "summary": "730 points | 254 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-    "date": "2026-10-22",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "What Is Gridifcation",
-    "summary": "408 points | 202 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-    "date": "2026-10-19",
     "tags": [
       "HN"
     ],
