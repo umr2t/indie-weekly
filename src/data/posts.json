@@ -1,10 +1,10 @@
 [
   {
-    "title": "Three new discoveries in mathematics, computer science, and physics",
-    "summary": "533 points | 224 comments on Hacker News",
+    "title": "Genie 4",
+    "summary": "758 points | 456 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "date": "2026-10-26",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "date": "2026-10-27",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "The Exponential Time Hypothesis Is False [pdf]",
-    "summary": "342 points | 136 comments on Hacker News",
+    "title": "Ghostty 1.4",
+    "summary": "810 points | 244 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "date": "2026-10-26",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "date": "2026-10-27",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-    "summary": "578 points | 83 comments on Hacker News",
+    "title": "Python's experimental JIT to be removed",
+    "summary": "455 points | 244 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "date": "2026-10-26",
+    "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+    "date": "2026-10-27",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Oldest GUI application that still runs on Windows 11",
-    "summary": "315 points | 194 comments on Hacker News",
+    "title": "New iMac with M6",
+    "summary": "317 points | 383 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-    "date": "2026-10-26",
+    "url": "https://www.apple.com/imac/",
+    "date": "2026-10-27",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "CSS-Tricks has a new owner",
-    "summary": "393 points | 90 comments on Hacker News",
+    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+    "summary": "811 points | 297 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-    "date": "2026-10-26",
+    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+    "date": "2026-10-27",
     "tags": [
       "HN"
     ],
@@ -60,47 +60,47 @@
     "id": 5
   },
   {
-    "title": "GPT-6.1 Terra",
-    "summary": "522 points | 329 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "title": "Nuvio 5.0",
+    "summary": "New product launch on Product Hunt: Nuvio 5.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nuvio",
     "date": "2026-10-26",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "Anthropic S-1",
-    "summary": "1496 points | 1463 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "title": "iPad mini 8",
+    "summary": "New product launch on Product Hunt: iPad mini 8",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/apple",
     "date": "2026-10-26",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-    "summary": "791 points | 703 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-    "date": "2026-10-26",
+    "title": "Orbit",
+    "summary": "New product launch on Product Hunt: Orbit",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/orbit-app-blocker",
+    "date": "2026-10-14",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Strawberry 1.0",
-    "summary": "100h/week Discussion | Link",
+    "title": "fswitcher",
+    "summary": "New product launch on Product Hunt: fswitcher",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/strawberry",
-    "date": "2026-10-12",
+    "url": "https://www.producthunt.com/products/fswitcher",
+    "date": "2026-10-26",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "omerta",
-    "summary": "New product launch on Product Hunt: omerta",
+    "title": "Notra",
+    "summary": "New product launch on Product Hunt: Notra",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/omerta",
-    "date": "2026-10-25",
+    "url": "https://www.producthunt.com/products/notra-3",
+    "date": "2026-10-23",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "ManyAgents",
-    "summary": "New product launch on Product Hunt: ManyAgents",
+    "title": "Off Grid AI",
+    "summary": "New product launch on Product Hunt: Off Grid AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/manyagents",
-    "date": "2026-10-25",
+    "url": "https://www.producthunt.com/products/off-grid-ai",
+    "date": "2026-10-26",
     "tags": [
       "Product Launch"
     ],
@@ -132,44 +132,8 @@
     "id": 11
   },
   {
-    "title": "Flipcorder",
-    "summary": "New product launch on Product Hunt: Flipcorder",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/flipcorder",
-    "date": "2026-10-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 12
-  },
-  {
-    "title": "Kiwi",
-    "summary": "New product launch on Product Hunt: Kiwi",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kiwi-7",
-    "date": "2026-10-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 13
-  },
-  {
-    "title": "2G",
-    "summary": "New product launch on Product Hunt: 2G",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/2g",
-    "date": "2026-10-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "JustAResearcher/gpu-unlock-ada - GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa",
-    "summary": "3887 stars | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "summary": "4299 stars | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
     "source": "GitHub Trending",
     "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
     "date": "2026-10-23",
@@ -178,37 +142,11 @@
       "C"
     ],
     "hot": true,
-    "id": 15
-  },
-  {
-    "title": "wesbos/3d-model-anything - Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor",
-    "summary": "2083 stars | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/wesbos/3d-model-anything",
-    "date": "2026-10-21",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
-    "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t",
-    "summary": "2061 stars | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted",
-    "source": "GitHub Trending",
-    "url": "https://github.com/xevrion/hatchzip",
-    "date": "2026-10-21",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 17
+    "id": 12
   },
   {
     "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "summary": "2047 stars | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "summary": "3462 stars | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
     "source": "GitHub Trending",
     "url": "https://github.com/rddmwmddr/android-ad-cleaner",
     "date": "2026-10-24",
@@ -217,24 +155,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 18
-  },
-  {
-    "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec",
-    "summary": "1834 stars | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/ikow/php2shell-poc",
-    "date": "2026-10-21",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 19
+    "id": 13
   },
   {
     "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and",
-    "summary": "1781 stars | TypeScript | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+    "summary": "2627 stars | TypeScript | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
     "source": "GitHub Trending",
     "url": "https://github.com/designfuchen/word-atlas",
     "date": "2026-10-25",
@@ -243,7 +168,46 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 20
+    "id": 14
+  },
+  {
+    "title": "unclebob/ub-mode - No description",
+    "summary": "2460 stars | Unknown | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/unclebob/ub-mode",
+    "date": "2026-10-25",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 15
+  },
+  {
+    "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
+    "summary": "2023 stars | Python | The agent skills I use every day. Works with Claude Code and Codex.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/t3dotgg/tstack",
+    "date": "2026-10-24",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 16
+  },
+  {
+    "title": "oosexgang/hackios-xnu-kernel - No description",
+    "summary": "1824 stars | C | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "date": "2026-10-22",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 17
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +220,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 18
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +233,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 19
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +246,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 20
   },
   {
     "title": "The Pulse: Anthropic builds its own source control system",
@@ -295,7 +259,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 21
   },
   {
     "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
@@ -308,7 +272,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 22
   },
   {
     "title": "The Pulse: Firebase’s global outage & poor response",
@@ -321,7 +285,214 @@
       "Career"
     ],
     "hot": false,
+    "id": 23
+  },
+  {
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "summary": "533 points | 224 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "date": "2026-10-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 24
+  },
+  {
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "summary": "342 points | 136 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "date": "2026-10-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 25
+  },
+  {
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "summary": "578 points | 83 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "date": "2026-10-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "summary": "315 points | 194 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "date": "2026-10-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "CSS-Tricks has a new owner",
+    "summary": "393 points | 90 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "date": "2026-10-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "GPT-6.1 Terra",
+    "summary": "522 points | 329 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "date": "2026-10-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Anthropic S-1",
+    "summary": "1496 points | 1463 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "date": "2026-10-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "summary": "791 points | 703 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+    "date": "2026-10-26",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Strawberry 1.0",
+    "summary": "100h/week Discussion | Link",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/strawberry",
+    "date": "2026-10-12",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "omerta",
+    "summary": "New product launch on Product Hunt: omerta",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/omerta",
+    "date": "2026-10-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "ManyAgents",
+    "summary": "New product launch on Product Hunt: ManyAgents",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/manyagents",
+    "date": "2026-10-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Flipcorder",
+    "summary": "New product launch on Product Hunt: Flipcorder",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/flipcorder",
+    "date": "2026-10-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Kiwi",
+    "summary": "New product launch on Product Hunt: Kiwi",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/kiwi-7",
+    "date": "2026-10-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "2G",
+    "summary": "New product launch on Product Hunt: 2G",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/2g",
+    "date": "2026-10-24",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "wesbos/3d-model-anything - Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor",
+    "summary": "2083 stars | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/wesbos/3d-model-anything",
+    "date": "2026-10-21",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
+    "id": 38
+  },
+  {
+    "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t",
+    "summary": "2061 stars | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted",
+    "source": "GitHub Trending",
+    "url": "https://github.com/xevrion/hatchzip",
+    "date": "2026-10-21",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 39
+  },
+  {
+    "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec",
+    "summary": "1834 stars | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "date": "2026-10-21",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "Dolly Parton's Imagination Library",
@@ -333,7 +504,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 41
   },
   {
     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
@@ -345,7 +516,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
@@ -357,7 +528,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 43
   },
   {
     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
@@ -369,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 44
   },
   {
     "title": "We should be more ambitious with the software we build",
@@ -381,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 45
   },
   {
     "title": "Reverse engineering a Beyblade launch tracker",
@@ -393,7 +564,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 46
   },
   {
     "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
@@ -405,7 +576,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 47
   },
   {
     "title": "Root shell on Samsung TV",
@@ -417,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 48
   },
   {
     "title": "Specsight",
@@ -429,7 +600,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "Clips by Plastic",
@@ -441,7 +612,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "Papermark Data Rooms",
@@ -453,7 +624,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 51
   },
   {
     "title": "Yourcast 2.0",
@@ -465,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 52
   },
   {
     "title": "Badgey",
@@ -477,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 53
   },
   {
     "title": "Llama Windows",
@@ -489,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 54
   },
   {
     "title": "pengchujin/aerial-tv - 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X",
@@ -502,7 +673,7 @@
       "Kotlin"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news,",
@@ -515,7 +686,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 42
+    "id": 56
   },
   {
     "title": "Show HN: Steal My Bitcoin",
@@ -527,7 +698,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 57
   },
   {
     "title": "I Built a Stereo Vision Board for Hardware Hackers",
@@ -539,7 +710,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 44
+    "id": 58
   },
   {
     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -551,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 59
   },
   {
     "title": "No signs of AI payoff outside the tech sector",
@@ -559,177 +730,6 @@
     "source": "Hacker News",
     "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
     "date": "2026-10-24",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Bringing uv and ty together",
-    "summary": "303 points | 110 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://astral.sh/blog/uv-ty-integration",
-    "date": "2026-10-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Penta",
-    "summary": "New product launch on Product Hunt: Penta",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/penta-cd-player-changer",
-    "date": "2026-10-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "LinkIntel",
-    "summary": "New product launch on Product Hunt: LinkIntel",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/linkintel",
-    "date": "2026-10-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "1Password for Agents",
-    "summary": "New product launch on Product Hunt: 1Password for Agents",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/1password",
-    "date": "2026-10-22",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "zCAD AI",
-    "summary": "New product launch on Product Hunt: zCAD AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/zcad-ai",
-    "date": "2026-10-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Basedash Scheduled CSV Exports",
-    "summary": "New product launch on Product Hunt: Basedash Scheduled CSV Exports",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basedash",
-    "date": "2026-10-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Shedi",
-    "summary": "New product launch on Product Hunt: Shedi",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/shedi",
-    "date": "2026-10-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "simbasjungles/free-my-tv - A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One butto",
-    "summary": "4311 stars | Java | A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/simbasjungles/free-my-tv",
-    "date": "2026-10-19",
-    "tags": [
-      "GitHub",
-      "Java"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "JoasASantos/REA-Prompts - REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out ",
-    "summary": "2110 stars | Unknown | REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-    "source": "GitHub Trending",
-    "url": "https://github.com/JoasASantos/REA-Prompts",
-    "date": "2026-10-19",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "EthanArbuckle/fairplay-decrypt - Offline FairPlay App Store IPA decryption with independent key derivation",
-    "summary": "1973 stars | C | Offline FairPlay App Store IPA decryption with independent key derivation",
-    "source": "GitHub Trending",
-    "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-    "date": "2026-10-19",
-    "tags": [
-      "GitHub",
-      "C"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-    "summary": "737 points | 461 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "date": "2026-10-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Apple Music 404 Not Found",
-    "summary": "603 points | 194 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://music.apple.com/this-url-doesnt-exist",
-    "date": "2026-10-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Today, we hacked what we'd set out to hack: the iPhone",
-    "summary": "757 points | 510 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.calif.io/p/iphone",
-    "date": "2026-10-23",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Canadians are running out of time to oppose Bill C-22",
-    "summary": "339 points | 171 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-    "date": "2026-10-22",
     "tags": [
       "HN"
     ],
