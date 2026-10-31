@@ -1,22 +1,22 @@
 [
   {
-    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-    "summary": "829 points | 494 comments on Hacker News",
+    "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+    "summary": "84 points | 24 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-    "date": "2026-10-29",
+    "url": "https://tng.episodle.com/",
+    "date": "2026-10-30",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 1
   },
   {
-    "title": "We're releasing the weights of Mistral Large 4",
-    "summary": "1244 points | 348 comments on Hacker News",
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "summary": "797 points | 499 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://mistral.ai/news/mistral-large-4-oss/",
-    "date": "2026-10-29",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "date": "2026-10-30",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "H.264 Is Magic (2016)",
-    "summary": "352 points | 130 comments on Hacker News",
+    "title": "Northflank Breached",
+    "summary": "370 points | 281 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://sidbala.com/h-264-is-magic/",
-    "date": "2026-10-29",
+    "url": "https://status.northflank.com",
+    "date": "2026-10-30",
     "tags": [
       "HN"
     ],
@@ -36,23 +36,23 @@
     "id": 3
   },
   {
-    "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-    "summary": "7 points | 0 comments on Hacker News",
+    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+    "summary": "344 points | 235 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/Millillion/lasm",
+    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
     "date": "2026-10-30",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 4
   },
   {
-    "title": "Show HN: I Turned DOOM into a Transformer",
-    "summary": "55 points | 11 comments on Hacker News",
+    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+    "summary": "199 points | 113 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/mottopanikeiku/doomformer",
-    "date": "2026-10-29",
+    "url": "https://github.com/dbreunig/nesformer",
+    "date": "2026-10-30",
     "tags": [
       "HN"
     ],
@@ -60,23 +60,23 @@
     "id": 5
   },
   {
-    "title": "DoorDash to acquire Instacart",
-    "summary": "441 points | 609 comments on Hacker News",
+    "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+    "summary": "12 points | 1 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+    "url": "https://github.com/arterialist/kube32",
     "date": "2026-10-29",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 6
   },
   {
-    "title": "LLM Voice",
-    "summary": "368 points | 197 comments on Hacker News",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "summary": "522 points | 388 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "date": "2026-10-29",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "date": "2026-10-30",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Patrick Stewart has died",
-    "summary": "2513 points | 538 comments on Hacker News",
+    "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+    "summary": "28 points | 8 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-    "date": "2026-10-29",
+    "url": "https://sketch.wakeshift.ai/games/q5ucru",
+    "date": "2026-10-30",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Scape",
-    "summary": "New product launch on Product Hunt: Scape",
+    "title": "StereoLift Live",
+    "summary": "New product launch on Product Hunt: StereoLift Live",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/scape-4",
-    "date": "2026-10-21",
+    "url": "https://www.producthunt.com/products/stereolift-live",
+    "date": "2026-10-25",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Kin",
-    "summary": "New product launch on Product Hunt: Kin",
+    "title": "Cluinn",
+    "summary": "New product launch on Product Hunt: Cluinn",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kin-6",
-    "date": "2026-10-28",
+    "url": "https://www.producthunt.com/products/cluinn",
+    "date": "2026-10-16",
     "tags": [
       "Product Launch"
     ],
@@ -120,10 +120,10 @@
     "id": 10
   },
   {
-    "title": "Reset Alerts",
-    "summary": "New product launch on Product Hunt: Reset Alerts",
+    "title": "Teable Mobile",
+    "summary": "New product launch on Product Hunt: Teable Mobile",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/reset-alerts",
+    "url": "https://www.producthunt.com/products/teable-4",
     "date": "2026-10-27",
     "tags": [
       "Product Launch"
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Floot in ChatGPT",
-    "summary": "New product launch on Product Hunt: Floot in ChatGPT",
+    "title": "Faylee",
+    "summary": "New product launch on Product Hunt: Faylee",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/floot",
-    "date": "2026-10-28",
+    "url": "https://www.producthunt.com/products/faylee",
+    "date": "2026-10-29",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Polylane for ChatGPT",
-    "summary": "New product launch on Product Hunt: Polylane for ChatGPT",
+    "title": "Nocto",
+    "summary": "New product launch on Product Hunt: Nocto",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/polylane",
-    "date": "2026-10-28",
+    "url": "https://www.producthunt.com/products/nocto",
+    "date": "2026-10-29",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "MAO",
-    "summary": "New product launch on Product Hunt: MAO",
+    "title": "Knocket AI",
+    "summary": "New product launch on Product Hunt: Knocket AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
-    "date": "2026-10-28",
+    "url": "https://www.producthunt.com/products/knocket-ai",
+    "date": "2026-10-26",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "unclebob/ub-mode - No description",
-    "summary": "4794 stars | Unknown | ",
+    "summary": "5418 stars | Unknown | ",
     "source": "GitHub Trending",
     "url": "https://github.com/unclebob/ub-mode",
     "date": "2026-10-25",
@@ -181,21 +181,21 @@
     "id": 15
   },
   {
-    "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "summary": "4785 stars | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "summary": "4026 stars | TypeScript | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "source": "GitHub Trending",
-    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-    "date": "2026-10-24",
+    "url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "date": "2026-10-27",
     "tags": [
       "GitHub",
-      "Python"
+      "TypeScript"
     ],
     "hot": true,
     "id": 16
   },
   {
     "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works o",
-    "summary": "3640 stars | Python | Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+    "summary": "3882 stars | Python | Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
     "source": "GitHub Trending",
     "url": "https://github.com/interplains/Zero-Breach-Toolkit",
     "date": "2026-10-25",
@@ -207,21 +207,8 @@
     "id": 17
   },
   {
-    "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-    "summary": "3284 stars | HTML | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-    "source": "GitHub Trending",
-    "url": "https://github.com/anhao/ai-pose-gallery-zh",
-    "date": "2026-10-27",
-    "tags": [
-      "GitHub",
-      "HTML"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
     "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and",
-    "summary": "3260 stars | TypeScript | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+    "summary": "3392 stars | TypeScript | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
     "source": "GitHub Trending",
     "url": "https://github.com/designfuchen/word-atlas",
     "date": "2026-10-25",
@@ -230,17 +217,30 @@
       "TypeScript"
     ],
     "hot": true,
+    "id": 18
+  },
+  {
+    "title": "ccch1mneyyy/dsh-Go - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "summary": "2643 stars | Dart | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ccch1mneyyy/dsh-Go",
+    "date": "2026-10-25",
+    "tags": [
+      "GitHub",
+      "Dart"
+    ],
+    "hot": true,
     "id": 19
   },
   {
-    "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
-    "summary": "2406 stars | Python | The agent skills I use every day. Works with Claude Code and Codex.",
+    "title": "valentderah/totk-pc-recomp - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind",
+    "summary": "1683 stars | C | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
     "source": "GitHub Trending",
-    "url": "https://github.com/t3dotgg/tstack",
-    "date": "2026-10-24",
+    "url": "https://github.com/valentderah/totk-pc-recomp",
+    "date": "2026-10-29",
     "tags": [
       "GitHub",
-      "Python"
+      "C"
     ],
     "hot": true,
     "id": 20
@@ -285,6 +285,19 @@
     "id": 23
   },
   {
+    "title": "The Pulse: Time to rethink software security because of AI?",
+    "summary": "A month’s worth of security breaches in a single day – will things get worse before they improve?",
+    "source": "Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/",
+    "date": "2026-10-30",
+    "tags": [
+      "Tech",
+      "Career"
+    ],
+    "hot": false,
+    "id": 24
+  },
+  {
     "title": "The Pulse: Anthropic builds its own source control system",
     "summary": "Git had too many performance problems at 30,000 PRs per day, so Anthropic built its own. I talked with the team, including asking why they didn’t open source its new system, ‘Scion.’",
     "source": "Pragmatic Engineer",
@@ -295,7 +308,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 25
   },
   {
     "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
@@ -308,7 +321,201 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 26
+  },
+  {
+    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+    "summary": "829 points | 494 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "date": "2026-10-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "We're releasing the weights of Mistral Large 4",
+    "summary": "1244 points | 348 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "date": "2026-10-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "H.264 Is Magic (2016)",
+    "summary": "352 points | 130 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://sidbala.com/h-264-is-magic/",
+    "date": "2026-10-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+    "summary": "7 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/Millillion/lasm",
+    "date": "2026-10-30",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "summary": "55 points | 11 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "date": "2026-10-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "DoorDash to acquire Instacart",
+    "summary": "441 points | 609 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+    "date": "2026-10-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "LLM Voice",
+    "summary": "368 points | 197 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "date": "2026-10-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Patrick Stewart has died",
+    "summary": "2513 points | 538 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "date": "2026-10-29",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Scape",
+    "summary": "New product launch on Product Hunt: Scape",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/scape-4",
+    "date": "2026-10-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Kin",
+    "summary": "New product launch on Product Hunt: Kin",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/kin-6",
+    "date": "2026-10-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Reset Alerts",
+    "summary": "New product launch on Product Hunt: Reset Alerts",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/reset-alerts",
+    "date": "2026-10-27",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Floot in ChatGPT",
+    "summary": "New product launch on Product Hunt: Floot in ChatGPT",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/floot",
+    "date": "2026-10-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Polylane for ChatGPT",
+    "summary": "New product launch on Product Hunt: Polylane for ChatGPT",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/polylane",
+    "date": "2026-10-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "MAO",
+    "summary": "New product launch on Product Hunt: MAO",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
+    "date": "2026-10-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "summary": "4785 stars | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "source": "GitHub Trending",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "date": "2026-10-24",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
+    "summary": "2406 stars | Python | The agent skills I use every day. Works with Claude Code and Codex.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/t3dotgg/tstack",
+    "date": "2026-10-24",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 42
   },
   {
     "title": "The Pulse: Firebase’s global outage & poor response",
@@ -321,7 +528,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 26
+    "id": 43
   },
   {
     "title": "Why is this fingerprinting script creating bioweapons?",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "CNC Stone Carving",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Gemini 4 Carbon",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 46
   },
   {
     "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 47
   },
   {
     "title": "MacBook Pro with PROLED XDR Display and Touch",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Apple's git still trusts the compromised eMudhra certificates",
@@ -393,7 +600,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Emacs Turns 50",
@@ -405,7 +612,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 50
   },
   {
     "title": "Show HN: SlideBySide – Present slides without sharing your screen",
@@ -417,7 +624,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 51
   },
   {
     "title": "OneDeploy",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Boltbar",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "NotiKeep",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "Trellis",
@@ -465,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "Agent Handshake by Fini",
@@ -477,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "Genie 4",
@@ -489,7 +696,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "JustAResearcher/gpu-unlock-ada - GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa",
@@ -502,7 +709,7 @@
       "C"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "Genie 4",
@@ -514,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "Ghostty 1.4",
@@ -522,211 +729,6 @@
     "source": "Hacker News",
     "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
     "date": "2026-10-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Python's experimental JIT to be removed",
-    "summary": "455 points | 244 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-    "date": "2026-10-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "New iMac with M6",
-    "summary": "317 points | 383 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.apple.com/imac/",
-    "date": "2026-10-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-    "summary": "811 points | 297 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-    "date": "2026-10-27",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Nuvio 5.0",
-    "summary": "New product launch on Product Hunt: Nuvio 5.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nuvio",
-    "date": "2026-10-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "iPad mini 8",
-    "summary": "New product launch on Product Hunt: iPad mini 8",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/apple",
-    "date": "2026-10-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Orbit",
-    "summary": "New product launch on Product Hunt: Orbit",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/orbit-app-blocker",
-    "date": "2026-10-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "fswitcher",
-    "summary": "New product launch on Product Hunt: fswitcher",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/fswitcher",
-    "date": "2026-10-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Notra",
-    "summary": "New product launch on Product Hunt: Notra",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notra-3",
-    "date": "2026-10-23",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Off Grid AI",
-    "summary": "New product launch on Product Hunt: Off Grid AI",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/off-grid-ai",
-    "date": "2026-10-26",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "oosexgang/hackios-xnu-kernel - No description",
-    "summary": "1824 stars | C | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-    "date": "2026-10-22",
-    "tags": [
-      "GitHub",
-      "C"
-    ],
-    "hot": true,
-    "id": 53
-  },
-  {
-    "title": "Three new discoveries in mathematics, computer science, and physics",
-    "summary": "533 points | 224 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "date": "2026-10-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 54
-  },
-  {
-    "title": "The Exponential Time Hypothesis Is False [pdf]",
-    "summary": "342 points | 136 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "date": "2026-10-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 55
-  },
-  {
-    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-    "summary": "578 points | 83 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "date": "2026-10-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "Oldest GUI application that still runs on Windows 11",
-    "summary": "315 points | 194 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-    "date": "2026-10-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "CSS-Tricks has a new owner",
-    "summary": "393 points | 90 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-    "date": "2026-10-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "GPT-6.1 Terra",
-    "summary": "522 points | 329 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "date": "2026-10-26",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Anthropic S-1",
-    "summary": "1496 points | 1463 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-    "date": "2026-10-26",
     "tags": [
       "HN"
     ],
