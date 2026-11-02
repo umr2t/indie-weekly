@@ -1,10 +1,10 @@
 [
   {
-    "title": "HackerTube: YouTube built from videos recommended by HN",
-    "summary": "800 points | 255 comments on Hacker News",
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "summary": "995 points | 190 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://karpathy.bearblog.dev/hacker-tube/",
-    "date": "2026-10-31",
+    "url": "https://hackerbooks.org",
+    "date": "2026-11-01",
     "tags": [
       "HN"
     ],
@@ -12,10 +12,10 @@
     "id": 1
   },
   {
-    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-    "summary": "367 points | 175 comments on Hacker News",
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "summary": "2329 points | 542 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
     "date": "2026-10-31",
     "tags": [
       "HN"
@@ -24,22 +24,22 @@
     "id": 2
   },
   {
-    "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-    "summary": "311 points | 182 comments on Hacker News",
+    "title": "OccupySaaS",
+    "summary": "77 points | 49 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://piefed.world/post/1503394",
-    "date": "2026-10-31",
+    "url": "https://occupysaas.com/",
+    "date": "2026-11-02",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-    "summary": "9 points | 3 comments on Hacker News",
+    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "summary": "175 points | 42 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "url": "https://github.com/ivankovic/omnidiff",
     "date": "2026-11-01",
     "tags": [
       "HN"
@@ -48,23 +48,23 @@
     "id": 4
   },
   {
-    "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-    "summary": "58 points | 34 comments on Hacker News",
+    "title": "The AI cost of JavaScript frameworks",
+    "summary": "313 points | 231 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://epoyraz.github.io/nes-contra-us/",
-    "date": "2026-10-31",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "date": "2026-11-01",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 5
   },
   {
-    "title": "Do the math: How we took over ChatGPT accounts",
-    "summary": "304 points | 151 comments on Hacker News",
+    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+    "summary": "411 points | 148 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-    "date": "2026-10-31",
+    "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+    "date": "2026-11-01",
     "tags": [
       "HN"
     ],
@@ -72,11 +72,11 @@
     "id": 6
   },
   {
-    "title": "Show HN: A language model that lives in a boot sector",
-    "summary": "61 points | 1 comments on Hacker News",
+    "title": "Show HN: Point your camera at a landscape to learn about its geology",
+    "summary": "161 points | 38 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/kerlenton/bootgpt",
-    "date": "2026-10-31",
+    "url": "https://outcrop.rocks/",
+    "date": "2026-10-29",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Serbia just elected the world's brainiest parliament",
-    "summary": "822 points | 469 comments on Hacker News",
+    "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+    "summary": "78 points | 11 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "url": "https://kevs3d.co.uk/phoria2/",
     "date": "2026-10-31",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Hemmed",
-    "summary": "New product launch on Product Hunt: Hemmed",
+    "title": "Usage for Claude + ChatGPT 4.0",
+    "summary": "New product launch on Product Hunt: Usage for Claude + ChatGPT 4.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hemmed",
-    "date": "2026-10-30",
+    "url": "https://www.producthunt.com/products/usage-for-claude",
+    "date": "2026-10-29",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Knucklebop",
-    "summary": "New product launch on Product Hunt: Knucklebop",
+    "title": "Screen Studio 4.0",
+    "summary": "New product launch on Product Hunt: Screen Studio 4.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/knucklebop",
-    "date": "2026-10-28",
+    "url": "https://www.producthunt.com/products/screen-studio",
+    "date": "2026-10-30",
     "tags": [
       "Product Launch"
     ],
@@ -120,10 +120,10 @@
     "id": 10
   },
   {
-    "title": "ChainPoints",
-    "summary": "New product launch on Product Hunt: ChainPoints",
+    "title": "Embage",
+    "summary": "New product launch on Product Hunt: Embage",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chainpoints",
+    "url": "https://www.producthunt.com/products/embage",
     "date": "2026-10-30",
     "tags": [
       "Product Launch"
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "BaseTab AI",
-    "summary": "New product launch on Product Hunt: BaseTab AI",
+    "title": "agentmash",
+    "summary": "New product launch on Product Hunt: agentmash",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/basetab-ai",
-    "date": "2026-10-29",
+    "url": "https://www.producthunt.com/products/agentmash",
+    "date": "2026-10-31",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Specsight",
-    "summary": "New product launch on Product Hunt: Specsight",
+    "title": "Riverside Agents",
+    "summary": "New product launch on Product Hunt: Riverside Agents",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/specsight",
-    "date": "2026-10-18",
+    "url": "https://www.producthunt.com/products/riverside-fm",
+    "date": "2026-10-26",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "telemetry.dev",
-    "summary": "New product launch on Product Hunt: telemetry.dev",
+    "title": "Click",
+    "summary": "New product launch on Product Hunt: Click",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/telemetry-dev",
-    "date": "2026-10-29",
+    "url": "https://www.producthunt.com/products/click-6",
+    "date": "2026-10-20",
     "tags": [
       "Product Launch"
     ],
@@ -168,34 +168,8 @@
     "id": 14
   },
   {
-    "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-    "summary": "4734 stars | TypeScript | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-    "source": "GitHub Trending",
-    "url": "https://github.com/anhao/ai-pose-gallery-zh",
-    "date": "2026-10-27",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
-    "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "summary": "3620 stars | JavaScript | A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "source": "GitHub Trending",
-    "url": "https://github.com/heydamir/unslop",
-    "date": "2026-10-29",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-    "summary": "3029 stars | TypeScript | Towards a More Autonomous Agent System",
+    "summary": "8542 stars | TypeScript | Towards a More Autonomous Agent System",
     "source": "GitHub Trending",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "date": "2026-10-31",
@@ -204,11 +178,37 @@
       "TypeScript"
     ],
     "hot": true,
+    "id": 15
+  },
+  {
+    "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "summary": "5186 stars | TypeScript | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "source": "GitHub Trending",
+    "url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "date": "2026-10-27",
+    "tags": [
+      "GitHub",
+      "TypeScript"
+    ],
+    "hot": true,
+    "id": 16
+  },
+  {
+    "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "summary": "4973 stars | JavaScript | A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "source": "GitHub Trending",
+    "url": "https://github.com/heydamir/unslop",
+    "date": "2026-10-29",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
     "id": 17
   },
   {
-    "title": "wangzan101/Mika - Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that ope",
-    "summary": "2833 stars | Kotlin | Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things d",
+    "summary": "4068 stars | Kotlin | An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "source": "GitHub Trending",
     "url": "https://github.com/wangzan101/Mika",
     "date": "2026-10-29",
@@ -221,7 +221,7 @@
   },
   {
     "title": "valentderah/totk-pc-recomp - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind",
-    "summary": "2667 stars | C | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+    "summary": "3258 stars | C | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
     "source": "GitHub Trending",
     "url": "https://github.com/valentderah/totk-pc-recomp",
     "date": "2026-10-29",
@@ -233,14 +233,14 @@
     "id": 19
   },
   {
-    "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、",
-    "summary": "1741 stars | Go | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill",
+    "summary": "2746 stars | JavaScript | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "source": "GitHub Trending",
-    "url": "https://github.com/paipiange/nvzhuang",
-    "date": "2026-10-29",
+    "url": "https://github.com/patch-gg/pixelfx",
+    "date": "2026-10-30",
     "tags": [
       "GitHub",
-      "Go"
+      "JavaScript"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,175 @@
     "id": 26
   },
   {
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "summary": "367 points | 175 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "date": "2026-10-31",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+    "summary": "311 points | 182 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://piefed.world/post/1503394",
+    "date": "2026-10-31",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+    "summary": "9 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "date": "2026-11-01",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+    "summary": "58 points | 34 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://epoyraz.github.io/nes-contra-us/",
+    "date": "2026-10-31",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 30
+  },
+  {
+    "title": "Do the math: How we took over ChatGPT accounts",
+    "summary": "304 points | 151 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "date": "2026-10-31",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: A language model that lives in a boot sector",
+    "summary": "61 points | 1 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/kerlenton/bootgpt",
+    "date": "2026-10-31",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Serbia just elected the world's brainiest parliament",
+    "summary": "822 points | 469 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "date": "2026-10-31",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Hemmed",
+    "summary": "New product launch on Product Hunt: Hemmed",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/hemmed",
+    "date": "2026-10-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Knucklebop",
+    "summary": "New product launch on Product Hunt: Knucklebop",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/knucklebop",
+    "date": "2026-10-28",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "ChainPoints",
+    "summary": "New product launch on Product Hunt: ChainPoints",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/chainpoints",
+    "date": "2026-10-30",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "BaseTab AI",
+    "summary": "New product launch on Product Hunt: BaseTab AI",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/basetab-ai",
+    "date": "2026-10-29",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Specsight",
+    "summary": "New product launch on Product Hunt: Specsight",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/specsight",
+    "date": "2026-10-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "telemetry.dev",
+    "summary": "New product launch on Product Hunt: telemetry.dev",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/telemetry-dev",
+    "date": "2026-10-29",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、",
+    "summary": "1741 stars | Go | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "source": "GitHub Trending",
+    "url": "https://github.com/paipiange/nvzhuang",
+    "date": "2026-10-29",
+    "tags": [
+      "GitHub",
+      "Go"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
     "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
     "summary": "84 points | 24 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +502,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 41
   },
   {
     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
@@ -345,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "Northflank Breached",
@@ -357,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 43
   },
   {
     "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
@@ -369,7 +538,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 44
   },
   {
     "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
@@ -381,7 +550,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 45
   },
   {
     "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
@@ -393,7 +562,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 46
   },
   {
     "title": "AI isn't replacing SREs, it's deskilling them",
@@ -405,7 +574,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 47
   },
   {
     "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
@@ -417,7 +586,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 34
+    "id": 48
   },
   {
     "title": "StereoLift Live",
@@ -429,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "Cluinn",
@@ -441,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "Teable Mobile",
@@ -453,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 51
   },
   {
     "title": "Faylee",
@@ -465,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 52
   },
   {
     "title": "Nocto",
@@ -477,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 53
   },
   {
     "title": "Knocket AI",
@@ -489,7 +658,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 54
   },
   {
     "title": "unclebob/ub-mode - No description",
@@ -502,7 +671,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works o",
@@ -515,7 +684,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 42
+    "id": 56
   },
   {
     "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and",
@@ -528,7 +697,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 43
+    "id": 57
   },
   {
     "title": "ccch1mneyyy/dsh-Go - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
@@ -541,7 +710,7 @@
       "Dart"
     ],
     "hot": true,
-    "id": 44
+    "id": 58
   },
   {
     "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
@@ -553,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 59
   },
   {
     "title": "We're releasing the weights of Mistral Large 4",
@@ -563,176 +732,6 @@
     "date": "2026-10-29",
     "tags": [
       "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "H.264 Is Magic (2016)",
-    "summary": "352 points | 130 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://sidbala.com/h-264-is-magic/",
-    "date": "2026-10-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-    "summary": "7 points | 0 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/Millillion/lasm",
-    "date": "2026-10-30",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Show HN: I Turned DOOM into a Transformer",
-    "summary": "55 points | 11 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/mottopanikeiku/doomformer",
-    "date": "2026-10-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "DoorDash to acquire Instacart",
-    "summary": "441 points | 609 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-    "date": "2026-10-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "LLM Voice",
-    "summary": "368 points | 197 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "date": "2026-10-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Patrick Stewart has died",
-    "summary": "2513 points | 538 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-    "date": "2026-10-29",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 52
-  },
-  {
-    "title": "Scape",
-    "summary": "New product launch on Product Hunt: Scape",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/scape-4",
-    "date": "2026-10-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Kin",
-    "summary": "New product launch on Product Hunt: Kin",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/kin-6",
-    "date": "2026-10-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Reset Alerts",
-    "summary": "New product launch on Product Hunt: Reset Alerts",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/reset-alerts",
-    "date": "2026-10-27",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Floot in ChatGPT",
-    "summary": "New product launch on Product Hunt: Floot in ChatGPT",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/floot",
-    "date": "2026-10-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Polylane for ChatGPT",
-    "summary": "New product launch on Product Hunt: Polylane for ChatGPT",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/polylane",
-    "date": "2026-10-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "MAO",
-    "summary": "New product launch on Product Hunt: MAO",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
-    "date": "2026-10-28",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 58
-  },
-  {
-    "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "summary": "4785 stars | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-    "date": "2026-10-24",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
-    "summary": "2406 stars | Python | The agent skills I use every day. Works with Claude Code and Codex.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/t3dotgg/tstack",
-    "date": "2026-10-24",
-    "tags": [
-      "GitHub",
-      "Python"
     ],
     "hot": true,
     "id": 60
