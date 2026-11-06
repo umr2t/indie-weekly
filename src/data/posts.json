@@ -1,10 +1,10 @@
 [
   {
-    "title": "Residential proxies detected on White House network",
-    "summary": "777 points | 242 comments on Hacker News",
+    "title": "Claude Code sends your email address to websites",
+    "summary": "674 points | 230 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-    "date": "2026-11-04",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "date": "2026-11-05",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Kimi K3.1 Pro model weights are out",
-    "summary": "415 points | 120 comments on Hacker News",
+    "title": "sshole",
+    "summary": "2414 points | 592 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "date": "2026-11-04",
+    "url": "https://sshhole.com",
+    "date": "2026-11-05",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "A new Go API for JSON",
-    "summary": "251 points | 110 comments on Hacker News",
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "summary": "370 points | 138 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://go.dev/blog/jsonv2",
-    "date": "2026-11-04",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "date": "2026-11-05",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "AI is forcing us to pay off 40 years of technical debt",
-    "summary": "1113 points | 648 comments on Hacker News",
+    "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+    "summary": "612 points | 128 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "date": "2026-11-04",
+    "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "date": "2026-11-05",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-    "summary": "123 points | 15 comments on Hacker News",
+    "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+    "summary": "61 points | 13 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://fireflyk64.github.io/wcmulti/",
-    "date": "2026-11-04",
+    "url": "https://firenook.dev/",
+    "date": "2026-11-05",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
-    "summary": "29 points | 17 comments on Hacker News",
+    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+    "summary": "81 points | 44 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
-    "date": "2026-11-02",
+    "url": "https://github.com/rivet-dev/rivet",
+    "date": "2026-11-05",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-    "summary": "500 points | 180 comments on Hacker News",
+    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "summary": "168 points | 83 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-    "date": "2026-11-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 7
-  },
-  {
-    "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-    "summary": "24 points | 4 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/gauge-sh/gauge-cli",
-    "date": "2026-11-04",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "date": "2026-11-05",
     "tags": [
       "HN"
     ],
     "hot": false,
+    "id": 7
+  },
+  {
+    "title": "Goodbye from Salon",
+    "summary": "489 points | 176 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "date": "2026-11-05",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 8
   },
   {
-    "title": "Floot Payments ",
-    "summary": "New product launch on Product Hunt: Floot Payments ",
+    "title": "Cosyra",
+    "summary": "New product launch on Product Hunt: Cosyra",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/floot",
-    "date": "2026-11-02",
+    "url": "https://www.producthunt.com/products/cosyra",
+    "date": "2026-11-03",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "TrackEdge",
-    "summary": "New product launch on Product Hunt: TrackEdge",
+    "title": "Living Brain",
+    "summary": "New product launch on Product Hunt: Living Brain",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/trackedge-2",
-    "date": "2026-11-03",
+    "url": "https://www.producthunt.com/products/chatandbuild",
+    "date": "2026-11-02",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Eyecon",
-    "summary": "New product launch on Product Hunt: Eyecon",
+    "title": "Maritime",
+    "summary": "New product launch on Product Hunt: Maritime",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/eyecon-auto-pause-video",
-    "date": "2026-11-02",
+    "url": "https://www.producthunt.com/products/maritime",
+    "date": "2026-11-01",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Country Filter for X",
-    "summary": "New product launch on Product Hunt: Country Filter for X",
+    "title": "Bambu Lab H3C",
+    "summary": "New product launch on Product Hunt: Bambu Lab H3C",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/country-filter-for-x-2",
-    "date": "2026-11-03",
+    "url": "https://www.producthunt.com/products/bambu-lab-h3c",
+    "date": "2026-11-04",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Rungle",
-    "summary": "New product launch on Product Hunt: Rungle",
+    "title": "Stitch.ai",
+    "summary": "New product launch on Product Hunt: Stitch.ai",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/rungle",
-    "date": "2026-11-04",
+    "url": "https://www.producthunt.com/products/stitch-ai",
+    "date": "2026-11-03",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Render Sandboxes",
-    "summary": "New product launch on Product Hunt: Render Sandboxes",
+    "title": "Okapi",
+    "summary": "New product launch on Product Hunt: Okapi",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/render",
-    "date": "2026-10-23",
+    "url": "https://www.producthunt.com/products/okapi-2",
+    "date": "2026-10-15",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-    "summary": "18761 stars | TypeScript | Towards a More Autonomous Agent System",
+    "summary": "19674 stars | TypeScript | Towards a More Autonomous Agent System",
     "source": "GitHub Trending",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "date": "2026-10-31",
@@ -182,7 +182,7 @@
   },
   {
     "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-    "summary": "12457 stars | Rust | Craft Anything: understand how any software works, and craft your own.",
+    "summary": "15527 stars | Rust | Craft Anything: understand how any software works, and craft your own.",
     "source": "GitHub Trending",
     "url": "https://github.com/storytold/craft-anything",
     "date": "2026-10-31",
@@ -194,21 +194,8 @@
     "id": 16
   },
   {
-    "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill",
-    "summary": "4813 stars | JavaScript | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/patch-gg/pixelfx",
-    "date": "2026-10-30",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "summary": "2714 stars | TypeScript | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "summary": "3338 stars | TypeScript | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "source": "GitHub Trending",
     "url": "https://github.com/KKKKhazix/agent-autoloop",
     "date": "2026-11-03",
@@ -217,11 +204,11 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 18
+    "id": 17
   },
   {
     "title": "Verlintas/NOIR - 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: pe",
-    "summary": "2118 stars | Kotlin | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+    "summary": "2545 stars | Kotlin | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
     "source": "GitHub Trending",
     "url": "https://github.com/Verlintas/NOIR",
     "date": "2026-10-31",
@@ -230,17 +217,30 @@
       "Kotlin"
     ],
     "hot": true,
+    "id": 18
+  },
+  {
+    "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
+    "summary": "2512 stars | C++ | VERY experimental Nintendo Switch 2 emulator",
+    "source": "GitHub Trending",
+    "url": "https://github.com/zortos293/Lichii",
+    "date": "2026-10-31",
+    "tags": [
+      "GitHub",
+      "C++"
+    ],
+    "hot": true,
     "id": 19
   },
   {
-    "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apar",
-    "summary": "1945 stars | JavaScript | A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
+    "summary": "2497 stars | Python | Google_AI_Pro_2Year_ZeroCost_Auto",
     "source": "GitHub Trending",
-    "url": "https://github.com/elvarofficial/teardown",
-    "date": "2026-10-30",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "date": "2026-11-04",
     "tags": [
       "GitHub",
-      "JavaScript"
+      "Python"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,200 @@
     "id": 26
   },
   {
+    "title": "Residential proxies detected on White House network",
+    "summary": "777 points | 242 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "date": "2026-11-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Kimi K3.1 Pro model weights are out",
+    "summary": "415 points | 120 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "date": "2026-11-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "A new Go API for JSON",
+    "summary": "251 points | 110 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://go.dev/blog/jsonv2",
+    "date": "2026-11-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "summary": "1113 points | 648 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "date": "2026-11-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "summary": "123 points | 15 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://fireflyk64.github.io/wcmulti/",
+    "date": "2026-11-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
+    "summary": "29 points | 17 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+    "date": "2026-11-02",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "summary": "500 points | 180 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "date": "2026-11-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+    "summary": "24 points | 4 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/gauge-sh/gauge-cli",
+    "date": "2026-11-04",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Floot Payments ",
+    "summary": "New product launch on Product Hunt: Floot Payments ",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/floot",
+    "date": "2026-11-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "TrackEdge",
+    "summary": "New product launch on Product Hunt: TrackEdge",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/trackedge-2",
+    "date": "2026-11-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Eyecon",
+    "summary": "New product launch on Product Hunt: Eyecon",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/eyecon-auto-pause-video",
+    "date": "2026-11-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Country Filter for X",
+    "summary": "New product launch on Product Hunt: Country Filter for X",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/country-filter-for-x-2",
+    "date": "2026-11-03",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Rungle",
+    "summary": "New product launch on Product Hunt: Rungle",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/rungle",
+    "date": "2026-11-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Render Sandboxes",
+    "summary": "New product launch on Product Hunt: Render Sandboxes",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/render",
+    "date": "2026-10-23",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill",
+    "summary": "4813 stars | JavaScript | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/patch-gg/pixelfx",
+    "date": "2026-10-30",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apar",
+    "summary": "1945 stars | JavaScript | A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+    "source": "GitHub Trending",
+    "url": "https://github.com/elvarofficial/teardown",
+    "date": "2026-10-30",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
     "title": "Jailbreaking my car's navigation system just so I can change the time",
     "summary": "649 points | 274 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 43
   },
   {
     "title": "Stringman, an $800 open-source room scale gripper robot",
@@ -345,7 +539,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 44
   },
   {
     "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
@@ -357,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 45
   },
   {
     "title": "Arrows to arrows, categories to queries (2025)",
@@ -369,7 +563,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 46
   },
   {
     "title": "Safari introduces Adaptive Dark Mode in 27.3",
@@ -381,7 +575,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 47
   },
   {
     "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
@@ -393,7 +587,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 48
   },
   {
     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
@@ -405,7 +599,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 49
   },
   {
     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
@@ -417,7 +611,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 50
   },
   {
     "title": "Teamily AI",
@@ -429,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 51
   },
   {
     "title": "Flockbay",
@@ -441,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 52
   },
   {
     "title": "nana",
@@ -453,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 53
   },
   {
     "title": "Scrawl",
@@ -465,7 +659,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 54
   },
   {
     "title": "Akema",
@@ -477,7 +671,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 55
   },
   {
     "title": "IQ",
@@ -489,7 +683,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 56
   },
   {
     "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
@@ -502,7 +696,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 57
   },
   {
     "title": "wangzan101/Mika - An on-device AI agent for Android that operates apps and the web to get things d",
@@ -515,7 +709,7 @@
       "Kotlin"
     ],
     "hot": true,
-    "id": 42
+    "id": 58
   },
   {
     "title": "valentderah/totk-pc-recomp - Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind",
@@ -528,7 +722,7 @@
       "C"
     ],
     "hot": true,
-    "id": 43
+    "id": 59
   },
   {
     "title": "Astra can read and write weights to improve Qwen",
@@ -540,198 +734,6 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-    "summary": "93 points | 38 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://hackertimes.ca/",
-    "date": "2026-11-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 45
-  },
-  {
-    "title": "US boy names that became girl names and vice versa",
-    "summary": "329 points | 329 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-    "date": "2026-11-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "If you love a website, back it up",
-    "summary": "443 points | 100 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-    "date": "2026-11-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "summary": "133 points | 89 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://momentic.ai/",
-    "date": "2026-11-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-    "summary": "227 points | 37 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-    "date": "2026-11-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-    "summary": "137 points | 41 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-    "date": "2026-11-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Show HN: Rustable is an open source database client built in Rust",
-    "summary": "9 points | 3 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://rustable.app",
-    "date": "2026-11-03",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Agent Inbox",
-    "summary": "New product launch on Product Hunt: Agent Inbox",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/agent-inbox",
-    "date": "2026-11-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Display 1.0",
-    "summary": "New product launch on Product Hunt: Display 1.0",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/display-dev",
-    "date": "2026-10-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "diff-tour",
-    "summary": "New product launch on Product Hunt: diff-tour",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/diff-tour",
-    "date": "2026-10-29",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "beacon.sh",
-    "summary": "New product launch on Product Hunt: beacon.sh",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/asymptotelabs",
-    "date": "2026-10-25",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Xmind 2027",
-    "summary": "New product launch on Product Hunt: Xmind 2027",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/xmind",
-    "date": "2026-11-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Hyperresearch",
-    "summary": "New product launch on Product Hunt: Hyperresearch",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hyperresearch",
-    "date": "2026-10-30",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "summary": "995 points | 190 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://hackerbooks.org",
-    "date": "2026-11-01",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "HackerTube: YouTube built from videos recommended by HN",
-    "summary": "2329 points | 542 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://karpathy.bearblog.dev/hacker-tube/",
-    "date": "2026-10-31",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "OccupySaaS",
-    "summary": "77 points | 49 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://occupysaas.com/",
-    "date": "2026-11-02",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
