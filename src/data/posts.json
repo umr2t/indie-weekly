@@ -1,10 +1,10 @@
 [
   {
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "summary": "406 points | 237 comments on Hacker News",
+    "title": "Declarative Dragging",
+    "summary": "392 points | 48 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://hunch.net/?p=13764006",
-    "date": "2026-11-07",
+    "url": "https://declarative-dragging.github.io/",
+    "date": "2026-11-04",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "What I run on my $10 USD OpenStick homelab",
-    "summary": "374 points | 89 comments on Hacker News",
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "summary": "643 points | 364 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.bosscher.ch/posts/openstick/",
-    "date": "2026-11-07",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "date": "2026-11-08",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-    "summary": "384 points | 255 comments on Hacker News",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "summary": "380 points | 167 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-    "date": "2026-11-07",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "date": "2026-11-08",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Need for Speed Underground 2 online in the browser",
-    "summary": "835 points | 231 comments on Hacker News",
+    "title": "Writing as a thinking tool",
+    "summary": "298 points | 83 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://nfsu2.xyz/",
-    "date": "2026-11-07",
+    "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "date": "2026-11-08",
     "tags": [
       "HN"
     ],
@@ -48,59 +48,59 @@
     "id": 4
   },
   {
-    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "summary": "196 points | 42 comments on Hacker News",
+    "title": "Goodbye Claude, hello Pi",
+    "summary": "709 points | 441 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/hedgerow-dev/coldframe",
-    "date": "2026-11-07",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "date": "2026-11-08",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 5
+  },
+  {
+    "title": "Show HN: Vegetable Gardening for Engineers",
+    "summary": "175 points | 34 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+    "date": "2026-11-04",
     "tags": [
       "HN"
     ],
     "hot": false,
-    "id": 5
+    "id": 6
   },
   {
-    "title": "Every Mac comes with an (undocumented) family member classifier",
-    "summary": "618 points | 350 comments on Hacker News",
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "summary": "595 points | 403 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "date": "2026-11-07",
     "tags": [
       "HN"
     ],
     "hot": true,
-    "id": 6
-  },
-  {
-    "title": "Show HN: Where Were We",
-    "summary": "28 points | 11 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://wherewerewe.app/",
-    "date": "2026-11-07",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 7
   },
   {
-    "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-    "summary": "28 points | 13 comments on Hacker News",
+    "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+    "summary": "423 points | 311 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://eyesrhythm.com/",
-    "date": "2026-11-07",
+    "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "date": "2026-11-08",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "Google Omni 1.2 Flash",
-    "summary": "New product launch on Product Hunt: Google Omni 1.2 Flash",
+    "title": "Agent Clan",
+    "summary": "New product launch on Product Hunt: Agent Clan",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-    "date": "2026-11-05",
+    "url": "https://www.producthunt.com/products/agent-clan",
+    "date": "2026-11-07",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "ChatGPT Images 2.6",
-    "summary": "New product launch on Product Hunt: ChatGPT Images 2.6",
+    "title": "NotchIsland",
+    "summary": "New product launch on Product Hunt: NotchIsland",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openai",
-    "date": "2026-11-05",
+    "url": "https://www.producthunt.com/products/notchisland-2",
+    "date": "2026-11-02",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Deal Pilot",
-    "summary": "New product launch on Product Hunt: Deal Pilot",
+    "title": "Memorias",
+    "summary": "New product launch on Product Hunt: Memorias",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/deal-pilot",
-    "date": "2026-11-02",
+    "url": "https://www.producthunt.com/products/memorias-3",
+    "date": "2026-10-13",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Exa Monitors v2",
-    "summary": "New product launch on Product Hunt: Exa Monitors v2",
+    "title": "Deduplication ",
+    "summary": "New product launch on Product Hunt: Deduplication ",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/exa-ai",
-    "date": "2026-11-02",
+    "url": "https://www.producthunt.com/products/hacker-noon",
+    "date": "2026-11-03",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Dino Kids",
-    "summary": "New product launch on Product Hunt: Dino Kids",
+    "title": "Tilde ",
+    "summary": "New product launch on Product Hunt: Tilde ",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dino-kids",
-    "date": "2026-11-04",
+    "url": "https://www.producthunt.com/products/tilde-for-mac",
+    "date": "2026-11-03",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Muse Realtime Avatar",
-    "summary": "New product launch on Product Hunt: Muse Realtime Avatar",
+    "title": "Textly",
+    "summary": "New product launch on Product Hunt: Textly",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/meta-ai",
-    "date": "2026-11-06",
+    "url": "https://www.producthunt.com/products/textly-capture-copy-paste",
+    "date": "2026-11-02",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "summary": "3972 stars | TypeScript | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "summary": "4144 stars | TypeScript | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "source": "GitHub Trending",
     "url": "https://github.com/KKKKhazix/agent-autoloop",
     "date": "2026-11-03",
@@ -181,21 +181,8 @@
     "id": 15
   },
   {
-    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
-    "summary": "3066 stars | Python | Google_AI_Pro_2Year_ZeroCost_Auto",
-    "source": "GitHub Trending",
-    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "date": "2026-11-04",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 16
-  },
-  {
     "title": "Minireel/HGhub - YellowFruit third-party client",
-    "summary": "2382 stars | TypeScript | YellowFruit third-party client",
+    "summary": "3601 stars | TypeScript | YellowFruit third-party client",
     "source": "GitHub Trending",
     "url": "https://github.com/Minireel/HGhub",
     "date": "2026-11-03",
@@ -204,24 +191,24 @@
       "TypeScript"
     ],
     "hot": true,
+    "id": 16
+  },
+  {
+    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
+    "summary": "3275 stars | Python | Google_AI_Pro_2Year_ZeroCost_Auto",
+    "source": "GitHub Trending",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "date": "2026-11-04",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 17
   },
   {
-    "title": "govijr/terminal-mac - Entire MacOS running in your terminal.",
-    "summary": "2247 stars | Swift | Entire MacOS running in your terminal.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/govijr/terminal-mac",
-    "date": "2026-11-03",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 18
-  },
-  {
     "title": "NotRexed/Hookshot - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2",
-    "summary": "1932 stars | C++ | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+    "summary": "3253 stars | C++ | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
     "source": "GitHub Trending",
     "url": "https://github.com/NotRexed/Hookshot",
     "date": "2026-11-05",
@@ -230,11 +217,24 @@
       "C++"
     ],
     "hot": true,
+    "id": 18
+  },
+  {
+    "title": "govijr/terminal-mac - Entire MacOS running in your terminal.",
+    "summary": "2403 stars | Swift | Entire MacOS running in your terminal.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/govijr/terminal-mac",
+    "date": "2026-11-03",
+    "tags": [
+      "GitHub",
+      "Swift"
+    ],
+    "hot": true,
     "id": 19
   },
   {
     "title": "JenkinWoo/sheeridVerify - No description",
-    "summary": "1685 stars | JavaScript | ",
+    "summary": "1873 stars | JavaScript | ",
     "source": "GitHub Trending",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "date": "2026-11-06",
@@ -324,6 +324,174 @@
     "id": 26
   },
   {
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "summary": "406 points | 237 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://hunch.net/?p=13764006",
+    "date": "2026-11-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "summary": "374 points | 89 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.bosscher.ch/posts/openstick/",
+    "date": "2026-11-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+    "summary": "384 points | 255 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+    "date": "2026-11-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Need for Speed Underground 2 online in the browser",
+    "summary": "835 points | 231 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://nfsu2.xyz/",
+    "date": "2026-11-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "summary": "196 points | 42 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/hedgerow-dev/coldframe",
+    "date": "2026-11-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "summary": "618 points | 350 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "date": "2026-11-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Where Were We",
+    "summary": "28 points | 11 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://wherewerewe.app/",
+    "date": "2026-11-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+    "summary": "28 points | 13 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://eyesrhythm.com/",
+    "date": "2026-11-07",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Google Omni 1.2 Flash",
+    "summary": "New product launch on Product Hunt: Google Omni 1.2 Flash",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
+    "date": "2026-11-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "ChatGPT Images 2.6",
+    "summary": "New product launch on Product Hunt: ChatGPT Images 2.6",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openai",
+    "date": "2026-11-05",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Deal Pilot",
+    "summary": "New product launch on Product Hunt: Deal Pilot",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/deal-pilot",
+    "date": "2026-11-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Exa Monitors v2",
+    "summary": "New product launch on Product Hunt: Exa Monitors v2",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/exa-ai",
+    "date": "2026-11-02",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Dino Kids",
+    "summary": "New product launch on Product Hunt: Dino Kids",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/dino-kids",
+    "date": "2026-11-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Muse Realtime Avatar",
+    "summary": "New product launch on Product Hunt: Muse Realtime Avatar",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/meta-ai",
+    "date": "2026-11-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
     "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
     "summary": "365 points | 84 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +501,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 41
   },
   {
     "title": "Tesla to wind down Cybertruck production",
@@ -345,7 +513,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
@@ -357,7 +525,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 43
   },
   {
     "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
@@ -369,7 +537,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 30
+    "id": 44
   },
   {
     "title": "Gemini Omni 1.2 Flash",
@@ -381,7 +549,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 45
   },
   {
     "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
@@ -393,7 +561,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 46
   },
   {
     "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
@@ -405,7 +573,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 47
   },
   {
     "title": "PostMyPace",
@@ -417,7 +585,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 48
   },
   {
     "title": "Alysis Code",
@@ -429,7 +597,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "Tobira Site Agent",
@@ -441,7 +609,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "Rankfender v3.0",
@@ -453,7 +621,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 51
   },
   {
     "title": "Turnstone",
@@ -465,7 +633,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 52
   },
   {
     "title": "Wisp",
@@ -477,7 +645,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 53
   },
   {
     "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) wit",
@@ -490,7 +658,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 40
+    "id": 54
   },
   {
     "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with",
@@ -503,7 +671,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "Claude Code sends your email address to websites",
@@ -515,7 +683,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 42
+    "id": 56
   },
   {
     "title": "sshole",
@@ -527,7 +695,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 43
+    "id": 57
   },
   {
     "title": "MS Paint Remote Code Execution Vulnerability",
@@ -539,7 +707,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 58
   },
   {
     "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
@@ -551,7 +719,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 59
   },
   {
     "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
@@ -563,178 +731,6 @@
       "HN"
     ],
     "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-    "summary": "81 points | 44 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/rivet-dev/rivet",
-    "date": "2026-11-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "summary": "168 points | 83 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-    "date": "2026-11-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Goodbye from Salon",
-    "summary": "489 points | 176 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-    "date": "2026-11-05",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Cosyra",
-    "summary": "New product launch on Product Hunt: Cosyra",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/cosyra",
-    "date": "2026-11-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Living Brain",
-    "summary": "New product launch on Product Hunt: Living Brain",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/chatandbuild",
-    "date": "2026-11-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Maritime",
-    "summary": "New product launch on Product Hunt: Maritime",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/maritime",
-    "date": "2026-11-01",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Bambu Lab H3C",
-    "summary": "New product launch on Product Hunt: Bambu Lab H3C",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/bambu-lab-h3c",
-    "date": "2026-11-04",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Stitch.ai",
-    "summary": "New product launch on Product Hunt: Stitch.ai",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/stitch-ai",
-    "date": "2026-11-03",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Okapi",
-    "summary": "New product launch on Product Hunt: Okapi",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/okapi-2",
-    "date": "2026-10-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-    "summary": "19674 stars | TypeScript | Towards a More Autonomous Agent System",
-    "source": "GitHub Trending",
-    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-    "date": "2026-10-31",
-    "tags": [
-      "GitHub",
-      "TypeScript"
-    ],
-    "hot": true,
-    "id": 56
-  },
-  {
-    "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-    "summary": "15527 stars | Rust | Craft Anything: understand how any software works, and craft your own.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/storytold/craft-anything",
-    "date": "2026-10-31",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "Verlintas/NOIR - 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: pe",
-    "summary": "2545 stars | Kotlin | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Verlintas/NOIR",
-    "date": "2026-10-31",
-    "tags": [
-      "GitHub",
-      "Kotlin"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "zortos293/Lichii - VERY experimental Nintendo Switch 2 emulator",
-    "summary": "2512 stars | C++ | VERY experimental Nintendo Switch 2 emulator",
-    "source": "GitHub Trending",
-    "url": "https://github.com/zortos293/Lichii",
-    "date": "2026-10-31",
-    "tags": [
-      "GitHub",
-      "C++"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Residential proxies detected on White House network",
-    "summary": "777 points | 242 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-    "date": "2026-11-04",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
     "id": 60
   }
 ]
