@@ -1,10 +1,10 @@
 [
   {
-    "title": "Jensen Huang resigns",
-    "summary": "3122 points | 2918 comments on Hacker News",
+    "title": "FAA issues national ground stop",
+    "summary": "1396 points | 860 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-    "date": "2026-11-12",
+    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+    "date": "2026-11-13",
     "tags": [
       "HN"
     ],
@@ -12,10 +12,10 @@
     "id": 1
   },
   {
-    "title": "Rust 1.100",
-    "summary": "500 points | 210 comments on Hacker News",
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "summary": "697 points | 201 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
     "date": "2026-11-12",
     "tags": [
       "HN"
@@ -24,35 +24,35 @@
     "id": 2
   },
   {
-    "title": "Gemini 4 Hydrogen and Orchestrator",
-    "summary": "340 points | 87 comments on Hacker News",
+    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+    "summary": "61 points | 10 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-    "date": "2026-11-12",
+    "url": "https://grounds.top/",
+    "date": "2026-11-13",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-    "summary": "384 points | 148 comments on Hacker News",
+    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "summary": "38 points | 10 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/simpsoka/zigzag",
-    "date": "2026-11-12",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "date": "2026-11-14",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "Service degradation on Microsoft 365",
-    "summary": "592 points | 552 comments on Hacker News",
+    "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+    "summary": "465 points | 318 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://status.cloud.microsoft/",
-    "date": "2026-11-12",
+    "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+    "date": "2026-11-13",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
-    "summary": "5 points | 0 comments on Hacker News",
+    "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+    "summary": "167 points | 62 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/KoljaB/RealtimeVAD",
-    "date": "2026-11-12",
+    "url": "https://isometricsf.com/",
+    "date": "2026-11-13",
     "tags": [
       "HN"
     ],
@@ -72,11 +72,11 @@
     "id": 6
   },
   {
-    "title": "Gemini 4 Hydrogen",
-    "summary": "482 points | 304 comments on Hacker News",
+    "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+    "summary": "312 points | 172 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-    "date": "2026-11-12",
+    "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+    "date": "2026-11-13",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Anthropic IPO",
-    "summary": "849 points | 823 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://ipo.anthropic.com/us/",
-    "date": "2026-11-12",
+    "title": "Replicate",
+    "summary": "New product launch on Product Hunt: Replicate",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/replicate-10",
+    "date": "2026-11-13",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "three.dev",
-    "summary": "New product launch on Product Hunt: three.dev",
+    "title": "Templify AI",
+    "summary": "New product launch on Product Hunt: Templify AI",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/three-dev",
-    "date": "2026-11-10",
+    "url": "https://www.producthunt.com/products/templify",
+    "date": "2026-10-26",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Gnista",
-    "summary": "New product launch on Product Hunt: Gnista",
+    "title": "qorqbot",
+    "summary": "New product launch on Product Hunt: qorqbot",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gnista",
-    "date": "2026-11-09",
+    "url": "https://www.producthunt.com/products/qorqbot",
+    "date": "2026-10-18",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "YouArt Desktop App",
-    "summary": "New product launch on Product Hunt: YouArt Desktop App",
+    "title": "Trainn MCP",
+    "summary": "New product launch on Product Hunt: Trainn MCP",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/youart",
-    "date": "2026-11-08",
+    "url": "https://www.producthunt.com/products/trainn",
+    "date": "2026-11-12",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "⌘+L",
-    "summary": "New product launch on Product Hunt: ⌘+L",
+    "title": "Burnstate",
+    "summary": "New product launch on Product Hunt: Burnstate",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/l",
-    "date": "2026-11-11",
+    "url": "https://www.producthunt.com/products/burnstate",
+    "date": "2026-11-10",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Klang",
-    "summary": "New product launch on Product Hunt: Klang",
+    "title": "Kairos",
+    "summary": "New product launch on Product Hunt: Kairos",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/klang",
-    "date": "2026-11-10",
+    "url": "https://www.producthunt.com/products/kairos-18",
+    "date": "2026-11-07",
     "tags": [
       "Product Launch"
     ],
@@ -156,20 +156,8 @@
     "id": 13
   },
   {
-    "title": "Harness Memory",
-    "summary": "New product launch on Product Hunt: Harness Memory",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/epsilla",
-    "date": "2026-11-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "huamidev/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese",
-    "summary": "6991 stars | Swift | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+    "summary": "7367 stars | Swift | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "source": "GitHub Trending",
     "url": "https://github.com/huamidev/GestaltX",
     "date": "2026-11-09",
@@ -178,24 +166,11 @@
       "Swift"
     ],
     "hot": true,
-    "id": 15
-  },
-  {
-    "title": "tangerineturtle1/NX2navi - No description",
-    "summary": "3607 stars | C | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/tangerineturtle1/NX2navi",
-    "date": "2026-11-07",
-    "tags": [
-      "GitHub",
-      "C"
-    ],
-    "hot": true,
-    "id": 16
+    "id": 14
   },
   {
     "title": "jhaizhou-ops/S2Arm - Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten ",
-    "summary": "2781 stars | C# | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己",
+    "summary": "2883 stars | C# | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己",
     "source": "GitHub Trending",
     "url": "https://github.com/jhaizhou-ops/S2Arm",
     "date": "2026-11-08",
@@ -204,11 +179,11 @@
       "C#"
     ],
     "hot": true,
-    "id": 17
+    "id": 15
   },
   {
     "title": "Kianuni/Erosion-CN - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-    "summary": "1744 stars | Swift | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+    "summary": "1949 stars | Swift | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
     "source": "GitHub Trending",
     "url": "https://github.com/Kianuni/Erosion-CN",
     "date": "2026-11-10",
@@ -217,11 +192,24 @@
       "Swift"
     ],
     "hot": true,
-    "id": 18
+    "id": 16
+  },
+  {
+    "title": "apex-compute/ANR - Apex Neural Rendering (ANR) by Apex Compute",
+    "summary": "1519 stars | C++ | Apex Neural Rendering (ANR) by Apex Compute",
+    "source": "GitHub Trending",
+    "url": "https://github.com/apex-compute/ANR",
+    "date": "2026-11-11",
+    "tags": [
+      "GitHub",
+      "C++"
+    ],
+    "hot": true,
+    "id": 17
   },
   {
     "title": "HybridRobotics/supermimic - Humanoid whole-body motion tracking with one differentiable world model.",
-    "summary": "1336 stars | Python | Humanoid whole-body motion tracking with one differentiable world model.",
+    "summary": "1449 stars | Python | Humanoid whole-body motion tracking with one differentiable world model.",
     "source": "GitHub Trending",
     "url": "https://github.com/HybridRobotics/supermimic",
     "date": "2026-11-10",
@@ -230,11 +218,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 19
+    "id": 18
   },
   {
     "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work to",
-    "summary": "1222 stars | TypeScript | Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tool",
+    "summary": "1352 stars | TypeScript | Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tool",
     "source": "GitHub Trending",
     "url": "https://github.com/agentes-chat/agentes-chat",
     "date": "2026-11-09",
@@ -243,7 +231,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 20
+    "id": 19
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +244,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 20
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +257,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 21
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +270,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 22
   },
   {
     "title": "The Pulse: Details of incident.io’s AI spend",
@@ -295,7 +283,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 23
   },
   {
     "title": "The Pulse: Time to rethink software security because of AI?",
@@ -308,7 +296,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 24
   },
   {
     "title": "The Pulse: Anthropic builds its own source control system",
@@ -321,7 +309,188 @@
       "Career"
     ],
     "hot": false,
+    "id": 25
+  },
+  {
+    "title": "Jensen Huang resigns",
+    "summary": "3122 points | 2918 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "date": "2026-11-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Rust 1.100",
+    "summary": "500 points | 210 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "date": "2026-11-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "summary": "340 points | 87 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "date": "2026-11-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "summary": "384 points | 148 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/simpsoka/zigzag",
+    "date": "2026-11-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Service degradation on Microsoft 365",
+    "summary": "592 points | 552 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://status.cloud.microsoft/",
+    "date": "2026-11-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+    "summary": "5 points | 0 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/KoljaB/RealtimeVAD",
+    "date": "2026-11-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 31
+  },
+  {
+    "title": "Gemini 4 Hydrogen",
+    "summary": "482 points | 304 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Anthropic IPO",
+    "summary": "849 points | 823 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://ipo.anthropic.com/us/",
+    "date": "2026-11-12",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "three.dev",
+    "summary": "New product launch on Product Hunt: three.dev",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/three-dev",
+    "date": "2026-11-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Gnista",
+    "summary": "New product launch on Product Hunt: Gnista",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/gnista",
+    "date": "2026-11-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "YouArt Desktop App",
+    "summary": "New product launch on Product Hunt: YouArt Desktop App",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/youart",
+    "date": "2026-11-08",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "⌘+L",
+    "summary": "New product launch on Product Hunt: ⌘+L",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/l",
+    "date": "2026-11-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Klang",
+    "summary": "New product launch on Product Hunt: Klang",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/klang",
+    "date": "2026-11-10",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Harness Memory",
+    "summary": "New product launch on Product Hunt: Harness Memory",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/epsilla",
+    "date": "2026-11-11",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "tangerineturtle1/NX2navi - No description",
+    "summary": "3607 stars | C | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/tangerineturtle1/NX2navi",
+    "date": "2026-11-07",
+    "tags": [
+      "GitHub",
+      "C"
+    ],
+    "hot": true,
+    "id": 40
   },
   {
     "title": "Tim Peters has died",
@@ -333,7 +502,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 41
   },
   {
     "title": "AWS emulator",
@@ -345,7 +514,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 42
   },
   {
     "title": "Nvidia is preparing to oust Jensen Huang",
@@ -357,7 +526,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 43
   },
   {
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
@@ -369,7 +538,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 44
   },
   {
     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
@@ -381,7 +550,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 45
   },
   {
     "title": "Gemini Decisions API",
@@ -393,7 +562,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 46
   },
   {
     "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
@@ -405,7 +574,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 47
   },
   {
     "title": "My AI agents found an unmapped Maya site?",
@@ -417,7 +586,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 48
   },
   {
     "title": "ScroogeFrog AI ",
@@ -429,7 +598,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 49
   },
   {
     "title": "CALL-E",
@@ -441,7 +610,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 50
   },
   {
     "title": "Nod by n8n",
@@ -453,7 +622,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 51
   },
   {
     "title": "Stiro",
@@ -465,7 +634,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 52
   },
   {
     "title": "Skillbox",
@@ -477,7 +646,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 53
   },
   {
     "title": "Shot.video",
@@ -489,7 +658,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 54
   },
   {
     "title": "JenkinWoo/sheeridVerify - No description",
@@ -502,7 +671,7 @@
       "JavaScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 55
   },
   {
     "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
@@ -515,7 +684,7 @@
       "Go"
     ],
     "hot": true,
-    "id": 42
+    "id": 56
   },
   {
     "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
@@ -528,7 +697,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 43
+    "id": 57
   },
   {
     "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
@@ -540,7 +709,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 58
   },
   {
     "title": ".name Grandfathered",
@@ -552,7 +721,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 45
+    "id": 59
   },
   {
     "title": "Smart home devices should work without the internet",
@@ -560,176 +729,6 @@
     "source": "Hacker News",
     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
     "date": "2026-11-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Scion is back and is going to sell a kei truck in America",
-    "summary": "361 points | 265 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-    "date": "2026-11-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Synaptics patent claims stop work on DisplayLink drivers",
-    "summary": "322 points | 182 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-    "date": "2026-11-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Val Town is winding down",
-    "summary": "323 points | 85 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.val.town/winding-down",
-    "date": "2026-11-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "AlphaProof Code",
-    "summary": "586 points | 178 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "date": "2026-11-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "summary": "284 points | 87 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance",
-    "date": "2026-11-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "TK by Medium",
-    "summary": "New product launch on Product Hunt: TK by Medium",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/medium",
-    "date": "2026-11-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Maxma",
-    "summary": "New product launch on Product Hunt: Maxma",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/maxma-2",
-    "date": "2026-10-24",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "ForAgent",
-    "summary": "New product launch on Product Hunt: ForAgent",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/foragent",
-    "date": "2026-11-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Clive",
-    "summary": "New product launch on Product Hunt: Clive",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/clive",
-    "date": "2026-11-10",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "ZUS",
-    "summary": "New product launch on Product Hunt: ZUS",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/zus-2",
-    "date": "2026-11-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Inspo by Context.dev",
-    "summary": "New product launch on Product Hunt: Inspo by Context.dev",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/context-dev",
-    "date": "2026-11-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "NotRexed/Hookshot - A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2",
-    "summary": "6702 stars | C++ | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-    "source": "GitHub Trending",
-    "url": "https://github.com/NotRexed/Hookshot",
-    "date": "2026-11-05",
-    "tags": [
-      "GitHub",
-      "C++"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "IainKay/ram-altman - Monitors your RAM and reports any \"quite terrible\" unused capacity directly to t",
-    "summary": "1831 stars | Shell | Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/IainKay/ram-altman",
-    "date": "2026-11-05",
-    "tags": [
-      "GitHub",
-      "Shell"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Claude Fable 5.2 and Mythos 5.2",
-    "summary": "347 points | 691 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "date": "2026-11-09",
     "tags": [
       "HN"
     ],
