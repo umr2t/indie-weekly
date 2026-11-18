@@ -1,10 +1,10 @@
 [
   {
-    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-    "summary": "1053 points | 158 comments on Hacker News",
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "summary": "662 points | 181 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.cs.cmu.edu/learn/",
-    "date": "2026-11-16",
+    "url": "https://calif.io/java4shell/",
+    "date": "2026-11-17",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-    "summary": "401 points | 258 comments on Hacker News",
+    "title": "GPT‑6.2 Astra and Sol",
+    "summary": "1169 points | 737 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "date": "2026-11-16",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "date": "2026-11-17",
     "tags": [
       "HN"
     ],
@@ -24,11 +24,11 @@
     "id": 2
   },
   {
-    "title": "BugMeNot has closed",
-    "summary": "422 points | 204 comments on Hacker News",
+    "title": "Quad9's withdrawal from France: A canary in the coal mine",
+    "summary": "383 points | 121 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.bugmenot.com/",
-    "date": "2026-11-16",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "date": "2026-11-17",
     "tags": [
       "HN"
     ],
@@ -36,11 +36,11 @@
     "id": 3
   },
   {
-    "title": "Frame – 31.5\" color ePaper display",
-    "summary": "353 points | 245 comments on Hacker News",
+    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "summary": "449 points | 217 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://trmnl.com/blog/introducing-frame",
-    "date": "2026-11-16",
+    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+    "date": "2026-11-17",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "Jiff 1.0: A datetime library for Rust",
-    "summary": "349 points | 79 comments on Hacker News",
+    "title": "Highly classified US national security communications network goes down",
+    "summary": "522 points | 594 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://burntsushi.net/jiff/",
-    "date": "2026-11-16",
+    "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "date": "2026-11-17",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Grazing sheep in fields with solar arrays",
-    "summary": "248 points | 241 comments on Hacker News",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "summary": "313 points | 143 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-    "date": "2026-11-16",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "date": "2026-11-17",
     "tags": [
       "HN"
     ],
@@ -72,11 +72,11 @@
     "id": 6
   },
   {
-    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-    "summary": "742 points | 622 comments on Hacker News",
+    "title": "Phrack 73 Released",
+    "summary": "319 points | 48 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-    "date": "2026-11-16",
+    "url": "https://phrack.org/issues/73/introduction_md",
+    "date": "2026-11-17",
     "tags": [
       "HN"
     ],
@@ -84,23 +84,23 @@
     "id": 7
   },
   {
-    "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-    "summary": "46 points | 23 comments on Hacker News",
+    "title": "What is the best harness for each model?",
+    "summary": "350 points | 121 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/0nelight/sutra-os",
-    "date": "2026-11-16",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "date": "2026-11-17",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 8
   },
   {
-    "title": "OpenBot",
-    "summary": "New product launch on Product Hunt: OpenBot",
+    "title": "ExtraDock 5",
+    "summary": "New product launch on Product Hunt: ExtraDock 5",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/copilotkit",
-    "date": "2026-08-25",
+    "url": "https://www.producthunt.com/products/extradock",
+    "date": "2026-11-16",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Zoom Slides",
-    "summary": "New product launch on Product Hunt: Zoom Slides",
+    "title": "Versine",
+    "summary": "New product launch on Product Hunt: Versine",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/zoom",
-    "date": "2026-11-06",
+    "url": "https://www.producthunt.com/products/versine",
+    "date": "2026-11-05",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Notebook to Notes",
-    "summary": "New product launch on Product Hunt: Notebook to Notes",
+    "title": "RankSpot",
+    "summary": "New product launch on Product Hunt: RankSpot",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/notebook-to-notes",
-    "date": "2026-11-16",
+    "url": "https://www.producthunt.com/products/rankspot",
+    "date": "2026-11-14",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Blomma for Organizations",
-    "summary": "New product launch on Product Hunt: Blomma for Organizations",
+    "title": "VINC",
+    "summary": "New product launch on Product Hunt: VINC",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/blomma",
-    "date": "2026-11-13",
+    "url": "https://www.producthunt.com/products/vinc",
+    "date": "2026-11-16",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "OpenFrame",
-    "summary": "New product launch on Product Hunt: OpenFrame",
+    "title": "Link.bio",
+    "summary": "New product launch on Product Hunt: Link.bio",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/openframe-3",
-    "date": "2026-11-04",
+    "url": "https://www.producthunt.com/products/link-bio",
+    "date": "2026-11-09",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Nexus",
-    "summary": "New product launch on Product Hunt: Nexus",
+    "title": "3BCAD",
+    "summary": "New product launch on Product Hunt: 3BCAD",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/nexus-11",
-    "date": "2026-11-09",
+    "url": "https://www.producthunt.com/products/3bcad",
+    "date": "2026-11-07",
     "tags": [
       "Product Launch"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "title": "deepseek-ai/chat-demo - Chat Demo",
-    "summary": "4222 stars | TypeScript | Chat Demo",
+    "summary": "4596 stars | TypeScript | Chat Demo",
     "source": "GitHub Trending",
     "url": "https://github.com/deepseek-ai/chat-demo",
     "date": "2026-11-12",
@@ -181,11 +181,11 @@
     "id": 15
   },
   {
-    "title": "apex-compute/ANR - Apex Neural Rendering (ANR) by Apex Compute",
-    "summary": "2497 stars | C++ | Apex Neural Rendering (ANR) by Apex Compute",
+    "title": "krisgfx9/Wireless-Device-Battery-Monitor - Show the battery level of wireless mice, headsets, keyboards and controllers on ",
+    "summary": "2977 stars | C++ | Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer,",
     "source": "GitHub Trending",
-    "url": "https://github.com/apex-compute/ANR",
-    "date": "2026-11-11",
+    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "date": "2026-11-16",
     "tags": [
       "GitHub",
       "C++"
@@ -194,21 +194,8 @@
     "id": 16
   },
   {
-    "title": "hitkeeen/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w",
-    "summary": "2284 stars | Unknown | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for",
-    "source": "GitHub Trending",
-    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-    "date": "2026-11-12",
-    "tags": [
-      "GitHub",
-      "Code"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "Noniv/abyssal-garden - A dreamy underwater world you can swim through in your browser: swaying kelp for",
-    "summary": "1809 stars | JavaScript | A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no ",
+    "summary": "2207 stars | JavaScript | A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no ",
     "source": "GitHub Trending",
     "url": "https://github.com/Noniv/abyssal-garden",
     "date": "2026-11-12",
@@ -217,14 +204,27 @@
       "JavaScript"
     ],
     "hot": true,
+    "id": 17
+  },
+  {
+    "title": "gylive/google-ultra - No description",
+    "summary": "2000 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/gylive/google-ultra",
+    "date": "2026-11-17",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
     "id": 18
   },
   {
-    "title": "duwqijlk/muse-protocol - muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-    "summary": "1496 stars | Python | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+    "title": "Immortal-Protocols/lastbook - Offline knowledge AI, maps and videos for survival and rebuilding",
+    "summary": "1870 stars | Python | Offline knowledge AI, maps and videos for survival and rebuilding",
     "source": "GitHub Trending",
-    "url": "https://github.com/duwqijlk/muse-protocol",
-    "date": "2026-11-14",
+    "url": "https://github.com/Immortal-Protocols/lastbook",
+    "date": "2026-11-12",
     "tags": [
       "GitHub",
       "Python"
@@ -233,14 +233,14 @@
     "id": 19
   },
   {
-    "title": "Eynnzerr/TelemetryCleaner - 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
-    "summary": "1368 stars | Kotlin | 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+    "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the origina",
+    "summary": "1671 stars | Rust | Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, ",
     "source": "GitHub Trending",
-    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-    "date": "2026-11-11",
+    "url": "https://github.com/erkamyaman/rust-anything",
+    "date": "2026-11-16",
     "tags": [
       "GitHub",
-      "Kotlin"
+      "Rust"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,226 @@
     "id": 26
   },
   {
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "summary": "1053 points | 158 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.cs.cmu.edu/learn/",
+    "date": "2026-11-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "summary": "401 points | 258 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "date": "2026-11-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "BugMeNot has closed",
+    "summary": "422 points | 204 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.bugmenot.com/",
+    "date": "2026-11-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Frame – 31.5\" color ePaper display",
+    "summary": "353 points | 245 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://trmnl.com/blog/introducing-frame",
+    "date": "2026-11-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Jiff 1.0: A datetime library for Rust",
+    "summary": "349 points | 79 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://burntsushi.net/jiff/",
+    "date": "2026-11-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Grazing sheep in fields with solar arrays",
+    "summary": "248 points | 241 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+    "date": "2026-11-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+    "summary": "742 points | 622 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "date": "2026-11-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+    "summary": "46 points | 23 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/0nelight/sutra-os",
+    "date": "2026-11-16",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "OpenBot",
+    "summary": "New product launch on Product Hunt: OpenBot",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/copilotkit",
+    "date": "2026-08-25",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Zoom Slides",
+    "summary": "New product launch on Product Hunt: Zoom Slides",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/zoom",
+    "date": "2026-11-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Notebook to Notes",
+    "summary": "New product launch on Product Hunt: Notebook to Notes",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/notebook-to-notes",
+    "date": "2026-11-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Blomma for Organizations",
+    "summary": "New product launch on Product Hunt: Blomma for Organizations",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/blomma",
+    "date": "2026-11-13",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "OpenFrame",
+    "summary": "New product launch on Product Hunt: OpenFrame",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/openframe-3",
+    "date": "2026-11-04",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Nexus",
+    "summary": "New product launch on Product Hunt: Nexus",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/nexus-11",
+    "date": "2026-11-09",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "apex-compute/ANR - Apex Neural Rendering (ANR) by Apex Compute",
+    "summary": "2497 stars | C++ | Apex Neural Rendering (ANR) by Apex Compute",
+    "source": "GitHub Trending",
+    "url": "https://github.com/apex-compute/ANR",
+    "date": "2026-11-11",
+    "tags": [
+      "GitHub",
+      "C++"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "hitkeeen/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w",
+    "summary": "2284 stars | Unknown | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for",
+    "source": "GitHub Trending",
+    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+    "date": "2026-11-12",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "duwqijlk/muse-protocol - muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+    "summary": "1496 stars | Python | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+    "source": "GitHub Trending",
+    "url": "https://github.com/duwqijlk/muse-protocol",
+    "date": "2026-11-14",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
+    "title": "Eynnzerr/TelemetryCleaner - 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+    "summary": "1368 stars | Kotlin | 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+    "source": "GitHub Trending",
+    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+    "date": "2026-11-11",
+    "tags": [
+      "GitHub",
+      "Kotlin"
+    ],
+    "hot": true,
+    "id": 44
+  },
+  {
     "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
     "summary": "58 points | 7 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +553,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 27
+    "id": 45
   },
   {
     "title": "The MacBook Pro's OLED PWM problem",
@@ -345,7 +565,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 46
   },
   {
     "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
@@ -357,7 +577,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 47
   },
   {
     "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
@@ -369,7 +589,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 48
   },
   {
     "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
@@ -381,7 +601,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 31
+    "id": 49
   },
   {
     "title": "Eclipse Mosquitto – An open source MQTT broker",
@@ -393,7 +613,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 50
   },
   {
     "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
@@ -405,7 +625,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 51
   },
   {
     "title": "Pixel Office",
@@ -417,7 +637,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 34
+    "id": 52
   },
   {
     "title": "Emayler",
@@ -429,7 +649,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 53
   },
   {
     "title": "Canvas by AgentGrid.io",
@@ -441,7 +661,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 54
   },
   {
     "title": "Talyn",
@@ -453,7 +673,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 55
   },
   {
     "title": "TwoBucket",
@@ -465,7 +685,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 56
   },
   {
     "title": "Tulvo",
@@ -477,7 +697,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 57
   },
   {
     "title": "Kianuni/Erosion-CN - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
@@ -490,7 +710,7 @@
       "Swift"
     ],
     "hot": true,
-    "id": 40
+    "id": 58
   },
   {
     "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. A free, open-source alterna",
@@ -503,7 +723,7 @@
       "TypeScript"
     ],
     "hot": true,
-    "id": 41
+    "id": 59
   },
   {
     "title": "HybridRobotics/supermimic - Humanoid whole-body motion tracking with one differentiable world model.",
@@ -516,223 +736,6 @@
       "Python"
     ],
     "hot": true,
-    "id": 42
-  },
-  {
-    "title": "SpaceX catches the Starship to end Flight 15",
-    "summary": "848 points | 572 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.spacex.com/launches/starship-flight-15",
-    "date": "2026-11-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Lovable apps expose passport details and more than 200K private messages",
-    "summary": "691 points | 283 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.crissyfield.de/research/lovable-en/",
-    "date": "2026-11-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "KDE: The documentary [video]",
-    "summary": "402 points | 87 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-    "date": "2026-11-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-    "summary": "58 points | 8 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-    "date": "2026-11-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 46
-  },
-  {
-    "title": "Why get an expensive Pi when I have an old phone?",
-    "summary": "527 points | 286 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-    "date": "2026-11-10",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "summary": "194 points | 10 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-    "date": "2026-11-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 48
-  },
-  {
-    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "summary": "143 points | 29 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://gitlab.com/snipedbywifi/terminactory",
-    "date": "2026-11-14",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-    "summary": "8 points | 2 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://bobbiec.github.io/jamaican-font.html",
-    "date": "2026-11-15",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "MAP & GO!",
-    "summary": "New product launch on Product Hunt: MAP & GO!",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-    "date": "2026-10-21",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Valutorio",
-    "summary": "New product launch on Product Hunt: Valutorio",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/valutorio",
-    "date": "2026-11-05",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Dex Semantics",
-    "summary": "New product launch on Product Hunt: Dex Semantics",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/dex-by-exmergo",
-    "date": "2026-11-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "HiringNow",
-    "summary": "New product launch on Product Hunt: HiringNow",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/hiringnow",
-    "date": "2026-11-02",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Gemini Robotics 2.5",
-    "summary": "New product launch on Product Hunt: Gemini Robotics 2.5",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-    "date": "2026-11-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Thunder",
-    "summary": "New product launch on Product Hunt: Thunder",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/thunder-3",
-    "date": "2026-11-13",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "huamidev/GestaltX - An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese",
-    "summary": "7591 stars | Swift | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-    "source": "GitHub Trending",
-    "url": "https://github.com/huamidev/GestaltX",
-    "date": "2026-11-09",
-    "tags": [
-      "GitHub",
-      "Swift"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "FAA issues national ground stop",
-    "summary": "1396 points | 860 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-    "date": "2026-11-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-    "summary": "697 points | 201 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-    "date": "2026-11-12",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-    "summary": "61 points | 10 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://grounds.top/",
-    "date": "2026-11-13",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
     "id": 60
   }
 ]
