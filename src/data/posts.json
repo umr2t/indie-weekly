@@ -1,10 +1,10 @@
 [
   {
-    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-    "summary": "749 points | 175 comments on Hacker News",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "summary": "336 points | 143 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-    "date": "2026-11-20",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "date": "2026-11-22",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Lean verification of the Riemann Hypothesis",
-    "summary": "894 points | 742 comments on Hacker News",
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "summary": "404 points | 199 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-    "date": "2026-11-21",
+    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "date": "2026-11-22",
     "tags": [
       "HN"
     ],
@@ -24,23 +24,23 @@
     "id": 2
   },
   {
-    "title": "Inkling-2-Mini in 5.4 GB Memory",
-    "summary": "384 points | 98 comments on Hacker News",
+    "title": "What we learned operating auth for 1k APIs",
+    "summary": "19 points | 3 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-    "date": "2026-11-21",
+    "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+    "date": "2026-11-23",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "Detonating a pile of lead azide",
-    "summary": "555 points | 363 comments on Hacker News",
+    "title": "Perplexity and Intelligence",
+    "summary": "525 points | 360 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-    "date": "2026-11-21",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "date": "2026-11-22",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "My monitor was cutting my download speed by 75%",
-    "summary": "521 points | 254 comments on Hacker News",
+    "title": "What Happened to Silicon Valley?",
+    "summary": "506 points | 285 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-    "date": "2026-11-21",
+    "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+    "date": "2026-11-22",
     "tags": [
       "HN"
     ],
@@ -60,23 +60,23 @@
     "id": 5
   },
   {
-    "title": "Shaping the Loops, Closing the Loops",
-    "summary": "14 points | 4 comments on Hacker News",
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "summary": "290 points | 69 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://revyl.com/blog/pattern-engineering/",
-    "date": "2026-11-18",
+    "url": "https://github.com/gulivan/worker755",
+    "date": "2026-11-22",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 6
   },
   {
-    "title": "Show HN: Zero C# – C# without a runtime or GC",
-    "summary": "141 points | 102 comments on Hacker News",
+    "title": "Localcode, open source agentic coding on your Mac with one command",
+    "summary": "40 points | 13 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://onurgumus.github.io/zero-csharp/index.html",
-    "date": "2026-11-21",
+    "url": "https://github.com/mjwsolo/localcode",
+    "date": "2026-11-22",
     "tags": [
       "HN"
     ],
@@ -84,11 +84,11 @@
     "id": 7
   },
   {
-    "title": "Why there are still no non-WebKit browsers on iOS",
-    "summary": "508 points | 280 comments on Hacker News",
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "summary": "1221 points | 686 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-    "date": "2026-11-20",
+    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "date": "2026-11-22",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Beat Watcher",
-    "summary": "New product launch on Product Hunt: Beat Watcher",
+    "title": "Yoroll",
+    "summary": "New product launch on Product Hunt: Yoroll",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/beat-watcher",
-    "date": "2026-11-15",
+    "url": "https://www.producthunt.com/products/yoroll",
+    "date": "2026-11-06",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Doddle",
-    "summary": "New product launch on Product Hunt: Doddle",
+    "title": "Copy Haste",
+    "summary": "New product launch on Product Hunt: Copy Haste",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/doddle-3",
-    "date": "2026-11-19",
+    "url": "https://www.producthunt.com/products/copy-haste",
+    "date": "2026-11-15",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Backspin",
-    "summary": "New product launch on Product Hunt: Backspin",
+    "title": "Creavit Studio 4.0",
+    "summary": "New product launch on Product Hunt: Creavit Studio 4.0",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backspin",
-    "date": "2026-11-19",
+    "url": "https://www.producthunt.com/products/creavit-studio",
+    "date": "2026-11-20",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Glassmail",
-    "summary": "New product launch on Product Hunt: Glassmail",
+    "title": "Webless Agents",
+    "summary": "New product launch on Product Hunt: Webless Agents",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/glassmail",
-    "date": "2026-11-14",
+    "url": "https://www.producthunt.com/products/webless",
+    "date": "2026-11-07",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Exa Websets V2",
-    "summary": "New product launch on Product Hunt: Exa Websets V2",
+    "title": "Resurf",
+    "summary": "New product launch on Product Hunt: Resurf",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/exa-ai",
-    "date": "2026-11-18",
+    "url": "https://www.producthunt.com/products/resurf-2",
+    "date": "2026-11-21",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "Shipyard",
-    "summary": "New product launch on Product Hunt: Shipyard",
+    "title": "oovi",
+    "summary": "New product launch on Product Hunt: oovi",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/shipyard",
-    "date": "2026-11-16",
+    "url": "https://www.producthunt.com/products/oovi",
+    "date": "2026-11-21",
     "tags": [
       "Product Launch"
     ],
@@ -168,21 +168,8 @@
     "id": 14
   },
   {
-    "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the origina",
-    "summary": "7496 stars | Rust | Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/erkamyaman/rust-anything",
-    "date": "2026-11-16",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 15
-  },
-  {
     "title": "ItsNotRexed/Leonida - Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-    "summary": "6675 stars | Python | Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "summary": "16296 stars | Python | Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
     "source": "GitHub Trending",
     "url": "https://github.com/ItsNotRexed/Leonida",
     "date": "2026-11-20",
@@ -191,37 +178,11 @@
       "Python"
     ],
     "hot": true,
-    "id": 16
-  },
-  {
-    "title": "krisgfx9/Wireless-Device-Battery-Monitor - Show the battery level of wireless mice, headsets, keyboards and controllers on ",
-    "summary": "5859 stars | C++ | Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer,",
-    "source": "GitHub Trending",
-    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-    "date": "2026-11-16",
-    "tags": [
-      "GitHub",
-      "C++"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
-    "title": "gylive/google-ultra - No description",
-    "summary": "2605 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/gylive/google-ultra",
-    "date": "2026-11-17",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 18
+    "id": 15
   },
   {
     "title": "bookwjitchieni1986/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w",
-    "summary": "2575 stars | Unknown | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for",
+    "summary": "2753 stars | Unknown | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for",
     "source": "GitHub Trending",
     "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
     "date": "2026-11-19",
@@ -230,14 +191,53 @@
       "Code"
     ],
     "hot": true,
-    "id": 19
+    "id": 16
   },
   {
     "title": "iamajmeena/neonclipping - Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipp",
-    "summary": "1756 stars | Python | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "summary": "2122 stars | Python | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
     "source": "GitHub Trending",
     "url": "https://github.com/iamajmeena/neonclipping",
     "date": "2026-11-19",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 17
+  },
+  {
+    "title": "EL4CTEO/fast-anything - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ru",
+    "summary": "2095 stars | Rust | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "date": "2026-11-21",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 18
+  },
+  {
+    "title": "omonkeyz/xbox-emulator - Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "summary": "1368 stars | Rust | Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "source": "GitHub Trending",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "date": "2026-11-21",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
+    "title": "R0Y00/Xbox2Windows - GTA VI static recompilation research for x64 Windows. Source-built EXEs run on W",
+    "summary": "1339 stars | Python | GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game s",
+    "source": "GitHub Trending",
+    "url": "https://github.com/R0Y00/Xbox2Windows",
+    "date": "2026-11-20",
     "tags": [
       "GitHub",
       "Python"
@@ -324,6 +324,213 @@
     "id": 26
   },
   {
+    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+    "summary": "749 points | 175 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "date": "2026-11-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Lean verification of the Riemann Hypothesis",
+    "summary": "894 points | 742 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "date": "2026-11-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "summary": "384 points | 98 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "date": "2026-11-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "Detonating a pile of lead azide",
+    "summary": "555 points | 363 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "date": "2026-11-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "My monitor was cutting my download speed by 75%",
+    "summary": "521 points | 254 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+    "date": "2026-11-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Shaping the Loops, Closing the Loops",
+    "summary": "14 points | 4 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://revyl.com/blog/pattern-engineering/",
+    "date": "2026-11-18",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 32
+  },
+  {
+    "title": "Show HN: Zero C# – C# without a runtime or GC",
+    "summary": "141 points | 102 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://onurgumus.github.io/zero-csharp/index.html",
+    "date": "2026-11-21",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Why there are still no non-WebKit browsers on iOS",
+    "summary": "508 points | 280 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+    "date": "2026-11-20",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Beat Watcher",
+    "summary": "New product launch on Product Hunt: Beat Watcher",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/beat-watcher",
+    "date": "2026-11-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Doddle",
+    "summary": "New product launch on Product Hunt: Doddle",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/doddle-3",
+    "date": "2026-11-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Backspin",
+    "summary": "New product launch on Product Hunt: Backspin",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/backspin",
+    "date": "2026-11-19",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Glassmail",
+    "summary": "New product launch on Product Hunt: Glassmail",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/glassmail",
+    "date": "2026-11-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Exa Websets V2",
+    "summary": "New product launch on Product Hunt: Exa Websets V2",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/exa-ai",
+    "date": "2026-11-18",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "Shipyard",
+    "summary": "New product launch on Product Hunt: Shipyard",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/shipyard",
+    "date": "2026-11-16",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the origina",
+    "summary": "7496 stars | Rust | Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/erkamyaman/rust-anything",
+    "date": "2026-11-16",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "krisgfx9/Wireless-Device-Battery-Monitor - Show the battery level of wireless mice, headsets, keyboards and controllers on ",
+    "summary": "5859 stars | C++ | Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer,",
+    "source": "GitHub Trending",
+    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "date": "2026-11-16",
+    "tags": [
+      "GitHub",
+      "C++"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "gylive/google-ultra - No description",
+    "summary": "2605 stars | Python | ",
+    "source": "GitHub Trending",
+    "url": "https://github.com/gylive/google-ultra",
+    "date": "2026-11-17",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
     "title": "Hurried Announcement: Alessandro Masullo GRH",
     "summary": "1750 points | 779 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Inkling 2 Mini",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 46
   },
   {
     "title": "We promoted developers into architects without informing them",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 47
   },
   {
     "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Language Models Can Rewrite Their Own Weights",
@@ -393,7 +600,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
@@ -405,7 +612,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 33
+    "id": 50
   },
   {
     "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
@@ -417,7 +624,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 51
   },
   {
     "title": "Same Moon",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "InteraOne",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Groundwork",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "tripps",
@@ -465,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "pickfit",
@@ -477,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "DWaste",
@@ -489,7 +696,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "Hut-hzf/ung220z-tool - ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移",
@@ -502,7 +709,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "sybil-solutions/inference-optimisation-skill - Agent skill for hill-climbing local LLM serving speed (decode, speculative decod",
@@ -515,7 +722,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "Anthropic’s Nasdaq debut",
@@ -523,212 +730,6 @@
     "source": "Hacker News",
     "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
     "date": "2026-11-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Pancreatic cancer halted by virus injection in three patients",
-    "summary": "674 points | 106 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-    "date": "2026-11-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Claude solves two open problems in the physics of black holes",
-    "summary": "434 points | 198 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-    "date": "2026-11-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Garage Door Spam",
-    "summary": "793 points | 335 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.harrison.page/garage-door-spam/",
-    "date": "2026-11-16",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-    "summary": "96 points | 70 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/onlook-dev/onlook/",
-    "date": "2026-11-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 47
-  },
-  {
-    "title": "Someone reported java4shell bug in September 2026",
-    "summary": "392 points | 106 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/openjdk/jdk/pull/32781",
-    "date": "2026-11-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-    "summary": "201 points | 94 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://cornholenews.news",
-    "date": "2026-11-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "UK government forced to admit it issued Apple a secret encryption order",
-    "summary": "567 points | 260 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-    "date": "2026-11-19",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "Verse Engine by Ctruh",
-    "summary": "New product launch on Product Hunt: Verse Engine by Ctruh",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/verse-engine-by-ctruh",
-    "date": "2026-11-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 51
-  },
-  {
-    "title": "Spellar for Chrome",
-    "summary": "New product launch on Product Hunt: Spellar for Chrome",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/spellar",
-    "date": "2026-11-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Stripo Email Widgets",
-    "summary": "New product launch on Product Hunt: Stripo Email Widgets",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/stripo-email",
-    "date": "2026-11-11",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Impractical",
-    "summary": "New product launch on Product Hunt: Impractical",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/impractical",
-    "date": "2026-08-12",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "The Calm Creator Mastermind",
-    "summary": "New product launch on Product Hunt: The Calm Creator Mastermind",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/the-calm-creator-mastermind",
-    "date": "2026-11-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Teaflask",
-    "summary": "New product launch on Product Hunt: Teaflask",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/teaflask",
-    "date": "2026-11-09",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "duwqijlk/muse-protocol - muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-    "summary": "1660 stars | Python | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-    "source": "GitHub Trending",
-    "url": "https://github.com/duwqijlk/muse-protocol",
-    "date": "2026-11-14",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 57
-  },
-  {
-    "title": "CzzzzzzJ/mdldm-maitian - 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-    "summary": "1630 stars | JavaScript | 麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-    "source": "GitHub Trending",
-    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-    "date": "2026-11-14",
-    "tags": [
-      "GitHub",
-      "JavaScript"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "Gemini 4 Neon",
-    "summary": "595 points | 532 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-    "date": "2026-11-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Unauthenticated remote code execution in Nginx",
-    "summary": "1228 points | 539 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-    "date": "2026-11-18",
     "tags": [
       "HN"
     ],
