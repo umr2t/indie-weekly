@@ -1,10 +1,10 @@
 [
   {
-    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "summary": "336 points | 143 comments on Hacker News",
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "summary": "2456 points | 3396 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-    "date": "2026-11-22",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "date": "2026-11-23",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-    "summary": "404 points | 199 comments on Hacker News",
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "summary": "387 points | 189 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-    "date": "2026-11-22",
+    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "date": "2026-11-23",
     "tags": [
       "HN"
     ],
@@ -24,23 +24,23 @@
     "id": 2
   },
   {
-    "title": "What we learned operating auth for 1k APIs",
-    "summary": "19 points | 3 comments on Hacker News",
+    "title": "Ladybird is now in alpha",
+    "summary": "1725 points | 402 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+    "url": "https://ladybird.org/posts/alpha/",
     "date": "2026-11-23",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 3
   },
   {
-    "title": "Perplexity and Intelligence",
-    "summary": "525 points | 360 comments on Hacker News",
+    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+    "summary": "234 points | 63 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://openai.com/index/perplexity-and-intelligence/",
-    "date": "2026-11-22",
+    "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+    "date": "2026-11-24",
     "tags": [
       "HN"
     ],
@@ -48,11 +48,11 @@
     "id": 4
   },
   {
-    "title": "What Happened to Silicon Valley?",
-    "summary": "506 points | 285 comments on Hacker News",
+    "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+    "summary": "1539 points | 854 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-    "date": "2026-11-22",
+    "url": "https://twitter.com/ylecun/status/2124550037912920090",
+    "date": "2026-11-23",
     "tags": [
       "HN"
     ],
@@ -60,11 +60,11 @@
     "id": 5
   },
   {
-    "title": "Show HN: I built a game where you are an LLM's subagent",
-    "summary": "290 points | 69 comments on Hacker News",
+    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+    "summary": "979 points | 224 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/gulivan/worker755",
-    "date": "2026-11-22",
+    "url": "https://arm.jonpalmisc.com/",
+    "date": "2026-11-23",
     "tags": [
       "HN"
     ],
@@ -72,23 +72,23 @@
     "id": 6
   },
   {
-    "title": "Localcode, open source agentic coding on your Mac with one command",
-    "summary": "40 points | 13 comments on Hacker News",
+    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+    "summary": "982 points | 170 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://github.com/mjwsolo/localcode",
-    "date": "2026-11-22",
+    "url": "https://spelunkr.tv",
+    "date": "2026-11-23",
     "tags": [
       "HN"
     ],
-    "hot": false,
+    "hot": true,
     "id": 7
   },
   {
-    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-    "summary": "1221 points | 686 comments on Hacker News",
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+    "summary": "1102 points | 360 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-    "date": "2026-11-22",
+    "url": "https://z.ai/blog/glm-5.4",
+    "date": "2026-11-23",
     "tags": [
       "HN"
     ],
@@ -96,11 +96,11 @@
     "id": 8
   },
   {
-    "title": "Yoroll",
-    "summary": "New product launch on Product Hunt: Yoroll",
+    "title": "Branchery",
+    "summary": "New product launch on Product Hunt: Branchery",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/yoroll",
-    "date": "2026-11-06",
+    "url": "https://www.producthunt.com/products/branchery",
+    "date": "2026-11-22",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Copy Haste",
-    "summary": "New product launch on Product Hunt: Copy Haste",
+    "title": "Gauth Personal Study Agent",
+    "summary": "New product launch on Product Hunt: Gauth Personal Study Agent",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/copy-haste",
-    "date": "2026-11-15",
+    "url": "https://www.producthunt.com/products/gauth-ai-course",
+    "date": "2026-11-20",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Creavit Studio 4.0",
-    "summary": "New product launch on Product Hunt: Creavit Studio 4.0",
+    "title": "Motionflare",
+    "summary": "New product launch on Product Hunt: Motionflare",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/creavit-studio",
-    "date": "2026-11-20",
+    "url": "https://www.producthunt.com/products/motionflare",
+    "date": "2026-11-14",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Webless Agents",
-    "summary": "New product launch on Product Hunt: Webless Agents",
+    "title": "Plango",
+    "summary": "New product launch on Product Hunt: Plango",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/webless",
-    "date": "2026-11-07",
+    "url": "https://www.producthunt.com/products/plango",
+    "date": "2026-11-22",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Resurf",
-    "summary": "New product launch on Product Hunt: Resurf",
+    "title": "Omi Work",
+    "summary": "New product launch on Product Hunt: Omi Work",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/resurf-2",
-    "date": "2026-11-21",
+    "url": "https://www.producthunt.com/products/omi-work",
+    "date": "2026-11-22",
     "tags": [
       "Product Launch"
     ],
@@ -156,11 +156,11 @@
     "id": 13
   },
   {
-    "title": "oovi",
-    "summary": "New product launch on Product Hunt: oovi",
+    "title": "MAI Image 2.7",
+    "summary": "New product launch on Product Hunt: MAI Image 2.7",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/oovi",
-    "date": "2026-11-21",
+    "url": "https://www.producthunt.com/products/mai-image-2-3",
+    "date": "2026-11-17",
     "tags": [
       "Product Launch"
     ],
@@ -168,47 +168,34 @@
     "id": 14
   },
   {
-    "title": "ItsNotRexed/Leonida - Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-    "summary": "16296 stars | Python | Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "title": "Marvisak/VIctory - An attempt at running GTA VI on PC",
+    "summary": "5737 stars | Rust | An attempt at running GTA VI on PC",
     "source": "GitHub Trending",
-    "url": "https://github.com/ItsNotRexed/Leonida",
-    "date": "2026-11-20",
+    "url": "https://github.com/Marvisak/VIctory",
+    "date": "2026-11-23",
     "tags": [
       "GitHub",
-      "Python"
+      "Rust"
     ],
     "hot": true,
     "id": 15
   },
   {
-    "title": "bookwjitchieni1986/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w",
-    "summary": "2753 stars | Unknown | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for",
+    "title": "ivall/xcl - Xbox Series compatibility layer for Windows - runs console game code natively, r",
+    "summary": "4802 stars | Rust | Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
     "source": "GitHub Trending",
-    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-    "date": "2026-11-19",
+    "url": "https://github.com/ivall/xcl",
+    "date": "2026-11-20",
     "tags": [
       "GitHub",
-      "Code"
+      "Rust"
     ],
     "hot": true,
     "id": 16
   },
   {
-    "title": "iamajmeena/neonclipping - Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipp",
-    "summary": "2122 stars | Python | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-    "source": "GitHub Trending",
-    "url": "https://github.com/iamajmeena/neonclipping",
-    "date": "2026-11-19",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 17
-  },
-  {
     "title": "EL4CTEO/fast-anything - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ru",
-    "summary": "2095 stars | Rust | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "summary": "3306 stars | Rust | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
     "source": "GitHub Trending",
     "url": "https://github.com/EL4CTEO/fast-anything",
     "date": "2026-11-21",
@@ -217,30 +204,43 @@
       "Rust"
     ],
     "hot": true,
+    "id": 17
+  },
+  {
+    "title": "AFK-surf/xnulinux - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "summary": "2526 stars | Objective-C++ | XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "source": "GitHub Trending",
+    "url": "https://github.com/AFK-surf/xnulinux",
+    "date": "2026-11-20",
+    "tags": [
+      "GitHub",
+      "Objective-C++"
+    ],
+    "hot": true,
     "id": 18
   },
   {
+    "title": "iamajmeena/neonclipping - Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipp",
+    "summary": "2337 stars | Python | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "source": "GitHub Trending",
+    "url": "https://github.com/iamajmeena/neonclipping",
+    "date": "2026-11-19",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 19
+  },
+  {
     "title": "omonkeyz/xbox-emulator - Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-    "summary": "1368 stars | Rust | Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "summary": "1723 stars | Rust | Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "source": "GitHub Trending",
     "url": "https://github.com/omonkeyz/xbox-emulator",
     "date": "2026-11-21",
     "tags": [
       "GitHub",
       "Rust"
-    ],
-    "hot": true,
-    "id": 19
-  },
-  {
-    "title": "R0Y00/Xbox2Windows - GTA VI static recompilation research for x64 Windows. Source-built EXEs run on W",
-    "summary": "1339 stars | Python | GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game s",
-    "source": "GitHub Trending",
-    "url": "https://github.com/R0Y00/Xbox2Windows",
-    "date": "2026-11-20",
-    "tags": [
-      "GitHub",
-      "Python"
     ],
     "hot": true,
     "id": 20
@@ -324,6 +324,213 @@
     "id": 26
   },
   {
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "summary": "336 points | 143 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "date": "2026-11-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "summary": "404 points | 199 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "date": "2026-11-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "What we learned operating auth for 1k APIs",
+    "summary": "19 points | 3 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+    "date": "2026-11-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 29
+  },
+  {
+    "title": "Perplexity and Intelligence",
+    "summary": "525 points | 360 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "date": "2026-11-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "What Happened to Silicon Valley?",
+    "summary": "506 points | 285 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+    "date": "2026-11-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "summary": "290 points | 69 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/gulivan/worker755",
+    "date": "2026-11-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "Localcode, open source agentic coding on your Mac with one command",
+    "summary": "40 points | 13 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://github.com/mjwsolo/localcode",
+    "date": "2026-11-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": false,
+    "id": 33
+  },
+  {
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "summary": "1221 points | 686 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "date": "2026-11-22",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 34
+  },
+  {
+    "title": "Yoroll",
+    "summary": "New product launch on Product Hunt: Yoroll",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/yoroll",
+    "date": "2026-11-06",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Copy Haste",
+    "summary": "New product launch on Product Hunt: Copy Haste",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/copy-haste",
+    "date": "2026-11-15",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Creavit Studio 4.0",
+    "summary": "New product launch on Product Hunt: Creavit Studio 4.0",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/creavit-studio",
+    "date": "2026-11-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Webless Agents",
+    "summary": "New product launch on Product Hunt: Webless Agents",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/webless",
+    "date": "2026-11-07",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "Resurf",
+    "summary": "New product launch on Product Hunt: Resurf",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/resurf-2",
+    "date": "2026-11-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "oovi",
+    "summary": "New product launch on Product Hunt: oovi",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/oovi",
+    "date": "2026-11-21",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 40
+  },
+  {
+    "title": "ItsNotRexed/Leonida - Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "summary": "16296 stars | Python | Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ItsNotRexed/Leonida",
+    "date": "2026-11-20",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 41
+  },
+  {
+    "title": "bookwjitchieni1986/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w",
+    "summary": "2753 stars | Unknown | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for",
+    "source": "GitHub Trending",
+    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "date": "2026-11-19",
+    "tags": [
+      "GitHub",
+      "Code"
+    ],
+    "hot": true,
+    "id": 42
+  },
+  {
+    "title": "R0Y00/Xbox2Windows - GTA VI static recompilation research for x64 Windows. Source-built EXEs run on W",
+    "summary": "1339 stars | Python | GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game s",
+    "source": "GitHub Trending",
+    "url": "https://github.com/R0Y00/Xbox2Windows",
+    "date": "2026-11-20",
+    "tags": [
+      "GitHub",
+      "Python"
+    ],
+    "hot": true,
+    "id": 43
+  },
+  {
     "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
     "summary": "749 points | 175 comments on Hacker News",
     "source": "Hacker News",
@@ -333,7 +540,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 44
   },
   {
     "title": "Lean verification of the Riemann Hypothesis",
@@ -345,7 +552,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 45
   },
   {
     "title": "Inkling-2-Mini in 5.4 GB Memory",
@@ -357,7 +564,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 29
+    "id": 46
   },
   {
     "title": "Detonating a pile of lead azide",
@@ -369,7 +576,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 47
   },
   {
     "title": "My monitor was cutting my download speed by 75%",
@@ -381,7 +588,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 48
   },
   {
     "title": "Shaping the Loops, Closing the Loops",
@@ -393,7 +600,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 32
+    "id": 49
   },
   {
     "title": "Show HN: Zero C# – C# without a runtime or GC",
@@ -405,7 +612,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 50
   },
   {
     "title": "Why there are still no non-WebKit browsers on iOS",
@@ -417,7 +624,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 51
   },
   {
     "title": "Beat Watcher",
@@ -429,7 +636,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 52
   },
   {
     "title": "Doddle",
@@ -441,7 +648,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 53
   },
   {
     "title": "Backspin",
@@ -453,7 +660,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 54
   },
   {
     "title": "Glassmail",
@@ -465,7 +672,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 55
   },
   {
     "title": "Exa Websets V2",
@@ -477,7 +684,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 56
   },
   {
     "title": "Shipyard",
@@ -489,7 +696,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 57
   },
   {
     "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the origina",
@@ -502,7 +709,7 @@
       "Rust"
     ],
     "hot": true,
-    "id": 41
+    "id": 58
   },
   {
     "title": "krisgfx9/Wireless-Device-Battery-Monitor - Show the battery level of wireless mice, headsets, keyboards and controllers on ",
@@ -515,7 +722,7 @@
       "C++"
     ],
     "hot": true,
-    "id": 42
+    "id": 59
   },
   {
     "title": "gylive/google-ultra - No description",
@@ -526,212 +733,6 @@
     "tags": [
       "GitHub",
       "Python"
-    ],
-    "hot": true,
-    "id": 43
-  },
-  {
-    "title": "Hurried Announcement: Alessandro Masullo GRH",
-    "summary": "1750 points | 779 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-    "date": "2026-11-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 44
-  },
-  {
-    "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-    "summary": "2454 points | 1655 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://alpo.ge/remark.pdf",
-    "date": "2026-11-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Inkling 2 Mini",
-    "summary": "805 points | 137 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "date": "2026-11-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "We promoted developers into architects without informing them",
-    "summary": "345 points | 209 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://manidoraisamy.com/developer-to-architect.html",
-    "date": "2026-11-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-    "summary": "381 points | 154 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-    "date": "2026-11-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Language Models Can Rewrite Their Own Weights",
-    "summary": "365 points | 114 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2611.21885",
-    "date": "2026-11-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 49
-  },
-  {
-    "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "summary": "530 points | 310 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://signal.org/blog/protecting-your-privacy/",
-    "date": "2026-11-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 50
-  },
-  {
-    "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-    "summary": "243 points | 222 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://scottaaronson.blog/?p=10344",
-    "date": "2026-11-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Same Moon",
-    "summary": "New product launch on Product Hunt: Same Moon",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/same-moon",
-    "date": "2026-11-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "InteraOne",
-    "summary": "New product launch on Product Hunt: InteraOne",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/interaone",
-    "date": "2026-11-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Groundwork",
-    "summary": "New product launch on Product Hunt: Groundwork",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/groundwork-6",
-    "date": "2026-11-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "tripps",
-    "summary": "New product launch on Product Hunt: tripps",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/tripps",
-    "date": "2026-11-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "pickfit",
-    "summary": "New product launch on Product Hunt: pickfit",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/pickfit",
-    "date": "2026-11-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "DWaste",
-    "summary": "New product launch on Product Hunt: DWaste",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/deep-waste",
-    "date": "2026-11-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "Hut-hzf/ung220z-tool - ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移",
-    "summary": "2052 stars | Python | ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-    "source": "GitHub Trending",
-    "url": "https://github.com/Hut-hzf/ung220z-tool",
-    "date": "2026-11-15",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "sybil-solutions/inference-optimisation-skill - Agent skill for hill-climbing local LLM serving speed (decode, speculative decod",
-    "summary": "1362 stars | Python | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-    "source": "GitHub Trending",
-    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-    "date": "2026-11-16",
-    "tags": [
-      "GitHub",
-      "Python"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "Anthropic’s Nasdaq debut",
-    "summary": "1004 points | 1968 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-    "date": "2026-11-19",
-    "tags": [
-      "HN"
     ],
     "hot": true,
     "id": 60
