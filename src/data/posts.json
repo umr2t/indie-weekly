@@ -1,10 +1,10 @@
 [
   {
-    "title": "Nvidia Reinstates Jensen Huang as CEO",
-    "summary": "2456 points | 3396 comments on Hacker News",
+    "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "summary": "383 points | 193 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-    "date": "2026-11-23",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "date": "2026-11-25",
     "tags": [
       "HN"
     ],
@@ -12,11 +12,11 @@
     "id": 1
   },
   {
-    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-    "summary": "387 points | 189 comments on Hacker News",
+    "title": "Ternary Bonsai 2.5 27B",
+    "summary": "398 points | 131 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-    "date": "2026-11-23",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "date": "2026-11-24",
     "tags": [
       "HN"
     ],
@@ -24,47 +24,47 @@
     "id": 2
   },
   {
-    "title": "Ladybird is now in alpha",
-    "summary": "1725 points | 402 comments on Hacker News",
+    "title": "Show HN: U.S. Interstate Weather",
+    "summary": "20 points | 4 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://ladybird.org/posts/alpha/",
-    "date": "2026-11-23",
+    "url": "https://www.interstateweather.com/",
+    "date": "2026-11-25",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 3
   },
   {
-    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-    "summary": "234 points | 63 comments on Hacker News",
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "summary": "19 points | 2 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-    "date": "2026-11-24",
+    "url": "https://gpu-demo-gallery.pages.dev/",
+    "date": "2026-11-25",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 4
   },
   {
-    "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-    "summary": "1539 points | 854 comments on Hacker News",
+    "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+    "summary": "29 points | 8 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://twitter.com/ylecun/status/2124550037912920090",
-    "date": "2026-11-23",
+    "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+    "date": "2026-11-25",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 5
   },
   {
-    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-    "summary": "979 points | 224 comments on Hacker News",
+    "title": "The Spray Bottle",
+    "summary": "429 points | 106 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://arm.jonpalmisc.com/",
-    "date": "2026-11-23",
+    "url": "https://mechanical-pencil.com/products/spray-bottle",
+    "date": "2026-11-22",
     "tags": [
       "HN"
     ],
@@ -72,35 +72,35 @@
     "id": 6
   },
   {
-    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-    "summary": "982 points | 170 comments on Hacker News",
+    "title": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
+    "summary": "20 points | 2 comments on Hacker News",
     "source": "Hacker News",
-    "url": "https://spelunkr.tv",
-    "date": "2026-11-23",
+    "url": "https://vcarl.com/sashay/",
+    "date": "2026-11-25",
     "tags": [
       "HN"
     ],
-    "hot": true,
+    "hot": false,
     "id": 7
   },
   {
-    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-    "summary": "1102 points | 360 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://z.ai/blog/glm-5.4",
-    "date": "2026-11-23",
+    "title": "distribution.dev",
+    "summary": "New product launch on Product Hunt: distribution.dev",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/distribution-dev",
+    "date": "2026-11-17",
     "tags": [
-      "HN"
+      "Product Launch"
     ],
-    "hot": true,
+    "hot": false,
     "id": 8
   },
   {
-    "title": "Branchery",
-    "summary": "New product launch on Product Hunt: Branchery",
+    "title": "Claude Ship",
+    "summary": "New product launch on Product Hunt: Claude Ship",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/branchery",
-    "date": "2026-11-22",
+    "url": "https://www.producthunt.com/products/claude-code",
+    "date": "2026-11-23",
     "tags": [
       "Product Launch"
     ],
@@ -108,11 +108,11 @@
     "id": 9
   },
   {
-    "title": "Gauth Personal Study Agent",
-    "summary": "New product launch on Product Hunt: Gauth Personal Study Agent",
+    "title": "Granular.Build",
+    "summary": "New product launch on Product Hunt: Granular.Build",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/gauth-ai-course",
-    "date": "2026-11-20",
+    "url": "https://www.producthunt.com/products/granular-build",
+    "date": "2026-11-18",
     "tags": [
       "Product Launch"
     ],
@@ -120,11 +120,11 @@
     "id": 10
   },
   {
-    "title": "Motionflare",
-    "summary": "New product launch on Product Hunt: Motionflare",
+    "title": "Astrolabio",
+    "summary": "New product launch on Product Hunt: Astrolabio",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/motionflare",
-    "date": "2026-11-14",
+    "url": "https://www.producthunt.com/products/astrolabio",
+    "date": "2026-11-23",
     "tags": [
       "Product Launch"
     ],
@@ -132,11 +132,11 @@
     "id": 11
   },
   {
-    "title": "Plango",
-    "summary": "New product launch on Product Hunt: Plango",
+    "title": "Adanotch",
+    "summary": "New product launch on Product Hunt: Adanotch",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/plango",
-    "date": "2026-11-22",
+    "url": "https://www.producthunt.com/products/adanotch",
+    "date": "2026-11-17",
     "tags": [
       "Product Launch"
     ],
@@ -144,11 +144,11 @@
     "id": 12
   },
   {
-    "title": "Omi Work",
-    "summary": "New product launch on Product Hunt: Omi Work",
+    "title": "Finseo",
+    "summary": "New product launch on Product Hunt: Finseo",
     "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/omi-work",
-    "date": "2026-11-22",
+    "url": "https://www.producthunt.com/products/finseo-ai",
+    "date": "2026-11-23",
     "tags": [
       "Product Launch"
     ],
@@ -156,20 +156,8 @@
     "id": 13
   },
   {
-    "title": "MAI Image 2.7",
-    "summary": "New product launch on Product Hunt: MAI Image 2.7",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/mai-image-2-3",
-    "date": "2026-11-17",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 14
-  },
-  {
     "title": "Marvisak/VIctory - An attempt at running GTA VI on PC",
-    "summary": "5737 stars | Rust | An attempt at running GTA VI on PC",
+    "summary": "11642 stars | Rust | An attempt at running GTA VI on PC",
     "source": "GitHub Trending",
     "url": "https://github.com/Marvisak/VIctory",
     "date": "2026-11-23",
@@ -178,24 +166,24 @@
       "Rust"
     ],
     "hot": true,
-    "id": 15
+    "id": 14
   },
   {
-    "title": "ivall/xcl - Xbox Series compatibility layer for Windows - runs console game code natively, r",
-    "summary": "4802 stars | Rust | Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+    "title": "xcl-dev/xcl - Xbox Series compatibility layer for Windows - runs console game code natively, r",
+    "summary": "7970 stars | Rust | Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
     "source": "GitHub Trending",
-    "url": "https://github.com/ivall/xcl",
+    "url": "https://github.com/xcl-dev/xcl",
     "date": "2026-11-20",
     "tags": [
       "GitHub",
       "Rust"
     ],
     "hot": true,
-    "id": 16
+    "id": 15
   },
   {
     "title": "EL4CTEO/fast-anything - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ru",
-    "summary": "3306 stars | Rust | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "summary": "3691 stars | Rust | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
     "source": "GitHub Trending",
     "url": "https://github.com/EL4CTEO/fast-anything",
     "date": "2026-11-21",
@@ -204,11 +192,11 @@
       "Rust"
     ],
     "hot": true,
-    "id": 17
+    "id": 16
   },
   {
     "title": "AFK-surf/xnulinux - XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-    "summary": "2526 stars | Objective-C++ | XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "summary": "3522 stars | Objective-C++ | XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
     "source": "GitHub Trending",
     "url": "https://github.com/AFK-surf/xnulinux",
     "date": "2026-11-20",
@@ -217,11 +205,24 @@
       "Objective-C++"
     ],
     "hot": true,
+    "id": 17
+  },
+  {
+    "title": "4lwayz/portwatch-vi - Does GTA VI run on PC yet? A live tracker of community recompilation and emulati",
+    "summary": "3063 stars | JavaScript | Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "source": "GitHub Trending",
+    "url": "https://github.com/4lwayz/portwatch-vi",
+    "date": "2026-11-21",
+    "tags": [
+      "GitHub",
+      "JavaScript"
+    ],
+    "hot": true,
     "id": 18
   },
   {
     "title": "iamajmeena/neonclipping - Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipp",
-    "summary": "2337 stars | Python | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "summary": "2517 stars | Python | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
     "source": "GitHub Trending",
     "url": "https://github.com/iamajmeena/neonclipping",
     "date": "2026-11-19",
@@ -231,19 +232,6 @@
     ],
     "hot": true,
     "id": 19
-  },
-  {
-    "title": "omonkeyz/xbox-emulator - Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-    "summary": "1723 stars | Rust | Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-    "source": "GitHub Trending",
-    "url": "https://github.com/omonkeyz/xbox-emulator",
-    "date": "2026-11-21",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 20
   },
   {
     "title": "#283 – Making $8k/mo Targeting $100M/yr with Lukas and Liz Hermann of StageTimer.io",
@@ -256,7 +244,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 21
+    "id": 20
   },
   {
     "title": "#282 – Media vs Tech, Twitter Monsters, and Making Millions From Content with Steph Smith of a16z",
@@ -269,7 +257,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 22
+    "id": 21
   },
   {
     "title": "#281 – Seth Godin on Indie Hacking, Doing Hard Things, and Finding Significance in a Changing World",
@@ -282,7 +270,7 @@
       "Indie Dev"
     ],
     "hot": false,
-    "id": 23
+    "id": 22
   },
   {
     "title": "The Pulse: What can we learn from the Railway hack?",
@@ -295,7 +283,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 24
+    "id": 23
   },
   {
     "title": "The Pulse: Details of incident.io’s AI spend",
@@ -308,7 +296,7 @@
       "Career"
     ],
     "hot": false,
-    "id": 25
+    "id": 24
   },
   {
     "title": "The Pulse: Time to rethink software security because of AI?",
@@ -321,7 +309,201 @@
       "Career"
     ],
     "hot": false,
+    "id": 25
+  },
+  {
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "summary": "2456 points | 3396 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "date": "2026-11-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
     "id": 26
+  },
+  {
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "summary": "387 points | 189 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "date": "2026-11-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 27
+  },
+  {
+    "title": "Ladybird is now in alpha",
+    "summary": "1725 points | 402 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://ladybird.org/posts/alpha/",
+    "date": "2026-11-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 28
+  },
+  {
+    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+    "summary": "234 points | 63 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+    "date": "2026-11-24",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 29
+  },
+  {
+    "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+    "summary": "1539 points | 854 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://twitter.com/ylecun/status/2124550037912920090",
+    "date": "2026-11-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 30
+  },
+  {
+    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+    "summary": "979 points | 224 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://arm.jonpalmisc.com/",
+    "date": "2026-11-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 31
+  },
+  {
+    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+    "summary": "982 points | 170 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://spelunkr.tv",
+    "date": "2026-11-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 32
+  },
+  {
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+    "summary": "1102 points | 360 comments on Hacker News",
+    "source": "Hacker News",
+    "url": "https://z.ai/blog/glm-5.4",
+    "date": "2026-11-23",
+    "tags": [
+      "HN"
+    ],
+    "hot": true,
+    "id": 33
+  },
+  {
+    "title": "Branchery",
+    "summary": "New product launch on Product Hunt: Branchery",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/branchery",
+    "date": "2026-11-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 34
+  },
+  {
+    "title": "Gauth Personal Study Agent",
+    "summary": "New product launch on Product Hunt: Gauth Personal Study Agent",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/gauth-ai-course",
+    "date": "2026-11-20",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 35
+  },
+  {
+    "title": "Motionflare",
+    "summary": "New product launch on Product Hunt: Motionflare",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/motionflare",
+    "date": "2026-11-14",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 36
+  },
+  {
+    "title": "Plango",
+    "summary": "New product launch on Product Hunt: Plango",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/plango",
+    "date": "2026-11-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 37
+  },
+  {
+    "title": "Omi Work",
+    "summary": "New product launch on Product Hunt: Omi Work",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/omi-work",
+    "date": "2026-11-22",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 38
+  },
+  {
+    "title": "MAI Image 2.7",
+    "summary": "New product launch on Product Hunt: MAI Image 2.7",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/mai-image-2-3",
+    "date": "2026-11-17",
+    "tags": [
+      "Product Launch"
+    ],
+    "hot": false,
+    "id": 39
+  },
+  {
+    "title": "ivall/xcl - Xbox Series compatibility layer for Windows - runs console game code natively, r",
+    "summary": "4802 stars | Rust | Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+    "source": "GitHub Trending",
+    "url": "https://github.com/ivall/xcl",
+    "date": "2026-11-20",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 40
+  },
+  {
+    "title": "omonkeyz/xbox-emulator - Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "summary": "1723 stars | Rust | Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "source": "GitHub Trending",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "date": "2026-11-21",
+    "tags": [
+      "GitHub",
+      "Rust"
+    ],
+    "hot": true,
+    "id": 41
   },
   {
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
@@ -333,7 +515,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 27
+    "id": 42
   },
   {
     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
@@ -345,7 +527,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 28
+    "id": 43
   },
   {
     "title": "What we learned operating auth for 1k APIs",
@@ -357,7 +539,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 29
+    "id": 44
   },
   {
     "title": "Perplexity and Intelligence",
@@ -369,7 +551,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 30
+    "id": 45
   },
   {
     "title": "What Happened to Silicon Valley?",
@@ -381,7 +563,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 31
+    "id": 46
   },
   {
     "title": "Show HN: I built a game where you are an LLM's subagent",
@@ -393,7 +575,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 32
+    "id": 47
   },
   {
     "title": "Localcode, open source agentic coding on your Mac with one command",
@@ -405,7 +587,7 @@
       "HN"
     ],
     "hot": false,
-    "id": 33
+    "id": 48
   },
   {
     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
@@ -417,7 +599,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 34
+    "id": 49
   },
   {
     "title": "Yoroll",
@@ -429,7 +611,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 35
+    "id": 50
   },
   {
     "title": "Copy Haste",
@@ -441,7 +623,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 36
+    "id": 51
   },
   {
     "title": "Creavit Studio 4.0",
@@ -453,7 +635,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 37
+    "id": 52
   },
   {
     "title": "Webless Agents",
@@ -465,7 +647,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 38
+    "id": 53
   },
   {
     "title": "Resurf",
@@ -477,7 +659,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 39
+    "id": 54
   },
   {
     "title": "oovi",
@@ -489,7 +671,7 @@
       "Product Launch"
     ],
     "hot": false,
-    "id": 40
+    "id": 55
   },
   {
     "title": "ItsNotRexed/Leonida - Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
@@ -502,7 +684,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 41
+    "id": 56
   },
   {
     "title": "bookwjitchieni1986/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w",
@@ -515,7 +697,7 @@
       "Code"
     ],
     "hot": true,
-    "id": 42
+    "id": 57
   },
   {
     "title": "R0Y00/Xbox2Windows - GTA VI static recompilation research for x64 Windows. Source-built EXEs run on W",
@@ -528,7 +710,7 @@
       "Python"
     ],
     "hot": true,
-    "id": 43
+    "id": 58
   },
   {
     "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
@@ -540,7 +722,7 @@
       "HN"
     ],
     "hot": true,
-    "id": 44
+    "id": 59
   },
   {
     "title": "Lean verification of the Riemann Hypothesis",
@@ -550,189 +732,6 @@
     "date": "2026-11-21",
     "tags": [
       "HN"
-    ],
-    "hot": true,
-    "id": 45
-  },
-  {
-    "title": "Inkling-2-Mini in 5.4 GB Memory",
-    "summary": "384 points | 98 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-    "date": "2026-11-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 46
-  },
-  {
-    "title": "Detonating a pile of lead azide",
-    "summary": "555 points | 363 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-    "date": "2026-11-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 47
-  },
-  {
-    "title": "My monitor was cutting my download speed by 75%",
-    "summary": "521 points | 254 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-    "date": "2026-11-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 48
-  },
-  {
-    "title": "Shaping the Loops, Closing the Loops",
-    "summary": "14 points | 4 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://revyl.com/blog/pattern-engineering/",
-    "date": "2026-11-18",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 49
-  },
-  {
-    "title": "Show HN: Zero C# – C# without a runtime or GC",
-    "summary": "141 points | 102 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://onurgumus.github.io/zero-csharp/index.html",
-    "date": "2026-11-21",
-    "tags": [
-      "HN"
-    ],
-    "hot": false,
-    "id": 50
-  },
-  {
-    "title": "Why there are still no non-WebKit browsers on iOS",
-    "summary": "508 points | 280 comments on Hacker News",
-    "source": "Hacker News",
-    "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-    "date": "2026-11-20",
-    "tags": [
-      "HN"
-    ],
-    "hot": true,
-    "id": 51
-  },
-  {
-    "title": "Beat Watcher",
-    "summary": "New product launch on Product Hunt: Beat Watcher",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/beat-watcher",
-    "date": "2026-11-15",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 52
-  },
-  {
-    "title": "Doddle",
-    "summary": "New product launch on Product Hunt: Doddle",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/doddle-3",
-    "date": "2026-11-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 53
-  },
-  {
-    "title": "Backspin",
-    "summary": "New product launch on Product Hunt: Backspin",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/backspin",
-    "date": "2026-11-19",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 54
-  },
-  {
-    "title": "Glassmail",
-    "summary": "New product launch on Product Hunt: Glassmail",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/glassmail",
-    "date": "2026-11-14",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 55
-  },
-  {
-    "title": "Exa Websets V2",
-    "summary": "New product launch on Product Hunt: Exa Websets V2",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/exa-ai",
-    "date": "2026-11-18",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 56
-  },
-  {
-    "title": "Shipyard",
-    "summary": "New product launch on Product Hunt: Shipyard",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/shipyard",
-    "date": "2026-11-16",
-    "tags": [
-      "Product Launch"
-    ],
-    "hot": false,
-    "id": 57
-  },
-  {
-    "title": "erkamyaman/rust-anything - Rewrite your whole app in Rust, one piece at a time, checked against the origina",
-    "summary": "7496 stars | Rust | Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/erkamyaman/rust-anything",
-    "date": "2026-11-16",
-    "tags": [
-      "GitHub",
-      "Rust"
-    ],
-    "hot": true,
-    "id": 58
-  },
-  {
-    "title": "krisgfx9/Wireless-Device-Battery-Monitor - Show the battery level of wireless mice, headsets, keyboards and controllers on ",
-    "summary": "5859 stars | C++ | Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer,",
-    "source": "GitHub Trending",
-    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-    "date": "2026-11-16",
-    "tags": [
-      "GitHub",
-      "C++"
-    ],
-    "hot": true,
-    "id": 59
-  },
-  {
-    "title": "gylive/google-ultra - No description",
-    "summary": "2605 stars | Python | ",
-    "source": "GitHub Trending",
-    "url": "https://github.com/gylive/google-ultra",
-    "date": "2026-11-17",
-    "tags": [
-      "GitHub",
-      "Python"
     ],
     "hot": true,
     "id": 60
